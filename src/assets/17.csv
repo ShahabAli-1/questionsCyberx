@@ -1,0 +1,470 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+17,206,A fibreglass composite blade.,C,will never be struck by lighting.,does not require lightning strike protection.,requires lightning strike protection.
+17,207,The timber most often used today for propeller construction is.,A,birch.,spruce.,balsa
+17,208,Electronic torque measuring systems utilise.,A,strain gauges in the reduction gear.,stress gauges in the reduction gear.,pressure transducers in the reduction gear.
+17,210,Metal at the tip and along the leading edge of a wooden propeller is.,B,for balancing.,for protection.,for Anti-icing.
+17,211,Blade cuffs are fitted to the root of the blades.,C,to increase the strength of the blade.,to increase thrust.,to increase flow of cooling air into the engine nacelle.
+17,212,Low torque sensing is used to.,C,increase power.,increase pitch.,initiate auto-feather.
+17,213,Torque sensing is used to.,B,reduce drag.,reduce drag following engine shutdown.,synchronise blade angle.
+17,214,The minimum percentage seating on a propeller rear cone should be.,B,90%.,70%.,95%.
+17,215,The propeller is 'feathered' when the blades are at.,C,0° to plane of rotation.,20° to plane of rotation,90° to plane of rotation.
+17,216,The thrust of a propeller is normally taken by the.,C,torque meter.,propeller rear cone.,front bearing in the reduction gear.
+17,217,On which type of turbo-propeller would you expect to find a parking brake?.,C,Compounded twin spool.,Direct coupled twin spool.,Free turbine.
+17,218,What does the torquemeter reading indicate in a gas turbine engine?.,A,Torque reaction at the reduction gear.,The ratio between engine thrust and engine torque.,Engine torque
+17,219,The gear segments on the blade roots of a hydromatic propeller mesh with the.,C,stationary cam.,torque tubes and eye bolts.,moving cam.
+17,220,A propeller is centralised on the propeller shaft by.,A,the front and rear cones.,the front git seal.,the rear pre-load shims.
+17,221,Reduction gearing allows the.,A,blade tips to operate below the speed of sound.,blade tips to operate above the speed of sound.,blade tips to rotate slower than the root of the propeller blade.
+17,222,When fitting a propeller to a tapered shaft.,A,locate the master spline.,ensure the master spline and blade alignment are in accordance with the MM.,ensure fully seated.
+17,223,What is the purpose of small holes at the tip of wooden propellers?.,A,Drainage.,Balancing.,Pivot points used during manufacture.
+17,224,The thrust face of a propeller blade is the.,B,root to which the gear segment is fitted.,blade face or flat side.,blade back or curved side.
+17,225,Solidity of a propeller can be increased by.,A,increasing blade chord.,increasing blade angle.,increasing blade thickness.
+17,226,A turbo-prop engine.,A,uses an epicyclic reduction gear system.,uses a spur gear reduction system.,does not require a reduction gear system due to the propshaft being driven from the low speed compressor.
+17,227,Total power of a turbo-prop engine is measured in.,A,Equivalent Shaft Horsepower (ESHP).,Shaft Horsepower (SHP).,Brake Horsepower (BHP).
+17,228,The disadvantage of using reverse pitch on a turbo-propeller engine is.,B,"exhaust gas ingestion , high gas temperature and debris ingestion.",debris ingestion.,high gas temperature.
+17,229,A compound twin spool engine is.,B,turbo prop propeller driven by a power turbine.,turbo prop twin spool compressor.,LP Compressor driven by a free turbine.
+17,230,25.With the engine stationary the indication that the propeller is in ground fine pitch is.,A,blade and spinner markings aligned.,below stop warning light on.,flight fine pitch stop lever withdrawn.
+17,231,When the power lever on a turbo prop engine is moved from ground idle to flight fine the fuel flow increases and the blade angle.,A,increases.,decreases,remains the same.
+17,232,How is the blade station measured?.,A,In inches from the centre of the hub.,In inches from the tip.,As a percentage of blade length from the tip.
+17,233,The oil used in the torquemeter system is. ,B,DTD 5 8 5.,engine oil pressure boosted by a pump driven off the reduction gear.,PCU oil pressure.
+17,234,Which type of turboprop engine is practically free from surge and requires low power for starting?.,A,Compound twin spool.,Directly coupled.,One using a centrifugal compressor.
+17,235,Blade stations are measured from the.,A,centre of the hub.,tip.,shank
+17,236,Auto feathering is disarmed.,C,during landing.,during take off.,in the cruise.
+17,237,With a multi-engined aircraft the torque pressure would be.,B,There is only one gauge for all engines.,same on all engines.,similar on all engines.
+17,238,If torque pressure fell to zero during the cruise what would indicate that the gauge had failed?.,C,Engine would auto feather.,Engine would overspeed.,Engine would continue to run.
+17,239,The purpose of using reverse pitch propellers is to.,A,provide aerodynamic breaking.,allow aircraft to taxi backwards.,reverse the direction of rotation of the propeller.
+17,240,The RPM of a windmilling propeller is primarily related to.,C,EAS.,IAS.,TAS.
+17,241,A ducted propeller is used because.,A,ducted props give more thrust for the diameter of disc.,only ducted propellers can be vectored.,ducted props give less thrust for the diameter of disc.
+17,242,A two position prop uses.,B,high pitch for take off and low pitch for cruise.,low pitch for take off and climb and high pitch for cruise.,"high pitch for take off, low pitch for climb and descent and high pitch for cruise."
+17,243,A propeller operating in the Beta range is operating between.,C,Flight Idle and Ground Idle.,coarse and flight fine pitch.,maximum reverse pitch and Flight idle pitch.
+17,244,The CSU oil pump is provided to.,A,boost engine oil pressure to decrease pitch.,boost engine oil pressure to alter pitch.,boost engine oil pressure to increase pitch.
+17,245,Counterweights are used to.,B,counter the ATM of the blades.,counteract the CTM of the blades.,balance the blades.
+17,246,The pressure face of a propeller is.,A,the flat face.,the leading edge.,the camber face.
+17,247,In blade station numbering the stations nearest the hub are.,C,datum.,highest.,lowest.
+17,248,A propeller mounted forward of the engine is known as.,B,hydromatic propeller.,a tractor propeller.,a pusher propeller.
+17,249,Contra-rotating propellers are.,A,two propellers on the same shaft on one engine-each revolving in a different direction.,propellers geared to rotate in the opposite direction to the engine.,propellers on a twin engined aircraft revolving in opposite directions.
+17,250,An aerodynamic braking propeller goes through.,C,the feathered pitch position to act as a brake.,the coarse pitch position to act as a brake.,the fine pitch position to act as a brake.
+17,251,The term spinner is applied to.,B,a propeller tip vortex.,a streamline covering over the propeller hub.,an acrobatic manoeuvre.
+17,252,Turbo-prop engines require a slightly higher viscosity oil than a turbo-jet engine due to.,C,lower engine rpm.,higher engine rpm.,reduction gear and propeller pitch chang mechanism.
+17,253,The propulsive efficiency of a propeller-turbine engine is higher than that of a jet-turbine engine at aircraft speeds.,,above approximately 450 mph.,within the range 450 mph and 700 mph.,below approximately 450 mph.
+17,254,A propeller has the requirement of a.,B,manufacturers data plate.,type certificate or equivalent certificate.,batch number.
+17,255,Variable pitch propellers are used because they are.,B,reduce vibration and noise.,have peak efficiency over a greater speed range.,more economical.
+17,256,The condition lever normally has the following settings.,B,"normal, beta-range and reverse range.","cut-off, idle and high idle.","rich, lean and cut-off."
+17,257,What is the ground clearance for a Tricycle Geared Aircraft?.,A,7 inches.,9 inches.,1 inch.
+17,258,"53.In a variable pitch propeller system, a decrease in propeller RPM will alter the angle of attack on the blade to.",B,increase angle of attack.,decrease angle of attack.,increase negative torque.
+17,259,To achieve reverse pitch the blade angle must be.,B,more than 17°.,less than 0°.,more than 90°.
+17,260,Centrifugal latches are fitted to lock the propeller.,B,in the feathered position.,when stationary.,in the fine pitch position.
+17,261,Counterweights are fitted to blade root to.,C,counteract ATM.,assist blade to move to fine pitch.,counteract CTM.
+17,262,The limits for blade angle are controlled by pitch stops on the.,C,propeller shaft.,blade root.,cylinder
+17,263,The range of angles of a VP propeller is usually limited by.,C,the fine pitch position.,the feathering angle.,coarse and fine pitch stops.
+17,264,The purpose of fine pitch stop is to.,B,maintain constant speed in flight.,prevent the propeller moving below flight fine pitch in flight.,maintain maximum RPM at takeoff.
+17,265,Which best describes a Variable Pitch propeller?.,A,The blade angles can be changed in flight.,Its blade angles are set with an automatic system with which the pilot has no input.,Its blade angles can only be set on the ground.
+17,266,The holding coil of a hydromatic propeller feathering button switch holds a relay closed that applies power to the propeller.,B,dome feathering mechanism.,feathering pump motor.,governor.
+17,267,The primary purpose of the front and rear cones for propellers that are installed on splined shafts is to.,C,prevent metal-to-metal contact between the propeller and the splined shaft.,reduce stresses between the splines of the propeller and the splines of the shaft.,position the propeller hub on the splined shaft.
+17,268,The constant-speed control unit is also called a,C,propeller pitch control.,accumulator.,governor.
+17,269,"When the compressive force on a speeder spring is reduced, the propeller blades will.",C,remain fixed.,fine off.,coarsen.
+17,270,A hydraulic pitch lock is utilised in a hydromatic propeller to.,B,lock out the course pitch oil line in the event of underspeeding.,lock out the fine pitch oil line in the event of overspeeding.,prevent the propeller overspeeding in the event of oil supply failure.
+17,271,"When in the beta range, the propeller pitch is controlled.",A,directly from the power lever.,indirectly from the power lever.,directly from the pitch change mechanism to the PCU.
+17,272,The advantage of the beta range is it allows.,C,high power settings with higher than normal pitch settings when in flight.,low fine pitch settings with high power.,low power settings with higher than normal pitch setting for ground manoeuvres.
+17,273,If the speeder spring pressure of a CSU is increased the blade will.,B,coarsen off.,fine off.,will not move.
+17,274,On an underspeed condition the blades are turned to.,A,fine.,feather.,coarse.
+17,275,"In a hydromatic propeller with counterweights, what is used to make the propeller move to fine pitch?.",B,A T M.,engine oil.,centrifugal force acting on the counterweight.
+17,276,Relaxing tension on the governor spring will result in the blade coarsening and.,A,"RPM decreasing, manifold pressure increasing.","RPM increasing, manifold pressure increasing.","manifold pressure constant, RPM decreasing."
+17,277,The ground fine pitch stop is.,B,never removed.,removed on the ground.,removed during flight.
+17,278,"If governor flywheel overcomes the speeder spring, it indicates.",B,underspeed.,overspeed.,onspeed.
+17,279,Pitch control using torque measuring is for.,A,reducing drag in engine failure.,increasing drag.,reducing drag in binding.
+17,280,"If force is applied to the speeder spring, what will happen?.",C,Blade angle is frozen in last known position.,Blade angle coarsen.,Blade angle finer.
+17,281,When is superfine pitch used?.,C,Landing and takeoff.,In cruise.,Engine starting to reduce propeller torque loading on starter motor.
+17,282,"When the flyweights fly outwards in a PCU, this is known as.",B,onspeed.,overspeed.,low power settings with higher than normal pitch setting for ground manoeuvres.
+17,283,"In an on speed condition, oil in the tube.",A,remains constant.,flows in the tubes.,flows out of the tubes
+17,284,"On a reversing propeller moving to the maximum reversing angle, the propeller goes.",C,"from fine pitch through plane of rotation, course reverse then fine reverse.","from course pitch through plane of rotation course, fine reverse then course reverse.","from fine pitch through plane of rotation, fine reverse then course reverse."
+17,285,"If pressure is increased on the speeder spring, rpm increases. What happens to the blade angle?.",C,Remains unchanged.,Increases,Decreases.
+17,286,"In a prop with counterweights, what is used to make it move to fine pitch?.",C,ATM.,Centrifugal force acting on the counterweight.,Governor oil pressure.
+17,287,If a propeller is in fine pitch and then moves to feather it will pass throug.,C,flight fine only.,reverse.,coarse.
+17,288,A 'double' acting propeller has.,C,nitrogen or air on one side of piston.,oil pressure on one side of piston.,oil pressure on two sides of piston.
+17,289,"During normal propeller operation, oil pressure for the governor is provided by.",A,a pump in the governor.,a variable volume pump.,the engine driven pump.
+17,290,Oil for an on-speed condition passes through.,C,the coarse pitch line.,the fine pitch line.,neither of the lines.
+17,291,"If the spur gear pump in a single acting propeller governor failed, the.",A,blades would turn to a coarse pitch.,blades would rotate to a fine pitch.,blades would move to the feather position.
+17,292,The hydromatic variable pitch propeller is operated on the principle of.,C,a venturi or 'u' tube with mercury.,an electrical motor moving a gear segment.,oil pressure moving a piston.
+17,293,The constant speed unit (C.S.U.) governor works on the principle of.,C,manual selection through a gearbox.,centrifugal twisting moments.,spring pressure acting against centrifugal force.
+17,294,The purpose of the pitch change cams is to.,C,convert rotary motion to linear motion.,prevent windmilling.,convert linear motion to rotary motion.
+17,295,The gear type pump in a C.S.U. or P.C.U.,B,lubricates the entire propeller system.,boosts engine oil system pressure.,assist the governor valve to move.
+17,296,When an engine fails.,A,the propeller is feathered using an electrical feathering pump.,the propeller is feathered using the propeller governor pump.,the propeller is feathered using counterweights.
+17,297,The purpose of an accumulator in a single acting propeller system is to.,B,to port oil to the coarse pitch oil line to assist in feathering the propelle.,accelerate the unfeathering process.,provide back up to the governor pump.
+17,298,When auto feathering has taken place the feathering pump is switched off by.,B,pressure control drop switch.,carrying out the manual feather drill.,removing the pump circuit breaker or fuse.
+17,299,On a free turbine engine it is possible to vary the propeller RPM whilst the engine RPM remains constant.,C,by operating the Power lever.,it is not possible to vary the propeller RPM.,by operating the PCU control Lever.
+17,300,A propeller control Unit hydraulic system is supplied with oil from the.,A,engine lubrication oil tank.,aircraft hydraulic System.,PCU oil tank.
+17,301,Low torque sensing is used to initiate.,C,relighting.,fine pitch selection.,auto feathering.
+17,302,What is the purpose of the auto coarsening system?.,A,To prevent overspeeding in the event of the flight fine pitch stop failing.,To reduce drag during power loss.,To save the pilot making minor changes when changing altitude.
+17,303,"In a single acting propeller, blade angle is increased by.",A,counterweights and a feathering spring.,CTM.,oil pressure.
+17,304,The function of a propeller pitch lock is to prevent the propeller from.,C,coarsening.,reducing below flight fine pitch.,fining off in the event of pitch lock mechanism failure.
+17,305,The minimum propeller pitch is established by the.,A,superfine pitch stop.,pitch Lock.,flight fine pitch stop.
+17,306,Oil for the feathering system is taken from.,B,a separate feathering oil tank.,a feathering reserve in the engine oil tank.,the engine lubrication system.
+17,307,What are the centrifugal latches in a single acting propeller used for?.,B,Prevent CTM.,Prevent feathering of the prop on shutdown.,Prevent Propeller moving to superfine.
+17,308,In a two position propeller.,B,ATM turns the prop to fine.,oil pushes the prop to fine.,oil pushes the prop to coarse.
+17,309,An overspeed condition causes governor spring pressure to be.,C,the same as centrifugal force.,more than centrifugal force.,less than centrifugal force.
+17,310,"When the engine is running, the CSU is sensing.",C,propeller tip speed.,propeller blade angle.,engine RPM.
+17,311,An accumulator may be fitted to.,B,feather the propeller.,unfeather the propeller.,provide emergency control.
+17,312,If governor weight spring pressure is reduced.,C,governor weights will pivot inwards raising the governor valve allowing the blades to move to a coarser pitch.,governor weights will spring outwards raising the governor valve allowing the blades to move to a finer pitch.,governor weights will spring outwards raising the governor valve allowing the blades to move to a coarser pitch.
+17,313,A constant speed variable pitch propeller is running whilst stationary on the ground. If it is facing into a headwind it will.,B,speed up.,remain constant.,slow down.
+17,314,"If the TAS of an aircraft increases, the CSU will.",A,increase the blade angle to provide constant RPM.,decrease the blade angle to provide constant RPM.,change the blade angle to provide constant RPM.
+17,315,"When governor spring load is less than governor weights, the CSU is in.",A,overspeed.,underspeed.,underspeed
+17,316,48.An aircraft's propeller system beta range.,C,is used to achieve maximum thrust during take-off.,refers to the most fuel efficient pitch range to use at a given engine RPM.,is used to produce zero or negative thrust.
+17,317,How is a propeller controlled in a large aircraft?.,A,By engine power lever.,By varying teh engine RPM except for feathering and reversing.,Independently of the engine.
+17,318,Manually feathering a hydromechanical propeller means to.,C,block governor oil pressure to the cylinder of the propeller.,port governor oil pressure to the cylinder of the propeller.,block governor oil pressure from the cylinder of the propeller.
+17,319,How is the oil pressure delivery on a hydromatic propeller normally stopped after the blades have reached their full-feathered position?.,B,Stop lugs in the teeth of the rotating cam.,Electric cut-out pressure switch.,Pulling out the feathering push-button.
+17,320,Counterweights on constant-speed propellers are generally used to.,A,increase blade angle.,decrease blade angle.,unfeather the propeller.
+17,321,"Constant speed non-feathering McCauley, Hartzell and other propellers of similar design without counterweights increase pitch angle using.",C,centrifugal twisting moment.,spring pressure.,oil pressure.
+17,322,What are the rotational speed and blade pitch angle requirements of a constant-speed propeller during take-off?.,A,High speed and low pitch angle.,High speed and high pitch angle.,Low speed and high pitch angle.
+17,323,A constant speed propeller provides maximum efficiency by.,B,increasing the lift coefficient of the blades.,adjusting blade angle for most conditions encountered during flight.,increasing blade pitch as the aircraft speed increases.
+17,324,Synchrophasing reduces vibration by the use of.,A,pulse probes and a single synchrophase unit.,tachometers and correction motors.,coordinating the rpm of each engine.
+17,325,Synchronising can only be achieved if the slave propeller is.,C,the same speed as the master.,within 20 rpm of the master.,within 100 rpm of the master.
+17,326,Synchronising is carried out to.,A,match propeller tip speed.,match engine rpm.,match blade phase angle difference.
+17,327,The synchronisation governor monitors.,A,RPM.,propeller tip speeds.,thrust tip speeds.
+17,328,Synchronisation is used to.,A,reduce vibration and noise.,reduce the pitch of the fastest running blade.,preset the phase angle of propellers.
+17,329,Synchronisation is used.,B,on the ground.,in flight except landing and take off.,in flight.
+17,330,"The propeller synchronising system is put into
+operation by.",A,"adjusting the engine rpm at required cruise	NULL	NULL_x000D_
+17	NULL	331	Propellers are synchronised by the.														B	power lever.	PCU governor.	prop lever._x000D_
+17	NULL	332	Unlike the automatic synchronizing system, the synchrophasing system of a two-propeller aircraft.														A	sets the blade phase angle of two constant speed propellers.	causes the same rotation speed of the two propellers.	matches the blade angle of variable pitch propellers._x000D_
+17	NULL	333	In a propeller synchrophasing system, an electric actuator.														A	rotates (controls) the slave engine governor.	equalizes the governor signals.	turns the flexible shaft leading to the trimmer assembly._x000D_
+17	NULL	334	If one signal is lost into the comparator unit when Synchrophasing is operating.														A	Synchrophasing is lost and the engines continue to function normally.	the slower engine immediately goes to feather.	both engines remain running until there is a difference, of commonly, (4 to 5 percent), at which the slower of the engines is then feathered._x000D_
+17	NULL	335	Synchronisation controls RPM within what range?.														A	100 RPM.	150 RPM.	50 RPM._x000D_
+17	NULL	336	When should synchronisation be used?.														A	During cruise.	During landing.	Anytime._x000D_
+17	NULL	337	Propeller Synchronizing works utilizing.														C	RPM Levers.	propeller lever.	governor._x000D_
+17	NULL	338	In relation to a propeller aircraft, synchrophasing would be used on.														B	all Aircraft.	all Multi engine aircraft.	turbo prop Aircraft._x000D_
+17	NULL	339	A propeller synchrophasing system allows a pilot to reduce noise and vibration by.														C	setting the RPM of all propellers exactly the same.	adjusting the plane of rotation of all propellers.	adjusting the phase angle between the propellers._x000D_
+17	NULL	340	A propeller synchronising system allows a pilot to reduce noise and vibration by.														B	adjusting the phase angle between the propellers.	setting the RPM of all propellers exactly the same.	adjusting the plane of rotation of all propellers._x000D_
+17	NULL	341	What is the function of automatic propeller synchronizing system on multiengined aircraft?.														C	To control tip speed of all propellers.	To control the power output of all engines.	To control engine RPM and reduce vibration._x000D_
+17	NULL	342	On most reciprocating multiengined aircraft, automatic propeller synchronization is accomplished through the actuation of the.														A	propeller governors.	propeller control levers.	throttle levers._x000D_
+17	NULL	343	Electrically de-iced propeller slip rings have regular resistance checks for.														B	oxidisation due to altitude.	open circuit heating elements.	wear between brushes and slip ring._x000D_
+17	NULL	344	Propeller anti-icing may be achieved by.														A	using iso-propyl alcohol de-icing fluid sprayed on the blade.	using commercial de-icing fluid sprayed on the pro.	a using hot air from the compressor._x000D_
+17	NULL	345	De-icing of the propeller can be monitored by.														C	viewing the deicing fluid level sight glass.	viewing the blade and observing ice falling off the blade.	an ammeter in the flight deck._x000D_
+17	NULL	346	Insulation testing of electrical de-icing systems should be periodically carried out because of.														A	an open circuit in one of the blades.	oxidation due to atmospheric conditions.	wear on the slip rings._x000D_
+17	NULL	347	Insulation checks on propeller electrical heating elements should be carried out frequently due to.														A	short/open circuits in the heating system wires along the propeller blade.	oxidation of slip ring and brush gear assembly.	deposits formed due to the wear of slip ring and brush gear assembly._x000D_
+17	NULL	348	Where is the de-icing boot?.														A	Root.	Trailing edge.	Tip._x000D_
+17	NULL	349	How is anti icing fluid fed to the individual blades?.														A	Pump to a slinger ring.	Pump to each blade rubber feed boot.	Under gravity to the slinger ring then on to the blade._x000D_
+17	NULL	350	Ice is removed from blades by.														C	a continuously heated electrical boot.	rubber boots inflated in sequence using compressor hot air.	inboard and outboard boot sections heated in sequence by action of the timer._x000D_
+17	NULL	351	Propeller blades are de-iced by.														A	electrical heating elements bound in rubber overshoes on the blade leading edges.	generating eddy currents in the blade.	electrical heating elements wound around rubber shoes._x000D_
+17	NULL	352	Electrical power supplies on large aircraft, for electrical deicing are.														B	AC.	DC.	Both AC or DC._x000D_
+17	NULL	353	Propeller slip rings.														C	convey oil for PCU to pitch change mechanism.	minimise slip.	conduct electrical power for de-icing._x000D_
+17	NULL	354	On an electrical deicing system fast cycle is used.														B	at low air temperature.	at high air temperature.	on the ground._x000D_
+17	NULL	355	The output of an anti-icing pump is controlled by.														A	a rheostat.	the hand pump.	a cyclic timer._x000D_
+17	NULL	356	De-icing fluid goes to a slinger ring from.														A	an electrical pump.	a hand pump.	a tank in the prop hub, providing constant feed once released._x000D_
+17	NULL	357	To increase anti icing effectiveness.														B	increase cycle times.	increase the AC or DC current.	use liquid as well as electrical anti icing systems._x000D_
+17	NULL	358	Propeller de-icing for varying rates of icing can be varied by.														B	increasing propeller RPM.	increasing cyclic timing.	increasing the AC or DC voltage._x000D_
+17	NULL	359	Propeller De-icing can be checked by.														A	checking the torque meter for abnormal readings.	checking the the de-icing ammeter.	visually checking for ice on the blades._x000D_
+17	NULL	360	Proper operation of electric deicing boots on individual propeller blades may be best determined by.														A	feeling the sequence of boot heating and have an assistant observe the loadmeter indications.	feeling the boots to see if they are heating.	observing the ammeter or loadmeter for current flow._x000D_
+17	NULL	361	What unit in the propeller anti-icing system controls the output of the pump?.														B	Pressure relief valve.	Rheostat.	Cycling timer._x000D_
+17	NULL	362	Ice formation on the propellers, when the aircraft is in flight, will.														C	decrease available engine power.	increase aircraft stall speed and increase noise.	decrease thrust and cause excessive vibration._x000D_
+17	NULL	363	Propeller fluid anti-icing systems generally use which of the following?.														C	Ethyl alcohol.	Ethylene glycol.	Isopropyl alcohol._x000D_
+17	NULL	364	Thrust and camber faces of a propeller should be blended out to.														C	5 times the depth of damage.	10 times to the depth of damage.	30 times to the depth of damage._x000D_
+17	NULL	365	An aerodynamic correction factor that is preceded by the letter Q indicates.														C	thrust balance.	dynamic balance.	torque balance._x000D_
+17	NULL	366	Leading edges should be blended out to.														B	5 times the depth of damage.	10 times the depth of damage.	30 times the depth of damage._x000D_
+17	NULL	367	If the tip of an electrical overshoe is torn.														C	it may be cut back.	it may be classified as acceptable damage.	it must not be cut back._x000D_
+17	NULL	368	The shank of the propeller is permitted to have.														A	no repairs.	minor repairs.	no decals fitted._x000D_
+17	NULL	369	When blending out a gouge on the face or camber side of a blade, the additional metal to be removed for stress relief is.														B	0.02 inch.	0.002 inch.	0.2 inch._x000D_
+17	NULL	370	Wooden propellers are permitted.														C	repairs that do not affect weight and balance.	no repairs.	repairs using sawdust and aeroglue._x000D_
+17	NULL	371	The preservative used to protect metal blades is.														A	lanolin.	brown storage wax.	petroleum jelly._x000D_
+17	NULL	372	Composite propellers may have minor repairs carried out by.														C	any approved 3rd party maintenance organization.	the operator.	any approved composite repair facility._x000D_
+17	NULL	373	Details of propeller overhaul may be found in.														A	Airworthiness Notice 75.	the AMM.	Airworthiness Notice 55._x000D_
+17	NULL	374	The ground clearance of a single engine tail wheel aircraft propeller is measured with the aircraft.														B	tail wheel on the ground.	tail wheel in the take off position.	in the rigging position._x000D_
+17	NULL	375	The structural clearance of a multi engine aircraft propeller.														B	is taken between the engines with the props aligned.	is taken between the prop and the fuselage.	is taken from the ground._x000D_
+17	NULL	376	What position should the blades be when installing the pitch change mechanism onto a hydromatic propeller?.														A	Feather.	Zero pitch.	Full reverse._x000D_
+17	NULL	377	The ground (sea) clearance of a sea plane propeller is.														C	1 inch.	9 inches.	18 inches._x000D_
+17	NULL	378	Cropping is permitted to a maximum of.														A	1 inch on all blades.	½ inch on all blades.	½ inch on one blade only._x000D_
+17	NULL	379	Dynamic balance is confirmed by use of.														C	knife edges and mandrel.	a tracking check.	a vibration analyser._x000D_
+17	NULL	380	A metal propeller may be statically balanced by.														C	adding varnish to the lighter blade.	removing metal from the opposite blade.	adding or removing lead wool to the hollow blade roots._x000D_
+17	NULL	381	Mechanical vibration relating to propellers in a piston powered aircraft.														C	is due to the crankshaft at intermittent power settings.	is due to the lead lag of the propeller compared to the engine.	is due to the power stroke of the engine and may have a more detrimental effect than aerodynamic vibration._x000D_
+17	NULL	382	Aerodynamic Correction Factor (A C F).														B	corrects for static balance.	is indicated in the form of degrees and minutes of pitch.	corrects for dynamic balance._x000D_
+17	NULL	383	A propeller with an adjustable blade can be adjusted.														A	on the ground with the engine stationary.	in flight.	on the ground with the engine running._x000D_
+17	NULL	384	When on the ground with the engine idling the prop control should be.														B	fully aft with the mixture at idle.	fully aft with the mixture at rich.	fully forward with the mixture at idle._x000D_
+17	NULL	385	Operation with the engine at maximum boost should be limited to.														B	prop at fine to prevent overstressing the engine.	prop at course to prevent overstressing the engine.	prop at windmill to prevent overstressing the engine._x000D_
+17	NULL	386	Damage to a leading edge can be blended in comparison to a blade face.														C	by maintaining a smooth depression.	by not exceeding 25% of the chord.	at a steeper angle._x000D_
+17	NULL	387	The longitudinal clearance between the nose wheel and the propeller on a tricycle geared propeller is.														C	9 inches.	18 inches.	1/2 inch._x000D_
+17	NULL	388	A tracking check compares.														C	2 Adjacent blades.	2 Opposite blades.	any 2 blades._x000D_
+17	NULL	389	A line of indentations at one blade section can be.														C	blended within limits.	left for up to 12 months.	declared unserviceable._x000D_
+17	NULL	390	Propeller vibration due to a problem with propeller installations would have a.														B	the same frequency as turbine vibration.	lower frequency than turbine vibration.	higher frequency than turbine vibration._x000D_
+17	NULL	391	Preloading propeller blades before installation prevents.														B	blade distortion.	blade flutter.	aerodynamic imbalance on the blades._x000D_
+17	NULL	392	When unfeathering a propeller, the blade should be put into what position to stop propeller overspeed?.														C	Negative pitch.	Fine pitch.	Coarse pitch._x000D_
+17	NULL	393	Blade angle is measured using a.														B	clinometer.	propeller protractor.	bevel protractor._x000D_
+17	NULL	394	In the Beta range, angle of attack increases. The fuel flow increases, and what else increases?.														C	Fuel temperature.	EPR and fuel temperature.	RPM and EGT._x000D_
+17	NULL	395	With a propeller defect, the frequency of vibration will be.														B	higher than a auxiliary gearbox defect.	lower than a turbine defect.	higher than a turbine defect._x000D_
+17	NULL	396	Blending of propeller blade defects refers to the.														C	repainting of blade tips after cropping.	matching of paint finishes for appearances.	conversion of rough or sharp edges into smooth depression._x000D_
+17	NULL	397	Removal of material from the propeller blade tips, resulting in a reduction in propeller diameter is called.														B	tipping.	cropping.	topping._x000D_
+17	NULL	398	Prior to using the universal propeller protractor.														B	ensure the propeller blade is at the horizontal.	determine the reference blade station.	check date stamp for serviceability._x000D_
+17	NULL	399	To fit a new front cone to a prop shaft firstly.														B	etch the propeller serial number to the rear face.	cut in half with a hacksaw and etch a unique serial number to both halves.	coat in Engineers blue to ensure seating in the propeller front boss._x000D_
+17	NULL	400	Blade tracking is adjusted by.														C	adding lead wool to the blade shank.	re-seating the propeller on the front and rear cones.	by fitting shims to the propeller shaft hub._x000D_
+17	NULL	401	Which of the following functions requires the use of a propeller blade station?.														C	Indexing blades.	Propeller balancing.	Measuring blade angle._x000D_
+17	NULL	402	To conduct a power check of an internal combustion engine requires.														B	coarse pitch setting and advance the throttle to the target RPM.	fine pitch setting and advance the engine to the target RPM setting.	fine pitch setting and advance the engine to the max RPM setting._x000D_
+17	NULL	403	The power output of a turboprop engine is checked by.														C	reference RPM.	reference Thrust.	reference Torque._x000D_
+17	NULL	404	Immediately after blending out damage to to a blade the repair must be.														B	re-protected against corrosion.	crack checked.	balanced._x000D_
+17	NULL	405	How is the efficiency of a turbo prop engine assessed?.														A	By correcting propeller RPM for ambient Air temperature and barometric pressure.	By comparing compressor and propeller RPM against a reference figure.	By comparing torque meter pressure against a reference figure._x000D_
+17	NULL	406	The limits for a tracking check are.														C	1/4 inch maximum difference between adjacent blades.	1/8 inch maximum difference between opposite blades.	1/8 inch maximum difference between all blades._x000D_
+17	NULL	407	After a lightning strike.														C	the prop must be tracked.	the propeller shaft should be checked for concentricity.	the heater elements should be checked for continuity and insulation._x000D_
+17	NULL	408	After overspeeding to 110%.														A	no action is required.	return propeller for overhaul.	remove propeller for inspection._x000D_
+17	NULL	409	Indentations to the blade face are measured.														B	individually.	individually and collectively.	collectively._x000D_
+17	NULL	410	When a propeller has had a report of overspeeding.														A	procedure is dependant on the extent of overspeeding.	the propeller must be removed and sent to the manufacturer.	the propeller must be removed and tracked._x000D_
+17	NULL	411	The most significant effect of stone chips on a propeller is.														B	thrust output of the propeller.	structural integrity of the propeller.	aerodynamic capability of the propeller._x000D_
+17	NULL	412	Ground running an aircraft with a fixed pitch prop with its tail into wind causes the engine RPM to.														C	increase.	stay the same regardless of wind direction.	decrease._x000D_
+17	NULL	413	Adjustments to a variable pitch propeller are.														B	made in the air using the synchronizer.	made on the ground with the engine stationary.	made on the ground with the engine running._x000D_
+17	NULL	414	When a propeller is removed, the securing parts are kept with.														C	all separately in cases.	the propeller.	the engine._x000D_
+17	NULL	415	During engine warm up the mixture should be at.														C	rich, blades at feather.	lean, blades at superfine.	rich, blades at superfine._x000D_
+17	NULL	416	When unfeathering a propeller use.														A	minimum RPM/min throttle.	any RPM min throttle.	maximum RPM/min throttle._x000D_
+17	NULL	417	How is the concentricity of a propeller shaft checked?.														B	Micrometer.	Dial Test Indicator (DTI).	Ring gauge._x000D_
+17	NULL	418	Propeller slip rings should be.														C	lubricated with silicon grease.	lubricated with graphite grease.	cleaned and left dry._x000D_
+17	NULL	419	A splined hub is found be loose with the.														B	excessive spline wear.	front cones bottomed against the front end of the splines.	retaining nut torque loading too low._x000D_
+17	NULL	420	When measuring RPM on a supercharged engine with variable pitch.														C	maximum boost pressure and actual air pressure is used.	engine boost pressure and actual air pressure is used.	zero boost pressure and actual air pressure is used._x000D_
+17	NULL	421	On propeller securing plates circlips should be.														B	annealed and the springiness put back into the circlip before it can be used again.	used once only.	used again as long as the circlip springs back first time._x000D_
+17	NULL	422	The cause of propeller out-of-track vibration is.														C	propeller blade angle too large.	static imbalance.	blade stiffness not exactly matched._x000D_
+17	NULL	423	How is blending carried out on an aluminium propeller blade?.														B	By using a course file and peening.	By using a needle file and finish with emery cloth.	By using a scraper._x000D_
+17	NULL	424	Where would you find information on RPM and Power ratings?.														B	Painted onto the propeller.	Engine Log book.	Etched on the Propeller._x000D_
+17	NULL	425	On a Hartzell prop with counterweights, full oil supply would indicate.														B	on-speed condition.	overspeed condition.	underspeed condition._x000D_
+17	NULL	426	If a 2 blade prop is placed on a knife edge and it ends up horizontal (blades at 3 and 9 o'clock positions), it is said to be in balance.														B	vertically.	horizontally.	dynamically._x000D_
+17	NULL	427	High Engine Oil pressure may be caused by.														A	blocked scavenge filter.	restricted pump operation.	higher oil pressure._x000D_
+17	NULL	428	Which of the following defects is cause for rejection of wooden propellers?.														A	An oversize hub or bolthole or elongated bolt holes.	No protective coating on propeller.	Solder missing from screw heads securing metal tipping._x000D_
+17	NULL	429	Inspection of a propeller blade by dye penetrant inspection is accomplished to detect.														A	cracks.	corrosion at the blade tip.	torsional stress._x000D_
+17	NULL	430	Which of the following is used to correct horizontal imbalance of a wooden propeller?.														C	Shellac.	Brass screws.	Solder._x000D_
+17	NULL	431	Which of the following determines oil and grease specifications for lubrication of propellers?.														A	Propeller manufacturers.	Engine Manufacturers.	Airframe manufacturers._x000D_
+17	NULL	432	What type of imbalance will cause a two-bladed propeller to have a persistent tendency to come to rest in a horizontal position (with the blades parallel to the ground) while being checked on a propeller balance beam?.														B	Harmonic.	Vertical.	Horizontal._x000D_
+17	NULL	433	What is the purpose of an arbor used in balancing a propeller?.														A	To support the propeller on the balance knives.	To mark the propeller blades where weights are to be be attached.	To level the balance stand._x000D_
+17	NULL	434	The application of more protective coating on one blade than another when refinishing a wood propeller														B	has little or no effect on operating characteristics.	may be necessary to achieve final balancing.	should never be done._x000D_
+17	NULL	435	Apparent engine roughness is often a result of propeller unbalance. The effect of an unbalanced propeller will usually be.														A	greater at high RPM.	greater at low RPM.	approximately the same at all speeds._x000D_
+17	NULL	436	Propeller aerodynamic (thrust) imbalance can be largely eliminated by.														A	correct blade contouring and angle setting.	static balancing.	keeping the propeller blades within the same plane of rotation._x000D_
+17	NULL	437	Propellers exposed to salt spray should be flushed with.														A	fresh water.	soapy water.	stoddard solvent._x000D_
+17	NULL	438	How can a steel propeller hub be tested for cracks?.														A	By magnetic particle inspection.	By anodizing.	By etching._x000D_
+17	NULL	439	Which of the following defects is cause of rejection of a wood propeller?.														A	An oversize hub or bolt hole, or elongated bolt holes.	Solder missing from screw heads securing metal tipping.	No protective coating on propeller._x000D_
+17	NULL	440	Longitudinal (fore and aft) clearance of constant speed propeller blades or cuffs must be at least 1/2 inch (12.7 mm) between propeller parts and stationary parts of the aircraft. This clearance is with the propeller blades.														C	at the lowest pitch angle.	at take-off pitch (maximum thrust) angle.	feathered or in the most critical pitch configuration._x000D_
+17	NULL	441	When lubricating a Hartzell propeller blade with grease, to prevent damage to the blade seals, the service manual may recommend on some models to.														B	remove the seals prior to greasing and reinstall them afterwards.	remove one of the two grease nipples for the blade, and grease the blade through the remaining nipple.	pump grease into both grease nipples for the blade simultaneously._x000D_
+17	NULL	442	When running-up an engine and testing a newly installed hydromatic propeller, it is necessary to exercise the propeller by moving the governor control through its entire travel several times to.														A	remove any entrapped air.	test the maximum RPM setting of the governor.	seat the blades fully against the low pitch stop._x000D_
+17	NULL	443	What is indicated when the front cone bottoms while installing a propeller?.														C	Blade angles are incorrect.	Propeller-dome combination is incorrect.	Rear cone should be moved forward._x000D_
+17	NULL	444	Which of the following statements concerning the installation of a new fixed-pitch wood propeller is true?.														C	If a separate metal hub is used, final track should be accomplished prior to installing the hub in the propeller.	NAS close-tolerance bolts should be used to install the propeller.	Inspect the bolts for tightness after the first flight and again after the first 25 hours of flying._x000D_
+17	NULL	445	If the propeller cone or hub cone seats show evidence of galling and wear, the most likely cause is.														A	the propeller retaining nut was not tight enough during previous operation.	the front cone was not fully bottomed against the crankshaft splines during installation.	the pitch change stops were located incorrectly, causing the cone seats to act as the high pitch stop._x000D_
+17	NULL	446	On aircraft equiped with hydraulically operated constant speed propellers, all ignition and magneto checking is done with the propeller in which position?.														C	Low RPM.	High pitch range.	High RPM._x000D_
+17	NULL	447	Oil leakage around the rear cone of a hydromatic propeller usually indicates a defective.														A	spider-shaft oil seal.	piston gasket.	dome-barrel oil seal._x000D_
+17	NULL	448	Maximum taper contact between crankshaft and propeller hub is determined by using.														C	a micrometer.	a surface gauge.	bearing blue colour transfer._x000D_
+17	NULL	449	Propeller blade tracking is the process of determining.														C	the plane of rotation of the propeller with respect to the aircraft longitudinal axis.	that the blade angles are within specified tolerance of each other.	the positions of the tips of the propeller blades relative to each other._x000D_
+17	NULL	450	In what position is the constant-speed propeller control placed to check the magnetos?.														B	Full decrease, low propeller blade pitch angle.	Full increase, low propeller blade pitch angle.	Full increase, high propeller blade pitch angle._x000D_
+17	NULL	451	If a flanged propeller shaft has dowel pins.														A	the propeller can be installed in only one position.	check carefully for front cone bottoming against the pins.	install the propeller so that the blades are positioned for hand propping._x000D_
+17	NULL	452	Repairs of aluminium alloy adjustable pitch propellers are not permitted to be made on the.														B	face.	shank.	back._x000D_
+17	NULL	453	Which of the following methods is used to straighten a bent aluminium propeller blade that is within repairable limits?.														B	Either hot or cold straightening, depending on the location and severity of damage.	Cold straightening only.	Careful heating to accomplish straightening, followed by heat treatment to store original strength._x000D_
+17	NULL	454	It is important that nicks in aluminium alloy propeller blades be repaired as soon as possible in order to.														B	maintain equal aerodynamic characteristics between blades.	eliminate stress concentration points.	equalize the centrifugal loads between the blades._x000D_
+17	NULL	455	Minor surface damage located in a repairable area, but not on the leading or trailing edges of aluminium blades, may be repaired by first.														C	filing with a half round or flat file.	sanding and applying a proper filler.	filing with a riffle file._x000D_
+17	NULL	456	Minor surface damage located in a repairable area, but not on the leading or trailing edges of composite blades, may be repaired by.														B	filing with a riffle file.	sanding and applying a proper filler.	filing with a half round or flat file._x000D_
+17	NULL	457	After removal of aluminium blade damage, the affected surface should be polished with.														B	fine steel wool.	very fine sandpaper.	powdered soapstone._x000D_
+17	NULL	458	When preparing a propeller blade for inspection it should be cleaned with.														A	mild soap and water.	steel wool.	methyl ethyl ketone._x000D_
+17	NULL	459	What method would you use to inspect an aluminium propeller blade when a crack is suspected?.														A	Dye penetrant inspection.	Magnetic particle inspection.	A bright light and magnifying glass._x000D_
+17	NULL	460	Removal of propeller blade tips within the Type Certificate Data Sheet limits to correct a defect is.														A	a major repair.	permitted under the privileges and limitations of a category B1 licence.	a major modification._x000D_
+17	NULL	461	Which of the following generally renders an aluminium alloy propeller unrepairable?.														A	A transverse crack of any size.	Any slag inclusions or cold shuts.	Any repairs that would require shortening and re-contouring of blades._x000D_
+17	NULL	462	100.What is the acceptable amount of cushion in a governor control lever?.														A	1/8 inch.	3/8 inch.	1/4 inch._x000D_
+17	NULL	463	Rubber components should be stored in.														A	the dark.	natural light.	flouresent light._x000D_
+17	NULL	464	The maximum storage periods for installed propellers are detailed in the.														C	propeller overhaul and repair manual.	Airworthiness Notices.	aircraft Maintenance Manual._x000D_
+17	NULL	465	When storing wooden propellers.														B	store in a dry well ventilated and illuminated location.	store in a horizontal position.	wrap in greaseproof paper._x000D_
+17	NULL	466	A wooden propeller should be stored.														A	a dry and well ventilated area.	in a room with high humidity to stop it drying and cracking.	a warm but light storeroom._x000D_
+17	NULL	467	A wooden propeller in storage.														A	should not be wrapped at-all.	should be wrapped tightly.	should be wrapped loosely._x000D_
+17	NULL	468	A VP propeller mechanism, for storage for long periods should.														A	should be completely emptied and dried.	be filled with special inhibiting oil to prevent condensation and corrosion.	be filled with the normal operating oil to prevent condensation and corrosion._x000D_
+17	1	1	What is the function of a propeller?	x	x	x	x	x									C	to convert kinetic energy into chemical energy	to convert pressure energy into heat energy	to convert engine power into useful thrust_x000D_
+17	1	2	Find incorrect statement	x	x	x	x	x									B	Blades are attached to a central hub	Blades are attached to a central shank	Central hub is mounted on the crankshaft_x000D_
+17	1	3	Blade Angle is the angle between …..	x	x	x	x	x									A	Plane of Rotation and Chord Line	Plane of Rotation and Relative Airflow	Relative Airflow and Chord Line_x000D_
+17	1	4	which statement is not correct?	x	x	x	x	x									C	blade angle doesn’t change with relative airflow	blade angle doen’t change with RPM	blade angle changes with RPM_x000D_
+17	1	5	Find correct statement	x	x	x	x	x									C	Decreasing the blade angle decreases the thrust	Increasing the blade angle increases the thrust	Both A and B_x000D_
+17	1	6	To produce thrust, the airfoil section must be slightly tilted in relation to the direction of airflow over it. This is known as …..						x	x	x	x	x	x	x		B	Blade Angle	Angle of Attack	Angle of Advance_x000D_
+17	1	7	What is the Angle of Attack?	x	x	x	x	x									C	The angle between chord line and plane of rotation	The angle between rotation axis and relative airflow	The angle between chord line and relative airflow_x000D_
+17	1	8	What is Angle of Advance?						x	x	x	x	x	x	x		A	The angle between plane of rotation and relative airflow	The angle between chord line and plane of rotation	The angle between rotation axis and relative airflow_x000D_
+17	1	9	The angle of attack is the product of …..	x	x	x	x	x									B	vertical speed and rotational speed(rpm)	forward speed and rotational speed(rpm)	chord line and rotational speed(rpm)_x000D_
+17	1	10	For a given blade angle,……..						x	x	x	x	x	x	x		A	As forward speed increases, Angle of Attack decreases, finally thrust decreases	As forward speed decreases, Angle of Attack decreases, finally thrust decreases	As forward speed increases, Angle of Attack decreases, finally thrust increases_x000D_
+17	1	11	Thrust efficiency can be regained by ……..						x	x	x	x	x	x	x		C	Increasing propeller speed	Increasing blade angle	Increasing propeller speed or blade angle_x000D_
+17	1	12	Possible Blade Angles are …..						x	x	x	x	x	x	x		A	from maximum reverse to feather position	from maximum reverse to take-off position	from Ground Idle to feather position_x000D_
+17	1	13	Maximum blade angle is called as …..						x	x	x	x	x	x	x		B	Ground Idle	Feather	Take-off_x000D_
+17	1	14	In order to maintain a constant Angle of Attack at a constant engine power,…….						x	x	x	x	x	x	x		C	Blade Angle must be constant when the aircraft speed decreases	Blade Angle must be constant when the aircraft speed increases	Blade Angle must be increased when the aircraft speed increases_x000D_
+17	1	15	With the blade angle being at full reverse after touch down, ……..						x	x	x	x	x	x	x		B	AOA will decrease as aircraft speed increases	AOA will decrease as aircraft speed decreases	AOA will increase as aircraft speed decreases_x000D_
+17	1	16	How does AOA change at positive and negative blade angles at high speeds?						x	x	x	x	x	x	x		A	AOA decreases at positive angle and increases at negative angle	AOA decreases at both positive angle and negative angle	AOA increases at positive angle but doen’t change at negative angle_x000D_
+17	1	17	Which statement is correct regarding «pitch»?						x	x	x	x	x	x	x		A	It is the distance that a propeller section moves forward during one revolution	It is the distance that a propeller tip moves downward during one revolution	It is the angle of blade at propeller tip_x000D_
+17	1	18	Geometric pitch is the …..	x	x	x	x	x									B	actual value of the distance that a propeller section moves forward during one revolution	theoritical value of the distance that a propeller section moves forward during one revolution	It is the actual distance that a propeller tip moves downward during one revolution_x000D_
+17	1	19	What is «slip»?	x	x	x	x	x									C	ratio of geometric /effective pitch	ratio of effective /geometric pitch	difference between geometric and effective pitch_x000D_
+17	1	20	Propeller efficiency is described as ………														A	effective /geometric pitch	effective /actual pitch	geometric /effective pitch_x000D_
+17	1	21	Thrust depends on amount of air mass and acceleration of air. This is known as……						x	x	x	x	x	x	x		B	Newton’s first law	Newton’s second law	Newton’s third law_x000D_
+17	1	22	When propeller turns, tilted blades move the air backward and in turn air moves the propeller forward (action – reaction). This known as ….						x	x	x	x	x	x	x		C	Newton’s first law	Newton’s second law	Newton’s third law_x000D_
+17	1	23	Distance moved forward along the flight path during one propeller revolution is ……						x	x	x	x	x	x	x		A	same for all sections of the blade	maximum at blade tip	maximum at blade root_x000D_
+17	1	24	To produce an even thrust along the whole blade length, blade angle is varied from ……						x	x	x	x	x	x	x		B	large angle at the ",96,84
+17,25,"As a result of blade twist, AOA becomes …..",B,completely same along the blade length,almost same along the blade length,maximum at tip and minimum at shank
+17,26,Centrifugal force can be described as …….,A,the force which tries to pull blades out of the hub,the force which tries to push blades out of the hub,the force which tries to bend blades at the tips
+17,27,Centrifugal force causes greatest stress on a propeller. Therefore highest mechanical load is obtained at blade ……,A,hub,tip,center
+17,28,The force trying to bend the propeller blade back into the direction opposite to direction of rotation is …,C,Centrifugal force,Aerodynamic twisting force(ATM),Torque bending force
+17,29,It attempts to bend the propeller blades forward at the tips,A,Thrust bending force,Centrifugal force,Aerodynamic twisting force(ATM)
+17,30,Which force tries to twist a blade to a higher angle?,B,Centrifugal force,Aerodynamic twisting force,Torque bending force
+17,31,Find the correct statement,C,Aerodynamic Twisting Moment(ATM) decreases blade angle while Centrifugal Twisting Moment(CTM) increases it,Both Aerodynamic Twisting Moment(ATM) and Centrifugal Twisting Moment(CTM) decreases blade angle,Aerodynamic Twisting Moment(ATM) increases blade angle while Centrifugal Twisting Moment(CTM) decreases it
+17,32,Which force causes vibration at the blade tip?,B,Centrifugal force,Aerodynamic twisting force,Torque bending force
+17,33,"During windmilling, …..",A,ATM supports CTM,ATM opposes CTM,ATM supports Torque Bending Force
+17,34,Mechanical vibrations are caused by …….,C,aerodynamic pulses (air flow),shaft eccentricity (more destructive),power pulses in piston engine (more destructive)
+17,35,Pitch(P) of the propeller tip is calculated as …..,C,"P = V *n (where V=Circumferential speed, n=rpm)","P = n /V (where V=Circumferential speed, n=rpm)","P = V /n (where V=Circumferential speed, n=rpm)"
+17,36,"Due to the high Mach number, compressibility effects reduce the efficiency of propeller. To keep the drag at acceptable levels is possible by……..",C,the use of thinner airfoils only,the use of less cambered airfoils only,the use of thinner and less cambered airfoils
+17,37,A propeller should be designed to avoid supersonic flow by choosing ……,C,right airfoil thinness,right camber,all
+17,38,Thrust of a propeller doesn’t depend on ….,C,Volume of air,Amount of the acceleration,Plane of rotation
+17,39,It is generally not true that thrust increases when ……,B,the diameter increases,the velocity increases,the density of air increases
+17,40,Propulsive Power or Available Power is defined as…..,A,force times distance per time,force divided by distance per time,force multiplied by velocity per time
+17,41,the efficiency of the propeller is defined as the ratio of ……..,A,available power to the theoritical engine power,theoritical engine power to the available power,available power to the actual engine power
+17,42,"Power loading is defined as power per disc area. For optimum efficiency, It is always desirable to use …..",B,largest thickness of airfoil,largest possible propeller diameter,minimum disc area
+17,43,At static thrust conditions(on the ground) critical blade angle which starts to cause stall is…,C,5°,15°,25°
+17,44,Ideal fixed blade angle at flight conditions is…,A,4°,16°,24°
+17,45,To reduce propeller noise and vibration resonnance …….,C,square blade tip should be used,blade tip with large twist angle should be used,well rounded blade tip should be used
+17,46,"In order to reduce vibration and pressure load, it is preferred to have ……",A,large prop diameter and low rpm,small prop diameter and high rpm,small prop diameter and low rpm
+17,47,What happens when Negative Torque occurs?,B,Engine forces propeller to rotate,Propeller forces engine shaft to rotate,Interlock mechanism is disconnected
+17,48,Forces acting on propeller blades are ……..,A,"centrifugal, bending, twisting",centrifugal and bending,bending and torque
+17,49,How do you define a left handed propeller?,C,props rotating anti-clockwise when looked from forward,props rotating clockwise when looked from cockpit,props rotating anti-clockwise when looked from cockpit
+17,50,How do you define a right handed propeller?,B,props rotating anti-clockwise when looked from cockpit,props rotating clockwise when looked from cockpit,props rotating clockwise when looked from forward
+17,163,High speed propellers are designed to.,B,rotate at high RPM.,operate at high forward speeds.,operate at supersonic tip speeds.
+17,164,When in the windmill position ATM.,C,opposes CTM.,is not related to CTM.,assists CTM.
+17,165,The optimum angle for a fixed pitch propeller is.,B,15 degrees.,2 - 4 degrees.,6 - 10 degrees.
+17,166,A left handed propeller is one that.,B,rotates clockwise when viewed from the rear.,rotates clockwise when viewed from the front.,is fitted to an engine on the left side of the aircraft.
+17,167,Forces acting on a propeller are.,A,"centrifugal, twisting, and bending.","torque, thrust and centrifugal.","torsion, tension and thrust."
+17,168,The blade angle at the root is.,C,less than the tip.,same from tip to root.,greater than the tip.
+17,169,What force on a propeller blade turns the blades to a fine pitch?.,C,ATM.,Torque.,CTM.
+17,170,The purpose of propeller twist is.,C,coarsen the blade angle at the root.,to maintain Blade Angle along the blade.,to maintain Angle of Attack at the same value along the blade.
+17,171,The forces acting on a propeller blade are.,A,"bending, twisting and centrifugal.","thrust, aerodynamic and tension.",thrust and torque.
+17,172,Blade angle at the root is.,B,low.,high.,master blade angle.
+17,173,Blade angle is taken from the chord and.,C,propeller shaft.,relative airflow.,plane of rotation.
+17,174,What forces act on a propeller blade?.,C,Thrust and torque.,"Bending, thrust, torque.","Bending, CTM and ATM."
+17,175,CTM will.,B,try to bend the blade away from the engine.,turn the blade about the lateral axis.,cause the tips to rotate at supersonic speeds.
+17,176,"From reverse pitch, to return to normal pitch it.",C,passes through coarse then fine.,passes through coarse.,passes through fine.
+17,177,"When in reverse pitch, CTM will tend to move the propeller blades towards.",A,a positive pitch.,a position depending on rpm.,a negative pitch.
+17,178,If the blade angle is increased.,B,the pitch becomes finer.,the pitch becomes coarser.,lateral stability decreases.
+17,179,"As a propeller blade moves through the air, forces are produced, which are known as.",C,lift and torque.,lift and drag.,thrust and torque.
+17,180,A rotating propeller imparts rearwards motion to a.,B,small mass of air at high velocity.,large mass of air at low velocity.,small mass of air at low velocity.
+17,181,Propeller efficiency is.,C,the ratio of output speed to input propeller speed.,the ratio of the work applied to the geometric pitch to useful work on the C.S.U.,the ratio of the useful work done by the propeller to work done by the engine on the propeller.
+17,182,Geometric Pitch is the distance moved.,C,in one revolution.,in one revolution when slip is maximum.,in one revolution without slip.
+17,183,As propeller rotation speed increases the centrifugal turning moment on the blades will.,A,increase.,decrease.,remain constant through r.p.m. range.
+17,184,Propeller torque is the resistance offered by the propeller to.,C,feathering.,changing pitch.,rotation.
+17,185,The angle between the resultant airflow direction and the propeller blade plane of rotation is known as.,C,angle of attack.,blade angle.,helix angle or angle of advance.
+17,186,Propeller blade angle.,B,is constant along the blade length.,decreases from root to tip.,increases from root to tip.
+17,187,Coarse pitch is used for.,B,take off and climb.,maximum economical cruise in level flight.,landing and power checks.
+17,188,Effective pitch is.,A,distance moved in one revolution.,geometric pitch plus slip.,pitch measured at the master station.
+17,189,A windmilling Propeller has.,C,a small positive blade angle.,a small positive angle of attack.,a small negative angle of attack.
+17,190,Windmilling causes.,B,propeller underspeeding.,maximum propeller drag.,Centrifugal Twisting Moment.
+17,191,Torque acts.,C,in the same direction as the plane of rotation.,at right angles to the plane of rotation.,in opposition to the direction of rotation.
+17,192,The purpose of blade twist is to.,C,reduce angle of attack at the blade root.,to ensure that tip speed does not go faster than Mach 1.,to even out thrust distribution across the propeller.
+17,193,Thrust is greatest.,A,at 70 to 80% of propeller length.,in the first 50%.,the same all along the length.
+17,194,CTM changes the pitch of a blade.,A,about its twisting axis.,bending forward.,towards the feather plane.
+17,195,The velocity of the slipstream behind the aircraft in relation to the ambient air is.,B,less.,greater.,equal
+17,196,High speed aerofoils are employed at.,B,the master station.,the tips.,the root.
+17,197,A right hand propeller.,A,rotates clockwise when viewed from the rear.,is always fitted to the starboard engine.,rotates clockwise when viewed from the front.
+17,198,"Given that blade angle is measured from the centre of the hub, the blade angle at the hub is considered to be.",C,lowest.,Master Station value.,highest
+17,199,A windmilling propeller will create.,B,more drag in feather.,more drag in fine pitch.,more drag in coarse pitch.
+17,200,The chord line of a propeller is.,A,a line joining the leading and trailing edges.,a line joining the tip to the root of the blade.,a line joining the tips of the blades.
+17,201,The plane of rotation is defined as.,B,the plane in which thrust force acts.,the plane in which the propeller rotates.,the angle at which the blade strikes the airflow.
+17,202,Thrust bending force on a propeller blade.,C,intensifies the centrifugal forces to some degrees.,can be used in propeller design to reduce some operation stress.,tends to bend the propeller blade forward at the tip.
+17,203,What conditions are applied to a propeller blade windmilling?.,C,"Positive angle of attack, thrust negative.","Negative angle of attack, thrust positive.","Negative angle of attack, thrust negative."
+17,204,The primary purpose of propeller is to.,A,change engine horsepower to thrust.,provide static and dynamic stability to aircraft.,create lift on the fixed aerofoils of an aircraft.
+17,205,The primary purpose of a feathering propeller is to.,C,prevent further engine damage when an engine fails in flight.,prevent propeller damage when an engine fails in flight.,eliminate the drag created by a windmilling propeller when an engine fails in flight.
+17,209,A conventional turboprop torque meter uses.,C,hydraulic oil as the pressure medium.,coiled spring levers as the pressure medium.,engine oil as the pressure medium.
+17,51,Which material is not suitible for blades due to the high rotational speed and high power to absorb?,A,injection moulded propellers,wood propellers,composite propellers
+17,52,Which material is prone to fatique and therefore too dangerous?,A,aluminium propellers,composite propellers,carbon fiber propellers
+17,53,"It is a wondrous, light, quieter, strong, less flexible under load and maintains efficiency.",C,aluminium propellers,kevlar propellers,carbon fiber propellers
+17,54,What type of propellers are used in most commercial turboprop aeroplanes?,A,aluminium and composite propellers,kevlar and wood propellers,carbon fiber and kevlar propellers
+17,55,The greater strength of this material also allows the user to thin down the propeller which always performs better.,C,aluminium propellers,kevlar propellers,carbon fibre propellers
+17,56,"Disadvantage of carbon fibre is that it has brittle nature. In order to reduce brittle nature of carbon,",B,a core of kevlar fibre in the middle is added,a core of glass fibre in the middle is added,a core of kevlar fibre in theouter surface is added
+17,57,It is far too flexible to make good rigid propeller and therefore never be used alone in aircraft props.,B,aluminium propellers,kevlar propellers,carbon fibre propellers
+17,58,Choose the correct statement,A,Glass fibre props are used at low RPM while Carbon fibre props are used at high RPM,Neither Glass fibre props nor Carbon fibre props are used at high RPM,Both Glass fibre props and Carbon fibre props are used at high RPM
+17,59,What is/are the disadvantage/s of wood props?,A,"ease of breakage, prone to warpage, too expensive",ease of breakage,"ease of breakage, prone to warpage"
+17,60,"It is never used on high performance engine due to lack of strength, weight and flexibility.",B,aluminium propellers,nylon propellers,carbon fiber propellers
+17,61,Find the correct statement. An electroformed nickel is installed ……,B,in the leading edge of blade to protect from lightning strike,in the leading edge of blade to protect from impact damage,in the root of the blade to ensure balance
+17,62,Fixed pitch props are mainly made of …..,A,wood or aluminium blade,wood or composite blade,nylon or aluminium blade
+17,63,"At ground adjustable propellers, ……..",A,Low angle is used for short airstrips while high blade angle for high speed cruise,High angle is used for short airstrips while low blade angle for high speed cruise,Low angle is used for both short airstrips and high speed cruise
+17,64,"At ground adjustable propellers, ……..",B,Hub is usually held together with bolts and clamps for steel blades while hub halves are held together with bolts only for wood or aluminium.,Hub is usually held together with bolts only for steel blades while hub halves are held together with bolts and clamps for wood or aluminium,"Hub is usually held together with bolts only for steel blades, wood or aluminium."
+17,65,Increasing blade angle increases angle of attack and produces more lift and drag. As a result ………..,C,t still produces the same horse power,The propeller load increases,All above happens
+17,66,"In order to speed up the propellers at controllable pitch propellers, ……..",C,blade angle should be increased and rotational speed should be decreased,rotational speed should be decreased,blade angle should be decreased or rotational speed should be increased
+17,67,"In automatic propeller systems, a control device adjusts the desired rpm as follows:",A,"If engine speed increases, it also increases blade angle","If engine speed increases, it decreases blade angle","If engine speed decreases, it increases blade angle"
+17,68,"At reverse pitch propellers,propeller blades can be rotated to a ……..",B,"feather angle, thus air is forced forward","negative angle, thus air is forced forward","positive angle, thus air is forced backward"
+17,69,Find the correct statement,B,Feathering props are installed in single engine,Feathering props are installed in twin engine,Feathering props are used for windmilling effect
+17,70,"When blade angle is at 90 degree, it is at …….",A,Feather position,Reverse position,Fine position
+17,71,Basically there are three types of crankshaft used on aircraft engines. Find the wrong statement.,C,flanged crankshaft,tapered crankshaft,roller crankshaft
+17,72,"If no position is specified on horizontally opposed flanged crankshaft engine, props should be at the ……",B,«12 oclock» and «6 oclock» position,«10 oclock» and «4 oclock» position,«9 oclock» and «3 oclock» position
+17,73,"At the props with flanged crankshaft, bolts must be tightened upto…….",C,35 foot-pounds for both metal and wooden propellers,25 foot-pounds for both metal and wooden propellers,35 foot-pounds for metal and 25 foot-pounds for wooden propellers
+17,74,It is installed inside the prop mounting unit on a splined or tapered shaft to pull the props from the shaft,A,snap ring,hub,retaining nut
+17,75,The fit of the hub on the splined crankshaft should be checked by the use of a transfer ink (prussian blue). Die transfer should indicate a minimum contact area of …….,B,"0,9","0,7","0,5"
+17,76,The splines on the splined crankshaft are inspected for wear by using a «go / no-go gauge». It is serviceable if the gauge can not be inserted between the splines for more than…….,A,20% of the spline length,70% of the spline length,50% of the spline length
+17,77,"If no die is transferred from the rear cone during the transfer check, a condition known as «rear cone bottoming» exists. It is corrected by ....",A,removing upto 1.6 mm from the apex of the cone,removing upto 3.2 mm from the apex of the cone,using a spacer with a thickness of not more than 1.6 mm
+17,78,«Front cone bottoming» occurs when the apex of front cone bottoms on the splines before it seats on the hub. It is corrected by ……..,C,removing upto 1.6 mm from the apex of the cone,removing upto 3.2 mm from the apex of the cone,using a spacer with a thickness of not more than 3.2 mm behind the rear cone
+17,79,Cracks and Dents have vital importance on …….,C,blade tip,blade centre (middle section),blade root (shank)
+17,80,Is blade root allowed for repair?,C,"Yes, minor repair","Yes, major repair","No, repair is vorbidden"
+17,81,What should be done after a ligtning strike occurs on metal blades?,B,Use as is,Replace it,repair it
+17,82,A twin engine aircraft will default to a ……command and single engine aircraft will default to a ..….pitch command.,C,"fine pitch, course pitch","fine pitch, reverse pitch","feather, low pitch"
+17,83,"If the installation is aerobatic, a single engine aircraft will automatically default to …..",B,low pitch,high pitch,feather pitch
+17,84,The pitch control command typically comes from a hydraulically operated ……..,A,governor,pilot valve,spring
+17,85,What happens when the pilot increases power in flight?,A,Both B and C occurs,Blade angle and torque decreases,Blade angle and torque increases
+17,86,Full-feathering propeller system…..,B,causes thrust force and decreases drag force,eliminates asymmetric drag forces caused by windmilling,decreases lift and increases drag force
+17,87,"In constant speed systems, props mainly use …..",A,oil pressure to decrease the pitch and spring and centrifugal force to increase the pitch,oil pressure to increase the pitch and spring and centrifugal force to decrease the pitch,both oil pressure and spring and centrifugal force to increase the pitch
+17,88,"In some constant speed systems having no counterweight, blade angle will change to….",B,fine angle by oil pressure,Both B and C,fine angle by centrifugal twisting moment
+17,89,Find correct statement,C,Both Government mode and beta mode occurs during ground operations,Government mode occurs during ground while beta mode occurs during flight operations,Government mode occurs during flight while beta mode occurs during ground operations
+17,90,"At governing mode, the range of blade angle change is from ……",A,feather to flight idle,flight idle to maximum reverse,ground idle to maximum take-off
+17,91,"At beta mode, the range of blade angle change is from ……",A,flight idle to maximum reverse,ground idle to maximum take-off,reverse to maximum take-off
+17,92,Propeller governor is an ………device which responds to a change on it by directing oil,B,torque sensing,rpm sensing,power sensing
+17,93,What type of an oil system is used by a governer?,B,It uses engine oil system pressure,It uses a booster pump to boost the oil obtained from engine oil system,It uses unpressurised oil coming from reservoir directly
+17,94,"When a higher rpm is desired, cockpit control is moved forward to compress the speeder spring. In turn….",B,"Flyweights are tilted inward, pilot valve is lowered. This causes the blade angle to increase and rpm will decrease.","Flyweights are tilted inward, pilot valve is lowered. This causes the blade angle to decrease and rpm will increase.","Flyweights are tilted outward, pilot valve is raised. This causes the blade angle to increase and rpm will increase."
+17,95,"When the cockpit control is moved aft, ………..",C,"Flyweights are tilted inward, pilot valve is lowered. This causes the blade angle to increase and rpm will decrease.","Flyweights are tilted inward, pilot valve is lowered. This causes the blade angle to decrease and rpm will increase.","Flyweights are tilted outward, pilot valve is raised. This causes the blade angle to increase and rpm will decrease."
+17,96,"When the flyweights are tilted outward and pilot valve is raised, the governer is said to be in…",C,on speed condition,below speed condition,overspeed condition
+17,97,"When the flyweights are tilted intward and pilot valve is lowered, the governer is said to be in…",A,underspeed condition,on speed condition,below speed condition
+17,98,What happens if an aircraft is in cruise condition and starts to climb?,A,"rpm decreases, flyweights are tilted inward, pilot valve is lowered, blade angle is reduced and in turn rpm increases","rpm decreases, flyweights are tilted outward, pilot valve is raised, blade angle is reduced and in turn rpm increases","rpm increases, flyweights are tilted inward, pilot valve is lowered, blade angle is reduced and in turn rpm increases"
+17,99,"When the propeller rpm is the same as the governor setting is calling for, the governer is in its …………",B,underspeed condition,on speed condition,below speed condition
+17,100,Which is the wrong statement about single acting propeller?,C,High pressure oil is ported to one side of the piston,Oil pressure opposes the centrifugal force of counterweights and feathering spring,High pressure oil is ported to both sides of the piston
+17,101,Which is the wrong statement about dual acting propeller?,A,Loss of oil pressure causes prop to go to high blade angle,Loss of oil pressure results in the propeller going to low blade,Oil pressure opposes the centrifugal force of counterweights and feathering spring
+17,102,"In dual acting propellers, Loss of oil pressure results in the propeller going to low blade which is usually prevented by …….",A,pitch lock,speeder spring,booster pump
+17,103,Propellers with spring loaded are always installed or removed with the blades in the …………..,C,fine pitch position,take-off position,feather position
+17,104,"On some propellers, blades are locked in the fine pitch angle by start lock. If the operator fails to put the prop on the start locks during the shut-down, blades must be moved to a fine pitch by ……..",B,feathering pump,unfeathering pump,booster pump
+17,105,"In the propellers with feathering feature, after engine failure, what should be done to start windmilling in flight?",A,by electric unfeathering pump,by changing blade angle manually,It is automatically done by the system
+17,106,"In free turbine engines, propeller can be shutdown in feather and does not need a low blade angle. Why?",B,Power turbine is not connected to gas turbine,both A and B,there is no propeller load during engine start
+17,107,In dual acting system there are no bult-in forces that tend to feather the propeller. To prevent an overspeed condition a ……………. mechanism is installed,C,feathering,unfeathering,pitch lock
+17,108,"Pitch lock will lock the blade pitch within …..of travel, preventing a severe overspeed.",A,2˚,10˚,15˚
+17,109,Automatic feathering system is used on some multi engine aircraft to feather a propeller automatically if the engine fails . The system is armed for ………,A,both B and C,cruise only,take-off only
+17,110,How is an Automatic Feathering System armed?,B,automatically,by a switch in cockpit,by unfeathering pump
+17,111,How does an Automatic Feathering System operate?,C,A throttle switch senses 30% of full throttle and an oil pressure switch is used to sense the power output. Power loss must exceed 3s to 5 s,throttle switch senses 50% of full throttle and a torque pressure switch is used to sense the power output. Power loss must exceed 10s to 20 s,A throttle switch senses 75% of full throttle and a torque pressure switch is used to sense the power output. Power loss must exceed 1s to 2 s
+17,112,What type of pitch adjustment system is used in most twin aircrafts?,C,Reverse pitch mechnaism only,Feather Mechanism only,Reverse pitch and feather mechanism
+17,113,What are the limits of power lever?,A,"maximum forward, maximum reverse","take-off, maximum reverse","climb, ground idle"
+17,114,A propeller synchronising system is used to set all propellers of an aircraft to exactly the ……….,A,same rpm,same torque,same power
+17,115,What is the reason for installing a prop synchronising system in twin engine aircraft?,C,to eliminate phase difference,to eliminate power loss,to eliminate noise and vibration
+17,116,What does comparison circuit in the control box of a synchronising system compare?,B,phase signals of both slave and master engine,rpm signals of both slave and master engine,torque signals of both slave and master engine
+17,117,What is the difference between synchronisation and synchrophasing systems?,C,both synchronisation and synchrophasing eliminates noise and vibration only,both synchronisation and synchrophasing increases passenger comfort only,synchronisation makes master and slave engines synchronous and synchrophasing adjusts angular difference
+17,118,Comparison unit of synchronising system has a limited range of operation. Slave engine must be within ………….. of the master engine to enable synchronisation.,A,±100 rpm,± 50 rpm,± 200 rpm
+17,119,What is a synchrophasing system used for?,B,to make rpm synchronisation between the blades of the master and slave engines,to set the angular difference between the blades of the master and slave engines,to adjust torque values of master and slave engines
+17,120,How is a synchrophasing unit adjusted?,A,Manual phase control knob in cockpit only,adjusted automatically by the computer,adjusted by the governor
+17,121,What is the main reason for synchrophasing system?,B,To eliminate noise and vibration,To increase passenger comfort,To eliminate phase difference between twin engine propellers
+17,122,How does a synchrophasing system find out which phase angle is the best?,A,"noise measurement in the cabin is done for different blade angles, phase angles, rpms etc. during aircraft development phase and all the values are entered into the computer.",noise measurement in the cabin is done by using noise sensors during actual flight and a visual warning is illuminates in the lowest noise value.,noise measurement in the cabin is done by using vibration sensors during actual flight and a visual warning is illuminates in the lowest noise value
+17,123,Find the correct statement.,C,"On twin engines, first synchrophasing then snchronising should be done","On twin engines, when synchrophasing system is available, there is no need for sychronising system","On twin engines, first snchronising then synchrophasing should be done"
+17,124,Synchronising system can be turned off during…….,C,take-off,"take-off, landing","take-off, landing, single engine operation"
+17,125,"If the engines are manually sychronised to within ……… and the control knob is set to ON, engines will be synchronised to a speed difference of zero.",A,± 2 % of rpm,± 5 % of rpm,± 10 % of rpm
+17,126,There are two types of ice protection system used for propeller. These are ……….,A,chemical anti-icing and electrothermal de-icing,pneumatic anti-icing and electrothermal de-icing,pneumatic anti-icing and hydraulic de-icing
+17,127,What is the difference between propeller anti-icing and de-icing systems?,B,propeller anti-icing system removes ice after build-up and de-icing system eliminates ice build-up,propeller anti-icing system eliminates ice build-up and de-icing system removes ice after build-up,both propeller anti-icing and de-icing systems eliminates ice buld-up
+17,128,Chemical anti - icing uses ……. and amount of it is adjusted by ……….,C,"freon, electric motor","isopropyl alcohol, hydraulic motor","isopropyl alcohol, electric motor"
+17,129,How is the anti-icing chemical forwarded into propeller?,A,by slinger ring,by brush block,by slip ring
+17,130,How many electrical circuit is installed in the electrothermal de-icing system in propellers?,B,1,2,3
+17,131,Electrical power for the de-icer boots is controlled by the timers. How is it transmitted to the de-icer mats?,A,via slip ring,via reostat,via MOV module
+17,132,The controls for prop de-icing system are located at the ice protection panel. They are labeled with ……..,C,"BELOW - 10˚C, OFF, ABOVE 0˚C","BELOW 0˚C, OFF, ABOVE - 10˚C","BELOW - 10˚C, OFF, ABOVE - 10˚C"
+17,133,What is a Metal Oxide Varistor used for?,A,to protect electrical power supply against lightning strike,to protect propeller blades against corrosion,to vary electrical power during de-icing operation
+17,134,"To avoid any damage to a carbon fibre propeller blades by overheating, timer prevents any output to the de-icer mats if the prop rpm drops below ………",B,500 rpm ± 25 rpm,675 rpm ± 25 rpm,1000 rpm ± 50 rpm
+17,135,De-icer mats are heated alternately depending on the knob selection. Find the correct statement,C,slow cycle at low air temperature(Above -10C) only,fast cycle at high air temperature (Below -10C) only,slow cycle at low air temperature( Below -10C) and fast cycle at high air temperature (Above -10C)
+17,136,"To avoid any damage to a carbon fibre propeller blades by overheating, the mode Below – 10C is disabled at the temperatures of ……..",A,+ 5 C and above,+ 10 C and above,+ 15 C and above
+17,137,"If anti-icing system has a resistance increase, what is the reason for that?",C,due to the load increase,due to the voltage control system failure,due to the one open circuit in the system
+17,138,Find the preventive maintenance action,C,changes in the blade design,installation of a part which is not approved,replacement of safety wiring
+17,139,Which is not defined as major alteration?,C,changes in the hub design,installation of a governer system,replacement of cutter keys
+17,140,Defects on the leading edge of an aluminium blade may be dressed out by using round files. What is the most important process during a repair?,B,Radius should not be too large,Maximum thickness should not be destroyed,Contour should not be too blunt
+17,141,Which one is the correct statement?,A,Max. allowable size of a repaired edge 3.2 mm in depth and 38 mm in length,Max. allowable size of a repaired edge 1.6 mm in depth and 25 mm in length,Max. allowable size of a repaired edge 0.8 mm in depth and 12 mm in length
+17,142,Which one is the correct statement?,A,"Max. allowable size of a repaired surface 1.6 mm in depth, 9.5 mm in wide and 25.4 mm in length","Max. allowable size of a repaired surface 1.6 mm in depth, 18 mm in wide and 36 mm in length","Max. allowable size of a repaired surface 3.2 mm in depth, 9.5 mm in wide and 25.4 mm in length"
+17,143,What action should be taken if there are cracks at shank?,C,should be repaired in line,should be repaired in maintenance station,should be replaced
+17,144,"If a blade has been bent, the angle of the bend are to be measured by a ………..?",A,protractor,micrometer,scale
+17,145,What does ‘Z’ stand for regarding propeller repair?,C,Degree of bend is below 50% limit and corrected once before,Degree of bend is below 50% limit and corrected twice before,Degree of the bend exceeds 50% of the allowable limit and no more correction is allowed
+17,146,What does ‘S2’ stand for regarding propeller repair?,B,Degree of bend is less than 50% limit and corrected once before,Degree of bend is less than 50% limit and corrected twice before,Degree of the bend exceeds 50% of the allowable limit and no more correction is allowed
+17,147,Propeller vibration level is determined as IPS. What does IPS stand for?,A,Inch Per Second,Indicated Power Stroke,Incremental Pulse System
+17,148,"When propeller vibration is the reason for excessive powerplant vibration, nornal causes are:",C,blade imbalance only,"blades not tracking, blade imbalance",all above
+17,149,"Which statement is correct, regarding blade tracking?",C,both metal propellers and wooden propellers can be out of track not more than 1.6 mm,both metal propellers and wooden propellers can be out of track not more than 3.2 mm,metal propellers can be out of track not more than 1.6 mm while wooden propellers not more than 3.2mm
+17,150,"If propeller vibration occurs, we should do first;",B,blade balance,blades tracking,blade angle setting
+17,151,"If the propeller is out of tracking limit, adjustment should be done ………..",A,by either A or B,by bolt torque only,by the use of shims only
+17,152,What is the most popular static balancing system?,A,knife - edge method,suspension method,dynamic method
+17,153,If a metal propeller has been subjected to salt water then extra cleaning and protection ………,C,should be done by soap and wax,is not necessary,should be done by water and oil
+17,154,"If a repair of a propeller blade made from composite material is needed, it should be done by …",C,line tecnician,maintenance station,composite repair station
+17,155,Propeller should be stored in transport cases and stored in a closed room. Relative humidity of air in that room may be of ……..,B,30 -45 %,45 – 70%,60 – 75%
+17,156,Propeller should be stored in transport cases and stored in a closed room. Air temperature must be kept at range of ……..,C,+ 0 to + 20 C˚,+ 5 to + 30 C˚,+ 10 to + 40 C˚
+17,157,"Propeller preservation when storage is carried out on the aircraft for a period of 30 days, includes …….",A,Place the protective covers only,Autowax the blades only,"First, place the protective covers and then autowax the blades"
+17,158,"Propeller preservation when storage is carried out on the aircraft upto three months, includes …….",C,Place the protective covers only,Autowax the blades only,"First, place the protective covers and then autowax the blades"
+17,159,Propeller preservation when storage is carried out on the aircraft is done for periods of ………,A,"30 days, 3 months, 12 months","30 days, 3 months","30 days, 3 months, 6 months"
+17,160,Storage of wooden propellers are very important due to imbalance danger. How should the wooden props be stored in storage room?,B,in vertical position with a shank upside,in horizontal position,in vertical position with a tip upside
+17,161,During storage of propellers a Storage Form should be filled out. When the storage time is over ………………,A,New Storage Form is needed,Current form is used,B2 licence is needed to initiate new form
+17,162,What type of protection is needed for metal blades during storage?,C,just store in the heated closed area,preserve with a protective material and store in the closed area,preserve with a protective material and store it in wooden case

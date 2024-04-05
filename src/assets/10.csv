@@ -1,0 +1,354 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+10,26,How can a license holder be a certifying staff or B1 and B2 support staff?,A,The organisation itself can authorize according to the relevant procedures,By NAA,By EASA
+10,27,What kind of license is minimum requirement to issue a CRS in line maintenance?,A,Cat A,Cat B1,Cat C
+10,28,Which type of license may authomatically include Cat A license?,A,Cat B1,Cat B2,Cat C
+10,29,Which of the following is not a requirement for a license holder?,C,"The holder must be able to read, write and communicate in an understandable level in the language in which the documentations and procedures are written",The holder must have completed six months of maintenance experience in accordance with the privileges granted by the AML preceding a two year period,The holder of an AML can exercise certification privileges even if these are not in compliance with the applicable requirements of Part M and/or Part 145
+10,30,Basic knowledge examinations shall be carried out by…,A,The Part 147 training organization or the competent authority,Any training organization approved by the ministry of education,The Part 145 organization to select its own staff
+10,31,Why must a license holder submit the license to the competent authority for each five year?,B,To prove that he/she is a perfect staff,To verify that the informations in the license are the same as that contained in the competent authority’s records,To prove the technical qualification for last 5 years
+10,32,Which of the following can not cause limitation/suspension/revocation of an AML?,B,Negligent maintenance,Satisfactory performance,İssuinga CRS while not in compliance with this Part
+10,33,Which is correct for Cat B3 license?,C,The holder is called as Base Maintenance Certifying Engineer,"It is about turbine engine aeroplanes, MTOW is above 5.700 kg","It is about non-pressurised aeroplanes with piston engine, MTOW is 2.000 kg"
+10,34,How is a Cat B1 certifying staff named?,B,Line Maintenance Certifying Mechanic,Maintenance Certiftying Technician(Mechanic),Base Maintenance Certifying Engineer
+10,35,Which of the following forms is need to apply for an AML?,A,Form 19.1 and 19.2,Form 4 and Form 52,Form 52 and Form 53
+10,36,How long experience is normally required to extend a Cat B1.1 license to Cat B2?,A,1 year,3 years,5 years
+10,37,How long experience is required to get a Cat C license if the applicant has an academic degree?,B,5 years experience after Cat B1.1 is gained,3 years experience,2 years experience
+10,38,Which authority is the competent authority of a Part 145 organization whose principal place of business is located in a third country which is not an EASA member state?,C,NAA,Any authority which is in an EASA member state,EASA
+10,39,For component maintenance…,A,Maintenance workshops are required which are large enough to accommodate components and tools,Aircraft hangars are required which are large enough to accommodate aircraft for planned,"An Office is enough to manage, plan and perform the maintenance"
+10,40,What does the abbreviation AD stand for?,A,Airworthiness Directive,Attitude Display,Avionic Database
+10,41,CRS can only be issued by…,C,Quality Manager,Competent Authority,Appropriately authorised certifying staff
+10,42,For how long is it permissible to fit a component without the appropriate CRS?,A,Max. 30 flight hours,Unlimited duration,Max. 1 day
+10,43,Why shall a maintenance organization record all details of the maintenance work carried out?,B,To use the records for further maintenance as an exemplary document,To prove that all requirements have been met,To use the records for training purposes
+10,44,Whom is not required to report an occurence effecting seriously flight safety?,B,The competent authority,Part 21G,Part 21J
+10,45,Within how many hours must an occurence seriously effecting flight safety be reported?,A,72 hours,48 hours,24 hours
+10,46,For how long is the approval of a maintenance organization issued?,C,For 1 year,For 2 years,Unlimited duration
+10,47,Which type of aircraft is described by the Rating A3?,B,Aeroplanes above 5.700 kg,Helicopters,Aeroplanes below 5.700 kg
+10,48,Which type of engine is described by the Rating B3?,C,Turbine,Piston,APU
+10,49,What is defined by EU-OPS 1?,A,The requirements to be met by operators for commercial air transport,The requirements to be met by competent authoriy against organizations,It defines the optional maintenance activities can be done by EASA Part 145 MO
+10,50,What does the abbreviation C.A.T. stand for?,C,Continuous Aviation Trainings,Continental Air Transportation,Commercial Air Transport
+10,51,What does the abbreviation MEL stand for?,A,Minimum Equipment List,Master Equipment List,Major Equipment List
+10,52,MEL is established by…,B,Competent authority,Operator,Design Organisation
+10,53,MEL must be approved and accepted by…,A,Competent authority,Operator,Part 21G
+10,54,Which of the following is incorrect?,A,MEL is less restrictive than MMEL,MEL shows the equipment which must be installed and operable for the aircraft to be considered airworthy,MMEL gives more detailed information than MEL does
+10,55,Which of the following doesnt need to be retained on Ground?,C,Mass and balance documentation,Special load notification,Current maps and charts
+10,56,What is the time interval of weighing an aircraft if fleet masses are used?,C,4 years,5 years,9 years
+10,57,How long time after does an airworthiness rewiev has to be performed to receive ARC?,A,12 months,24 months,72 months
+10,58,"A notification to aircraft owners and operators of a known safety deficiency with a particular model of aircraft, engine, avionics or other systems is called…",C,Type certification,Airworthiness Rewiev Certificate,Airworthiness Directive
+10,59,Which is correct for Servise Bulletins?,A,They are authomatically sent to the aircraft owner by the aircraft or component manufacturer,SBs are issued by civil aviation regulatory authorities,Compliance with a SB is required under the Agency
+10,60,The airworthiness rewiev certificate can be issued by,B,Cat B1 license holder,CAMO which is approved by NAA,The production organisation after the aircraft purchased by customer
+10,61,A new component taken from the store can be identified by,C,The amber tag,Part number,EASA Form 1 or Certificate of Conformity
+10,62,Who authorizes certifying personel in PO?,A,Organization itself acording to the procedures,EASA,NAA
+10,63,What is the certification specification relevant to the aeroplanes above 5.700 kg?,B,AP 25,CS 25,CS 29
+10,64,In which case must a CAMO be a part of the operator?,A,Commercial operation,Non commercial operation,Ground operation
+10,65,Which part is covered in Part M Subpart C?,B,CAMO,Continuing Airworthiness,Maintenance Organization
+10,66,Which area of EASA Form 1 is signed for repaired parts?,B,Left hand on the upper corner,Right hand on the lower corner,Left hand on the lower corner
+10,67,The procedures in Maintenance Organization Exposition are for…,C,Quality manager,Accountable manager,Every employee
+10,68,Which organization(s) can maintain a C.A.T aircraft?,B,Part M Subpart F,Part 145,Part M Subpart F and Part 145
+10,69,Which organization(s) maintain a non-C.A.T aircraft?,C,Part M Subpart F,Part 145,Part M Subpart F and Part 145
+10,70,Which EASA part contains the type certification of large aircrafts?,B,Part 147,Part 21,Part 145
+10,71,Who is TC Holder?,A,DO,PO,MO
+10,72,Production of aircrafts is under the responsibility of…,A,Part 21 G,Part 21 J,Part 147
+10,73,Who can not issue an approbed data?,C,Agency,Design Organization,Production Organization
+10,74,The rating A2 is for,B,Aircrafts whose MTOW is above 5.700 kg,Aircrafts whose MTOW is below 5.700 kg,Helicopters
+10,75,Who is responsible to issue company authorization in Part 145 MO?,B,Accountable manager,Quality manager,Technical manager
+10,76,How is the maintenance officially put into force?,A,"By directive EC, OJ, L315",By EASA,By maintenance organization
+10,77,Which authority can certify a production organisation in an EU member country?,B,EASA,NAA,Production organization itself
+10,78,Which authority can certify a design organization?,A,EASA,NAA,Design organization itself
+10,79,Which organizations need certifying staff?,B,PO and DO,MO and PO,DO and MO
+10,80,What does the abbreviation AMC stand for?,A,Acceptable means of compliance,Advanced maintenance control,Aircraft maintenance coordinator
+10,81,Which AML is needed at minimum to release LRU’s?,A,Cat A,Cat B1,Cat C
+10,82,Which form does an operator need to keep original airworthines certificate valid?,C,EASA Form 19.1 and Form 19.2,EASA Form 52 and Form 53,EASA Form 15a and 15b
+10,83,Weighing of an individual aircraft is done every..,A,4 year,5 year,9 year
+10,84,Weighing of an aircraft under C.A.T is defined in…,B,Part 21,EU-OPS,Part 145
+10,85,Which regulations require a quality system?,A,"Part 21 J, Part 21 G, Part M, Part 145","Part 21J, Part 21G, Part 66, Part 145","Part 21G, Part M, Part 66, Part 145"
+10,86,What does an EASA Form 53 certify for new aircrafts?,B,Conformity of new aircraft with the type,Competent authority has released the aircraft,Certify that all checks done
+10,87,How long must technical log system be kept?,A,Minimum 36 months after last entry,"No need to be kept, reporting by speech is enough",Minimum 36 days after last entry
+10,88,What must be entered in status box of Form 1 if the new component has not been certified?,C,Modified,Manufactured,Prototype
+10,89,Which part in Form 1 is only for maintenance organisation?,B,Field 11 status,Field 14a-e,Field 8
+10,90,MEL is established by….. and approved by….,C,"Operator, quality manager","DO, agency","Operator, authority"
+10,91,Which part is related with mass and balance?,A,EU-OPS Subpart J,EU-OPS Subpart G,EU-OPS General
+10,92,What documents have to be carried out on board of an passenger aircraft?,B,"Airworthiness review certificate EASA Form 15, CRS Form 53, Form 19","Certificate of registration, airworthiness review certificate EASA Form 15, liability insurance certificate","Noise certificate, air radio license, Form 19"
+10,93,the abbreviation MMEL stands for,B,minor master error list,master minimum equipment list,master management equipment list
+10,94,which documents define whether an aircraft can fly with certain defecets or not?,A,MEL,SRM,AMM
+10,95,"the revocation, suspension or limitation of an AML is defined in:",B,part 66 section A,part 66 section B,part 145 section B
+10,96,which of the following is three organization within IR 2042?,B,"Design organisation, production organization, maintenance organization","Maintenance organization, CAMO, maintenance training organization","Design organization, production organization, development organization"
+10,97,Which of the following shows the organizations within IR 1702?,A,"Design organization, production organization","Maintenance organization, Part M Subpart F","Maintenance Organization, Maintenance Training Organization"
+10,98,How can a certifying staff be authorised for component maintenance?,A,According to national regulations,By EASA,According to company rules
+10,99,Which of the following defines ‘large aircrafts’?,B,The aircrafts which have more than 100 seats,"The aeroplane with a MTOW of more than 5.700 kg, or a multi engined helicopter",The aeroplane with MTOW of less than 5.700 kg or a single engined helicopters
+10,100,Which data is used for structural repairs?,C,AMM,IPC,SRM
+10,101,With which range is the classification of components represented?,C,CS1-CS20,K1-K20,C1-C20
+10,102,What is involved by Part M Subpart G?,A,CAMO,Continuing Airworthiness,Airworthiness Rewiev Certificate
+10,103,Conformity inspection of aircraft/component to the type is done by…,A,PO,DO,EASA
+10,104,Which can be a definition for C.A.T?,C,An association of commercially transported aircrafts,Transport of passengers and mails free,Transport of passengers and/or freight and/or mail against payment
+10,105,Which part defines the philosophy of keeping an aircraft airworthy?,C,Part 145,Part 147,Part M
+10,106,By whom is a maintenance program approved?,A,Competent authority,Maintenance organization itself,Production organization
+10,107,What is meant by the Physical Survey carried out by CAMO?,B,Weighing of aircraft periodically,Verification of documents and data from maintenance and operation,Visual check or non destructive test of components and/or parts
+10,108,How long must a copy of maintenance documentation be kept by CAMO?,A,two years after the aircraft has been permanently withdrawn from service,two years after the aircraft has been given into service,36 months after last entry of maintenance data into log system
+10,109,What organisation needs certifying staff with a Cat C AML?,C,the part 21 J DO with a Cat C approval for large helicopters,the part M Subpart G – CAMO with a class A1 approval for large aircraft,the part 145 MO with a class A1 approval for base maintenance
+10,110,A register of airlines operating on an AOC is maintained by the.,B,ICAO.,CAA.,FAA.
+10,111,What category of aircraft are 'break-in' markings required?.,C,All public transport aircraft above 2300Kg.,All public transport aircraft above 5700Kg.,All aircraft registered in the UK.
+10,112,A Part-145 approval covers.,A,base maintenance.,the major part of the organisation.,only line maintenance.
+10,113,"For UK registered aircraft, components must be.",C,maintained by a part-145 approved organisation.,any appropriately approved organisation.,maintained by a part-145 approved organisation registered in the UK.
+10,114,"Aircraft manufactured abroad, but registered in the UK.",C,can fly with an export C of A.,must have a C of A issued in the UK before it can fly.,can fly with a foreign C of A.
+10,115,"To facilitate a repair, a drawing can be taken from.",B,the CAA.,the manufacturer.,a part-145 organisation.
+10,116,Documents to be carried on a specific aircraft for a specific purpose is given in.,B,BCAR Section A and B.,CAR-OPS.,AOC
+10,117,Safe operation of the aircraft is the responsibility of the.,C,part-M organisation.,owner,operator
+10,118,The period of validity of a Certificate of Fitness for Flight under 'A' Conditions is.,A,7 days.,1 flight.,2 days.
+10,119,The details of design of a particular aircraft can be found where?.,B,The Maintenance Manual.,The Declaration of Design and Performance.,EASA Certification Specification 25.
+10,120,The validity of an EASA permit to fly is.,C,12 months.,7 days.,as stated on the certificate but not exceeding 14 days.
+10,121,An engineer may issue a CRS if they.,B,have a company approval.,are LWTR and company approved on the appropriate type of aircraft.,are type rated on any equivalent aircraft type.
+10,122,Where would you normally train for licences?.,A,At a Part-147 approved organisation.,At a Part-145 approved organisation.,At a technical training school.
+10,123,By when do BCAR licensed aircraft maintenance engineers have to conform to EASA Part-66?.,B,28th September 2011.,28th September 2006.,28th September 2001.
+10,124,If changes are made in a Part-66 license without the approval of the CAA.,C,the license is cancelled and an enquiry is conducted.,the license is cancelled from the point of the CAA becoming aware of the changes.,all certifications made under that licence are  invalid from the date the changes were made.
+10,125,"If an engineer has a heavy cold, he/she.",A,must take only the medication which is prescribed specifically to him/her.,may take medication without advice.,must seek medical advice from a doctor.
+10,126,To what does a B1-3 License apply to?.,A,"Helicopter with turbines, their engines, airframes and electrics.",Light aircraft with piston engines.,"Helicopters with piston engines, their engines, airframes and electrics."
+10,127,What can an A1 licensed engineer sign for?.,C,Minor Scheduled Line Maintenance tasks on turbine engined helicopters.,Minor Scheduled Line Maintenance tasks on turbine engined aircraft.,Minor Scheduled Line Maintenance tasks on piston engined aircraft.
+10,128,Who can sign a CRS?.,B,Any licensed engineer.,An appropriately licensed engineer.,An unlicensed engineer who has permission from the Chief Inspector.
+10,129,Where would you find the requirements and the syllabus for a maintenance license?.,C,EASA Part-147.,EASA Part-145.,EASA Part-66.
+10,130,An A1 licensed mechanic can sign for.,C,Aeroplanes and Helicopters.,Aeroplanes - Piston.,Aeroplanes - Turbine.
+10,131,"From 28 September 2008, all engineers are required to be licensed in accordance with.",A,EASA Part-66.,ICAO.,CAR 66.
+10,132,A Part-66 licence can be used without amendment or exchange.,B,only in the member state in which it was issued.,throughout all member states.,throughout the World.
+10,133,"A part-66 licence holder wishing to work in another member state apart from the one it was issued, must have a licence printed in.",C,English.,only the originating member state's language,the language of the member state which the holder wishes to work in
+10,134,Who issues a part-66 licence?.,C,EASA.,A part 145 organisation.,The competent authority of the member state.
+10,135,Who may amend or endorse a part-66 licence?.,A,A part 145 organisation.,The licence holder.,A part 147 organisation.
+10,136,Whose responsibility is it that no unauthorised entries are made in a part-66 licence?.,B,EASA or the national aviation authority of the member state.,The licence holder.,145 organisation.
+10,137,EASA Form 26 is.,C,the application for a part-66 licence.,the application for an extension to a part-66 licence.,the part-66 licence itself.
+10,138,A part-66 licence is issued for.,C,initially 2 years then re-issued for a period of 5 years.,initially 5 years then re-issued for a period of 2 years.,5 years.
+10,139,A B2 License applies to.,B,line maintenance on airframe structure and powerplants.,line maintenance on electrical systems and avionics.,line maintenance on airframe structure.
+10,140,Who is responsible for the control and issue of engineers licenses?.,B,EASA.,CAA.,JAA
+10,141,When can a LAE sign a CRS?.,C,For any aircraft for which he has a type rating.,For any aircraft for which his company has Part-145 approval.,For any aircraft for which he has a type endorsement on his license and holds the appropriate company approval.
+10,142,The time scale for retaining training records within a CAR-147 school is.,C,five years after the candidate leaves the course.,three years after the course.,five years after the completion of the course.
+10,143,"A basic aircraft maintenance in category B1, B2 or C licence.",C,does confer licensing responsibilities.,allows you to sign a CRS but not CMR.,does not confer any licensing responsibilities
+10,144,"With reference to the licensing of aircraft maintenance engineers, the requirements for the issue of a licence without type rating can be found in.",A,BCAR section L.,EASA IR Part-66.,Airworthiness Notices.
+10,145,"Within an aircraft maintenance organisation approved in accordance with IR Part-145, the limitations of an individual's certification rights are recorded upon.",B,the personnel authorisation certificate.,the aircraft maintenance licence.,the personnel records.
+10,146,In the future BCAR section L will be replaced by.,A,EASA IR Part-66.,JAA CAR-66.,EASA IR Part-145.
+10,147,The term 'Extension' of a Part-66 licence means.,B,to extend its validity for a further period of time.,to add an additional basic category.,to add a type approval.
+10,148,An aircraft type approval endorsement to a Part-66 licence is only provided after.,B,adequate theoretical training.,adequate theoretical and practical training.,adequate practical training.
+10,149,EASA IR Part-66 applies to aircraft.,B,below 5700 kg only.,above and below 5700 kg.,above 5700 kg only.
+10,150,"An engineer's BCAR Section L licence for certification of aircraft above 5700 kg will, on 28 Sept 2006.",C,automatically convert to EASA IR Part-66 without any action.,remain usable but with restrictions if not converted to EASA IR Part-66.,become invalidated if not converted to EASA IR Part-66.
+10,151,"In order to obtain a type approval on an aircraft, an engineer must.",C,must work on aircraft for 12 months within the last 24 months.,have a manufacturers course within the last 3 years.,work on the type for 12 months in the last 24 months.
+10,152,What experience is required for an A1 license.,B,2 yrs or 1 yr if qualified in another profession.,3 yrs or 2 yrs if qualified in another profession.,5 yrs or 3 yrs if trained by 147 company.
+10,153,The syllabus and requirements related to an aircraft maintenance engineers license for a light commercial air transport aircraft can be found in.,C,BCAR Section L.,CAR-66.,IR Part-66.
+10,154,An EASA category A licensed mechanic can.,A,certify minor line tasks which he has done himself and for which he has approval.,certify minor line tasks which he or other line mechanics have done and for which he has approval.,certify line maintenance checks.
+10,155,Which of the following are the sub-sections of a Part-66 maintenance licence in category A?.,C,"Aeroplanes - Piston, helicopters Piston, Aeroplanes -Turbine and Helicopters Turbine.",Aeroplanes - Piston and helicopters Piston.,Aeroplanes - Turbine and helicopters Turbine.
+10,156,An A licence is automatically granted with the issue of which of the following?.,B,B1 or B2.,B1.,B2.
+10,157,IR Part-66 experience requirements may be reduced with.,B,aircraft production experience.,completion of training at a Part-147 approved school.,completion of a university engineering degree.
+10,158,A category C certifying staff authorisation permits the holder to issue a block CRS after.,A,base maintenance.,line maintenance and defect rectification.,any line or base maintenance.
+10,159,When did / will the EASA IR Part-66 licence become sole code?.,C,2011.,2003,2006.
+10,160,An EASA IR B1.2 engineer can certify.,C,aircraft - turbine engined.,aircraft -both turbine and piston engined.,aircraft - piston engined.
+10,161,An EASA IR B1.3 engineer can certify.,C,helicopters - both turbine and piston engined.,helicopters - piston engined.,helicopters - turbine engined.
+10,162,How long is an EASA part-66 licence valid?.,B,2 years once signed in ink,5 years once signed and verified that the information contained in the licence is the same as that contained in the competent authority records.,5 years once signed in ink.
+10,163,"A Part-145 organisation based outside the EU, the competent authority is.",C,the CAA.,the NAA of the country it is located in.,the EASA.
+10,164,How many people sign a CRS after scheduled maintenance?.,A,One,One in each category.,Two
+10,165,The independent audit part of a QA department of a large Part-145 company.,A,must be part of the company.,can be combined with the planning department.,can be contracted out to another company.
+10,166,Maintenance documentation held by a Part-145 company is kept for.,C,2 years after they were raised.,5 years after they have expired.,2 years after the aircraft has been returned to the operator.
+10,167,Who is a Part-145 approved organisation headed by?.,C,The Technical Manager.,The QA Manager.,The Accountable Manager.
+10,168,"When the block CRS is finally issued for base maintenance at a Part-145 organisation, who is ultimately responsible for maintenance carried out during the check?.",B,the Category B LAE.,the Category C LAE.,the Accountable Manager.
+10,169,A Part-145 approval is not required to carry out. A. daily checks (as long as 48 hours has not passed).,C,defect rectification.,pre-flight checks.,pre-flight checks.
+10,170,An approved Part-145 organisation is one which is.,B,of a standard acceptable to the CAA and the FAA.,of a standard acceptable to the EU.,of a standard as defined in the ANO.
+10,171,How long does an licensed engineer have to produce his/her authorisation certification if asked by the CAA or EASA?.,C,immediately.,7 days.,24 hours.
+10,172,A Part-145 approved maintenance organisation is authorised to.,B,approve major modifications.,issue certificates for work completed in aircraft maintenance or overhaul.,originate repair schemes and manufacture parts.
+10,173,Who can sign the CRS?.,C,LAE.,LAE who has the permission from the chief inspector,LAE who is authorised to do so.
+10,174,"A situation is found which could hazard an aircraft, while it is undergoing maintenance by a Part-145 organisation. The situation must be reported within.",C,48 hours.,24 hours.,72 hours.
+10,175,"If you are required to produce your License, this must be done.",B,immediately.,within 24 hours.,within a reasonable time.
+10,176,How many people sign a CRS after scheduled maintenance?.,C,"Two, one for mechanical activities and one for the avionics.",One in each category.,One only.
+10,177,"A Part-145 organisation finds a condition on an aircraft which could be hazardous, they must inform the CAA within.",A,3 days.,24 hours.,7 days.
+10,178,"In a Part-145 company, who is responsible for keeping technical information on certifying staff?.",B,Tech Records.,Quality Assurance.,Personnel Department.
+10,179,Who monitors how a company is adhering to Part-145?.,C,Base Maintenance Manager.,Accountable Manager.,Quality Manager.
+10,180,For which type of maintenance do you not need a Part-145 approval?.,B,Hangar Base Maintenance.,Preflight inspection.,Weekly Check.
+10,181,CAA approval of a Part-145 organisation to undertake base maintenance of a particular aircraft type will be found in.,C,the companys AOC data sheet.,the company operations manual.,the company limitation part of the approval schedule.
+10,182,A Part-145 company is required to be headed by.,C,a technical director.,a licensed engineer,an accountable manager.
+10,183,Implementation procedures for IR Part-145 may be found in.,A,Airworthiness Notice 14.,BCAR section A.,Air Navigation Regulations.
+10,184,Unserviceable aircraft equipment should not be stored.,C,in a goods-in store.,on unserviceable shelves around the hangar.,with serviceable spares.
+10,185,Under the Part-145 Approval System an A1 Rating relates to aircraft.,C,on base maintenance only.,of 5700 kg MTOM and below.,exceeding 5700 kg MTOM.
+10,186,The Approval Reference Number for a typical Part-145 company would be.,C,AI/1234/94.,CAA 00023.,UK.145.00505.
+10,187,Line maintenance under Part-145 is defined as typically.,C,C and D checks.,preflight maintenance.,A and B checks.
+10,188,Awards of the EASA Part-145 approval in the UK are made by the.,C,ICAO.,JAA,CAA.
+10,189,The responsibility for reporting incidents and occurrences during a flight rests with the.,A,aircraft commander.,engineer clearing the tech log.,air stewards.
+10,190,Following the replacement and compensation of a direct reading compass certification is made in the form of a.,C,certificate of compensation.,certificate of conformity.,CRS.
+10,191,The minimum distribution of the Authorised Release Certificate EASA Form 1 is.,B,"1, to remain with the component to which it refers.","2, one for the originator and one to remain with the component to which it refers.","1, to be retained by the originator."
+10,192,The Authorised Release Certificate EASA Form 1 can.,B,have several items entered onto it providing they are identical part numbers.,have several items entered onto it of different part numbers.,have only one item entered onto it.
+10,193,"Following satisfactory aircraft component replacement, adjustment, locking and functioning. Which of the following is issued?.",B,Certificate of maintenance review.,CRS.,A maintenance statement.
+10,194,The wording of a CRS issued by a Part-145 organisation can be found in.,C,the ANO.,EASA Part-145 Section A.,The Acceptable Means of Compliance to EASA Part 145.
+10,195,Independent audits of a department within a Part-145 approved organisation are to be carried out at least every.,B,6 months.,12 month.,24 months.
+10,196,The EASA Form 1 is to be used when components are,A,both exported/imported and bought/sold domestically.,exported or imported only.,used bought and sold domestically only.
+10,197,"After a mandatory inspection has been carried out by a Licensed Engineer, what is issued?.",A,Certificate of Release to Service.,A Flight Release Certificate.,A Certificate of Maintenance Review.
+10,198,"When an item is removed from an aircraft, then subsequently refitted.",C,no certificate of release to service is required if it is the same item.,only one certificate of release to service is required to cover both the removal and the re-fitment,two certificates of release to service is required to cover the removal and the re-fitment respectively.
+10,199,"For the purposes of EASA Part-145, a 'Large aircraft' is.",C,over 13610 kg MTOM.,over 2730 kg MTOM.,over 5700 kg MTOM.
+10,200,"If a temporary wiring repair has to be carried out on an aircraft which is away from its Maintenance Organization, how would this be certified?.",C,No Certification need be made.,Aircraft would be certified as Fit for Flight under 'A' conditions.,By signing a Certificate of Release to Service.
+10,201,A company has approval reference of form EASA.145.00X? It is located.,A,outside a European Member State.,in the USA.,within a European Member State.
+10,202,On completion of the overhaul of an aircraft component by an overhaul organization.,A,the worksheets with a certified CRS are retained by the overhaul organization and an EASA form 1 is issued to the customer.,the worksheets with a certified CRS are placed in the aircraft file with the log books.,the worksheets are retained by the overhaul organization in their own files.
+10,203,A Part-145 approved organisation may subcontract specialist work to.,C,any non-approved company.,any BCAR approved company.,any BCAR approved company that is listed in their Maintenance Organisation Exposition.
+10,204,Signatories to the CRS will be found in.,B,Airworthiness Notice No.3.,the organization exposition.,"BCAR Section A-8/13, A-8/15, A-8/3."
+10,205,EASA IR Part-145.,C,lists the minimum requirements acceptable to the CAA.,applies to all European Aircraft.,replaces the relevant chapters of BCAR Section A.
+10,206,Aircraft and aircraft component records must be retained by a Part-145 approved organization for a period of.,B,three years after the aircraft component is permanently removed from service or destroyed.,two years after the aircraft or aircraft component has been released from the Part-145 approved maintenance organization.,5 years after the aircraft or aircraft component has been destroyed or permanently removed from service.
+10,207,The staffing requirements for an organization approved to undertake maintenance on commercial transport aircraft are to be found in.,A,EASA IR Part-145.30.,CAR E.25D.,EASA IR Part-25.13.
+10,208,EASA IR Part-145 approved organizations are approved to maintain.,B,all UK registered aircraft used for commercial transport purposes.,all UK registered aircraft used for commercial transport purposes and aircraft exceeding 5700 kg MTWA in any C of A category.,all UK registered aircraft above 5700 kg MTWA.
+10,209,The extent of an organisation's Part-145 approval is stated.,A,on the approval certificate.,in the CAA's list of approved organisations.,in the organisation's exposition.
+10,210,On a Certificate of Release for Service an adjustment to a control would come under the heading.,B,replacement.,repair.,overhaul.
+10,211,To comply with IR Part-145.,A,the Acceptable Means of Compliance can be used.,any additional national directives must be used.,JAA Joint Circulars should be used.
+10,212,The list of typical tasks which cat-A line maintenance mechanic may perform is contained in,A,Part 145.,Part 147.,Part 66.
+10,213,An aircraft component which comes with an EASA form 1.,C,will not need a CRS when fitted as a form 1 is also a CRS.,will also require a form 8130-3 if fitted to a British aircraft,will require a CRS to be issued when fitted to certify correct installation as the form 1 CRS applies only to the conformity of the component.
+10,214,"An organisation seeking approval to carry out maintenance on an aeroplane of 6000kg MTWA carrying cargo only, would apply for approval under.",B,CS 25.,IR Part-145.,BCAR section A or B depending on country of origin of aeroplane.
+10,215,Category C licensed engineers are backed up by.,C,engineers holding existing BCAR section-L licence in the appropriate category.,hanger based cat B1 and B2 licensed maintenance technicians and mechanics with appropriate type ratings.,cat B1 and B2 technicians with type rating.
+10,216,Since EASA IR Part-145 came into effect.,B,it lists the minimum requirements acceptable to the CAA.,it has replaced the relevant chapters of BCAR.,it currently applies only to transport passenger aircraft.
+10,217,Part-66 certifying staff must be.,A,not less than 21 years of age.,There is no Age limitation.,not less than 18 years of age.
+10,218,A Part-145 organisation's accountable manager is responsible for.,B,ensuring that all line maintenance procedures are carried out.,ensuring that all necessary resources are available to accomplish maintenance in accordance with Part 145.A.65 (a).,ensuring that all base maintenance procedures are carried out.
+10,219,The list of EASA Part-145 approved maintenance organisations is found in.,A,the CAA list of approved organisations.,the maintenance schedule.,the company's exposition.
+10,220,"After a modification on an aircraft system, a certificate of release to service is issued. To do this yourequire.",C,Part-21 Subpart H approval.,ICAO approval.,Part-145 approval.
+10,221,What aircraft can an EASA part-145 company maintain?.,C,Commercial Air Transport aircraft only.,All aircraft over 5700 kg MTOM.,All aircraft on its schedule of approval.
+10,222,"How long have you got, to produce a Part-66 licence when asked to do so?.",C,Within 7 days.,Within 5 days.,Within 24 hours.
+10,223,An aircraft has an unapproved repair.,C,Issue a CRS to approve it.,Issue a Fitness for Flight cert.,It cannot be certified until the repair is approved.
+10,224,The requirement for having a Quality Department to a maintenance organisation are set out in.,C,IR Part 21.,IR Part M.,IR Part-145.
+10,225,The responsibility for regularly weighing aircraft rests with the.,A,operator,Part-145 maintenance organisation.,CAA.
+10,226,Documents to be carried include.,A,"Certificate of Registration, Airworthiness, Insurance and Radio License.","C of A, Permit to Fly, radio License, Crew Licenses, and C of R.","Crew licenses, radio licence and aircraft dealers certificate."
+10,227,The requirement for re-weighing an aircraft under CAR-OPS is.,B,"at manufacturer, then two years and five yearly thereafter.",at manufacturer and then four yearly intervals.,at manufacturer and then five yearly intervals.
+10,228,Aircraft types which an operator can fly are listed in the.,B,Aircraft Flight Manual.,Air Operators Certificate.,Company Maintenance Schedule.
+10,229,Where can information on the aircraft documents to be carried be found?.,B,ECAR Part-145.,CAR-OPS subpart B.,ANO schedule 3.
+10,230,An aircraft registered in the UK and operating in the transport category will normally be operated.,A,by the holder of an AOC.,Under B conditions.,by the owners.
+10,231,"In which book would you expect to find all the following: a CMR, a maintenance statement, a sector record and a deferred defect?.",A,Technical log book.,Flight manual.,Aircraft Log book.
+10,232,Amendments to CAR OPS are by way of.,A,orange pages.,grey pages.,blue pages.
+10,233,Deferred defects are recorded in.,B,the Deferred defect manual.,the Technical Log.,the Technical Manual.
+10,234,Which of the following documents must be carried on an aircraft?.,A,Certificate of Registration.,Air operators Certificate.,Engine Log Book.
+10,235,Large Aircraft Maintenance Schedules are produced by.,B,manufacturer with CAA approval.,operator.,CAA Safety Regulation Group.
+10,236,Aircraft over 5700kg MTOM are weighed.,B,at the renewal of the Certificate of Airworthiness,prior to entry into service and then every 4 years.,annually.
+10,237,CAR OPS subpart J covers.,C,maintenance.,instruments and equipment.,mass and balance.
+10,238,CAR OPS 3 applies to.,C,commercial transport.,aeroplanes.,helicopters.
+10,239,Which of the following form part of the aircraft Technical Log?.,A,Future maintenance program for the pilots information.,Pilots name and number.,CRS and weight and balance information.
+10,240,Which of the following documents are to be carried on an aircraft?.,B,"Tech log, full Operations Manual and Flight Manual.",Tech Log and parts of the Operations Manual.,Full Operations Manual and Flight Manual.
+10,241,Who approves the aircraft Technical Log?.,C,The Part-145 organisation maintaining the aircraft.,The operator.,The National aviation authority.
+10,242,The documents to be carried on an aircraft are stated in the.,B,flight manual.,CAR OPS.,appropriate ANO article.
+10,243,What is the minimum legal decision height for Cat I auto landing?.,B,100 to 200 ft.,200 to 300 ft.,400 to 500 ft.
+10,244,A type certificate is.,B,issued after a Certificate of Registration.,issued before a Certificate of Airworthiness.,issued after a Certificate of Airworthiness.
+10,245,A Type Certificate is a.,C,requirement prior to the issue of a C of A for aircraft in the Transport Category.,requirement for aircraft above 2730Kg MTWA.,prerequisite to the issue of a C of A.
+10,246,A design organisation is approved in accordance with.,A,IR Part-21.,IR Part-145.,BCARs.
+10,247,The standard to which the B747-400 was certified to was.,B,BCAR section D.,CAR-25.,CAR-21.
+10,248,A Type Certificate is issued to.,B,an aircraft type and its variants.,all aircraft of a type (e.g. A340).,each aircraft of a type.
+10,249,A Certificate of design is raised.,B,by the CAA.,by the manufacturer.,by the operator.
+10,250,Certificates of design certify.,C,that a major mod has been designed adequately.,that a company has design approval.,that the aircraft meets current stated design requirements BCARs/EASA as specified.
+10,251,"An aircraft manufacturer approved to EASA Part-21, may maintain aircraft and issue certificates of release to service.",C,for any aircraft providing it is on its schedule of approval.,only if it holds a Part-M or Part-145 approval also,only for the aircraft that it has produced.
+10,252,A type certificate issued to an aircraft by the CAA,C,shows approval of the design by the CAA only.,shows approval of the design by the CAA and would be approved under EASA.,shows approval of the design by the CAA but will not necessarily be approved under EASA.
+10,253,An EASA Part-145 organisation may classify repairs as major or minor if approved in accordance with.,B,EASA Part-145.,EASA Part-21 subpart J.,CAR OPS subpart M.
+10,254,type certificate is issued to.,C,aircraft identical in all major areas to a previous approved aircraft.,aircraft similar to a previous aircraft but with design differences.,a prototype aircraft.
+10,255,What BCAR covers Noise Certification requirements?.,C,Section D now replaced by EASA CS-25.,Section A and B.,Section N.
+10,256,Which of the following does not require a Noise Certificate?.,B,A helicopter under 5700 kg.,A small business jet aircraft.,A fixed wing aircraft under 2730 kg.
+10,257,To what stage of flight is a Noise Certificate applicable?.,A,Take-off and landing.,All stages of flight.,Take-off only.
+10,258,What could invalidate a Noise Certificate?.,A,A modification.,An unauthorised or unapproved repair is carried out.,"Once issued, nothing can invalidate it."
+10,259,When is a Noise Certificate required to be carried aboard the aircraft?.,C,At all times.,When flying in UK airspace only.,When flying in UK or any EU member state airspace.
+10,260,"On completion of a major modification to an EASA aircraft, for the purposes of a flight test.",B,issue a Certificate of Fitness to Fly since the C of A has been invalidated.,the C of A is valid providing it is still within the date shown on it.,issue a Permit to Fly.
+10,261,The Flight Manual is part of the.,B,JAA Form 1.,Certificate of Airworthiness.,Certificate of Registration.
+10,262,What Certificate must an Operator have who flies for public transport and cargo carrying?.,C,Air Navigation Certificate.,Air Transport Licence.,Air Operators Certificate.
+10,263,The validity of a C of A extends for.,B,six months.,as stated on the certificate.,the life of the aircraft or a change of ownership
+10,264,A certificate of airworthiness is a requirement of.,A,IR Part-21.,CAR OPS.,IR Part-M.
+10,265,What is the period of validity for a Certificate of Registration?.,B,Until a change of ownership or maintenance arrangements.,Until a change of ownership.,The same as for the aircrafts C of A.
+10,266,A series EASA aircraft flying for the approval of a major modification flies under.,B,A conditions.,a permit to fly.,B conditions.
+10,267,"When preparing a weight and C of G schedule, the variable load can be calculated from the.",A,weight of the pilots and any special equipment that they carry.,weight of A.P.S. and payload.,Nothing.
+10,268,A non-expiring EASA C of A will be issued by the CAA after.,C,28 September 2005.,28 September 2008.,28 September 2007.
+10,269,A Certificate of Approval of Aircraft Radio Installation is awarded.,C,before the aircraft obtains a C of A.,after the aircraft obtains a C of A.,regardless of the aircraft's C of A status.
+10,270,A certificate of fitness for flight.,B,clears an aircraft for a scheduled flight.,permits the aircraft to fly under A condition.,permits the aircraft to fly under B conditions.
+10,271,A Certificate of Clearance can be issued by organisations with BCAR approval.,B,A8-13.,A8-9.,Primary Companies.
+10,272,A flight manual.,B,must be carried on all public transport aircraft.,forms part of the C of A.,is sometimes called the operations manual.
+10,273,A radio station license becomes invalid.,B,whenever a radio Flight test is required.,upon change of ownership of aircraft.,when the c of a is due for renewal.
+10,274,A certificate of approval of Aircraft Radio Installation is issued to.,A,an aircraft.,an air operator.,a company approved for such installations.
+10,275,A C of A for export is.,C,to allow an aircraft to be flown away on export.,A statutory document.,necessary for each exported aircraft.
+10,276,The purpose for which an aircraft may be flown on a special category C of A is.,B,applicable to ex military aircraft only.,stated on the certificate.,for private use only.
+10,277,The period of validity of a Permit Flight Release Certificate is.,A,stated on the permit to fly.,until the end of the days flying.,stated in the maintenance schedule.
+10,278,A permit to fly is valid.,A,for 12 months.,until the date stated on it.,only for evaluating a modification.
+10,279,C of As for EASA aircraft are.,C,necessary for all aircraft.,required by IR Part 145.,required by ANO.
+10,280,The period of validity of an EASA C of A is.,C,as stated on certificate.,36 months.,indefinite.
+10,281,An aircraft with a Standard category C of A may be used for.,A,any purpose.,carrying passenger and/or freight only.,carrying passengers only.
+10,282,A Cof R is renewable.,A,when aircraft is sold abroad.,every year.,when ownership changes in U.K. only.
+10,283,A C.of R.,B,is issued by Ministry of Trade and Industry.,may not be issued if aircraft could be more suitable registered elsewhere.,is valid only in country of origin.
+10,284,A Noise certificate is valid for.,B,unlimited duration.,until a change in ownership of the aircraft to an owner located in another member state.,until a change in ownership of the aircraft.
+10,285,Categories with respect to the C of A are.,B,"Transport, Aerial Work, Passenger and Special.",Standard and Special.,Transport (Passenger) and Passenger (Cargo).
+10,286,When is a Certificate of Fitness for Flight under A conditions required?.,C,To allow an unregistered aircraft to fly for air test.,After a Certificate of Maintenance Review has been signed.,To allow an aircraft to fly on air test to check out a modification.
+10,287,An aircraft Radio License has to be renewed.,C,every three years.,every five years.,only on change of aircraft ownership.
+10,288,An aircraft is awaiting spares. What effect has this on the Certificate of Maintenance Review?.,B,Deduct time.,Remains unchanged.,Add time.
+10,289,An aircraft with a transport category C of A cannot be flown for hire and reward except.,B,under the terms of an air operators certificate.,under the terms of an aerial work certificate.,under the terms of an aircraft dealers certificate.
+10,290,"If an EASA aircraft is required to be flown without a C of A, for the issue of a C of A.",A,an EASA Permit to Fly is applied for.,it can be flown with special permission from the competent authority.,it can be flown under A Conditions.
+10,291,A British aircraft manufacturer must apply for a Certificate of Airworthiness.,C,to the Department of Trade and Industry.,to the I.C.A.O.,to the C.A.A.
+10,292,A Noise Certificate is a requirement of.,A,IR Part-21.,CAR OPS.,IR Part-M.
+10,293,Variable load is weight of.,B,"fuel, oil and non-expendable equipment relevant to role.","crew, their baggage and equipment relevant to role.",basic weight plus operating weight.
+10,294,A Flight Manual is.,B,part of the Certificate of Registration.,part of the Certificate of Airworthiness.,for information of the crew only.
+10,295,What is the period of validity of a C of A for an aircraft in the Special Category below 2730 kg?.,B,"On-going, provide the aircraft is maintained to an Approved Maintenance Schedule.",1 Year.,3 Years.
+10,296,A new imported series aircraft requires flight testing prior to the issue of its first UK C of A. this flight test should be carried out under.,B,A Conditions of the A.N.O.,an EASA Permit to Fly.,B Conditions of Schedule 2 of the A.N.O.
+10,297,Which of the following would an EASA Permit to Fly NOT be used for?.,B,To proceed to a place where the aircraft will be painted.,To fly passengers or cargo domestically.,To check a modification
+10,298,Part A of the Weight Schedule refers to.,C,the aircraft prepared for service weight.,the variable load.,the basic weight.
+10,299,How many copies of the Certificate of Registration are required?.,C,"two copies, one for the flight manual, one for the filing system.","two copies, one for the owner, one for the aircraft.",one copy for the owner/operator.
+10,300,Details of aircraft weight and C of G may be obtained from information given in.,B,CAA Publication CAP 562. Section 1-8.,CAA Publications CAAIP Leaflet 1-4.,Schedule 4 of the ANO.
+10,301,"When preparing a weight and C of G schedule, the variable load can be calculated from the.",B,weight of the passengers plus fuel and cargo.,weight of the pilots and any special equipment that they require.,weight of the APS and payload.
+10,302,When a major defect occurs during an aircraft's Certificate of Airworthiness period of validity.,A,the C of A immediately becomes invalid.,the C of A is suspended until the defect is rectified.,the C of A is not affected.
+10,303,"Before an aircraft, issued with a Permit to Fly is flown, the aircraft and its equipment must be certified as fit for flight by the certification of.",C,a Fitness for Flight Certificate.,a Certificate of Release to Service.,a Permit Flight Release Certificate.
+10,304,The aircraft weight schedule must be preserved by the operator.,B,for a maximum period of nine months.,for a period of six months following the next occasion on which the aircraft is weighed.,for a minimum period of three months.
+10,305,Mandatory equipment required to be fitted on an aircraft would be found in.,B,BCAR Section C.,BCAR Section K or EASA Part-21 CS 25.,BCAR Section E.
+10,306,How many copies must be made of the load sheet?.,C,Three.,One.,Two
+10,307,Who is responsible for making a recommendation for a C of A renewal?.,A,The approved organization maintaining the aircraft to an Approved Maintenance Schedule.,The type rated engineer.,The CAA Surveyor.
+10,308,When does a C of G schedule need to be renewed?.,B,At manufacturer then at 5 yearly intervals.,Whenever the weight and/or C of G are known to have changed.,Every 3 years.
+10,309,At C of A renewal.,C,the aircraft never needs to we reweighed.,the aircraft needs to be reweighed.,the aircraft only needs to be reweighed if it is due for re-weighing.
+10,310,An aircraft's Weight and CG schedule contains.,C,"aircraft's weight, CG, period of validity and dates.",aircraft's weight and CG only,"aircraft's weight, CG and data used for loading."
+10,311,The certificate of registration becomes invalid if.,B,the AOC is termed invalid.,it is found that the aircraft is registered in another country.,the C of A is invalid.
+10,312,A radio installation is.,B,a C of R requirement.,an operational requirement.,a C of A requirement.
+10,313,When does a noise certificate not have to be carried?.,A,When leaving and arriving at the same aerodrome.,When in UK.,When in an EC member state.
+10,314,Category 2 autoland with a decision height of 100 ft has a visual line up approach limit of.,A,300 meters.,500 meters.,400 meters.
+10,315,An operator's ETOPS approval will lapse if they cease extended range operations for a period of.,C,12 months.,ETOPS approval does not lapse providing the aircraft continues to meet the equipment requirements.,13 month.
+10,316,Extended Range Operations (ETOPS) is defined as flight conducted over a route that contains a point further than.,B,one hour's flying time (in still air) at the normal cruise speed from an adequate aerodrome.,one hour's flying time (in still air) at the normal one-engine-inoperative cruise speed from an adequate aerodrome.,three hour's flying time (in still air) at the normal one-engine-inoperative cruise speed from an adequate aerodrome.
+10,317,The 'Threshold Time' for an ETOPS approved aircraft is.,A,60 minutes.,90 minutes.,120 minutes.
+10,318,Independent and reliable electrical power should be available to an ETOPS aircraft from at least.,C,two sources at all times.,one source at all times.,three sources.
+10,319,Any time limited system on an ETOPS aircraft should be available for.,C,the Rule Time minus 15 minutes.,the Rule Time.,the Rule Time plus 15 minutes.
+10,320,"If an operator wishes to apply for
+ETOPS approval, modifications are most likely to be required of.",C,"the aircraft design, MEL, and AMS.","the MEL, AMS and engineer training	NULL_x000D_
+10	NULL	321	An instrument landing system requires.						x	x	x	x	x	x	x		A	both airborne equipment and airport ground",59
+10,322,A Category 2 landing is.,C,a decision height of 60 M (200ft) or more.,a decision height of 120 M (300ft) or more.,a decision height of 30 M (100ft) or more.
+10,323,A Category 3 landing is.,A,a decision height of 30 M (100ft) or less.,a decision height of 60 M (200ft) or more.,a decision height of 60 M (200ft) or less.
+10,324,"The excess ILS deviation light is
+coloured.",A,amber and continuous.,amber and flashing.,red and flashing.
+10,325,"In a landing system, decision height is recognised by.",C,a sonar altimeter.,a barometric servo altimeter.,a radio altimeter.
+10,326,A register of airlines operatoring on an AOC is maintained by the.,B,ICAO.,CAA,FAA.
+10,327,What category of aircraft are 'break-in' markings required?,C,All public transport aircraft above 2300Kg.,All public transport aircraft above 5700Kg.,All aircraft registered in the UK.
+10,328,A Part-145 approval covers.,A,base maintenance.,the major part of the organisation.,only line maintenance
+10,329,"Aircraft manufactured abroad, but registered in the UK.",C,can fly with an export C of A.,must have a C of A issued in the UK before it can fly.,can fly with a foreign C of A.
+10,330,"To facilitate a repair, a drawing can be taken from.",B,the CAA.,the manufacturer.,a part-145 organisation.
+10,331,Documents to be carried on a specific aircraft for a specific purpose is given in.,B,BCAR Section A and B.,CAR-OPS.,AOC.
+10,332,Safe operation of the aircraft is the responsibility of the.,C,part-M organisation.,owner.,operator.
+10,333,The period of validity of a Certificate of Fitness for Flight under 'A' Conditions is.,A,7 days.,1 flight.,2 days.
+10,334,The details of design of a particular aircraft can be found where?.,B,The Maintenance Manual.,The Declaration of Design and Performance.,EASA Certification Specification 25.
+10,335,The validity of an EASA permit to fly is.,C,12 months.,7 days.,as stated on the certificate but not exceeding 14 days.
+10,1,You are a JAR OPS organization. Explain how you would set-up an aircraft maintenance organization.,,17,76,63
+10,1,What does the abbreviation ICAO stand for?,B,Intellectual Civil Aviation Organs,International Civil Aviation Organisation,International Commercial Aircraft Organisations
+10,2,ICAO will help to keep international civil aviation…,A,"Safe, modern and economic","Expensive, exclusive, extraordinary","Systematic, planned, accurate"
+10,2, Describe in detail the process of obtaining a Part-66 Basic License and then describe how a Part-145 quality department can issue a type approval,,90,5,43
+10,3,Describe the process for attaining a Part-66 license and how you can obtain an extension to the basic license.,,76,80,32
+10,4," What are the relationships between the ANO, BCARs, JARs and AWNs. List the AWNs that are applicable to the Licensed aircraft engineer.",,34,13,37
+10,5,An aircraft has suffered structural damage due an accident/incident. Describe the inspection and management procedures and relevant paperwork for rectification.,,45,17,63
+10,6,You are a Part-145 company - what audits would the quality department need to carry out to retain the company approval? An organogram would help your answer.,,50,53,10
+10,7, Explain in some detail what areas of a 145 approved company need to be audited by the company's quality department. An organogram of the 145 structure may be helpful,,46,44,65
+10,9,Which can not be defined as an organization?,A,Part 66,Part 145,Part 147
+10,10,Which is not under the responsibility of CEO?,C,Making sure to run the orginization according to its approval and in a safe manner,Demonstrating a basic understanding of the part,Independent monitoring of compliance with required standards
+10,3,What does the abbreviation ECAC stand for?,C,European Civil Aviation Comminity,European Civil Air Council,European Civil Aviation Conference
+10,4,Which is not the aim of ECAC?,C,Close relation with ICAO,"Active cooperation with the European union, JAA and EUROCONTROL","Promotion ofcontinuous development of a safe, efficient and and sustainable worldwide air transport system"
+10,5,What does the abbreviation JAA stand for?,B,Joint Aviation Agencies,Joint Aviation Authorities,Joint Association of Aviation
+10,8, Describe the JAR 66 License categories with experience requirements.,,76,34,22
+10,9, What are the maintenance requirements of a company under JAR OPS 1:890?,,56,44,38
+10,10,. How would you convert BCAR to JAR license?,,38,71,97
+10,11," What are the relationships between the ANO, BCARs, JARs and AWNs. List the AWNs that are applicable to the Licensed Aircraft Engineer.",,83,78,82
+10,6,Which of the following can be said for JAA?,B,It can be seem as European Aviation Safety Agency,It has no legislation power for any European state,It is not only an associated but also a regulatory body of the ECAC
+10,7,Which is not a correct match of levels of authorisation?,B,Level 1 : General Familiarisation,Level 2: Release to Service,Level 3: Line and Base Maintenance
+10,8,Which is a way to get an information from documents?,C,Trust your own collections,Old training materials show always the correct action,A safe source is always the actual revision of the original documentation
+10,12,What are the considerations when moving a private category aircraft into the Commercial Air Transport category?,,68,55,80
+10,13, What organization system is required under JAR OPS Subpart M to support the continued airworthiness of its aircraft?,,39,76,56
+10,14,"As an aircraft operator, how do you maintain your aircraft and what checks do you do?",,1,20,92
+10,14,Which can be the reason of a finding?,A,Bad quality or unsafe conditions of an aircraft,"Keeping a part, component and/or aircraft airworthy",Complying with relevant EASA regulations
+10,15,A finding that seriously hazards the flight safety is called…,A,Level 1 finding,Level 2 finding,Level 3 finding
+10,15, Describe the process for attaining a JAR 66 license and detail the engineers’ responsibilities under JAR 145.,,3,42,51
+10,16,What are the considerations and certifications for release to service when a licensed engineer carries out a component replacement?,,3,11,27
+10,16,"Any data for production, modification and repairs approved by the agency or by an approved Part 21 DO is called…",B,Maintenance Schedule,Approved data,Type rating
+10,17,"What is the name of such a maintenance that is change or update aircraft parts, components or functions according to approved data to improve capabilities, functional performance or safety?",C,Overhaul,Line maintenance,Modification
+10,11,Which defines the task of a quality manager?,A,Establishing an independent monitoring of compliance with required standards,Making sure to run the orginization according to its approval and in a safe manner,Managing the company independently
+10,12,Which of the following is not a task of a certifying staff?,C,"Verification of that parts, components and/or aircraft which correspond to the certified type",Release of aircraft into service after repair or maintenance activities have been completed,"Registration of a new part, component and/or aircraft after purchasing"
+10,13,Which is wrong for the handbook(exposition) of an organization?,B,It gives a clear and precise overwiev about the organization,It gives a detailed information about the repair and maintenance on a certain type of aircraft,It shows how the organization complies with the required EASA regulations
+10,18,Which is wrong for Line Maintenance?,B,That is any maintenance which is carried out before flight to ensure the aircraft is fit for intended flight,It is called also heavy maintenance due to the necessity of working under wild weather conditions,It includes minor repairs and modifications which don’t require extensive dissambly
+10,19,Who is responsible from performing pre-flight check?,A,Pilot,Cabin crew,Supervisor
+10,20,What does the abbreviation ETSO stand for?,A,European Technical Standard Order,European Transportation and Safety Orders,European Transportation and Safet Organizations
+10,21,Which organisations need certifying staff?,A,Part 21G and Part 145,Part 66 and Part 145,Part 66 and Part 21J
+10,22,What does ETSO-C95 mean?,B,FAA TSO technically differs from EASA TSO,FAA TSO is identical with EASA TSO,It doesnt exist as FAA TSO
+10,23,"In which section of Part 66, procedures for competent authorities can be found?",B,Section A,Section B,Section C
+10,24,An applicant for an aircraft maintenance license shall be at least…,A,18 years of age,21 years of age,22 years of age
+10,25,What is the minimum age for a certifying staff or B1 B2 support staff?,B,18,21,22

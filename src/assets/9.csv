@@ -1,0 +1,529 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+9,26,"According to Pareto Pricnciple, what can be said?",C,80% of the working time is spent for 80% of the required result,20% of the working time is spent for 20% of the required result,80% of the time is spent for 20% of the required result
+9,27,Which can be led by fatigue?,A,It may cause microsleeps and loss of concentration,An efficient work causes fatigue and it is the only way to gain a good experience,It is able to continue functioning normal abilities due to an increased level of effort
+9,28,Which is not true for the types of sleep?,C,REM sleep is characterised by loss of skeletal muscle tone and sympathetic nervous system,NREM sleep is characterised by parasympathetic nervous system,"During REM sleep, the body gets ready for tension and reflection"
+9,29,Which is true for working times?,C,Working between 02:00 and 04:00 increases performance because the body is ready for wake-up,Working time between 12:00 and 16:00 is the most ideal one,Highest probability to make mistake is between 02:00 and 04:00
+9,30,"Which is less effective comparing the others, as the cause of the sleep disorders or short period sleeps?",C,Change between day and night shift,Less sleep during day time,High responsibility in working area
+9,31,What is the measurement unit of light intensity?,B,LX,LUX,LAMP
+9,32,What is the lighting requirement in aircraft maintenance?,B,It is desireable to use illumination as much as possible,For a particular task there may be a spesific illumination interval,"According to the procedures, it is not allowed to perform maintenance except that at daylight"
+9,33,Which is true for the temperature in working area?,A,Increasing temperature out of the ideal range will lead to an increase in the error rate,The higher temperature the less rest needed,Temperature must be Standard for any task and doesnt vary with work load
+9,34,What are the elements of communication in addition to the language?,A,"Gesture, facial expression, posture","Subconscious mind, gesture, speach","Speach, gesture, posture"
+9,35,What does visual management mean?,A,Graffic to show all necessary information of next task and when to start it,To check the cracks on a part or component visually,To evaluate the performance of staff by observing
+9,36,Which is true for the stages of Error Iceberg?,B,The tip of the iceberg shows the serious incidents which have not been announced officially,The middle section contains all occurences which can be officially investigated,The lower section is visible and announced officially
+9,37,Which dirty dozen factor exists in a working area where day shift doesnt know what night shift did last night?,B,Lack of Teamwork,Lack of Communication,Distraction
+9,38,Which is true for errors?,B,75% of all errors are introduced during maintenance phase,80% of all errors are discovered during customer operation,"75% of all errors are discovered during product definition, development and planning phase"
+9,39,Which of the following conditions creates a risk of no flight?,C,Criticality of fault is high and there is no probability of fault occurence,There is a probability of fault occurence and the fault is not critical,There is a probability of fault occurence and criticality of fault is high
+9,40,Which element of shel model includes the procedures and instructions?,A,Software,Environment,Liveware
+9,41,What is the difference between ideal system and real system according to Swiss cheese model?,A,In the ideal system there is no interference but pitfalls in real system,In the real system there is an effect from human but not in ideal system,"Consequently, the ideal system is dangerous but the real system is not"
+9,42,Which of the following behaviours may lead to an accident?,C,Abnormalities are not ignored,Abnormalities are recognised and interpreted,Malfunctions are not detected
+9,43,In which hazard mode there is no risk?,A,Dormant,Armed,Active
+9,44,What are the dynamic effects of Fish Bone?,B,"Man, machine, material","Man, milieu, management","Machine, method, material"
+9,45,What is the purpose of 6M diagram?,B,To provide a feed-back system amongst all factors,"To achieve quality, safety and reliability",To gain positive effect from all causes by improving management
+9,46,What are the static effects of fish bone?,C,"man, machine, material","man, milieu, management","machine, method, material"
+9,47,What should you do if one of your colleague has alcohol problem at work?,C,You are not trained for such a situation and you better do nothing,Tell him it is not a good habit and suggest him to join a therapy session,Try to convince him it is a dangerous situation and report it to your supervisors
+9,48,The risk is defined by:,C,Age of the aircraft and quality of maintenance,Probability of fault criticality and occurence of faults in maintenance,Probability of fault occurence and criticality of fault
+9,49,What does the SHELL model define?,B,"Relations between Hardware, Software and Enforcement","Relations between Liveware, Hardware, Software and Environment","Relations between Liveware, Software, Environment and Handling"
+9,50,What does ‘visual management’ mean?,A,Grafic to show all steps of work over a time line,Protocol from the last management meeting,Report to show in writing the planned work over costs
+9,51,What can be done to prevent misunderstanding to extend more and more?,A,Ask immediately if something seems not clear or curious,Wait until the misunderstanding will be cleared by supervisor,You are not trained for such a situation and you better do nothing
+9,52,Claustrophobia is:,B,Fear of flying,Fear to work in small and constrained compartments,Fear to work under ladders
+9,53,What items are included in maslow’s hierarchy of human needs ?,C,"Esteem, stres, social needs","Physicological, security, motivation","Selfactualisation, esteem, security"
+9,54,In case of a mistake supervisor or certifying staff shall:,C,Give a clear advise to involved staff to improve behavior indue time,Take any efford to find out who failed,Take any effort to find out why this could happen
+9,55,Since the beginning of air traffic the amount of technical related accidents are:,A,Decreasing to about zero %,Increasing to about 80%,Still constant at 4 to 25%
+9,56,For whom is Human Factors training a mandatory requirement?,A,All staff in a Part 145 organisation,Only certifying staff in a Part 145 organisation,Only supervisory staff and certifying staff in a PART 145 organisation
+9,57,"Complacency, distraction, fatigue and stress are items of:",C,Herzberg’s two dimensional paradigm,Maslow’s hierarchy of needs,The so called ‘dirty dozen’
+9,58,Why is the lack of awareness dangerous?,B,"Being aware of routine work, concentrated to the task(fully conscious)",Being not aware of routine work(unconscious) and thinking about other things,"Taking over the work of another person, not really being informed"
+9,59,What has to be considered for shift work between 1 and 4 o’clock a.m?,B,"No significant change to human performance, good and reliable work is possible","The natural body rhythm slows down, more human errors may occur","The natural body rhythm speeds up, concentrated work is nearly impossible"
+9,60,Why is logging and reporting/recording of work important?,B,Important for authorities to identify released aircraft,To prove a safe job and that nothing was forgotten,To prove team members work and to prepare the correct bill
+9,61,Inspection work in aviation is basically…,C,Electrically supported measurement,Mechanically by means of grinding and measuring,Visual and measurement
+9,62,People having been trained in human factors benefit by:,B,Making less mistakes and have not to care anymore about quality and safety,Making less mistakes and thereby reducing costs for repairs,Working more quietly and respecting breaks every 60 minutes
+9,63,What are the requirements for a qualified staff in aviation?,A,"Fitness, sufficient type training, being able to work in a team","Good basic education, perfect in foreign language, knowledge of facilities","Good knowledge of aircraft type, keeping his temper under control, being supported by the family"
+9,64,What are the main reasons of accidents?,B,Technical faults and mistaken procedures,Human failures and technical failures,If anything can go wrong it will
+9,65,Which of the following are the element of internal PSF?,A,"Frusturation, stress, education","Bad environment, inadequate training support, trouble","Tools and equipment, insufficient equipped workshop"
+9,66,Which doesnt make ‘safety culture’ in an organization?,C,Exemplary function of all leading staff,Be aware of unsafe situations,Assign blame to the persons
+9,67,Which of the following are under the responsibility of left half of brain?,B,"Control of left hand, reading, writing","Control of right hand, logical toughts, speaking","Musicality, artistic, intuition"
+9,68,"Status, property and career are the elements of…",C,Self actualisation,Social,Esteem
+9,69,Which of the followingis not element of fitness?,A,"Interest, intellect, emotion","Intellect, intuition, body","Intellect, intiution, instinct"
+9,70,"In a communication what are the sources for speaker to transmit a message, information or opinion?",A,"Personal experience, attitude, subconscious mind","Gesture, facial expression, posture","Perception, reception, background"
+9,71,The accronym SHELL stand for?,B,"Software, hardware, environment, liveware and language","Software, hardware, environment, liveware and liveware","Software, hardware, evolution, liveware and language"
+9,72,What is meant by Software in SHELL model?,C,"Facilities, equipments, hangars",Tools and equipments,"Procedures, manuals, instructions"
+9,73,What is the purpose of SHELL model?,A,To show that one system element can not be changed without influencing others,To present things that a man must be isolated to work efficiently,To improve the relation between two person by using the common materials around
+9,74,One colleague tells you to be hurry in order to complete a task earlier than determined duration. Which element of dirty dozen explains this situation?,B,Lack of awareness,Time pressure,Norms
+9,75,Which of the following can be a safety net against ‘distraction’?,C,Try to complete task immediately then go to relax,Use some medicine or drug to be able to focus the task,Stop working or unfasten all connection and take a rest
+9,76,Which of the following safety nets can not be useful against lack of communication?,C,"Use logbooks to communicate, to remove doubt",Discuss the work to be done,Use your sixth sense and assumptions when you need
+9,77,Which of the following can be a mean against complacency?,A,Use the manual even if the task has been made million times before,Use your time efficiently and say no if you feel a pressure,"Stop working, that is not a profession that you can do"
+9,78,Which of the following is not an effect of exessive noise?,C,Deafness,Damage of eardrum,Acoustic communication easiness
+9,79,What is the possible consequence of time pressure?,A,"Errors may occur due to the stress, the target time may be exceeded",Everyone will be winner since that will increase the efficiency of work,All task is accomplished without any mistake and that will be a good exemplary consequence for others
+9,80,How often is human factor gotton as a continuation training according to Part 145 regulations?,B,1 year,2 year,3 year
+9,81,Which is not under responsibility of right half brain?,A,Control of right hand,Intuition,Pictorial vision
+9,82,Which of the following about Maslow’s Hierarchy is correct?,C,A person can only be motivated to a lower motivation level if the higher has been satisfied,A person can be forced to want to do something but not to do it,If the level security has been satisfied a person can be motivated to the level social
+9,83,Which of the following gives positive motivation?,A,Recognition,Disregard,Exessive demand
+9,84,Which of the following can not be a behaviour of supervisor in positive motivating-management style?,C,Appreciation of all performances,Rewarding special service,Complaints even for negligible errors
+9,85,What can be the consequence of authoritarian management style?,C,Supervisor and also employee are winner,Employee will present an accepting appreciation against honest appreciation of supervisor,Employee will internally quit after missing appreciation
+9,86,What is the ideal working time interval?,A,07:00-12:00 and 16:00-20:00,02:00-04:00 and 16:00-20:00,02:00-04:00 and 12:00-16:00
+9,87,What defines the management in 6M(F ish Bone)?,B,"The conditions such as location, time etc",Data generated from the process that are used to evaluate its quality,How the process is performed and the specşfşc requirements for doing it
+9,88,Accidents and engineering faults are.,B,insignificant and decreasing.,significant and increasing.,insignificant and increasing.
+9,89,Murphy's law is perpetuated mainly by.,C,violations.,poor aircraft design.,complacency.
+9,90,Murphy's law can be regarded as the notion.,A,If something can go wrong it will'.,It can never happen to me'.,If something goes wrong I am certain to get the blame'.
+9,91,A company's safety policy should be defined in.,C,in CAP 716.,the Maintenance Schedule.,the Maintenance Organization Exposition.
+9,92,Which of the following is least associated with the study of human factors?.,B,Ergonomics.,Health and Safety.,Human error.
+9,93,The incident where a 737 lost oil from both engines is a direct result of.,B,poor design.,human error.,engine vibration.
+9,94,If a 737 had both engines serviced and lost oil from both engines in flight. This.,B,can be expected to happen statistically due to the number of aircraft in service.,would be a direct result of human error.,can be considered an acceptable probability.
+9,95,What do you do when someone is hypothermic?.,A,Warm them up.,Feed them sweet things because of their diabetes.,Give them a drink because of dehydration.
+9,96,The percentage of accidents attributable to aircraft maintenance and inspection causes is.,B,now less significant due to the introduction of more sophisticated aircraft.,significant and rising.,now less significant due to more advanced maintenance practices.
+9,97,What happened to contribute towards the incident in 1995 where a Boeing 737 lost oil pressure and had to divert?.,B,"Both warning indications were faulty, due to crossed connections.",The HP rotor drive covers of both engines had not been refitted after a boroscope inspection.,The boroscope inspection had been inadequate.
+9,98,What is the most common cause of in-flight engine shutdown?.,A,Incomplete installation.,"Improper fault isolation, inspection or test.",Foreign object damage.
+9,99,Most engineering related incidents are due to.,B,installing dirty connectors.,installing components incorrectly.,installing worn or old components.
+9,100,What causes the most aircraft accidents?.,B,Technical faults.,Communication.,Misunderstanding between ATC and pilot on approach.
+9,101,70 - 80% of the total focusing ability of the eye is carried out by the.,B,iris.,cornea,lens.
+9,102,At what distance should a person without hearing difficulties be able to hear an average conversational voice in a quiet room.,A,2 metres (6 feet).,3 metres (9 feet).,1 metre (3 feet).
+9,103,A perforated ear drum could occur if.,C,you were subjected to intermittent noise above 25 kHz.,you blew your nose excessively.,you were subjected to continuous noise below 8 kHz.
+9,104,How long is the short term memory good for remembering 7 items?.,B,30 to 60 seconds.,Up to 30 seconds.,Above 60 seconds.
+9,105,What is white finger?.,A,A disorder of the finger which may occur through continuous use of pneumatic tools because of reduced blood flow.,A reaction when the white blood cells die and contaminate the fingers.,A skin disorder caused by extensive contact with oils and solvents.
+9,106,"When someone is working in an enclosed space (such a fuel tank), another person should be outside the space in constant communication to.",C,provide instructions to the tradesman.,ensure compliance with the maintenance manual.,for safety reasons.
+9,107,The scientific study of measurements of the human body is known as.,C,ergonomics.,physiology.,anthropometrics.
+9,108,How long can the aural reflex protect the ear from loud noise?.,C,5 seconds.,15 seconds.,15 minutes.
+9,109,What part of the eye controls the amount of light that is allowed to enter the eye?.,B,The pupil.,The iris.,The cornea.
+9,110,Learning of a routine by repeated practice is known as.,B,cognitive learning.,motor programming.,episodic memory.
+9,111,The ear is used to detect.,C,speed,neither acceleration or speed.,acceleration.
+9,112,Light enters the eye through the.,A,cornea.,visual cortex.,retina.
+9,113,"To focus on a near object, the lens of the eye must.",C,be widened.,be flattened.,be thickened.
+9,114,Which type of memory is most susceptible to interference from external influences?.,C,Long term.,Ultra short term.,Short term.
+9,115,Peripheral vision is detected by the.,C,cones.,fovea.,rods.
+9,116,Extreme discomfort experienced by a maintenance engineer due to working in a confined space is known as.,A,claustrophobia.,acrophobia.,agoraphobia.
+9,117,What part of the eye is colour sensitive?.,B,The rods.,The cones.,The iris.
+9,118,What type of lens is used to overcome short sightedness?.,A,Concave.,Bi-focal.,Convex.
+9,119,The type of memory which is most easily influenced by a person's expectations of what should have happened is the.,C,long term memory.,semantic memory.,episodic memory.
+9,120,The inability for the eyes to accommodate sufficiently is known as.,A,Presbyopia.,Hypermetropia.,myopia.
+9,121,An aircraft maintenance engineer who wears glasses or contact lenses should.,c,not require their duties to be restricted providing they wear their glasses/contact lenses at all times they carry out their duties.,have their duties restricted accordingly.,not require their duties to be restricted providing they have frequent checks to ensure the adequacy of their glasses/contact lenses.
+9,122,Ultra short term memory has a duration of about.,C,10 to 20 seconds.,80 - 100 milliseconds.,2 seconds.
+9,123,What type of lens is used to correct long sightedness?.,B,Concave.,Convex.,Bi-focal.
+9,124,Visual Acuity is the ability.,C,to differentiate between different colours.,to detect objects in the peripheral vision.,of the eye to discriminate sharp detail at varying distances.
+9,125,The 'working memory' is.,B,long term memory.,short term memory.,ultra short term memory.
+9,126,Colour defective vision affects.,A,almost 1 in 10 of men.,more women than men.,almost 1 in 10 of women.
+9,127,"At lower light levels, the visual sensing is performed mainly by the.",C,fovea.,cones.,rods.
+9,128,"If an image formed on the retina of the eye is inverted relative to the viewers normal perception of the image, the viewer will.",C,become disoriented and dizzy.,consciously mentally revert the image so as to make sense of his/her surroundings.,behave and feel normal.
+9,129,People with colour defective vision usually have difficulty differentiating between.,A,red and green.,blue and yellow.,blue and green.
+9,130,The 'cocktail party effect' is descriptive of.,A,selective attention.,divided attention.,focused attention.
+9,131,Hypermetropia is the medical name for.,B,short sightedness.,long sightedness.,deafness.
+9,132,What range of sound is usually impaired first with the onset of presbycusis?.,A,High pitch sound.,Low pitch sound.,Mid range sound.
+9,133,The amount of light which is allowed to enter the eye can vary by a factor of.,B,500:1.,5:1.,1:5.
+9,134,Presbyopia often effects the eyes of people after the age of.,B,55.,40.,70.
+9,135,From what age does hearing ability normally begin to decline?.,C,40.,50.,30.
+9,136,A person with 20/40 vision has.,A,worse eyesight as a person with 20/20 vision.,better eyesight than a person with 20/20 vision.,the same eyesight as a person with 20/20 vision.
+9,137,Long term memory capacity is usually.,A,unlimited.,4 - 8 years.,12 months.
+9,138,The inability for the eyes to accommodate sufficiently is known as.,C,myopia.,hypermetropia.,presbyopia.
+9,139,Ultra short term memory has a duration of about.,B,10 to 20 seconds.,2 seconds.,80 - 100 milliseconds.
+9,140,The memory can be aided by.,A,a checklist.,memory checking.,mind logging.
+9,141,In AWN 47 what is the recommended hearing test?.,C,The ability to hear an average conversation voice at a distance of 10 feet.,The ability to hear a certain noise at 8 feet.,The ability to hear an average conversation voice at a distance of 6 feet.
+9,142,Iconic memory.,B,stores sounds and lasts up to 2 seconds.,stores visual information and lasts up to 1/2 second.,stores visual information and lasts up to 2 seconds.
+9,143,The first stage in information processing is.,C,decision.,memorizing.,perception.
+9,144,"Information, if not rehearsed is lost in.",A,10 - 20 seconds.,1 minute.,30 - 40 seconds.
+9,145,"In AWN 47, what is the standard hearing test?.",A,The ability to hear a conversation in a quiet room at 2 metres.,The ability to hear a conversation in a quiet room at 10 metres.,The ability to hear a conversation in a noisy room at 2 metres.
+9,146,Information in the short term memory not rehearsed will be lost in.,A,10 - 20 seconds.,1 - 3 months.,2 - 3 weeks.
+9,147,What is the CAA standard for vision?.,B,Acceptable uncorrected vision.,Acceptable corrected vision.,18/20 vision.
+9,148,In the human eye most of the refraction required to bring an image into focus on the retina is accomplished by the.,B,lens.,cornea.,iris.
+9,149,The average capacity of the working memory is about.,A,7 chunks of information.,4 chunks of information.,12 chunks of information.
+9,150,The retina is situated.,C,behind the cornea with the lens.,in front of the cornea.,at the back of the eye with the optic nerve.
+9,151,Motor programme refers to.,B,motivational computer software.,a task that has been carried out so many times that it becomes automatic.,a task that becomes programmed into short term memory.
+9,152,Memory which can be influenced by a persons expectations of what should have happened is.,C,echoic.,semantic.,episodic.
+9,153,Information in the long term memory.,B,is easily transferred to the short term memory.,is easily lost.,is only available under hypnosis.
+9,154,How many things can be stored in the short term memory?.,B,0 - 5.,9 - 15.,No limit.
+9,155,"In the eye, the cones are used mainly in.",A,bright light to give fine detail.,bright light levels and they give poor colour vision.,low light levels and they give poor colour vision.
+9,156,A person suffering from presbyopia would normally.,A,wear spectacles when reading or carrying out close detail work.,have defective colour vision and not be allowed to carry out maintenance work on cable looms.,be short sighted and need to wear spectacles to see objects more than 30 cm away.
+9,157,Noise signals are carried to the brain by the.,B,sensory nerve.,auditory nerve.,Eustachian nerve.
+9,158,Poking sharp objects into the ear should be avoided as it is likely to result in.,C,tinnitus ringing.,conductive hearing loss.,tympanic membrane perforation.
+9,159,Attention Getters are designed to.,C,to gain the operators attention whilst allowing them to continue with the task in hand.,to make the operator focus his/her attention fully on the task in hand.,to get the operators full attention.
+9,160,At what maximum frequency does the human ear hear?.,C,16 kHz.,8 kHz.,20 kHz.
+9,161,Motor programmes.,C,are behaviour subroutines.,require conscious thought to engage.,are stored as working rules in long term memory.
+9,162,The pupil of the eye grows smaller.,C,in condition of reduced light.,to focus the fovea.,in condition of increased light.
+9,163,Conductive deafness can be caused by damage to the.,A,cochlea.,otoliths.,semi circular canals.
+9,164,Detail is best sensed by the ______ and movement best sensed by the ______.,C,the periphery and the periphery.,the periphery and fovea.,the fovea and periphery.
+9,165,"If a person is colour blind, which colours would be most difficult to see?.",A,Red and green.,Blue and red.,Yellow and red.
+9,166,Myopia is _______ and a ______ lens is needed to correct it.,C,long sightedness and concave.,short sightedness and convex.,short sightedness and concave.
+9,167,The Otoliths detect.,B,angular acceleration.,linear acceleration.,both angular and linear acceleration.
+9,168,The nose.,B,filters the air into the lungs.,"filters, warms and moistens the air into the lungs.",filters the air into the lungs.
+9,169,The most common cause of myopia is.,C,weak accommodation.,a shortened eyeball.,an elongated eyeball.
+9,170,What is peer group pressure?.,B,The influence the House of Lords have over the House of Commons.,Our behaviour influenced by our friends and colleagues.,The influence an individual has over a group of people.
+9,171,A regular behaviour of an individual is known as.,B,the norm.,habit.,culture.
+9,172,"In a discussion, the person who is most likely to be agreed with is.",C,the person who repeats the point most times.,the most argumentative person.,the person with the highest status.
+9,173,An engineer who has developed his own way of performing a task.,A,is in regular violation.,is improving maintenance efficiency.,should be commended for his resourcefulness.
+9,174,The aim of human factors programs within an organizations is.,B,to safeguard the health and safety of maintenance personnel by reducing accidents in the workplace.,"to optimize the relationship between maintenance personnel and systems with a view to improving safety, efficiency and well-being.","to reduce costs by increasing efficiency, safety and quality and decreasing waste through human error."
+9,175,An aircraft engineer who has 'responsibility'.,B,must be licensed on the particular type of aircraft.,"are liable to be called to account as being in charge or control of, or answerable for something.",is in a management position within their company hierarchy.
+9,176,The impact of human factors and human error is most important to.,C,technicians and engineers.,planners and managers.,"It is equally important to technicians, engineers, planners and managers."
+9,177,Where are the responsibilities of Licensed Aircraft Engineers laid down?.,A,AWN 3.,The Air Navigation Order.,CAP 715.
+9,178,Diffusion of responsibility may occur.,A,to an individual working as a member of a team.,with certain people whether they are working in a team or alone.,to an individual working alone.
+9,179,Risky shift' is.,C,the probability of being assigned to a work task which involves some element of risk or physical danger.,the name given to an inadequate shift handover.,the tendency for a group of workers to arrive at a course of action which is riskier than that which any individual member might pursue.
+9,180,"To ensure that a technician remains reasonably current on the aircraft types to which they hold authorizations, they are required that.",C,they have appropriate continuation/refresher training only.,they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period only.,they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period and they have appropriate continuation/refresher training.
+9,181,The difference between what a person 'can' do and what he 'will' do is largely determined by his.,A,motivation.,education and training.,physical and mental health.
+9,182,Whose responsibility is it that an engineer remains current on new technology and procedures?.,C,The organization's.,The CAA's.,The engineer's.
+9,183,"According to Maslow, safety needs (protection from potentially dangerous objects or situations).",B,is the last need of human after all other needs have been satisfied.,"is second only to physiological needs (food drink, oxygen etc.).",is the most primal need of humans.
+9,184,The symptoms of de-motivation are very similar to the symptoms of.,A,stress.,tiredness.,mental illness.
+9,185,"The desire of an individual to 'conform' to a group by allowing one's opinions, attitudes and actions to be affected by prevailing conditions is known as.",A,peer pressure.,esteem needs.,culture issues.
+9,186,Confirmation bias' is.,C,error in work carried out by a supervisor who has also inspected and signed for his own work.,an inspection of work carried out by an independent inspector or supervisor.,"the subconscious attention to evidence which confirms an engineer's beliefs, and inattention to evidence which contradicts his beliefs."
+9,187,A person with low self-esteem is.,A,more likely to conform to peer pressure.,less likely to conform to peer pressure.,Conformity to peer pressure is not affected by level of self-esteem.
+9,188,Motivation is.,C,a reward or punishment designed to reduce errors.,a reward or punishment designed to increase work rate.,the thing that drives someone to do something.
+9,189,Peer pressure is,B,the perceived pressure to carry out a task in the same way your colleagues would.,the perceived pressure to conform to what you believe your colleagues expect of you.,Nothing
+9,190,The eyesight of an engineer is the responsibility of.,C,the Quality Manager.,the optician.,the engineer.
+9,191,A good team is one where every member has.,B,an opinion.,an input.,a job.
+9,192,AWN 47 states that the engineer.,C,is responsible for health and safety.,is responsible for the work he has signed for.,does not report for work if unfit.
+9,193,An effective group work is when.,A,everyone contributes in some way.,everyone discusses ideas and opinions.,everyone has a job to do.
+9,194,Which of the following defines a peer pressure situation?.,C,Your supervising manager pressuring you to complete the current task on time.,Your girlfriend telling you to go out with her.,Your colleagues pressuring you to work faster so they can go home.
+9,195,Successful working teams have the following attributes:-.,A,Members participate in team activities but retain their own individual requirements.,All the members participate in team activities and discussions.,All the team members work in isolation and therefore provide highly individual solutions to the same problems.
+9,196,Good aircraft maintenance supervisory judgment is usually based upon.,A,knowledge and experience and reference to approved data.,the evidence available and forceful management ability.,knowledge and experience and reference to course notes.
+9,197,Organizational culture (whether good or bad) is best described as.,A,the way we do things around here'.,written procedures.,team resource management.
+9,198,In an organization which practices human factors there is.,B,punishment for all violations.,no blame unless there is a deliberate violation.,a no blame culture.
+9,199,A person can be said to be motivated if.,C,they cut corners to get the job done quickly.,they are on a productivity bonus.,they are taking action to achieve something.
+9,200,Group polarisation can result in.,A,a group making a more cautious or extreme decision.,a group making a better decision than the individual.,members of the group not talking to one another.
+9,201,Who is most likely to deviate from standard procedure?.,B,"Young, inexperienced man.","Over confident, young man.",Old tired man.
+9,202,The ideal behaviour of a professional aircraft engineer is.,B,goal directed rather than person directed.,both person and goal directed.,neither person or goal directed.
+9,203,Information on drugs and alcohol can be found in.,B,BCARs.,AWN 47.,AWN 3.
+9,204,If you have been prescribed new medicine by your doctor you should.,C,continue with your normal shift pattern.,take 3 days off work to try out the new medication.,give the new medication a 24 hour trial.
+9,205,After a general anaesthetic you should.,B,return to work as soon as possible.,not return to work for at least 24 to 48 hours (depending on the individual).,take at least 7 days off work.
+9,206,Your doctor has prescribed you tranquillizers as you are suffering from depression. You should.,C,not tell your employer and carry on work as normal.,tell your employer and carry on work as normal.,not work at all when taking the tranquillizers
+9,207,The use of 'pep' pills by an aircraft engineer.,C,is recommended only when working late or on night shift.,as they stimulate the senses and make you less prone to accidents.,can only be used if prescribed by your doctor should never be done (except for coffee).
+9,208,You are taking SUDAFED to relief nasal congestion.You should.,C,stay away from work until you no longer require the SUDAFED.,continue to take them at work because SUDAFED has no side effects.,avoid making engineering decisions or performing licensed duties.
+9,209,What is slow wave sleep?.,B,Paradoxical sleep.,Stage 2- 4 sleep.,REM.
+9,210,Phase 3/4 sleep.,C,can be induced by alcohol.,occurs only once per sleep cycle.,is most beneficial for the body's restoration.
+9,211,Human error can be caused by.,C,high body temperature.,normal body temperature.,low body temperature.
+9,212,What meal is most recommended after a long shift?.,A,High carbohydrates.,Low carbohydrates.,High protein.
+9,213,Long shift work will.,B,initially decrease your diagnostic and maintenance ability but eventually increase your diagnostic and maintenance ability as you get used to it.,always decrease your diagnostic and maintenance ability.,always increase your diagnostic and maintenance ability.
+9,214,The circadian cycle body temperature.,C,does not vary.,varies by 1.5°C.,varies by 1.5°F.
+9,215,Acute stress is.,B,intense stress of long duration.,typically intense but of short duration.,a frequently reoccurring stress or of long duration.
+9,216,Chronic stress is.,A,a frequently reoccurring stress or of long duration.,typically intense but of short duration.,intense stress of long duration.
+9,217,Smoking cannabis.,A,subtly impairs performance for up to 24 hours.,has only a short term affect upon performance.,has a noticeable affect on a persons behaviour and performance for up to 24 hours.
+9,218,Performance is.,A,inversely proportional to the individuals state of arousal.,directly proportional to the individuals state of arousal.,greatest only at one optimum level of arousal but diminishes as arousal decreases or increases
+9,219,Missing a break in an effort to get a job done within a certain time frame.,C,can be done by those actually doing the job providing the supervisors take regular breaks.,"can be counterproductive, as fatigue diminishes motor skills, perception, awareness and standards.",can be done providing adequate rest period is available at the end of the shift.
+9,220,Tiredness causes visual acuity to.,A,decrease,Visual acuity is not affected by tiredness.,increase.
+9,221,Narrowing of attention occurs at.,C,low levels of arousal.,both high and low levels of arousal.,high levels of arousal.
+9,222,The blood/alcohol limit is.,A,"20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and 80 milligrams of alcohol per 100 millilitres of blood for maintenance engineers.",40 milligrams of alcohol per 100 millilitres of blood.,"20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and maintenance engineers."
+9,223,Paradoxical sleep is also known as.,C,Stage 3 sleep.,Stage 4 sleep.,REM sleep.
+9,224,When taking medicine for the first time.,A,take the first dose at least 24 hours before any duty to ensure that it does not have any adverse effects.,absent yourself from work for the duration of use of the medicine.,consult a doctor if you need to carry out any duties.
+9,225,For a man to maintain his fitness and health the conducive maximum recommended alcohol intake is.,B,3 - 4 units per week.,28 units per week.,28 units per day.
+9,226,Human Circadian rhythms cycle on a.,A,25 hour timescale.,8 hour timescale.,24 hour time scale.
+9,227,Removal of alcohol from the blood stream.,B,can be speeded up by sleeping.,cannot be speeded up.,can be speeded up by drinking strong coffee
+9,228,"For a person with normal Circadian rhythms, the body temperature will be lowest.",A,between 4 and 6 o'clock in the morning.,upon waking.,at midday.
+9,229,If a maintenance engineer has a cold or flu he should.,C,only absent himself from duty if his work contract includes sickness pay.,only absent himself from duty if there are no staff shortages at his workplace or within his work team.,"absent himself from duty until fully recovered, regardless of other factors."
+9,230,Consumption of alcohol.,A,increases mental and physical reaction times,has no affect upon mental and physical reaction times.,decreases mental and physical reaction times.
+9,231,Alertness and performance is reduced when the body temperature is.,B,above normal.,below normal.,either above or below normal.
+9,232,A good rule of thumb for an adequate amount of sleep is.,A,one hour of high quality sleep is good for two hours of activity.,two hours of high quality sleep is good for one hour of activity.,one hour of high quality sleep is good for one hour of activity.
+9,233,"Finding that familiar tasks (such as programming the video recorder) seems more complicated than usual, could be an early indication of.",B,acute stress.,chronic fatigue.,a cold or flu.
+9,234,The only permitted stimulant is.,B,bromine.,caffeine.,amphetamine.
+9,235,Large amounts of caffeine can.,A,"cause anxiety, headaches and stress.",reduce anxiety and stress.,improve alertness and increase awareness.
+9,236,The symptoms of stress are.,C,"violence, sickness, absence from work, drug and alcohol abuse.",indications of improved work performance.,"irritability, forgetfulness, sickness, absence from work, drug and alcohol abuse."
+9,237,Sleeping tablets can.,A,slow reaction and dull the senses.,increase alertness after waking the following morning.,help REM sleep and realign circadian rhythms.
+9,238,Information for certifying staff when medically unfit is found in.,B,AWN 3.,AWN 47.,ANO.
+9,239,What effect would the consumption of 3 - 5 units ofalcohol?.,A,Loss of quality of sleep.,Low REM sleep.,A drop in body temperature.
+9,240,Long shift work.,A,decreases the ability to recognize defects.,increases the ability to recognize defects.,has no effect on the ability to recognize defects.
+9,241,Circadian Rhythms control.,A,body temperature.,urine output.,sleeping patterns.
+9,242,A stimulant allowed to be taken without a doctor's prescription is.,B,bromine.,caffeine.,antihistamine.
+9,243,The conditions laid down in AWN 47 are applicable to aircraft engineers.,B,who sign for work completed.,when under the influence of drink or drugs.,for their safety at work.
+9,244,Consumption of 3 - 4 units of alcohol before sleep can.,B,increase REM sleep.,decrease the quality of sleep.,lower the body temperature.
+9,245,"The cycles of body temperature, sleep requirement and alertness are called",B,earth cycles.,circadian rhythms.,ecto - meridian cycles.
+9,246,The intake of caffeine in moderate quantities can result in.,C,"anxiety, headaches and negative mood states.",lack of sleep and subsequent disruption to the circadian rhythms.,a temporary increase in the ability to sustain vigilance and increased alertness.
+9,247,Working excessively long shifts during unsociable hours can lead to.,A,decreased ability to detect defects during aircraft maintenance.,an increased immunity to stress.,increased ability to detect defects during aircraft maintenance.
+9,248,"In theory, human error is most likely to occur.",A,when the body temperature is at its lowest.,during very hot weather.,when the body temperature is stable.
+9,249,An individual suffering from stress when confronted with a task within his capability is likely to think the task is.,C,too demanding.,not demanding enough.,someone else's responsibility.
+9,250,AWN 47 does not mention.,C,pep's.,sudafed.,melatonin.
+9,251,3 - 4 units of alcohol taken before sleep reduces.,A,both,quantity of sleep.,quality of sleep.
+9,252,Which is important in sleep?.,C,Quantity.,Quality.,Both.
+9,253,Stressors in the environment of noise and heat will cause.,C,no loss of attention.,a total loss of attention.,a loss of attention and a distraction.
+9,254,"When going from day shift to night shift, efficiency.",C,stays the same.,will drop off after the first four weeks.,will drop off in the first four weeks.
+9,255,"When working on aircraft, the consumption of alcohol.",B,is permissible providing the drink driving limit is not exceeded.,you cannot work on aircraft even 8 hours after consuming large quantities of alcohol.,a certain amount is permissible.
+9,256,Drinking 3 - 4 units of alcohol before sleeping results in.,B,loss of non-REM sleep.,loss of quality sleep.,a drop in body temperature.
+9,257,What effect does alcohol have on sleep?.,A,Both.,Decreases quantity of sleep.,Decreases quality of sleep.
+9,258,Narrowing of attention occurs in states of.,C,optimum arousal.,low arousal.,high arousal.
+9,259,Hypoxia can.,B,cause a person to slip into a coma if they are not quickly warmed up again.,impair the sensitivity of the rods and hence have a detrimental effect on eyesight.,improve the night vision of the cones of the eyes.
+9,260,You are taking prescribed drugs.,A,"Carry on working, as long as you know the primary and secondary side effects.",Do not work.,Work and don't care about other things.
+9,261,"Which of the following is an acceptable substance, with regard to aircraft maintenance?.",B,Penicillin.,Caffeine.,Beta Blockers.
+9,262,Circadian Rhythms have a cycle of.,A,25 Hours.,24 Hours.,23 Hours.
+9,263,"After drinking alcohol, absorption is dependant on.",C,weight.,age.,time.
+9,264,An engineer has a body mass index of 28. Thiswould normally be classed as.,A,a healthy weight with no real risk of developing healthproblems.,underweight with no real risk of developing health problems.,overweight and at a risk of developing health problems.
+9,265,"If an average adult has consumed the equivalent of four units of alcohol, how long will it take for this level to drop to two units.",C,four hours.,eight hours.,two hours.
+9,266,How many stages of sleep are there?.,A,5,3,4
+9,268,The presence of something damaging to ones health would be an example of a.,C,psychological stressor.,reactive stressor.,physical stressor.
+9,269,Aircraft engineers can take common sense steps to maintain their fitness and health. These are known as.,C,self-improvement measures.,positive self-improvement.,positive measures.
+9,270,The amount of stress experienced with a particular task is dependent on.,B,the perceived demand and actual ability.,the perceived demand and perceived ability.,the actual demand and actual ability.
+9,271,Long shift work will.,C,increase your diagnostic and maintenance ability.,initially decrease your diagnostic and maintenance ability but then you will get used to it.,decrease your diagnostic and maintenance ability.
+9,272,Phase 3 and 4 sleep is.,B,occurs only once per sleep cycle.,most beneficial for the bodies recovery.,induced by alcohol.
+9,273,Clinical insomnia can be caused by.,A,caffeine.,jet lag.,a change of environment.
+9,274,The normal recovery for Circadian dysrhythmia is.,B,at a rate 2.5 hours a day.,at a rate 1.5 hours a day.,at a rate 2 hours a day.
+9,275,When comparing noise levels on Human Performance.,C,noise has no effect on the number of errors or the speed of performance of an individual.,an individual can find noise levels annoying but still perform well indefinitely.,noise is directly proportional to the number of errors and the speed of performance of an individual.
+9,276,Environmental stresses are.,A,"caused by noise, fumes, heat and vibration.",tolerated by everyone equally.,not normally cumulative.
+9,277,Employers must provide their employees with personal ear protectors if the noise level reaches.,B,70 dB.,85 dB.,60 dB.
+9,278,The maximum allowable noise dose is.,B,85 dB.,any combination of noise and time which exceeds 90 dB TWA.,90 dB for 24 hours.
+9,279,Environmental capture' is a type of error possible when an engineer does the same job repeatedly.,B,but on different types of aircraft.,on the same type of aircraft.,in a short timescale.
+9,280,"In the UK, an air-side ramp vehicle driver is most likely to go deaf in.",C,the left ear.,both ears.,the right ear.
+9,281,Up to what proximity to an aircraft with engines running is the use of ear protection recommended for maintenance personnel?.,A,200 - 300 metres.,20 - 30 metres.,2 - 3 metres.
+9,282,Studies have shown that working outside in a temperature of 55°F will have what effect on hand dexterity?.,A,Around 50%.,Very slight.,None.
+9,283,When working with bright lights consideration should be given to.,C,blurred image.,shadows,glare.
+9,284,Which of the following is true?.,C,Noise affects the standard of work proportionately with the level of the noise.,Noise does not affect a person's standard of work.,Noise does affect the standard of work with certain people.
+9,285,The effect on an engineer of environmental noise is.,B,it improves concentration and quality of work.,it decreases concentration and quality of work,it has no affect on concentration of quality of work.
+9,286,Excess noise in a working environment can.,C,raise resistance to other stresses.,not affect performance.,lower resistance to other stresses.
+9,287,"If the temperature is - 15°C and you are working on the line, you should.",C,rotate engineers regularly and have a supervisor keep an eye on them.,carry on regardless of the weather to keep the aircraft flying.,stop all maintenance until the weather improves.
+9,288,Studies have shown that working outside in a temperature of 55°F will have what effect on hand dexterity?.,B,None.,Around 50% reduction.,Very slight reduction.
+9,289,Cold stress can be influenced by.,C,insufficient vitamins in the diet.,a drop in body temperature.,the wind chill factor.
+9,290,Environmental stresses in an extreme high temperature and noisy environment causes.,A,attention to be disturbed and distributed,no loss of attention or distraction.,total loss of attention.
+9,291,Which of the following environments is best suited to aircraft maintenance?.,C,"Working outside, at night, in the rain.","Working outside, in the direct midday sun.","Working inside in a well lit, comfortable hangar."
+9,292,Intense or loud noise may lead to.,B,deafness.,fatigue.,no effects.
+9,293,Facility lighting in a hangar should be.,B,no brighter than 10 lux.,provided by fixed light units giving light to shadow ratio of 3:1.,portable so that individual tasks may be well lit.
+9,294,"When tasks are being designed, the maximum mass an engineer should lift is.",B,32 kg.,23 kg.,50 kg.
+9,295,Sensing and perception errors are most likely to result from.,B,distraction of other engineers.,poor lighting or noise.,lack of adequate training.
+9,296,Task lighting in a hangar is mainly.,C,provided by fixed lighting.,provided by fluorescent tubes.,portable so that individual tasks may be well lit.
+9,297,"When a person moves from a poorly lit area to a well lit area, what is the minimum time they should allow for the eyes to adapt?.",A,7 minutes.,7 seconds.,30 seconds.
+9,298,Itemized checklists should be dealt with.,B,"in any order, provided all steps are completed.","item by item, in order, to cover every step diligently.",as memorized.
+9,299,The main disadvantage of carrying out critical inspections under very bright artificial light is.,A,glare.,shadows.,filtered light.
+9,300,"When carrying out a visual inspection, an engineer is likely to make a parallax error when.",B,inspecting a component using a 5x or 10x magnifying glass.,using precision measuring instruments such as a vernier gauge or AVO meter.,Nothing.
+9,301,What constitutes a good work handover?.,A,A written and verbal account of the work done.,A written documentation of the work done.,A verbal account of the work done.
+9,302,A good shift handover should include details of.,C,tasks that have been completed; persons who carried out the tasks; tasks to be carried out and general company and technical information.,"tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and tools required to carry out the tasks.","tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and general company and technical information."
+9,303,A good practice for a shift handover is for shifts to be specifically rostered so there is an overlap of.,C,2 - 3 hours.,5 - 10 minutes.,20 - 30 minutes.
+9,304,Asynchronous' communication includes.,B,immediate voice communication by radio link.,"technical manuals, memos, Advisory Circulars and Airworthiness Directives.",face-to-face communications.
+9,305,The most effective form of communication is.,C,verbal communication.,written communication.,explicit communication.
+9,306,What is the most important means of communication in aircraft maintenance engineering?.,A,Written.,Implicit,Verbal.
+9,307,If you are given a task that you are unsure of you should.,A,consult the appropriate approved data.,ask someone who has done it before.,consult type course notes.
+9,308,The alerting system for an important system failure should be.,A,an aural warning.,"a flashing visual signal, preferably red.",a dolls-eye indicator.
+9,309,The SHEL model of human factors takes into account.,A,"Software, hardware, environment and liveware.","Software, hardware, efficiency and liveware.","Software, hardware, environment and location."
+9,310,What part of the SHEL model would the writing and interpretation of maintenance manuals fit into?.,B,Hardware.,Software.,Environment.
+9,311,The 'error chain' theory refers to.,C,"a chain of errors within an organizations can be investigated, and similar errors prevented by determining a common link between them.","a company is only as good as its weakest employee or employees, and removal of that/those employee from the chain should prevent errors.","errors are caused by a chain of linked events, and the breaking of one link in the chain will prevent the error."
+9,312,What part of the SHEL model would the aircraft design fit into?.,B,Liveware.,Hardware.,Environment.
+9,313,Which part of the SHEL model is most difficult to protect from errors by 'designing out' or to 'work around'?.,A,Liveware.,Software.,Environment
+9,314,A violation in an aircraft maintenance procedure.,A,is usually carried out with the best intentions from a genuine desire to 'get the job done'.,is always considered an act of vandalism or sabotage.,"is always carried out to satisfy some personal need, often unrelated to the actual task."
+9,315,Which type of human error is easiest to correct?.,A,Constant error.,Reversible error.,Variable error.
+9,316,"In the 'slips, lapses and mistakes' definition of errors, forgetting to replace an engine cowling would be considered a.",B,mistake.,lapse.,slip.
+9,317,"In the 'slips, lapses and mistakes' definition of errors, a mistake would typically occur at the.",C,storage (memory) stage.,execution stage.,planning stage.
+9,318,"On a task that is complex, an engineer uses his own procedures due to pressure. This is legally termed.",C,modification.,initiative.,violation
+9,319,Visual inspection by an 'experienced' maintenance engineer is.,A,knowledge and rule base behaviour.,skill and knowledge based behaviour.,skill and rule based behaviour.
+9,320,Troubleshooting is.,A,rule based.,skill based.,knowledge based.
+9,321,A violation is.,B,an unintentional error.,a deliberate departure from the rules.,an intentional act of sabotage.
+9,322,A mistake is.,C,a deliberate departure from the rules.,an intentional act of sabotage.,an unintentional error.
+9,323,"Whilst working on an aircraft a spanner placed on the wing surface is kicked off and subsequently falls into an open engine cowl, breaking off a sensor connector. This is an example of",B,a skill based error.,Murphy's law.,a punishable occurrence.
+9,324,An experienced engineer fits the wrong seal during a routine component change. This is.,B,skill based.,rule based.,knowledge based.
+9,325,An engineer is working on a wing and kicks a spanner off into an engine cowl and breaks a sensor. This is.,B,knowledge based error.,skill based error.,rule based error.
+9,326,The difference between a mistake and a violation is.,C,a mistake is less serious than a violation.,a violation is not deliberate.,a mistake is unintentional and a violation is deliberate.
+9,327,An experienced engineer is fitting a valve. A required seal is not fitted. What type of error is this?.,B,Knowledge based.,Rule based.,Skill based.
+9,328,The hub of the SHEL model of human factors is.,A,liveware.,hardware.,enviroment.
+9,329,A type 1 visual inspection error occurs when.,B,a faulty item is missed.,a good item is incorrectly identified as faulty.,a duplicate inspection is not carried out.
+9,330,What is the difference between error and violation?.,A,"Violation is deliberate, error is not.","Error is deliberate, violation is not.",No difference.
+9,331,What is a latent failure?.,A,"A mistake that has already been made, but has not yet caused an accident.",Receiving bad instruction from a manager who is out of touch with maintenance.,A failure which could not have been predicted.
+9,332,What happens when you break the 'chain of error'?.,C,Accident happens.,Pilot submits report within 72 hours.,Accident does not happen.
+9,333,"If an engineer forgets to fit a seal to an engine drain plug, he or she has.",C,made an error of commission.,committed a violation.,made an error of omission.
+9,334,An engineer is performing a task in less than ideal conditions in order to meet an operational deadline is.,B,committed a routine error.,committing a situational violation.,making a rule based slip.
+9,335,An engineer who has developed his or her own method of performing a complex task.,C,should be commended for his/her resourcefulness,is performing a rule based behaviour.,is violating on a regular basis.
+9,336,"Engineers often work on raised platforms, ladders etc. What dangers can this contribute to?.",B,Staging may be made of wood.,Ladder may slip and man falls.,Two workers may be carrying out maintenance on the same lift.
+9,337,Risk assessment and management is.,A,reduction of risks to a tolerable standard and monitoring the situation.,the investigation of risks and totally removing them and the monitoring of new work practices.,choosing a cheaper supplier or manufacturer for parts.
+9,338,When carrying out a risk assessment.,B,a hard hat should be worn.,it is necessary to identify where equipment/procedures might fail.,Nothing.
+9,339,Accidents and engineering faults are. ,B,insignificant and decreasing.  ,significant and increasing.      ,insignificant and increasing. 
+9,340,Murphy's law is perpetuated mainly by.  ,C,violations.        ,poor aircraft design.    ,complacency.  
+9,341,Murphy's law can be regarded as the notion.             ,A,If something can go wrong it will'.     ,It can never happen to me'.     ,If something goes wrong I am certain to get the blame'.  
+9,342,A company's safety policy should be defined in.  ,C,in CAP 716.    ,the Maintenance Schedule.     ,the Maintenance Organization Exposition.    
+9,343,Which of the following is least associated with the study of human factors?.                      ,B,Ergonomics.    ,Health and Safety.      ,Human error.   
+9,344,The incident where a 737 lost oil from both engines is a direct result of. ,B,poor design.    ,human error.    ,engine vibration.         
+9,345,If a 737 had both engines serviced and lost oil from both engines in flight. This. ,B,can be expected to happen statistically due to the number of aircraft in service.      ,would be a direct result of human error.   ,can be considered an acceptable probability.
+9,346,What do you do when someone is hypothermic?. ,A,Warm them up.           ,Feed them sweet things because of their diabetes.     ,Give them a drink because of dehydration.    
+9,347,The percentage of accidents attributable to aircraft maintenance and inspection causes is. ,B,now less significant due to the introduction of more sophisticated aircraft.,significant and rising.,now less significant due to more advanced maintenance practices.
+9,348,What happened to contribute towards the incident in 1995 where a Boeing 737 lost oil pressure and had to divert?.  ,B,"Both warning indications were faulty, due to crossed connections. ",The HP rotor drive covers of both engines had not been refitted after a boroscope inspection. ,The boroscope inspection had been inadequate.  
+9,349,What is the most common cause of in-flight engine shutdown?.  ,A,Incomplete installation.  ,"Improper fault isolation, inspection or test. ",Foreign object damage. 
+9,350,Most engineering related incidents are due to. ,B,installing dirty connectors. ,installing components incorrectly.,installing worn or old components. 
+9,351,What causes the most aircraft accidents?.  ,B,Technical faults.          ,Communication.          ,Misunderstanding between ATC and pilot on approach.
+9,352,70 - 80% of the total focusing ability of the eye is carried out by the. ,B,iris.      ,cornea. ,lens.     
+9,353,At what distance should a person without hearing difficulties be able to hear an average conversational voice in a quiet room. ,A,2 metres (6 feet).         ,3 metres (9 feet). ,1 metre (3 feet). 
+9,354,A perforated ear drum could occur if.      ,C,you were subjected to intermittent noise above 25 kHz. ,you blew your nose excessively.         ,you were subjected to continuous noise below 8 kHz.
+9,355,How long is the short term memory good for remembering 7 items?. ,B,30 to 60 seconds.        ,Up to 30 seconds.       ,Above 60 seconds.      
+9,356,What is white finger?.             ,A,A disorder of the finger which may occur through continuous use of pneumatic tools because of reduced blood flow.,A reaction when the white blood cells die and contaminate the fingers.,A skin disorder caused by extensive contact with oils and solvents.
+9,357,"When someone is working in an enclosed space (such a fuel tank), another person should be outside the space in constant communication to.               ",C,provide instructions to the tradesman.            ,ensure compliance with the maintenance manual.      ,for safety reasons.       
+9,358,The scientific study of measurements of the human body is known as.                    ,C,ergonomics.     ,physiology.      ,anthropometrics.         
+9,359,How long can the aural reflex protect the ear from loud noise?. ,C,5 seconds.   ,15 seconds.     ,15 minutes. 
+9,360,What part of the eye controls the amount of light that is allowed to enter the eye?.  ,B,The pupil.        ,The iris.  ,The cornea.      
+9,361,Learning of a routine by repeated practice is known as.    ,B,cognitive learning.       ,motor programming. ,episodic memory.        
+9,362,The ear is used to detect.    ,C,speed.  ,neither acceleration or speed.  ,acceleration.    
+9,363,Light enters the eye through the. ,A,cornea. ,visual cortex.   ,retina.  
+9,364,"To focus on a near object, the lens of the eye must.    ",C,be widened.    ,be flattened. ,be thickened.   
+9,365,Which type of memory is most susceptible to interference from external influences?. ,C,Long term.  ,Ultra short term.          ,Short term. 
+9,366,Peripheral vision is detected by the.               ,C,cones.  ,fovea.  ,rods.    
+9,367,Extreme discomfort experienced by a maintenance engineer due to working in a confined space is known as.  ,A,claustrophobia.            ,acrophobia.      ,agoraphobia.    
+9,368,What part of the eye is colour sensitive?.,B,The rods.         ,The cones.       ,The iris.           
+9,369,What type of lens is used to overcome short sightedness?.   ,A,Concave.,Bi-focal.          ,Convex.           
+9,370,The type of memory which is most easily influenced by a person's expectations of what should have happened is the.  ,C,long term memory.      ,semantic memory.       ,episodic memory. 
+9,371,The inability for the eyes to accommodate sufficiently is known as.,A,Presbyopia.      ,Hypermetropia.           ,myopia.           
+9,372,An aircraft maintenance engineer who wears glasses or contact lenses should.   ,C,not require their duties to be restricted providing they wear their glasses/contact lenses at all times they carry out their duties.      ,have their duties restricted accordingly.   ,not require their duties to be restricted providing they have frequent checks to ensure the adequacy of their glasses/contact lenses.     
+9,373,Ultra short term memory has a duration of about.  ,C,10 to 20 seconds.        ,80 - 100 milliseconds.,2 seconds.       
+9,374,What type of lens is used to correct long sightedness?.   ,B,Concave.         ,Convex.           ,Bi-focal.          
+9,375,Visual Acuity is the ability.    ,C,to differentiate between different colours. ,to detect objects in the peripheral vision.       ,of the eye to discriminate sharp detail at varying distances.
+9,376,The 'working memory' is.   ,B,long term memory.      ,short term memory.  ,ultra short term memory.         
+9,377,Colour defective vision affects.    ,A,almost 1 in 10 of men.            ,more women than men.           ,almost 1 in 10 of women.
+9,378,"At lower light levels, the visual sensing is performed mainly by the.             ",C,fovea.  ,cones.,rods.    
+9,379,"If an image formed on the retina of the eye is inverted relative to the viewers normal perception of the image, the viewer will.                    ",C,become disoriented and dizzy.,consciously mentally revert the image so as to make sense of his/her surroundings. ,behave and feel normal.          
+9,380,People with colour defective vision usually have difficulty differentiating between. ,A,red and green.,blue and yellow.          ,blue and green.  
+9,381,The 'cocktail party effect' is descriptive of.    ,A,selective attention.  ,divided attention.       ,focused attention.  
+9,382,Hypermetropia is the medical name for.  ,B,short sightedness.        ,long sightedness.         ,deafness.         
+9,383,What range of sound is usually impaired first with the onset of presbycusis?. ,A,High pitch sound.       ,Low pitch sound.       ,Mid range sound.        
+9,384,The amount of light which is allowed to enter the eye can vary by a factor of.                    ,B,500:1. ,5:1.      ,1:5. 
+9,385,Presbyopia often effects the eyes of people after the age of. ,B,55.       ,40.       ,70.       
+9,386,From what age does hearing ability normally begin to decline?.,C,40.       ,50.       ,30.       
+9,387,A person with 20/40 vision has.   ,A,worse eyesight as a person with 20/20 vision.  ,better eyesight than a person with 20/20 vision. ,the same eyesight as a person with 20/20 vision.     
+9,388,Long term memory capacity is usually.    ,A,unlimited.        ,4 - 8 years.,12 months.      
+9,389,The inability for the eyes to accommodate sufficiently is known as. ,C,myopia.           ,hypermetropia.            ,presbyopia.      
+9,390,Ultra short term memory has a duration of about.,B,10 to 20 seconds.  ,2 seconds.       ,80 - 100 milliseconds.
+9,391,The memory can be aided by.  ,A,a checklist.      ,memory checking.       ,mind logging.  
+9,392,In AWN 47 what is the recommended hearing test?. ,C,The ability to hear an average conversation voice at a distance of 10 feet. ,The ability to hear a certain noise at 8 feet.    ,The ability to hear an average conversation voice at a distance of 6 feet.  
+9,393,Iconic memory. ,B,stores sounds and lasts up to 2 seconds.  ,stores visual information and lasts up to 1/2 second.,stores visual information and lasts up to 2 seconds.   
+9,394,The first stage in information processing is.               ,C,decision.          ,memorizing.    ,perception.      
+9,395,"Information, if not rehearsed is lost in.    ",A,10 - 20 seconds.  ,1 minute.         ,30 - 40 seconds.
+9,396,"In AWN 47, what is the standard hearing test?.  ",A,The ability to hear a conversation in a quiet room at 2 metres.  ,The ability to hear a conversation in a quiet room at 10 metres. ,The ability to hear a conversation in a noisy room at 2 metres.  
+9,397,Information in the short term memory not rehearsed will be lost in.  ,A,10 - 20 seconds.          ,1 - 3 months.   ,2 - 3 weeks.     
+9,398,What is the CAA standard for vision?.    ,B,Acceptable uncorrected vision.  ,Acceptable corrected vision.   ,18/20 vision.    
+9,399,The average capacity of the working memory is about. ,A,7 chunks of information.  ,4 chunks of information.         ,12 chunks of information.       
+9,400,The retina is situated.  ,C,behind the cornea with the lens.,in front of the cornea. ,at the back of the eye with the optic nerve.
+9,401,Motor programme refers to.     ,B,motivational computer software.        ,a task that has been carried out so many times that it becomes automatic. ,a task that becomes programmed into short term memory.
+9,402,Memory which can be influenced by a persons expectations of what should have happened is.,C,echoic.,semantic.         ,episodic.          
+9,403,Information in the long term memory.                        ,B,is easily transferred to the short term memory.   ,is easily lost.    ,is only available under hypnosis. 
+9,404,How many things can be stored in the short term memory?. ,B,0 - 5.    ,9 - 15.  ,No limit.          
+9,405,"In the eye, the cones are used mainly in.   ",A,bright light to give fine detail.            ,bright light levels and they give poor colour vision.   ,low light levels and they give poor colour vision.      
+9,406,A person suffering from presbyopia would normally.  ,A,wear spectacles when reading or carrying out close detail work. ,have defective colour vision and not be allowed to carry out maintenance work on cable looms.    ,be short sighted and need to wear spectacles to see objects more than 30 cm away.  
+9,407,Noise signals are carried to the brain by the. ,B,sensory nerve. ,auditory nerve.            ,Eustachian nerve.  
+9,408,Poking sharp objects into the ear should be avoided as it is likely to result in.,C,tinnitus ringing.    ,conductive hearing loss.          ,tympanic membrane perforation.        
+9,409,Attention Getters are designed to.                 ,C,to gain the operators attention whilst allowing them to  continue with the task in hand. ,to make the operator focus his/her attention fully on the task in hand.,to get the operators full attention.
+9,410,At what maximum frequency does the human ear hear?. ,C,16 kHz.           ,8 kHz. ,20 kHz.           
+9,411,Motor programmes.                 ,C,are behaviour subroutines.,      require conscious thought to engage. ,are stored as working rules in long term memory.  
+9,412,The pupil of the eye grows smaller.                ,C,in condition of reduced light.,to focus the fovea.  ,in condition of increased light.           
+9,413,Conductive deafness can be caused by damage to the.     ,A,cochlea.           ,otoliths. ,semi circular canals.    
+9,414,Detail is best sensed by the ______ and movement best sensed by the ______.  ,C,the periphery and the periphery.     ,the periphery and fovea.         ,the fovea and periphery.         
+9,415,"If a person is colour blind, which colours would be most difficult to see?. ",A,Red and green.   ,Blue and red. ,Yellow and red.      
+9,416,Myopia is _______ and a ______ lens is needed to correct it.  ,C,long sightedness and concave.            ,short sightedness and convex. ,short sightedness and concave. 
+9,417,The Otoliths detect.                ,B,angular acceleration. ,linear acceleration.      ,both angular and linear acceleration.
+9,418,The nose.                     ,B,filters the air into the lungs.,"filters, warms and moistens the air into the lungs.  ",filters the air into the lungs.    
+9,419,The most common cause of myopia is.    ,C,weak accommodation.            ,a shortened eyeball.    ,an elongated eyeball.  
+9,420,What is peer group pressure?.   ,B,The influence the House of Lords have over the House of Commons.  ,Our behaviour influenced by our friends and colleagues.,The influence an individual has over a group of people.  
+9,421,A regular behaviour of an individual is known as.   ,B,the norm.         ,habit.   ,culture.            
+9,422,"In a discussion, the person who is most likely to be agreed with is. ",C,the person who repeats the point most times. ,the most argumentative person. ,the person with the highest status.    
+9,423,An engineer who has developed his own way of performing a task. ,A,is in regular violation. ,is improving maintenance efficiency. ,should be commended for his resourcefulness.          
+9,424,The aim of human factors programs within an organizations is. ,B,to safeguard the health and safety of maintenance personnel by reducing accidents in the workplace.   ,"to optimize the relationship between maintenance  personnel and systems with a view to improving safety,  efficiency and well-being. ","to reduce costs by increasing efficiency, safety and quality and decreasing waste through human error."
+9,425,An aircraft engineer who has 'responsibility'.,B,must be licensed on the particular type of aircraft. ,"are liable to be called to account as being in charge or control of, or answerable for something. ",is in a management position within their company hierarchy. 
+9,426,The impact of human factors and human error is most important to.  ,C,technicians and engineers.      ,planners and managers.,"It is equally important to technicians, engineers, planners and managers.      "
+9,427,Where are the responsibilities of Licensed Aircraft Engineers laid down?. ,A,AWN 3.          ,The Air Navigation Order.      ,CAP 715.        
+9,428,Diffusion of responsibility may occur.                       ,A,to an individual working as a member of a team. ,with certain people whether they are working in a team or alone.,to an individual working alone.  
+9,429,Risky shift' is.  ,C,the probability of being assigned to a work task which involves some element of risk or physical danger.  ,the name given to an inadequate shift handover.  ,the tendency for a group of workers to arrive at a course of action which is riskier than that which any individual member might pursue. 
+9,430,"To ensure that a technician remains reasonably current on the aircraft types to which they hold authorizations, they are required that. ",C,they have appropriate continuation/refresher training only. ,they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period only.,they are involved in at least 6 months of actual aircraft maintenance experience in any 2 year period and they have appropriate continuation/refresher training. 
+9,431,The difference between what a person 'can' do and what he 'will' do is largely determined by his.      ,A,motivation.,education and training.    ,physical and mental health.     
+9,432,Whose responsibility is it that an engineer remains current on new technology and procedures?.  ,C,The organization's.      ,The CAA's.     ,The engineer's.            
+9,433,"According to Maslow, safety needs (protection from potentially dangerous objects or situations). ",B,is the last need of human after all other needs have been satisfied.   ,"is second only to physiological needs (food drink, oxygen etc.). ",is the most primal need of humans.    
+9,434,The symptoms of de-motivation are very similar to the symptoms of. ,A,stress.  ,tiredness.  ,mental illness.  
+9,435,"The desire of an individual to 'conform' to a group by allowing one's opinions, attitudes and actions to be affected by prevailing conditions is known as.",A,peer pressure.  ,esteem needs.  ,culture issues.  
+9,436,Confirmation bias' is.              ,C,error in work carried out by a supervisor who has also inspected and signed for his own work.  ,an inspection of work carried out by an independent inspector or supervisor.,"the subconscious attention to evidence which confirms an engineer's beliefs, and inattention to evidence which contradicts his beliefs."
+9,437,A person with low self-esteem is.  ,A,more likely to conform to peer pressure.         ,less likely to conform to peer pressure.    ,Conformity to peer pressure is not affected by level of self-esteem. 
+9,438,Motivation is.  ,C,a reward or punishment designed to reduce errors.  ,a reward or punishment designed to increase work rate.        ,the thing that drives someone to do something.
+9,439,Peer pressure is       ,B,the perceived pressure to carry out a task in the same way your colleagues would.,the perceived pressure to conform to what you believe your colleagues expect of you.  ,Nothing   
+9,440,The eyesight of an engineer is the responsibility of.               ,C,the Quality Manager.  ,the optician. ,the engineer.    
+9,441,A good team is one where every member has.    ,B,an opinion.   ,an input.          ,a job.   
+9,442,AWN 47 states that the engineer.   ,C,is responsible for health and safety.,is responsible for the work he has signed for. ,does not report for work if unfit.        
+9,443,An effective group work is when. ,A,everyone contributes in some way. ,everyone discusses ideas and opinions.  ,everyone has a job to do.        
+9,444,Which of the following defines a peer pressure situation?. ,C,Your supervising manager pressuring you to complete  the current task on time. ,Your girlfriend telling you to go out with her.           ,Your colleagues pressuring you to work faster so they  can go home.           
+9,445,Successful working teams have the following attributes:-. ,A,Members participate in team activities but retain their own individual requirements.       ,All the members participate in team activities and  discussions.    ,All the team members work in isolation and therefore provide highly individual solutions to the same problems.  
+9,446,Good aircraft maintenance supervisory judgment is usually based upon.,A,knowledge and experience and reference to approved data. ,the evidence available and forceful management ability.  ,knowledge and experience and reference to course notes.   
+9,447,Organizational culture (whether good or bad) is best described as. ,A,the way we do things around here'. ,written procedures.     ,team resource management.  
+9,448,In an organization which practices human factors there is.     ,B,punishment for all violations.  ,no blame unless there is a deliberate violation.  ,a no blame culture.  
+9,449,A person can be said to be motivated if.         ,C,they cut corners to get the job done quickly. ,they are on a productivity bonus.       ,they are taking action to achieve something.  
+9,450,Group polarisation can result in.   ,A,a group making a more cautious or extreme decision.    ,a group making a better decision than the individual. ,members of the group not talking to one another. 
+9,451,Who is most likely to deviate from standard procedure?.      ,B,"Young, inexperienced man.    ","Over confident, young man. ",Old tired man.
+9,452,The ideal behaviour of a professional aircraft engineer is.    ,B,goal directed rather than person directed. ,both person and goal directed.  ,neither person or goal directed.   
+9,453,Information on drugs and alcohol can be found in.  ,B,BCARs.          ,AWN 47.  ,AWN 3.          
+9,454,If you have been prescribed new medicine by your doctor you should. ,C,continue with your normal shift pattern.  ,take 3 days off work to try out the new medication.,give the new medication a 24 hour trial.       
+9,455,After a general anaesthetic you should.      ,B,return to work as soon as possible.,not return to work for at least 24 to 48 hours (depending on the individual).,take at least 7 days off work. 
+9,456,Your doctor has prescribed you tranquillizers as you are suffering from depression. You should.                ,C,not tell your employer and carry on work as normal.,tell your employer and carry on work as normal. ,not work at all when taking the tranquillizers.   
+9,457,The use of 'pep' pills by an aircraft engineer.  ,C,is recommended only when working late or on night shift. ,as they stimulate the senses and make you less prone to accidents. ,can only be used if prescribed by your doctor should never be done (except for coffee). 
+9,458,You are taking SUDAFED to relief nasal congestion.You should. ,C,stay away from work until you no longer require the SUDAFED.  ,continue to take them at work because SUDAFED has no side effects.,avoid making engineering decisions or performing  licensed duties. 
+9,459,What is slow wave sleep?.  ,B,Paradoxical sleep.       ,Stage 2- 4 sleep.          ,REM.  
+9,460,Phase 3/4 sleep.                       ,C,can be induced by alcohol.     ,occurs only once per sleep cycle. ,is most beneficial for the body's restoration.
+9,461,Human error can be caused by.    ,C,high body temperature.           ,normal body temperature.       ,low body temperature.
+9,462,What meal is most recommended after a long shift?.     ,A,High carbohydrates. ,Low carbohydrates.    ,High protein.   
+9,463,Long shift work will.,B,initially decrease your diagnostic and maintenance ability but eventually increase your diagnostic and maintenance ability as you get used to it. ,always decrease your diagnostic and maintenance ability.     ,always increase your diagnostic and maintenance ability. 
+9,464,The circadian cycle body temperature. ,C,does not vary.            ,varies by 1.5°C.           ,varies by 1.5°F.     
+9,465,Acute stress is.                        ,B,intense stress of long duration.  ,typically intense but of short duration.           ,a frequently reoccurring stress or of long duration.  
+9,466,Chronic stress is.  ,A,a frequently reoccurring stress or of long duration.    ,typically intense but of short duration.           ,intense stress of long duration.           
+9,467,Smoking cannabis.                  ,A,subtly impairs performance for up to 24 hours.   ,has only a short term affect upon performance.   ,has a noticeable affect on a persons behaviour and performance for up to 24 hours.  
+9,468,Performance is.                       ,A,inversely proportional to the individuals state of arousal. ,directly proportional to the individuals state of arousal. ,greatest only at one optimum level of arousal but diminishes as arousal decreases or increases.       
+9,469,Missing a break in an effort to get a job done within a certain time frame. ,B,can be done by those actually doing the job providing the supervisors take regular breaks. ,"can be counterproductive, as fatigue diminishes motor skills, perception, awareness and standards. ",can be done providing adequate rest period is available at the end of the shift.  
+9,470,Tiredness causes visual acuity to.      ,A,decrease.         ,Visual acuity is not affected by tiredness.      ,increase.          
+9,471,Narrowing of attention occurs at. ,C,low levels of arousal.,both high and low levels of arousal.  ,high levels of arousal.
+9,472,The blood/alcohol limit is.                   ,A,"20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and 80 milligrams of alcohol per 100 millilitres of blood for maintenance engineers.      ",40 milligrams of alcohol per 100 millilitres of blood.,"20 milligrams of alcohol per 100 millilitres of blood for commercial aircrew, air traffic controllers and maintenance engineers."
+9,473,Paradoxical sleep is also known as.                ,C,Stage 3 sleep.  ,Stage 4 sleep.,REM sleep.  
+9,474,When taking medicine for the first time.                    ,A,take the first dose at least 24 hours before any duty to ensure that it does not have any adverse effects.            ,absent yourself from work for the duration of use of the medicine. ,consult a doctor if you need to carry out any duties.
+9,475,For a man to maintain his fitness and health the conducive maximum recommended alcohol intake is. ,B,3 - 4 units per week.    ,28 units per week.       ,28 units per day.         
+9,476,Human Circadian rhythms cycle on a.                        ,A,25 hour timescale. ,8 hour timescale.         ,24 hour time scale.  
+9,477,Removal of alcohol from the blood stream.  ,B,can be speeded up by sleeping.  ,cannot be speeded up.            ,can be speeded up by drinking strong coffee.            
+9,478,"For a person with normal Circadian rhythms, the body temperature will be lowest.   ",A,between 4 and 6 o'clock in the morning. ,upon waking.  ,at midday.     
+9,479,If a maintenance engineer has a cold or flu he should.                       ,C,only absent himself from duty if his work contract includes sickness pay.  ,only absent himself from duty if there are no staff  shortages at his workplace or within his work team.   ,"absent himself from duty until fully recovered, regardless of other factors.  "
+9,480,Consumption of alcohol.       ,A,increases mental and physical reaction times.,has no affect upon mental and physical reaction times.   ,decreases mental and physical reaction times.      
+9,481,Alertness and performance is reduced when the body temperature is.,B,above normal.  ,below normal. ,either above or below normal. 
+9,482,A good rule of thumb for an adequate amount of sleep is.  ,A,one hour of high quality sleep is good for two hours of activity.  ,two hours of high quality sleep is good for one hour of activity. ,one hour of high quality sleep is good for one hour of activity.  
+9,483,"Finding that familiar tasks (such as programming the video recorder) seems more complicated than usual, could be an early indication of.  ",B,acute stress.     ,chronic fatigue.           ,a cold or flu.    
+9,484,The only permitted stimulant is.      ,B,bromine.,caffeine.          ,amphetamine.
+9,485,Large amounts of caffeine can. ,A,"cause anxiety, headaches and stress.",reduce anxiety and stress.   ,improve alertness and increase awareness.     
+9,486,The symptoms of stress are.    ,C,"violence, sickness, absence from work, drug and alcohol abuse.",indications of improved work performance.,"irritability, forgetfulness, sickness, absence from work, drug and alcohol abuse. "
+9,487,Sleeping tablets can. ,A,slow reaction and dull the senses.   ,increase alertness after waking the following morning.,help REM sleep and realign circadian rhythms.   
+9,488,Information for certifying staff when medically unfit is found in.,B,AWN 3.          ,AWN 47.   ,ANO.  
+9,489,What effect would the consumption of 3 - 5 units ofalcohol?.  ,A,Loss of quality of sleep. ,Low REM sleep.         ,A drop in body temperature.  
+9,490,Long shift work.    ,A,decreases the ability to recognize defects.  ,increases the ability to recognize defects.  ,has no effect on the ability to recognize defects. 
+9,491,Circadian Rhythms control.                ,A,body temperature.       ,urine output.    ,sleeping patterns.        
+9,492,A stimulant allowed to be taken without a doctor's prescription is. ,B,bromine.          ,caffeine.          ,antihistamine.
+9,493,The conditions laid down in AWN 47 are applicable to aircraft engineers.,B,who sign for work completed.   ,when under the influence of drink or drugs. ,for their safety at work.          
+9,494,Consumption of 3 - 4 units of alcohol before sleep can.    ,B,increase REM sleep.    ,decrease the quality of sleep.  ,lower the body temperature.   
+9,495,"The cycles of body temperature, sleep requirement and alertness are called.             ",B,earth cycles.    ,circadian rhythms.       ,ecto - meridian cycles.  
+9,496,The intake of caffeine in moderate quantities can result in.  ,C,"anxiety, headaches and negative mood states.           ",lack of sleep and subsequent disruption to the circadian rhythms.,a temporary increase in the ability to sustain vigilance and increased alertness.        
+9,497,Working excessively long shifts during unsociable hours can lead to. ,A,decreased ability to detect defects during aircraft maintenance.       ,an increased immunity to stress.   ,increased ability to detect defects during aircraft maintenance.  
+9,498,"In theory, human error is most likely to occur.",A,when the body temperature is at its lowest. ,during very hot weather.  ,when the body temperature is stable. 
+9,499,An individual suffering from stress when confronted with a task within his capability is likely to think the task is. ,C,too demanding.           ,not demanding enough.  ,someone else's responsibility. 
+9,500,AWN 47 does not mention.                ,C,pep's.   ,sudafed.          ,melatonin.       
+9,501,3 - 4 units of alcohol taken before sleep reduces.        ,A,both.    ,quantity of sleep.        ,quality of sleep.    
+9,502,Which is important in sleep?.              ,C,Quantity.         ,Quality.           ,Both.
+9,503,Stressors in the environment of noise and heat will cause.    ,C,no loss of attention.    ,a total loss of attention.          ,a loss of attention and a distraction.   
+9,504,"When going from day shift to night shift, efficiency. ",C,stays the same.            ,will drop off after the first four weeks.          ,will drop off in the first four weeks. 
+9,505,"When working on aircraft, the consumption of alcohol.   ",B,is permissible providing the drink driving limit is not exceeded.  ,you cannot work on aircraft even 8 hours after consuming large quantities of alcohol.,a certain amount is permissible.          
+9,506,Drinking 3 - 4 units of alcohol before sleeping results in.        ,B,loss of non-REM sleep.           ,loss of quality sleep.    ,a drop in body temperature. 
+9,507,What effect does alcohol have on sleep?.  ,A,Both.   ,Decreases quantity of sleep.   ,Decreases quality of sleep.      
+9,508,Narrowing of attention occurs in states of.        ,C,optimum arousal.         ,low arousal.   ,high arousal.    
+9,509,Hypoxia can.               ,B,cause a person to slip into a coma if they are not quickly warmed up again. ,impair the sensitivity of the rods and hence have a detrimental effect on eyesight. ,improve the night vision of the cones of the eyes.  
+9,510,You are taking prescribed drugs.    ,,"Carry on working, as long as you know the primary and secondary side effects.",95,83
+9,1,What is the basic definiton of human factors?,,12,53,62
+9,1,What can be said for incidents in aviation caused by human?,B,Human failures decreases as the times go on,It is increased to 80%,It decreases while the incidents caused by technology increases
+9,2,Which definition is true for hull loss?,A,Loss of airworthiness of aircraft after an accident,The accidents that are not really noticed by public,That is an unsignificant mistake corrected easily
+9,2,What are the reasons for aircraft accidents? How has the effect of factors been changing by time?,,95,38,65
+9,3, Which type of accidents are called Fender Bender? What are the costs caused by Fender Bender?,,54,75,40
+9,3,Which can not be the consequence of Fender Bender accidents?,C,"Change of crew, medical care of injured persons",Increase in assurance rate and rebooking of passengers,Improvement of the image due to fast solution of problem
+9,4,According to MacMurphy…,B,Many a little makes a mickle,If anything can go wrong it will,If you lie down with dogs you will rise up with fleas
+9,4,. Explain performance shaping factors by giving examples to internal and external PSFs.,,61,69,96
+9,5,What do you understand with the term ‘safety culture’? How can an individual gain it?,,87,58,43
+9,5,Which of the followings is not an element of internal PSF?,C,Stress,Education,Inadequate training support
+9,6,What are most recent PSFs?,A,"Insufficient type training, stress, inadequate working conditions","Medical condition, stress, trouble","Tools and equipment, education, frustration"
+9,6, Explain the responsibilities of left and right halfs of brain with examples.,,80,6,91
+9,7, What is claustrophobia? Which parts of aircraft is risky for claustrophobes?,,17,50,80
+9,7,Which of the followings can not be behaviour of certifying staff?,B,He asks help in case of ambigious situations,Working according to norms since he has enough training and experience,He is aware of unsafe situations and acts carefully
+9,8,What should be done in case of a mistake?,A,Take any afford to find out why this could happen,Take any afford to find out who made it,Assign blame to the person to make him/her understand the mistake
+9,8,. What is the phylosophy of Maslow’s Hierarchy? Explain the elements of it.,,32,37,72
+9,9, Identify a Professional person.,,20,59,14
+9,9,What is the range of hearing of a human?,A,20 Hz to 20 kHz,20 Hz to 200 Hz,"20 kHz to 20,000 kHz"
+9,10,Ear protection must be worn in areas exceeding …,C,120 dB,100 dB,80 dB
+9,10, What are the requirements for an employee? Why is family and supervisor company important,,18,41,93
+9,11, What are the elements of fitness? Explain 2 of them with short examples.,,44,52,22
+9,11,"Which of the following learning ways applies to processes such as memory, attention, perception etc.?",A,Cognitive learning,Motor learning,Affective learning
+9,12,Which is the responsibility of left brain?,B,"Musicality, artistic, intuition",Responsible for rational intelligence,Responsible for emotions
+9,12, What are the types of stress? Identify a negatively stressed person in a working area.,,18,49,5
+9,13, Explain the Pareto Principle.,,59,80,53
+9,13,Which is not true for claustrophobia?,C,It involves the fear of enclosed or confined spaces,Claustrophobes may suffer from panic attack,Indications of claustrophobia is activeness and comfort
+9,14,Which is true according to Maslow’s Hierarchy?,B,"The lower need in pyramid, the less powerfull it is",A person can only be motivated to a higher level if the lower one has been satisfied,Security is one of the first needs of human
+9,14, State the name of 7 elements of Dirt Dozen and explain 3 of them with short examples.,,59,49,90
+9,15, What are the variables of risk. Give an example for risk by using variables.,,51,32,95
+9,15,Which of the followings effects motivation of an employee negatively?,A,Mobbing,Recognition,Professional education
+9,16,Personal habits and desires may effect a group norm of attitudes and behaviours. How is that called?,C,Teamwork,Social psychology,Peer pressure
+9,16, What does the acronym SHELL stands for? Describe it with an example.,,81,87,39
+9,17, How can an error be handled?,,3,38,16
+9,17,Which is not function of management?,A,Ordering,Planning,Leading
+9,18,Which one is true for a Professional?,A,"Customer oriented, immediate service, orderliness","Good presentation, on Schedule, self oriented","Complacency, immediate service, consolidated knowledge"
+9,18, What is the main purpose of cause and effect diagram? Describe the six elements by categorising them.,,35,95,17
+9,19,Why are families and supervisor companies are important with respect to the requirements for an employee?,B,They are the financial sources,They support the employee to be successful in working life,"An employee doesnt need to make an effort to earn his/her living, they can do it instead of him/her"
+9,19, Explain 5 of the elements which effects significantly motivation of an employee.,,10,18,74
+9,20,what are the elements of ideal fitness triangle?,A,Mental and emotional health and physical fitness,"Physical activity, nutrition and emotional health","Intellect, intuition, body"
+9,23,How is negative stress called?,B,Eu-stress,Dis-stress,Processive stress
+9,24,"Which element of fitness states that ‘keeping business and work up-to-date, accepting changes in technology, undergoing training on new software, hardware and procedures’?",A,Intellect,Emotion,Intuition
+9,25,Which can be the consequence of time pressure?,B,Accomplishing a task immediately without any risk at the time,"Fatigue, stress and loss of efficiency","Self actualisation, feeling highly motivated"
+9,21,Any factor that causes stress is called…,B,Trouble,Stressor,Pressure
+9,22,How is positive stress called?,A,Eu-stress,Dis-stress,Processive stress

@@ -1,0 +1,1133 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+6,9,What is the meaning of Annealing?,B,Annealing is a thermal treatment below the re-crystallisation temperature,Annealing is carried out to bring work-hardened metals to their softsest condition,Annealing is another term of thermal treatment of heat-treatable alloys
+6,250,Adhesive process is twoparted.Theseare ...,A,Wettingandsetting,Spreadingandsetting,Wettingandgripping
+6,622,Which of the following is susceptible to the ingress of moisture?.,C,Glass fibre.,Carbon fibre.,Kevlar
+6,681,With what would you check the bonded joints of a wooden aircraft structure?.,A,A feeler gauge.,A plastic strip.,A screwdriver.
+6,720,Fabrics may be fitted to airframe structures by.,C,always riveting.,wood nails.,tying on with string.
+6,765,What is used to slow the drying time of some dope finishes to prevent blush?.,C,Rejuvenator.,Reducer,Retarder.
+6,766,Aluminium-pigment in dope is used primarily to.,A,exclude sunlight from the fabric.,provide a silver colour.,aid in sealing out moisture from the fabric.
+6,767,"From the following list of metals, which is most cathodic?.",C,Nickel,Magnesium.,Stainless steel.
+6,768,Corrosion may be regarded as the destruction of metal by.,A,electrochemical action.,hydroelectric action.,electromechanical action.
+6,769,Exfoliation corrosion is sometimes referred to as.,A,layer corrosion.,filiform corrosion.,sub-surface corrosion.
+6,770,"When dissimilar metals are brought together, or the same metal in different states, one metal forms the anode and the other the cathode. Which will suffer from corrosion?.",C,Both will corrode equally.,The cathode.,The anode.
+6,771,Which of these is a common cause of corrosion?.,B,Water in fuel.,Spilled battery acid.,Untreated metal.
+6,772,Electrochemical reaction is caused by the contact of.,B,bonding,moisture on the surface of the metal,dissimilar metals.
+6,773,Chemical attack is a direct result of.,B,intergranular corrosion.,cathodic & anodic changes in the material.,filiform corrosion.
+6,774,"In the galvanic series, the most noble metal will, if joined to another metal.",C,always be at the top of the table.,corrode before the less noble metal.,allow the less noble metal to corrode first.
+6,775,Stress corrosion is associated with.,C,cyclic loading and a corrosion pit.,a corrosion pit in a member under a compressive load.,a corrosion pit in a member under stress.
+6,776,"In a poorly produced repair to skin structure, where would stress corrosion start?.",A,Radiate from the corner or sharp edges.,Along the edges of repair.,Form internally to produce surface corrosion.
+6,777,Some metals are inherently stable. What does this suggest?.,A,They strongly resist corrosion.,They are highly prone to corrosion.,They try to revert to their natural state.
+6,778,The oxide film formed on the surface of aluminium is.,A,non-porous.,porous.,hard and porous.
+6,779,Corrosion control begins at the.,C,production stage.,manufacturing stage.,design stage.
+6,780,Aluminium is.,B,not resistant to corrosion.,highly resistant to corrosion.,reasonably resistant to corrosion.
+6,781,"When galvanic corrosion takes place, which part corrodes?.",A,Anode.,Oxide film coating.,Cathode
+6,782,Corrosion caused by galvanic action is the result of.,A,contact between two unlike,excessive anodization.,excessive etching.
+6,783,What sort of corrosion would a magneto be likely to encounter if completely enclosed?.,B,"None, providing the magneto is completely enclosed.",Direct chemical attack.,Pitting.
+6,784,What are the signs of fretting corrosion?.,A,Black powder or cocoa staining.,Intergranular cracking.,Flaking.
+6,785,Black streaks back from a rivet hole signify,C,galvanic corrosion.,intergrannular corrosion.,fretting.
+6,786,Intergranular corrosion.,B,can be recognized by a grey powder deposit.,may have no visual surface indication.,can be recognized by its flaking and lifting of the material layers.
+6,787,Active flux does what?.,B,Protects,Cleans.,Both cleans and protects.
+6,788,Jointing compound is used for what reason?.,A,To prevent dissimilar metal corrosion.,To bond the components together.,To make the components easier to disassemble.
+6,789,"After welding, stainless steel is susceptible to a corrosion known as.",B,weld deterioration.,weld decay.,weld rot.
+6,790,The lifting or flaking of the metal at the surface due to delamination of grain boundaries caused by the pressure of corrosion is.,B,exfoliation.,electrolysis.,transgranulation.
+6,791,The electrolytic process that forms an oxide film on the surface of aluminium alloys is known as.,B,galvanizing.,anodizing.,electroplating.
+6,792,What is the indication of fretting corrosion on aluminium alloy?.,A,Black powder.,Brown powder.,White powder.
+6,793,What action is taken to protect integral tanks from corrosion due to micro-biological growth?.,C,The inside of the tank is coated with yellow chromate.,Rubber liners are installed in the tank.,A biocidal additive is used in the fuel.
+6,794,Intergrannular corrosion in structural aluminium alloy parts.,B,are not likely to occur in parts fabricated from heat-treated sheet aluminium.,"may be detected by the white, powdery deposit formed on the surface of the metal.",cannot always be detected by surface indications.
+6,795,Magnesium alloy components are protected by.,A,an electro process.,a chemical process.,a painted process.
+6,796,"If it is necessary to remove corrosion from a steel component in-situ, the base of a suitable solution for this purpose is.",B,chromic acid.,phosphoric acid.,nitric acid.
+6,797,A type of protection which is applicable to magnesium alloys is the.,B,phosphate process.,chromating process.,coslettising process.
+6,798,Heavy corrosion deposits on clad aluminium alloys should be removed.,C,mechanically using a pneumatic vibrator.,chemically by use of trichloroethylene.,chemically by use of phosphoric acid.
+6,799,Anodic treatment of aluminium alloy gives.,C,a purple finish.,a shorter life due to hardening.,a pure coating of aluminium oxide on the surface.
+6,800,Fretting corrosion occurs where.,A,two material are subject to very slight movement between the two.,a deep scratch increases to become fretting corrosion.,pitting corrosion is allowed to become more pronounced.
+6,801,What is used to remove corrosion from magnesium?.,B,Phosphate acid solution.,Chromic acid solution.,Sulphuric acid solution.
+6,802,Surface corrosion on stainless steel is identified by.,C,red rust.,white film.,black pitting.
+6,803,"Hooks, wires and other suspension devices used in an anodic bath should be made of.",B,brass or copper.,aluminium or titanium.,steel or copper.
+6,804,Intercrystalline corrosion.,A,is detectable by x-rays.,is the same as exfoliation corrosion.,always appears as small surface cracks.
+6,805,The usual manufacturers anti-corrosion process to be applied to Fe aircraft parts is.,A,cadmium plating.,anodising.,metal spraying.
+6,806,Chromate treatment is applied to.,C,Al alloys.,Fe alloys.,magnesium alloys.
+6,807,Anti-corrosion treatment used on Magnesium is.,A,chromating.,electro-plating.,phosphating.
+6,808,Intergranular corrosion is also known as what?.,B,Stress corrosion.,Exfoliation.,Galvanic.
+6,809,"During construction, sharp internal corners and inaccessible places should be avoided to reduce.",C,filiform corrosion.,fretting corrosion.,crevice corrosion.
+6,810,To check the interior of tubular members for corrosion attack.,B,any form of test is acceptable.,ultra sonic testing is necessary.,dye penetrant testing should be used.
+6,811,Anodising is a form of.,A,artificial protection.,metallic coating.,sacrificial protection.
+6,812,The Alocrom 1200 process was designed to treat.,B,chromium plating.,small surfaces.,surfaces too large for dip treatment.
+6,813,The artificial production of a film of oxide on the surface of aluminium or any of its alloys is commonly called.,A,anodizing.,parco lubrizing.,alodizing.
+6,814,Alodizing protects alloy metal from corrosion and does what else?.,A,Makes a good surface for paint to adhere to.,Makes the surface alkaline.,Seals the surface from moisture.
+6,815,"When cleaning aircraft faying surfaces, a cause for concern is.",A,corrosion acting on the end faces of panels.,sharp corners etc trapping corrosive chemicals.,leaks into the fuselage.
+6,816,The form of corrosion most likely to cause stress concentration is.,C,Surface Corrosion.,Fretting Corrosion.,Pitting Corrosion.
+6,817,Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralise the acid?.,C,Sulphur and Lime.,Hot distilled water.,Sodium bicarbonate of soda.
+6,818,What colour is the corrosion found on the surface of aluminium alloys?.,A,White/Grey.,Green/Blue.,Black
+6,819,Corrosion on copper is identified by.,C,red/brown rust.,black powder.,green discolouration.
+6,820,"In the anodic film inspection and sealing test, if a good seal has been accomplished.",A,the dye mark will not rub off.,the dye mark has no importance.,the dye mark will rub off.
+6,821,Aluminium alloy parts are often protected by the.,C,Alocrom plating.,chromium plating process.,Alocrom 1200 process.
+6,822,Corrosion is always completely removed.,C,to prevent further damage.,to fit new parts.,to permit the extent of damage to be assessed.
+6,823,Corrosion on a copper alloy can be recognised by.,A,blue/green deposit.,white deposit.,grey deposit.
+6,824,Which of the following is a temporary protective measure?.,B,Sacrificial protection.,Chromating.,Paint finish.
+6,825,Which anti-corrosion chemical treatment is normally applied to aluminium alloys?.,B,Pure aluminium.,Anodising.,Cadmium.
+6,826,Spilled mercury on aluminium causes.,A,"greyish powder, fuzzy deposit or whiskery growth.",yellowish stains on surface of the metal.,black pits going into brown rust.
+6,827,A non-electrolytic chemical treatment for aluminium alloys to increase corrosion resistance and paint bonding qualities is called.,A,alodizing,anodizing.,dichromating.
+6,828,Which of the following are acceptable to use in cleaning anodized surfaces?.,B,"Steel wool, aluminium wool, fibre bristle brush.","Aluminium wool, fibre bristle brush.","Brass wire brush, stainless steel wire brush."
+6,829,A primary cause of intergranular corrosion is.,A,improper heat treatment.,improper application of primer.,dissimilar metal contact.
+6,830,Which of these materials is the most anodic?,A,Magnesium.,Cadmium.,7075-T6 aluminium alloy.
+6,831,Which of these materials is the most cathodic?.,C,2024 aluminium alloy.,Zinc,Stainless steel.
+6,832,The pitch of a screw thread is.,A,crest to root.,2 * crest to root.,crest to crest.
+6,833,A single start thread the lead is.,B,2 * pitch.,1 * pitch.,½ * pitch.
+6,834,A wire thread insert tap is.,A,supplied in a fitting kit.,slightly larger than the hole.,slightly smaller than the hole.
+6,835,Multi-start threads.,B,increase the lead and decrease the pitch.,increase the lead without increasing the pitch.,increase the lead and the pitch.
+6,836,Buttress threads are used.,B,to transmit power in both directions.,to transmit power on one direction.,on nuts and bolts.
+6,837,The lead on a single start thread is.,A,1 * the pitch.,2 * the pitch.,1/2 the pitch.
+6,838,Colour identification of an aluminium rivet is.,A,black,violet.,green.
+6,839,"For a wire insert thread repair, the hole is tapped using.",B,the same size.,a special tap supplied with the kit.,the next size up.
+6,840,The angle of a screw thread is.,B,half the inclusive angle of the thread sides.,the inclusive angle of the thread sides.,the distance the thread moves in one turn.
+6,841,The tang of a thread insert.,A,may left it in the insert after installation.,is removed with a hammer and a punch.,must be removed.
+6,842,A thread insert may be removed by.,A,a blade removal tool.,a hammer and punch.,a pre-wind insertion tool.
+6,843,A metric screw thread angle is.,C,7 °.,57 °.,60 °.
+6,844,Which thread type has the better vibration resistance?.,A,A fine thread.,A course thread.,Courseness or fineness of thread has no bearing on the vibration resistance.
+6,845,Which of the following thread designations is most fatigue resistant?.,C,UNF.,UNC.,UNJF.
+6,846,Which thread type has a 55 ° angle?.,B,Metric.,Whitworth.,UNF.
+6,847,What sort of surface treatment would you find on a magnesium casting?.,C,Anodizing.,Phosphating.,Chromating.
+6,848,What is the nominal length of a UNF bolt?,B,Under head to end of the threads.,Under head to screw threads (i.e. plain shank).,The length of the threads.
+6,849,Where should you not use a nyloc nut?.,A,Temperatures above 120 °C.,Temperatures above 200 °C.,Temperatures above 250 °C.
+6,850,What is the nominal screw length?.,A,The overall length of a countersunk screw and the non-threaded portion of a bolt.,The overall length of a bolt (from under the head) and the overall length of a screw (including the head).,"The length of thread for a bolt, overall length for a countersunk screw."
+6,851,A unified thread is identified by.,C,an 'X' on the head.,a raise ring on the head.,2 or 3 rings on the head.
+6,852,An AN steel bolt is identified by what marking on the head?.,C,A dash.,14E.,An 'x'.
+6,853,A British close tolerance bolt is identified by.,A,a raised ring on the head.,an 'X' on the head.,a dropped collar under the head.
+6,854,Studs which have a size larger thread at one end are called.,A,stepped studs.,shouldered studs.,plain studs.
+6,855,A bolt with a raised dash is.,C,AN standard.,close tolerance.,Corrosion Resistant Steel.
+6,856,A dowel will take what loads?.,A,shear.,tensile.,torsion.
+6,857,Dzuz Fasteners provide,C,for easy hammering into position.,a close tolerance fit.,quick release fasteners at inspection panels.
+6,858,The initials U.N.C when related to aircraft bolts stands for.,B,United National Countersunk.,Unified National Coarse.,Unified National Centred.
+6,859,A bolt part number AN25C15 when compared to a bolt part number AN25-15 has.,B,a less expensive design and product costs.,a higher resistance to corrosion.,a higher pitch thread.
+6,860,The head marking on a close tolerance BSF bolt is.,B,a series of dots on the head face.,a raised disk on the head face.,a lowered ring under the hexagon
+6,861,"In the drawing, what letter represents the nominal length of a BSF bolt?.",A,A,B,C
+6,862,An aluminium alloy bolt may be identified by.,C,its colour (dyed black).,the letter A stamped on the head.,its colour (dyed green).
+6,863,A (British) 3/8 inch dia. UNF bolt will have the diameter code letter.,C,N,Green/Blue.,J
+6,864,An AN steel bolt is identified by.,B,on head.,X on head.,plain bolt.
+6,865,Rivnuts were originally used for.,B,securing structural parts.,securing rubber de-icing boots.,securing cabin floorings.
+6,866,Fork end fittings on control rod ends should have.,C,anti vibration compound.,0.002 inch axial movement.,bolt heads fitted upwards.
+6,867,The AN526 truss-head screw.,C,provides a good clamping force.,is a widely used recesses head machine screw.,is a pan-head screw.
+6,868,Capped nuts are used.,C,prevent overtightening due to the threaded portion being restricted by the cap.,to provide a dry torque joint.,to stop leaks.
+6,869,A pin in a fork end fitting is subjected to what loading?.,A,Shear.,Tensile.,Torsion
+6,870,Hylocks.,B,require lubrication of the screw part only.,are pre-lubricated.,do not require lubrication.
+6,871,UNF means.,A,unified fine.,union national fine.,united nations fine.
+6,872,A clevis bolt in a control cable fork end would be loaded in.,A,shear,tension.,both tension and shear.
+6,873,A main difference between Lockbolt/Hucbolt tension and shear fasteners (other than their application) is in the.,C,shape of the head.,method of installation.,number of locking collar grooves.
+6,874,One of the main advantages of the Hi-Lok type fasteners over earlier generations is that.,A,they can be installed with ordinary hand-tools.,they can be removed and reused again.,"the squeezed on collar installation provides a more secure, tighter fit."
+6,875,The markings on the head of a Dzus fastener identify the.,A,"body diameter, type of head and length of the fastener.","body type, head diameter and type of material.",manufacturer and type of material.
+6,876,"The Dzus turnlock fastener consists of a stud, grommet, and receptacle. The stud length is measured in.",C,sixteenths of an inch.,tenths of an inch.,hundredths of an inch.
+6,877,Threaded rivets (Rivnuts) are commonly used to.,B,join two or more pieces of sheet metal where shear strength is desired.,attach parts or components with screws to sheet metal.,join two or more pieces of sheet metal where bearing strength is desired.
+6,878,Aircraft bolts with a cross or asterisk marked on the bolt-head are.,B,made of aluminium alloy.,a standard steel bolts.,close tolerance bolts.
+6,879,A bolt with a single dash on the head is classified as an.,B,NAS standard aircraft bolt.,AN corrosion resistant steel bolt.,NAS close tolerance bolt.
+6,880,A bolt with an 'X' inside a triangle on the head is classified as an.,B,NAS standard aircraft bolt.,NAS close tolerance bolt.,AN corrosion resistant steel bolt.
+6,881,Aircraft bolts are usually manufactured with a.,C,class 1 fit for the threads.,class 2 fit for the threads.,class 3 fit for the threads.
+6,882,The cage of an Instrument Mounting nut is made from.,C,steel.,brass.,phosphor bronze.
+6,883,The speed nut of an Instrument Mounting nut is made from.,A,brass,steel.,phosphor bronze.
+6,884,The length of a clevis bolt.,C,includes the head and the thread.,is the plain shank portion only.,includes the threads but not the head.
+6,885,How many times can a locking plate be used?.,A,indefinitely providing it is a good fit around the component to be locked.,"once, then discarded.","3 times, then discarded."
+6,886,The taper of a standard taper pin is.,A,1 in 48.,1 in 36.,1 in 20.
+6,887,"When using a spring washer, the plain washer would be fitted.",A,between spring and part.,between head and spring.,under the nut.
+6,888,How many times can you use a locking plate?.,B,Until all the tabs have been broken off.,As long as it remains serviceable.,Once only.
+6,889,Wire locking approach angles should not be less than.,A,45 °.,90 °.,10 °.
+6,890,A spring type washer when used on an aluminium component must be used.,A,with a plain washer.,by itself.,with a tab washer.
+6,891,Nickel alloy steel split pins can be used.,B,repeatedly provided they remain a good fit.,"only once, because the legs are spread and bent.",with a spring washer and a stiff nut.
+6,892,A pre-load indicating washer is correctly loaded when.,C,the inner ring rotates.,the inner ring is gripped.,the outer ring is gripped.
+6,893,The advantage of circlips is.,B,it can be used for both inner and external applications.,Both a and b.,it is cheap.
+6,894,A press fit requires.,B,the hole to be expanded by heat.,some sort of driving force.,the shaft to be shrunk by cooling.
+6,895,A non metallic locknut is.,A,never used over 250 °F.,never torqued.,never re-used.
+6,896,"A tab washer has been removed after fitment for a short time from a non essential system, the tab washer may be.",C,re-used.,re-used if a spare is not available.,not re-used.
+6,897,"In the drawing, both bolts are correctly wire locked when.",A,both A and B are right hand threads.,A is a right hand thread and B is a left hand thread.,both A and B are left hand threads.
+6,898,A turnbuckle locknut is a.,A,stiff nut.,slotted nut.,castle nut.
+6,899,An internal circlip can be used to.,A,retain a ball bearing in a housing,to do both of the above.,retain a ball bearing on a shaft.
+6,900,A washer having both twisted teeth and spring actions is.,B,AN970 large-area flat washer.,AN936 shake-proof lock washer.,AN935 split-ring lock washer.
+6,901,Split pins.,A,may be used only once.,can be used more than once but depends on the material of the split pin.,may be used more than once.
+6,902,How is the locking feature of the fibre-type locknut obtained?.,B,By a fibre insert held firmly in place at the base of the load carrying section.,By the use of an unthreaded fibre locking insert.,By making the threads in the fibre insert slightly smaller than those in the load carrying section.
+6,903,Split pins are made from.,C,"brass or Low carbon steel - cadmium plated,.",brass or stainless steel.,"Low carbon steel - cadmium plated, or stainless steel."
+6,904,Forming a solution treated rivet gives it 75% of its hardness. What gives it the other 25%?.,A,Leave at room temperature for four hours.,Precipitation treat the component when forming is complete.,Put them in a refrigerator.
+6,905,"If D or DD rivets are not formed in time , or removed from the freezer in time, they.",B,must be discarded.,must be re-heat treated before use.,can be re-heat treated once then discarded.
+6,906,A joggle in a removed rivet is indication of what type of partial failure?,B,Bearing.,Shear,Compression.
+6,907,How is a British aluminium rivet identified?.,A,Black anodic finish.,Natural anodised finish.,Violet anodic finish.
+6,908,A BS rivet made from L36 would be what colour and marking?.,A,Black anodic with an 'A'.,Natural anodic with no marking.,Green anodic with an 'X'
+6,909,What do the letters and numbers on a British rivet mean?.,C,Material specification only.,Material and finish.,"Head shape, material and finish."
+6,910,A natural finish aluminium alloy rivet with a D on it is.,C,hiduminium L86.,aluminium L36.,duralumin L37.
+6,911,A 5% magnesium rivet is identified by.,B,violet anodise with 'S' on it.,green anodise with 'X' or an '8' on it.,black anodise with 'A' on it.
+6,912,What metal is suitable for riveting magnesium alloy?.,B,Monel metal.,5056 aluminium alloy.,1100 aluminium alloy.
+6,913,What metal is suitable for riveting alloy steel?.,B,Aluminium alloy.,Monel metal.,Mild steel.
+6,914,An aluminium alloy L37 rivet identification is.,C,X embossed.,O embossed.,D embossed.
+6,915,Rivet allowance is.,A,1.5d.,1d plus the thickness of the material.,1.5d plus the thickness of the material.
+6,916,D and DD rivets are refrigerated to.,C,precipitation harden.,increase age hardening.,retard age hardening.
+6,917,What do you do to 2017 and 2024 rivets after heat treatment?.,C,Leave for a minimum of 2 hours before using.,refrigerate for a minimum of 2 hours before using.,Use immediately or refrigerate.
+6,918,An American rivet with a cross on the head is.,C,2124 aluminium alloy.,2117 aluminium alloy.,5056 aluminium alloy.
+6,919,A countersunk rivet of the ‘SP’ series has a head style of.,C,20 °.,90 °.,100 °.
+6,920,The coding of a British rivet indicates.,C,length and diameter.,head type and colour.,material and head type.
+6,921,A factor which determines the minimum space between rivets is the.,B,thickness of the material being riveted.,diameter of the rivets being used.,length of the rivets being used.
+6,922,Joggles in removed rivet shanks would indicate partial.,B,torsion failure.,shear failure.,bearing failure.
+6,923,A rivet that has 5% magnesium is identified as.,B,anodic violet and has an X.,anodic green and has an X.,natural and has an m.
+6,924,Identification of British aluminium alloy rivets is with.,C,a part number on the head.,a letter and number code.,a colour and number stamped on the head.
+6,925,"If you can only gain limited access to both sides of a structure, what would you use to repair the structure?.",A,A hylok.,A blind rivet.,A pop rivet.
+6,926,"When a solid rivet is formed it only holds 75% of its shear strength, the other 25% comes from.",A,leaving assembly for 4 days to age harden.,heating the completed assembly.,cooling completed assembly.
+6,927,A rivet with no marking has the material code.,B,AD.,A.,D.
+6,928,Rivet MS20426 has what head type?.,A,CSK.,Universal.,Round.
+6,929,What is meant by the term Pitch Ratio?,C,The area of contact between the two sheets of metal when joining by rivets.,The distance between the hole and the edge of the material.,The distance between two holes.
+6,930,The length of solid rivets is in graduations of.,A,1/16 inch.,1/8 inch.,1/4 inch.
+6,931,"What would be the diameter and length of a solid rivet if the following markings are given, AS 162-408?.",C,"¼ inch dia, ½ inch length.","½ inch dia, 1 inch length.","1/8 inch dia, ½ inch length."
+6,932,What would the marking .5 indicate after the normal part number of a solid rivet?.,C,The rivet length in graduations of 1/8 inch.,The diameter of the rivet is half an inch.,Indicates close tolerance rivet.
+6,933,What is the pressure range for the Avdel Riveter type F?.,A,60 to 80 psi.,20 to 60 psi.,40 to 60 psi.
+6,934,What is the length of the operation stroke of the Avdel Riveter type F?.,A,½ inch.,7/8 inch.,1 inch.
+6,935,If a sheet of aluminium alloy of 0.032 and 0.064 is to be joined together the rivet should be.,B,0.032 plus 2D.,0.096 plus 1.5 D.,0.064 plus 1D.
+6,936,Where would a pop rivet with a break stem mandrel be used?.,A,In a closed structure.,Where the head can be retrieved.,Any situation calling for a pop rivet.
+6,937,A chobert rivet gun may be used.,A,until the end has worn 0.002 inch below nominal diameter.,indefinately.,once only.
+6,938,Avdel rivets are closed by.,B,a tapered mandrel.,broaching.,squeezing
+6,939,"Countersunk rivets have two angles of countersink, these are.",A,100 - 115 degrees.,125 - 135 degrees.,100 -160 degrees.
+6,940,A 'HUCK' rivet is similar in design to a.,C,blind rivet.,dome head rivet.,cherry rivet.
+6,941,What material is suitable for riveting steel?.,B,Aluminium alloy.,Monel.,Copper.
+6,942,Cadmium plated rivets should not be used where the temperature may exceed.,B,120 °C.,250 °C.,200 °C.
+6,943,What rivets should be used with nickel alloy steel?.,C,Aluminium Alloy.,Mild Steel.,Monel.
+6,944,What type loads cause the most rivet failures?.,C,Bearing.,Shear,Head.
+6,945,Rivet's main strength quality is to resist.,B,tensile loads.,shear loads.,torsion.
+6,946,"A plate 10 inches by 5 inches is to be riveted with 3 rows of rivets, with the normal 4D rivet spacing and 2 D edge distance. The rivets are AN460AD4-6. How many rivets are required?.",A,60,52,56
+6,947,A new rivet made of aluminium alloy is.,B,anodised with 's'.,anodised with 'x'.,anodised with 'd'.
+6,948,What type of heat treatment can be used on DD rivets?.,C,Annealing,Precipitation.,Solution Treatment.
+6,949,Cherrymax and Olympic-Lok rivets.,C,utilize a pulling tool for installation.,may be installed with ordinary hand tools.,"utilize a rivet gun, special rivet set, and bucking bar for installation."
+6,950,"Hole filling fasteners (for example, MS20470 rivets) should not be used in composite structures primarily because of the.",C,increased possibility of fretting corrosion in the fastener.,difficulty in forming a proper shop head,possibility of causing delamination.
+6,951,The dimensions of an MS20430AD-4-8 rivets are.,C,1/8 inch in diameter and 1/2 inch long.,4/16 inch in diameter and 8/32 inch long,1/8 inch in diameter and 1/4 inch long.
+6,952,The primary alloying agent of 2024-T36 rivets is indicated by the number.,B,20.,2.,24.
+6,953,Most rivets used in aircraft construction have.,B,a raised dot.,dimples.,smooth heads without markings.
+6,954,MS20426AD-6-5 indicates a countersunk rivet which has.,B,a shank length of 5/16 inch (excluding head).,an overall length of 5/16 inch.,a shank length of 5/32 inch (excluding head).
+6,955,Which rivet may be used as received without further treatment?.,B,2017-T3.,2117-T3.,2024-T4.
+6,956,The information on rivet grip length is in which rivet code quadrant?.,B,NW.,SE.,NE
+6,957,The NE rivet quadrant gives information on.,A,diameter and manufactured head location.,fastener identity.,head data.
+6,958,A square around the NW digit in the quadrant of a fastner would indicate.,C,interference fit fastener.,hi-lock to be used.,fluid tight fastner.
+6,959,The four quadrants on a quadrant rivet code system are designated.,C,"N, S, E, W.","top-left, top-right, bottom-left, bottom-right","NW, NE, SE, SW."
+6,960,"When replacing a hydraulic pipe, where would you find the correct replacement part?.",A,Parts catalogue.,Maintenance schedule.,Maintenance manual.
+6,961,How are flexible hoses categorised?.,A,By maximum pressure.,By diameter.,By length.
+6,962,What are the rigid pipes on gas turbine engines made from?.,A,Stainless steel.,Aluminium alloy.,Copper.
+6,963,How would you test a hydraulic hose?.,B,Pressure test 2.0 * working pressure.,Pressure test 1.5 * working pressure.,Pressure test 1.0 * working pressure.
+6,964,To prevent damage to seals on fitment you would.,B,compress and stretch them.,use a cardboard protector over the threaded portions.,use grease.
+6,965,Flexible pipes are identified by.,C,length.,diameter.,material
+6,966,A pipe carrying lubricant would be identified by the colour.,B,white.,yellow.,white and yellow.
+6,967,Which material is a hydraulic fluid hose made from?.,C,Rubber.,Butyl.,Teflon.
+6,968,Hydraulic pipes are made from.,B,1100 or 2020 H14.,annealed steel.,5056 or 7075.
+6,969,The continuous coloured line on a hose assembly,B,identifies hose material.,will assist in detection of any twist in an installed hose.,identifies fluid compatibility of hose.
+6,970,The storage life of a flexible hose can be up to but not exceeding.,A,5 years.,2 years.,4 years.
+6,971,The markings on a flexible hose must include the.,C,internal bore size.,manufacturers name.,date of manufacture.
+6,972,When fitting a replacement flexible hose.,B,"use the old one to apply the 'set',",ensure adequate clearance between the hose and the aircraft structure.,always pressure test before fitting.
+6,973,MIL-H-5606 hydraulic fluid O-rings are identified with a.,A,blue dot.,yellow dot.,yellow and white dot.
+6,974,What type of material would hydraulic pipes on an undercarriage leg or bay be made from?.,A,"Stainless steel, annealed, 14H.","7075, H14.","1100, 2024, in half hard state."
+6,975,A metal pipe has a small indentation. What are the limits?.,C,5% internal diameter.,10% of external diameter.,No dent on a bend.
+6,976,An aircraft pipe has a number stamped on it. It is the.,C,fluid it is carrying.,aircraft system.,serial number.
+6,977,The length of a straight hose assembly is measured.,B,between the outer faces of the union nuts.,between the extremities of the two nipples.,along the coloured line.
+6,978,Metal tubing fluid lines are sized by wall thickness and.,C,outside diameter and 1/32 inch increments.,inside diameter and 1/16 inch increments.,outside diameter and 1/16 inch increments.
+6,979,"A certain amount of slack must be left in a flexible hose during installation because, when under pressure, it.",B,expands in length and contracts in diameter.,contracts in length and expands in diameter.,expands in length and diameter.
+6,980,The term 'cold flow' is generally associated with,B,welding and sheet metal.,rubber hose.,vaporizing fuel.
+6,981,Flexible lines must be fitted with a slack.,A,of 5 - 8 % of the length.,of at least 10 - 12 % of the length.,to allow maximum flexing during operation.
+6,982,"The material specifications for a certain aircraft require that a replacement oil line be fabricated from3/4 inch, 0.072 5052-0 aluminium alloy tubing. What is the inside dimension of this tubing?.",B,0.688 inch.,0.606 inch.,0.750 inch.
+6,983,Flexible hose used in aircraft systems is classified in size according to the.,B,outside diameter.,inside diameter.,wall thickness.
+6,984,"Which tubings have the characteristics (high strength, abrasion resistance) necessary for use in a high pressure (3,000 PSI) hydraulic system for operation of landing gear and flaps?.",B,1100-1/2H or 3003-1/2H aluminium alloy.,Corrosion resistant steel annealed 1/4H.,2024-T or 5052-0 aluminium alloy.
+6,985,A gas or fluid line marked with the letters PHDAN.,B,"is a high pressure line. The letters mean Pressure High, Discharge at Nacelle.",is carrying a substance which may be dangerous to personnel.,is carrying a substance which cannot be made non-toxic.
+6,986,A 3/8 inch aircraft high pressure flexible hose compared to a 3/8 inch metal tubing used in the same system will.,A,have equivalent flow characteristics.,have about the same OD.,usually have interchangeable applications
+6,987,How do you assemble a banjo hose?.,C,Put a washer on the outside of the banjo only.,Put a washer on the inside of the banjo only.,Put washer either side of the banjo.
+6,1,Which type of hardness test use only the ball indenter?,A,Brinell Test,Vickers Test,Rockwell Test
+6,2,"Which definition is true, about Fatiguemeters ?",B,Fatiguq meters may be used to monitor stress levels on specific aircraft structures,Fatigue meters are used to check overall stress levels on aircraft and to monıtor the fatigue history of the aircraft,Their resistance varies proportional to the applied stress loading
+6,3,"The British Standards Institute (BS) use a numerical index system to identify the composition of various steels,In the number 10XX , What is the meaning of first and second digits ?",A,Plain carbon steels,Chromium steels,Nickel-chromium steels
+6,4,What does “Tenacity” mean?,C,The ability to resist tension forces applied to the metal,The property of being able to be permanently extended by a tensile force,The property of metal to resist deformation when subjected to a tensiile load
+6,5,“2330” steel contains more than ……. Nickel ?,B,"0,02","0,03","0,05"
+6,6,Which statement about Austenitic true ?,A,Austenitic steels are manufactured by heating the steel mixture above the critical temperature of approximatelt 850⁰C,"Austenitic steel contain a maximum of only 0,02% carbon",Austenitic steels are straight chromium alloys that harden intensely.
+6,7,A low carbon steel containing 36% nickel is known as ……. ?,C,Nickel/Chromium steel,Moly steel,Invar steel
+6,8,Which is not The main advantages of maraging steels ?,A,Cheaper,Much less distortion during heat treatments,Tougher
+6,10,Body-centered cubic lattice exist in ….. ?,C,Molybdenum,Cobalt,Tungsten
+6,11,Which charateristics are missing in cast iron materials?,A,High compression strength,Good casting,High tensile strength
+6,12,Which statement is true about types of Carburizing,B,Pack carburizing : The object is placed in basket in furnace,Salt bath carburizing : The object is heated to a suitable tempereature and then immersed in a hot,Gas carburizing: The object is sealed in a box containing a charcoal based carbon-rich powder and heated in a furnace
+6,13,Which type of hardness test true according to this :”Steel ball is forced into the surface of a test piece by means of a suitable standard load “ ?,B,The Vickers,The Brinell,The Rockwell
+6,79,Which directions habe a wood greatest strength?,B,Axially and Radially through the tree,Axially up and down the tree,Radially through the tree
+6,88,Which statement is true about cast iron ?,B,Tough,Heavy and brittle,Very malleable
+6,124,Which is the advantages of electric arc steel making ?,C,No impurities exist in finishned steel,Cheaper steel is produced,No gas fumes or impurities are produced
+6,152,"The drill bit to be used for stainles steel, What should have included angle ?",C,90 degrees,100 degrees,118 degrees
+6,156,How is an AN steel bolt identified ?,A,X on head,Plain bolt,on head
+6,159,What is a fusiable material ?,A,The ability of a metal to melt,The ability of a metal to be welded,The ability of two dissimilar metals to melt together
+6,174,What is the hardness of steel depends?,B,The iron austenite grain structure,Formation of cementite,Formation of pearlite into austenite
+6,198,Austenitic stainless steels are ….. ?,B,Magnetic,Non-magnetic,Hardened by heat treatment
+6,199,What is the main metal in the monel ?,A,Nickel,Aluminium,Stainless steel
+6,201,What should The sheet metal be stored ?,A,On its edge in raks to prevent scratching,Stacked flat to prevent bending of sheets,Above 25 degrees centigrade
+6,231,Which is not a classfied of Rolling Elements ?,C,Asymmetrical,Needle,Chamfer
+6,232,What is tensile strength ?,C,Abilitytoresistdeformation,Ability of a metal toresistwearandpenetration,Abilitytoresistthetensionforcesappliedto metal
+6,234,What is tough metal?,C,"A tough metal is one can be bent onewaythentheother, manytimesbefore it breaks",A tough metal is onewhich can be deformed a greatdealbycompressionbefore it showssigns of cracking,A tough metal is onewhich can be deformed a greatdealbytensionbefore it fractures
+6,235,What is T4 heattreatment?,B,Solitionheattreatedandartificiallyaged,Solitionheattreatedandnaturallyagedtosubstantiallystablecondition,Solitionheattreatedandstabilised
+6,236,Bringing  theworkhardened materials to their softest condition is...,A,Annealing,Carburizing,Nitriding
+6,237,Nickel steel is used for …,C,Tomakecuttingtools,Tomakeballand roller bearings,"Tomakebolts, keys, clevisesandpins"
+6,281,What number would a cobalt steel tested on brinell test have ?,C,100 to 175,300 to 400,600 to 700
+6,300,How would you adjust the temperature when you tempering the steel ?,C,It must be below from annealing temperature,It must be same as the annealing tempreature,It must be above from annealing temperature
+6,301,Why HC steel is harder at normal temperatures ?,B,Because it has more austenite,Because of the % of carbon in the granules,Because it has less austenite
+6,302,What it is that the hardness of steel depends upon ?,B,Upon formation of pearlite into austenite,Upon formation of cementite,Upon the iron austenite grain structure
+6,303,The Charpy test measures what ?,B,Strain,Impact Energy,Young Modulus
+6,304,Why we use Rockwell test ?,A,For hardness testing,For tensile testing,For fatigue testing
+6,306,What does MDSD stands for ?,C,Metal Surface Dimension Sector,Material Safety Data Sheet,Maximum Structural Design System
+6,316,If a steel is austenitic it will be ....,A,Non-Magnetic,Magnetic,Resistant to corrosion
+6,369,We refrigate the solution treated alloys to prevent start of natural age hardening.Refrigating is done about ....... degrees,A,-20,-30,-40
+6,374,When using British Standarts what does 6 number mean on coding 6xxx ?,B,Chrome-Molybdenum Steels,Chrome-Vanadium Steels,Nickel Steels
+6,375,A dowel is used to counter what load ?,B,Tension,Shear,Torsion
+6,376,Adding chromium to steel gives ....,C,Brittleness,Strength,Hardness
+6,377,Adding tungsten to steel gives ....,B,Brittleness,High temperature resistance,Corrosion resistance
+6,378,What is the lower critical point for steel ?,B,560 °C,723 °C,674 °C
+6,379,When 1 carbon atom chemically bounds with 3 iron atoms the result is called .....,C,Ferrite,Pearlite,Cementite
+6,395,"When normalising, the material is?",B,Quenched immediately,Left to cool in room temperature,Cooled slowly
+6,401,When examining a piece of metal through a magnifying glass hair line cracks would indicate,A,crevice corrosion,intergrannular corrosion,surface corrosion
+6,402,Steel is tempered,B,after hardening,before hardening,to increase hardening
+6,403,If a steel component is operated below the fatigue limit the fatigue life is,C,finite,infinite,depend on its proof stress
+6,411,Cast iron is,A,heavy and brittle,very malleable,tough
+6,412,Normalising steels,B,increases the hardness,relieves the stresses,increases toughness
+6,413,Exhaust systems are usually made from stainless steel which is susceptible to,B,surface corrosion,intergranular corrosion,filiform corrosion
+6,424,Which of the following could best be manufactured from Perspex panel?,A,A passenger window,A radome,A cockpit windscreen
+6,425,Austenitic stainless steels are,B,magnetic,non-magnetic,hardened by heat treatment
+6,448,Impact resistance measures the,A,material toughness,material hardness,material ductility
+6,449,A ferrous metal contains,A,iron,aluminium,magnesium
+6,461,What is the chemical characteristics of materials?,A,"Corrosion resistance,combustibility,toxicity,reactivity","Density,melting point,magnetisability,electrical and thermal conductivity","Hardness,strength,ductility,brittleness,toughness,elasticity,heat resistance."
+6,462,What is the physical characteristics of materials?,B,"Corrosion resistance,combustibility,toxicity,reactivity","Density,melting point,magnetisability,electrical and thermal conductivity","Hardness,strength,ductility,brittleness,toughness,elasticity,heat resistance."
+6,463,What is the mechanical characteristics of materials?,C,"Corrosion resistance,combustibility,toxicity,reactivity","Density,melting point,magnetisability,electrical and thermal conductivity","Hardness,strength,ductility,brittleness,toughness,elasticity,heat resistance."
+6,464,"How is the typical lattices configurations of Aluminium,copper and iron above 911 „C?",A,Face centered lattice,Body-centered lattice,Hexagonal lattice
+6,465,"How is the typical lattices configurations of Chrome ,vanadium,tungsten and iron below 911 „C?",B,Face centered lattice,Body-centered lattice,Hexagonal lattice
+6,466,How is the typical lattices configurations of Magnesium and titanium?,C,Face centered lattice,Body-centered lattice,Hexagonal lattice
+6,467,How many stainless steels are divided into groups?,C,"austenitic ,fermansitic","austenitic,fermansitic,malleabilsitic","austenitic,ferritic,martensitic"
+6,468,"it is relatively light weight, corrosion resistance, strength, toughness resistance to high temperatures. Which material is the above mentioned characteristics of?",C,Aluminium alloys,ferrus material,Stainless steel
+6,469,Tough Metal is:,A,"can be bent one way then the other, many times before it breaks.","the property of a material that enables it to resist penetration, wear or cutting.",can be deformed a great deal by tension before it fractures.
+6,470,Ductile metal is:,C,"can be bent one way then the other, many times before it breaks.","the property of a material that enables it to resist penetration, wear or cutting.",can be deformed a great deal by tension before it fractures
+6,471,Hardness is:,B,"can be bent one way then the other, many times before it breaks.","the property of a material that enables it to resist penetration, wear or cutting.",can be deformed a great deal by tension before it fractures
+6,472,The toughness of a material and its ability to resist mechanical shock is measured by,B,ductile test,impact test.,compression test
+6,473,The ductility of a material is usually found by means of,B,a compression test,a bend test.,impact test
+6,474,What is the meaning of Quench delay?,A,Quench delay' is the elapsed time between solution heat treatment and quenching.,The forming operations on heat-treatable alloys,the heat-up time for solution heat treatment
+6,479,"When drilling stainless steel, use a.",A,"drill ground to 120 °, slow cutting speed.","drill ground to 90 °, fast cutting speed.","drill ground to 90 °, slow cutting speed."
+6,480,How is a material galvanised?.,C,Sprayed with nickel solution.,Packed in a drum containing zinc dust and heated,Dipped in a bath of molten zinc.
+6,481,What temperature would steel be tempered at?.,C,At the annealing temperature.,Above the annealing temperature.,Below the annealing temperature.
+6,482,Tempering steel gives.,C,greater brittleness.,greater hardness.,relief of internal stress after hardening.
+6,483,The addition of chromium to steel will produce.,B,toughness.,hardness.,ductility.
+6,484,Chromium added to plain carbon steel.,A,increases it's resistance to corrosion.,turns it into a non-ferrous alloy.,makes the metal softer.
+6,485,The purpose of case hardening is to,A,produce a hard case over a tough core.,reduce the carbon in the steel.,introduce carbon into the steel.
+6,486,At normal temperatures HC steel is harder because.,B,it has more austenite.,of the % of carbon in the granules.,it has less austenite.
+6,487,Medium carbon steels have a carbon content of.,A,0.3 - 0.5 %.,0.5 - 0.8 %.,0.8 - 1.05 %.
+6,488,A ferrous metal contains.,B,aluminium.,iron.,magnesium.
+6,489,With respect to ferrous metals which of the following is true?.,B,Iron is not any element of ferrous metals.,Iron is a main element and most ferrous metal are magnetic.,Iron is a main element and ferrous metals are not magnetic.
+6,490,The annealing process on steel is required sometimes as it.,C,provides a corrosion resistant layer that prevents oxidation.,allows the material a greater stress per unit area.,relieves internal stress suffered after engineering processes.
+6,491,Cobalt steel tested on the Brinell test would have a BHN number between.,C,100 to 175.,300 to 400.,600 to 700.
+6,492,If a material is found to be in the tertiary phase of creep the following procedure should be implemented:.,C,The component should under go dye penetrant process and condition monitored.,"The crack should be stop drill, condition monitoring should be applied.",The component should be replaced immediately.
+6,493,What is used for marking out steels?,C,Engineers blue.,Wax crayon.,Copper sulphate.
+6,494,Phosphating of steels is carried out by immersing the steel in to a solution of.,A,phosphoric acid and metal phosphates.,nitric acid and sulphur.,metal phosphates and sulphuric acid.
+6,495,Tempering entails.,A,heating under the UCP and slow cooling.,heating over the UCP and fast cooling.,heating over the UCP and slow cooling.
+6,496,The formation of steel depends upon.,B,the formation of pearlite into austenite.,the formation of austenite into pearlite.,the presence of pearlite in the structure.
+6,497,How is residual magnetism removed after an NDT examination?.,C,EMI.,EMC.,Degaussing.
+6,498,The hardness of steel depends upon.,B,formation of pearlite into austenite.,formation of cementite.,the iron austenite grain structure.
+6,499,The difference between annealing and normalizing is.,A,"both are heated above the UCT, cool slowly to anneal, cool in air to normalize.","both are heated below the UCT, cool in air to anneal, cool slowly to normalize.","both are heated above the UCT, cool in air to anneal, cool slowly to normalize."
+6,500,Normalizing of steel is done to.,A,remove residual stress of the manufacturing process.,make steel softer.,restore the fatigue life of steel.
+6,501,"When normalising, the material is.",B,quenched immediately.,left to cool in room temperature.,cooled slowly.
+6,502,Cast iron is.,C,very malleable.,ough.,heavy and brittle.
+6,503,Case hardening can be carried out on.,B,titanium.,any ferrous metal.,duralumin.
+6,504,When metal is first heated slightly above its critical temperature and then cooled rapidly it is common that the metal will increase in.,B,brittleness.,both of the above.,hardness
+6,505,Steel is tempered.,A,after hardening.,before hardening.,to increase hardening.
+6,506,A low carbon steel would normally be case hardened using.,C,the nitriding process.,flame or induction hardening.,pack or gas carburising.
+6,507,After a product has been manufactured and all heat treatment has been carried out the stress remaining if any is termed as.,A,residual stress.,working stress.,applied stress.
+6,508,Annealing steels.,B,toughens the metal.,makes the metal malleable.,makes the metal brittle.
+6,509,Tempering of hardened steel is carried out to.,C,"retain surface hardness, but soften the core.","retain core hardness, but soften the surface.",significantly reduce the brittleness without suffering a major drop in its strength.
+6,510,"High speed steel relies heavily on the following metallic element for its ability to cut other metals, even when it is heated to a dull red colour.",A,Tungsten.,Nickel.,Vanadium.
+6,511,"When a low carbon steel bolt is stretched beyond its elastic limit without breaking, it will.",C,deform temporarily.,become more ductile.,deform permanently.
+6,512,"1% Nickel, 1% Carbon, steel is widely used for.",B,exhaust valves.,ball and roller bearings.,high tensile steel bolts.
+6,513,Fatigue failure may be defined as.,C,failure caused by stress in excess of the material U.T.S.,failure due to impact.,reduction in strength due to alternating loads.
+6,514,Normalising steels.,C,increases toughness.,increases the hardness.,relieves the stresses
+6,515,Austenitic steel is produced when the material is heated to.,A,above the Upper Critical Point.,above the Lower Critical Point.,below the Upper Critical Point
+6,516,Steel is produced by refining pig iron where air/oxygen is blown through the molten material to remove.,A,carbon.,oxides.,sulphur.
+6,517,"During a Rockwell Hardness test, what dimension is measured?.",B,The diameter of the indent.,The depth of the indent.,The diameter and depth of the indent.
+6,518,What does the 0 in 2024-T3 mean?.,B,The percentage of impurities in the alloy.,The alloy has not been modified.,The alloy has been modified.
+6,520,Specified time of contact between the indentor and test piece in a vickers or brinell hardness test is.,C,20 seconds.,10 seconds.,15 seconds.
+6,521,In an Izod impact test the striking energy of the striker is approximately.,B,150 J.,163 J.,300 J.
+6,522,"The 'Fatigue limit' for steel is generally in the region of, compared to the static U.T.S.",C,40%-60%.,60%-80%.,20%-40%.
+6,523,The ability of mild steel to accept more load after the yield point is reached is due to.,B,necking.,strain hardening.,plasticisation.
+6,524,What is a Rockwell tester used for?.,A,Hardness Testing.,Tensile Testing.,Fatigue Testing.
+6,525,What type of test involves using a weighted pendulum to strike a material until fracture?.,B,Hardness Test.,Impact Resistance Test.,Fatigue Testing.
+6,526,Which of the folllowing are all hardness testing machines?.,C,"Rockwell, Brinell and Izod.","Rockwell, Vickers and Izod.","Rockwell, Brinell and Vickers."
+6,14,"What is meaning of the term, Cyclic Fatigue ?",C,This is caused by small scale rubbing movements,This is produced by stress fluctuations which contraction of a structure caused by temperature changes,This is caused by repeated fluctuatingloads which occur a great many times during the life of an aircarft
+6,15,Which type of aluminium alloy is used in Window Frames?,A,7075,7178,2024
+6,16,“ALclad 2024-T3” Which definition is true about “T3”?,A,Heat treatment,Modification,Thickness of cladding
+6,17,"Aluminium alloys are designates by a 4-digit system,”1100” What does number mean?",B,Copper,Pure aluminium,Silicon
+6,18,"Aluminium alloys are designates by a 4-digit system,”7178” What does number mean?",C,"Manganese,magnesium…","Magnesium,copper,chromium…","Zinc,Copper,magnesium…"
+6,19,whats does mean the second digits in Aluminium alloy number ?,B,%... pure,Modification,Developed
+6,20,“T6” heat treatment is …….?,A,Solution heat – treated and then artifically aged,Solution heat – treated and sabilised,"Solution heat-treated , artifically aged and then cold –worked"
+6,21,Which type of heat treatment is processed Cold working ?,C,T2,T7,T9
+6,22,“5056” aluminium alloy has a ……?,B,Dimple,Raised cross,3 raised radial dashes
+6,23,Which type of aluminium alloy has shank mark ?,A,6061,2117,7075
+6,24,The Exfoliation corrosion commonly occurs on aluminium that has appreciable amount of …..?,A,Zinc,Magnesium,Chromium
+6,25,Which is the properties of titanium ?,C,High thermal and electrical concuctivity,used for intricate casting and engine components,"High strength , high corrosion resistance, low thermal conductivity"
+6,26,Which non-ferrous metal falls under Noble metals?,B,Lead,Platinum,Copper
+6,27,Whats does “ Natural ageing “ mean?,A,Natural ageing is the ageing at room temperature after slotion heat treatment and quenching,Natural ageing is thermal treatment after solution heat treatment and quenching (100-200⁰C),Natural ageing is under conditions where the holding time and/or the temperature are greater than nose required to attain maximum strength values
+6,28,"Which type of Temper Designations according the this “ Solution heat-treated from any temper,quenched and artificially aged by user”?",C,T351,T6510,T62
+6,29,What is the using place of Acrylic on aircrafts ?,A,Widely used on making aircraft windows,These are particularly useful where light transmission is necessary,Commonly known as PVC.Rigid moulded sections or piping can be produced and also flexible electric cable insulation
+6,30,Polyurethanes ………?,B,Polyuretans can be extruded into fine flaments and woven into fabric or cast into shape,Polyuretans plastics may be used for rigid or flexible structures,Polyuretans can be used for reinforced laminates with glass fibre
+6,31,Buna N is a type of Elastomer and Buna N also known as …… ?,C,Buna S,Neoprene,Nitrile
+6,32,Silicon rubber has ……,A,very good high- and low temperature properties,exceptional high temperature properties,very good tensile properties
+6,33,Which is the Primary Advantages of Plastics,C,Lack of Strength,Poor dimension stability,Surface finish
+6,34,Which is the Elastomers‟ Mechanic properties ?,B,less Stiffness,Fatigue strength,Lower density
+6,35,……… used in aircarft systems is classfied in size according to the inside diameter?,A,Flexible hose,Rigid hose,Semi-rigid hose
+6,36,Reinforced plastics must have 3 situation . which situations are that?,A,"Stiffness,Strength,Impact Resistance","Impact Resistance,elasticity,hardness","Elasticity,Stiffness,Ductiliy"
+6,37,"What are Rigid pipes ,which using on gas turbine engines, made from?",A,Stainless steel and Titanium,Titanium and Aluminium,Magnesium and Zinc
+6,87,Which materials is case hardening can be carried out ?,C,Cadminium,Titanium,Any ferrous metal
+6,89,What does Alcad mean ?,C,Aluminium with duralumin coating,Duralumin with magnesium coating,Duralumin with aluminium coating
+6,97,Why are we using the magnesium alloys in aircraft ?,C,Silver surface due to protective coating,Shiny surface due to chromium plated on the surface,Yellowish surface due to protective treatment
+6,99,What is the purpose to an internal circlip ?,C,To do both of the above,Retain a ball bearing on a shaft,Retain a ball bearing in a housing
+6,100,What is the reason to clad alloy preferred to pure aluminium ?,A,Tougher,Less britle,More ductile
+6,103,"If buffing surface of aluminium , Which material removing that?",C,Alloy,Aluminium,Oxidised layer
+6,104,What is the flank angle of Whitworth Threads?,C,35 º,45 º,55 º
+6,110,How many type of stress on bonded joints is there ?,C,2,3,4
+6,119,Which is the true about Music steel wire ?,B,Made of high carbon or nickel alloy,Used for lower strength springs,Used for high strength aprings and as progressive-rate springs
+6,120,What is the sprecified time of contact between the indentor and test piece in a vickers or brinell hardness test?,B,10 seconds,15 seconds,20 seconds
+6,122,When the following solution treatment aluminium alloy can be placed into service?,A,After 96 hours,After 48 hours,Straight away
+6,123,How many times the solution treatment after manufacturers have performed it our once can be carried out a further ?,B,Once,Twice,3 Times
+6,125,What can Non heat treatable aluminium alloys be ?,C,Can‟t be softened,Can‟t be hardened,Can be harneded by strain hardening
+6,134,"In galvanic sresies , if joined to another metal , What will the most noble metal?",B,Always be at the top of the table,Allow the less noble metal to corrode first,Corrode before the less noble metal
+6,136,Why The clad aluminium Alloys are used in aircarft ?,A,Less subject top corrosion than uncoated aluminium alloys,Stronger than unclad aluminium alloys,Heat treat much easier than th eother forms of aluminium
+6,147,What is an advantage of a double flare on aluminium tubing ?,B,It is less resistance to the shearing effect of torque,It is more resistant to the shearing effect of torque,Ease of construction
+6,151,What statement is true about Brittleness ?,A,The property to resist deformation,The property to resist wear,The property to get deform before cracking
+6,172,Cadminium plated rivets shouldn‟t be used as temperature ?,B,150⁰C,250⁰C,350⁰C
+6,173,"If the temperature increases ona hot bond repair is paused, Which is it known as ?",A,Arrest point,Ramping down,Ramping up
+6,175,How is residual magnetism removed ?,C,EMI,EMC,Degaussing
+6,178,Spilled mercury on aluminium …?,C,May cause impaired corrosion resistance if let in prolonged contact,Increases susceptibility to hydrogen embrittlement,Causes rapid and severe corrosion in prolonged contact
+6,179,Why is the nickel chromium used in many exhaust systems …. ?,A,Corrosion resistant and low expansion coefficent,Lİghtweight and flexible,Corrosion resistant and high heat conductivity
+6,191,Which section is true about Titanium alloys ?,C,Corrosian resistant but heavy,Cheap to manufacture,Have a high strength to weight ratio
+6,192,Which of othe following could best be manufactured from perspex panel ?,A,A passenger window,A radome,A cockpit windscreen
+6,212,An S-N curve is useful in the design evaluation process for testing ..?,B,Shear force,Fatigue life,Tension
+6,219,Tempering entails…. ?,B,Heating over the UCP and fast cooling,Heating under the UCP and slow cooling,Heating over the UCP and slow cooling
+6,225,"What should made Hooks,wires and other suspension devices used in an anodic bath from?",C,Steel or copper,Brass or copper,Aluminium or Titanium
+6,228,The reinforcement layers placed over an inner linre determine the strength of a hose .What are Common reinforcement layers made from?,B,Glassfibre,Cotton,Copper
+6,241,Which aliminium material used in making of seattracks?,B,2024,7075,2020
+6,246,Advantages of a titanium material is ..,B,"Corrosionresistant,shearresistant","Lightweight,highstrength, temperatureresistant, corrosionresistant",Easilyformable
+6,247,Which material doesn‟tenterthewhite metal classification?,C,Tin,Lead,Copper
+6,252,Clad alloy can be treated....,B,Onceonly,3 times,As manytimes as required
+6,265,"When handling an 2024•T3 material, what you should be careful about?",B,Do not bend at sharpangles,Do not scratchormakenicks in it,Do not removethesurface of thesheet metal
+6,297,What will happen if you use excessive hardener on polyster resin ?,B,It will be a less stiff joint,It will reduce the pot life,The joint will be stiffer
+6,305,What is Young Modulus ?,C,It‟s a measure of strain,It‟s a measure of stress,It‟s a measure of stiffness
+6,308,What kind of structure types of an aircraft made of wood can be ?,C,Monocoque,Non- Monocoque,"Non- Monocoque, Semi Monocoque, Monocoque"
+6,309,What is the normal wood moisture of a wood of a wooden aircraft ?,A,%10 to 20,%0 to 2,%20 to 30
+6,323,What is the temperature range of heat curing?,C,50 to 110 °C,45 to 85 °C,30 to 180 °C
+6,325,What is creep?,B,A bonding operation in which assembly is subjected to pressure without the application of heat,Dimensional change with time of a material under load,Fine cracks that may extend in a network on or under the surface of or through a layer of adhesive
+6,326,If you ad a catalyst to a chemical reaction result will be .....,A,Increase on speed of reaction,Decrease on speed of reaction,Speed will stay same
+6,370,1.In normal aliminium alloys there are ...... on heat treatment can be carried out,A,No limit,4 times limit,6 times limit
+6,371,Which aliminium alloys are non heat treatable ?,C,2017 and 2024,5056 and 7075,"1100, 3003 and 5052"
+6,372,What is the aproximate alclad coating thickness ?,B,%10 of material thickness,%5 of material thickness,%2 of material thickness
+6,373,Which is not an advantages of polystyrene ?,C,Stiff,Inexpensive,Heat resistant
+6,386,Impact resistance measures the,A,material toughness,material hardness,material ductility
+6,393,The impact testing technique is used on a material to test for,B,hardness,toughness,shear strain
+6,404,Malleable material are,C,easy to forge,highly ductile,easy to cast
+6,405,Sound is best absorbed by a material which is,C,dense,hard,soft and porous
+6,426,Use of excessive hardener in polyester resin leads to,C,a less stiff joint,stiffer joint,reduced pot life
+6,437,The impact testing technique is used on a material to test for,B,hardness,toughness,shear strain
+6,438,With respect to ferrous metals which of the following is true?,B,Iron is not any element of ferrous metals,Iron is a main element and all ferrous metal are magnetic,Iron is a main element and ferrous metal are not magnetic
+6,447,In the tensile strength test,B,the material is pulled to limit of elasticity,the material is pulled to until it breaks,the material is pulled until it reaches its UTS
+6,450,What is Alumina?,B,Aluminium ore,A ceramic oxide of aluminium,An alloy of aluminium
+6,451,Brinell hardness testing measures,B,depth,diameter,area
+6,475,"Wrought aluminium and aluminium alloys are designated by a 4 - digit
+System. What is the meaning of the first digit of the number indicating?",A,the principal alloying,the amount of pure aluminium above 99 % in hundredths of 1 %,Material thickness
+6,476,Which material use for identation the Brinell Hardness Test?,B,diamond,hardened steel ball,case- hardened steel pyramid
+6,477,Which material use for identation the Vickers Pyramide Hardness test?,C,diamond,hardened steel ball,case- hardened steel pyramid
+6,478,Which material use for identation the Rockwell Hardness Test?,A,diamond,hardened steel ball,case- hardened steel pyramid
+6,527,The most suitable mixture for a salt bath operation is.,B,20% nitrate of soda and 80% sodium nitrate.,90% nitrate of soda and 10% sodium nitrate.,70% sodium chlorate and 30% sodium nitrate.
+6,528,How many times can clad alloy be heat treated?.,B,Once only.,3 times.,as many times as required.
+6,529,The symbol 'W' on a material indicates.,B,it is for use on aircraft mainplanes only.,it has been solution treated and will respond effectively to precipitation treatment.,it is for workshop use only.
+6,530,"For a particular metal material, what conditions are best to minimise creep?.",A,"Low stress, low temperature.","Low stress, high temperature.","High stress, low temperature."
+6,531,What is the effect of precipitation heat treatment on aluminium?.,A,It speeds up age hardening process.,It delays the age hardening process.,It softens the material to allow it to be worked.
+6,532,Aluminium exposed to air will.,B,oxidise and become weaker.,oxidise and become electrically insulated.,oxidise and become stronger.
+6,533,What care should you take with 2024-T3?.,A,Do not scratch or make nicks in it.,Do not bend at sharp angles.,Do not remove the surface of the sheet metal.
+6,535,If aluminium alloy is not quenched within the minimum time allowed after heat treatment is it will be,C,subject to corrosion.,malleable.,brittle.
+6,536,Anodizing protects alloy metal from corrosion and does what else?.,B,Seals the surface from moisture.,Makes a good surface for paint to adhere to.,Makes the surface alkaline.
+6,537,If caustic soda turns a material black what is it?.,A,Aluminium alloy.,Alclad.,Aluminium.
+6,538,What chemical is used to identify aluminium alloys?.,A,Caustic soda.,Copper sulphate.,Nitric acid.
+6,539,Pure aluminium is.,A,highly resistant to corrosion.,not resistant to corrosion.,reasonably resistant to corrosion.
+6,540,Precipitation treating makes the metal.,C,Precipitation treating makes the metal.,less strong and hard.,"harder, stronger and less ductile."
+6,541,A material has the code 2024-TH6 on it. Which part of the code indicates the percentage of the alloying element?.,B,H.,20.,6.
+6,542,Aluminium alloyed primarily with magnesium is numbered.,B,2025,5025,1025
+6,543,Heat treatment is shown on a British aluminium alloy by a.,C,letter and number code.,number code.,letter code
+6,544,Non heat treatable materials.,B,cannot be hardened.,can be hardened by strain hardening or cold working.,can be hardened by annealing.
+6,545,Which of the following metals is an aluminium silicon alloy used mainly for casting?.,C,Alclad.,Aldrey.,Alpax.
+6,546,Aircraft skin is joggled to.,A,provide smooth airflow at faying surfaces.,make a frame lighter but stronger.,conform to the aircraft contour.
+6,547,The British system of heat treatment codes is.,A,a series of letters.,numbers and letters.,a series of numbers.
+6,548,"In a sheet metal store the following is marked on a sheet of aluminium alloy: L162 (sheet 1). , On a different sheet the following marking is found: L172 (sheet 2). The following is true:",B,Sheet one has a shinier surface than sheet 2.,Sheet one is more ductile than sheet 2.,Sheet two is of a thicker gauge than sheet 1.
+6,549,Cold working of a material is used to reduce.,C,material hardness.,fatigue.,wear of manufacturing tools.
+6,550,Sheet metal should be stored.,B,above 25 degrees centigrade.,on its edge in racks to prevent scratching.,stacked flat to prevent bending of sheets.
+6,551,Clad aluminium alloy (alclad) has a pure aluminium coating of.,C,0.002.,1% of alloy thickness.,5% of alloy thickness.
+6,552,The main metal in monel is.,B,aluminium.,nickel.,stainless steel.
+6,553,A tube complying to BS T51 is.,C,tungum.,HTS tube.,high pressure seamless copper tube.
+6,554,Why is nickel chromium used in many exhaust systems?.,C,Corrosion resistant and high heat conductivity.,Lightweight and flexible.,Corrosion resistant and low expansion coefficient.
+6,555,Titanium alloys.,B,are cheap to manufacture.,have a high strength to weight ratio.,are corrosion resistant but heavy.
+6,556,Which part of the 2017-T36 aluminium alloy designation indicates the primary alloying agent used in its manufacture?.,B,20,2,17
+6,557,Non heat treatable aluminium alloys.,A,can be hardened by strain hardening.,cannot be softened.,cannot be hardened.
+6,558,Solution treatment after manufacturers have performed it once can be carried out a further.,B,1 time.,2 times.,3 times.
+6,559,Following solution treatment aluminium alloy can be placed into service.,A,after 5 days.,straight away.,after 24 hours.
+6,560,"When buffing surface of Aluminium Alloy, what material are you removing?.",A,Oxide layer.,Aluminium.,Alloy.
+6,561,Why is clad alloy preferred to pure Aluminium?.,C,Less brittle.,More ductile.,Tougher.
+6,562,"Why are aluminium alloys used on aircraft, instead of pure aluminium?.",A,Stronger.,Corrosion resistant.,Lighter.
+6,563,The magnesium alloys used in aircraft can be recognized by.,B,shiny surface due to chromium plated on the surface.,yellowish surface due to protective treatment.,silver surface due to protective coating.
+6,564,Age hardening of aluminium is.,A,never carried out.,a gradual hardening over a period of time.,not necessary.
+6,565,Titanium can be identified by placing it on a grinding wheel and looking for.,C,Red Sparks.,Yellow Sparks.,White Sparks.
+6,566,The critical process of heat treatment is.,A,"temperature, method of heating and cooling.",temperature and method of heating only.,method of heating only.
+6,567,Re-treatment of aluminium alloys can be performed by.,A,alocrom treatment.,brushing on phosphate treatment followed by paint.,selenious acid treatment.
+6,568,What is generally true for titanium alloy?.,A,It is stronger than the aluminium.,It is stronger than the steel.,It has lower density than magnesium.
+6,569,If a material has to undergo deep cold forming operation. The essential property would be.,B,ductility.,malleability.,elasticity.
+6,570,The metal which must not be heated in a salt bath is.,A,magnesium alloy.,duralumin.,rivets made of alclad.
+6,571,The colour code on sheet metal indicates,C,only the specification of the material.,the spec and gauge of the material.,that the material is from an approved source.
+6,572,"When two or more metallic materials are fused together, the combination is known as.",C,a composite material.,a thermosetting compound.,an alloy.
+6,573,Malleable materials are normally.,C,also highly ductile.,easy to cast.,easily forged.
+6,574,The common bonding material for Tungsten Carbide is.,,Invar.,Cobalt.,Silicon.
+6,575,Grain size will effect the mechanical properties of metal. Which of the following is true?.,A,Large grain size is attributed to slow cooling rates and will give less tensile strength.,Materials with large grain size are more prone to creep.,Small grain size is normally attributed to rapid cooling rates and will give less tensile strength.
+6,576,The cracking of structural members under repeated stress lower than the ultimate tensile load is known as.,B,creep.,fatigue failure.,stress reversal.
+6,577,A piece of duralumin has been annealed and bent into shape prior to fitting to an aircraft. Which of the following is correct? It must be.,B,fitted to the aircraft within 24 hours.,"solution treated, precipitation treated and fitted to the aircraft within 2 hours.",solution treated prior to fitting to an aircraft.
+6,578,A sheet of metal is designated 2024-T4. The code tells us that the material is a copper based aluminium alloy.,B,annealed and Naturally aged.,solution treated and naturally aged.,solution treated and artificially aged.
+6,579,A metal is coded 1285 using the IADS coding method. This means the metal is.,B,85% pure aluminium.,99.85% pure aluminium.,a copper based aluminium alloy i.e. duralumin.
+6,580,A material containing approximately 66% nickel and 33% copper is known as.,B,Nimonic.,Monel metal.,Invar
+6,581,Monel metal consists of approximately.,A,66% Chromium and 33% Copper.,66% Copper and 33% Nickel.,66% Nickel and 33% Copper.
+6,582,Silver solder is composed of the materials.,C,"Copper, Tin and Silver.","Zinc, Lead and Silver.","Copper, Zinc and Silver."
+6,583,"The ease with which a material can be forged, rolled and extruded without fracture is an indication of a material's.",A,malleability.,ductility.,brittleness
+6,584,What is fatigue?.,A,Cyclic stressing of a part.,Failure of a component due to corrosion,Constant stressing of a part.
+6,585,Why is stop drilling carried out at the end of a crack?.,B,To change the direction of the crack.,To stop the crack from propagating.,To increase the stress concentration at the crack end.
+6,586,Annealing of aluminium.,C,increases the tensile strength.,makes the material brittle.,removes stresses caused by forming.
+6,587,"In the Brinell hardness test, you would measure the indentation's.",C,depth.,area.,diameter.
+6,588,An S-N curve is useful in the design evaluation process for testing.,A,fatigue life.,shear force.,tension.
+6,589,What is a fusible material?.,B,The ability of two dissimilar metals to melt together.,The ability of a metal to melt.,The ability of a metal to be welded.
+6,590,Brittleness is.,B,the property to resist wear.,the property to not deform before cracking.,the property to resist deformation.
+6,591,The proof stress of a material is the stress at which.,B,the material yields.,small amount of permanent set takes place.,necking of the material begins.
+6,592,Young's Modulus is a measure of.,C,strain.,stress.,stiffness.
+6,593,"Hooke's law states that, within the elastic region, elastic strain is.",C,indirectly proportional to stress.,directly proportional to stress.,directly opposite to stress.
+6,594,The S.I. unit for strain is.,C,Nmm.,P.S.I.,no units.
+6,595,The value of stress for a given material can be derived by.,C,Cross sectional area / Load,Load * Cross sectional area.,Load / Cross sectional area.
+6,596,A material's yield strength is the ability to.,C,withstand a crushing force.,resist side loads.,resist deformation.
+6,597,What type of a test involves stretching material until it breaks?.,C,Fatigue Testing.,Hardness Testing.,Tensile Testing.
+6,1124,"When carbon is fully dissolved in iron and therefore uniformly distributed in solid solution, the metallurgical structure is called.",B,Ferrite.,Austenite.,Pearlite.
+6,1125,"When one carbon atom chemically combines with 3 iron atoms, the result is called.",C,Martensite.,Pearlite.,Cementite or Iron Carbide.
+6,1127,Pearlite combines the properties of.,C,martensite and iron carbide.,cementite and Martensite.,ferrite and cementite.
+6,1129,The properties of cementite metal are that it is both,B,soft and weak.,strong but too hard and brittle.,strong without being brittle.
+6,1130,"When heating a straight carbon steel, there is a hesitation (slight pause) in the temperature rise before it increases a further 200oC. This hesitation is known as the.",A,Lower Critical Point.,Upper Critical Point.,Eutectic Point.
+6,1131,"Referring to a iron/carbon phase diagram, when talking about U.C.P and L.C.P, the point where the two meet is known as the.",A,eutectic point.,hesitation point.,point of no return.
+6,38,Epoxy Resins have useful properties which make them superior to polyesters. Which is except ?,B,Very good resistance to chemicals,Possibly hazardous to health,Low shrinkage as they cure
+6,39,"Curing the polymer from a thick liquid to a strong solid is a chemical process , And This may be brought about by 2 type of curing . which are that ?",B,"Warm,Wet","Cold,Hot","Resin,Laminate"
+6,40,Which is the most commonly used method to apply pressure for composite repairs ?,C,Wet Lay-up,Filament Winding,Vacuum Baggig
+6,41,“………….. locates flaws by temperature variations at the surface of damaged part “. Blank is a type of inspection methods. Which is that ?,A,Thermografy,Laser Holograhy,Radiography
+6,42,What meant by the term “ X-ray test” ?,B,Used to detect interval flaws or areas suspected of delaminations,Used to detect cracks in th esurface as well as internal cracks that cannot be visually detected,"Used for the variations of a given response, internal damage,delaminations,flaws or other conditional are detected"
+6,43,"Mahogany,Balsa are hardwoods.Type of which hardwoods",A,Evergreen,Deciduos,Plywood
+6,44,"Softwoods usually used as a solid wood for spars , cap strips, and compression members and as a veneer for plywood cores. “………………. İs most important softwood in use” ?",C,Plywood,Birch,Sitka Spruce
+6,45,Which of materials is most cathodic ?,A,Glassfibre,Diatex,Ceconite
+6,46,"Cotton tape is the type of Reinforcing Tapes , And Cotton tape called ………..?",B,Surface,Egyptian,Finishing
+6,47,Which of materials is most cathodic ?,B,Aluminium,Stainless steel,Copper
+6,48,“………………thread is used for machine sewing and hang sewing fabrics ?,C,Nylon,Cord,Polyester
+6,49,There are two portable tester and these are The Maule tester and The Seyboth tester. “…….. tester is a spring loaded instrument with blunt pin on one end “ Which type of tester/testers is/are come the blank?,A,Maule,Seyboth,Both of them
+6,50,Which type of defects in fabric is depressed excessively fligt is unacceptable?,C,Exces Tensin,Coating cracks,Loose Fabric
+6,51,Which main fabrics are used to cover an aircraft?,A,"Glassfibre,Polyster,Cotton,Linen",")Glassfibre,Carbonfiber,Linen,Cotton","Neoprene,Polyester,Cotton;Linen"
+6,52,“…………….. thread is most commonly used in aviation ?,A,Vee,Buttress,Round
+6,83,“On a pre-preg composite ……………” Which statement is true ?,A,"No life extension is allowed, it must be used immediately",Life can be extended by 12 months if stored below 10⁰C,Life can be extended by 12 months if stored above 40⁰C
+6,90,Which definition is true about Anodising ?,A,A form of artificial protection,A form of sacrificial protection,A form of metallic coating
+6,105,"PVC is the type of Thermoplastic Material. In this case ,Which statement is true about PVC",A,Very good acid and alkali resistance,High impact strength,Rigid and wear resistamt
+6,106,Which is the Thermosetting Material ?,C,Polypropylene,Acrylic,Epoxy
+6,107,Which is the disadvantages of plastics ?,B,Low thermal conductivity,Its takes damage from UV lights,Vibration damping
+6,108,Polyester Resin (PR) is What type of Plastic?,A,Thermoset,Thermoplastic,Both
+6,109,There are three grades of Kevlar . What are that ?,C,"19,29,49","49,89,149","29,49,149"
+6,111,What does Elongation mean ?,A,The fractional increase in length of a material stressed in tension,Migration of adhesives from interior to the surface of plastic,A characteristic of hot melts in that they holding power even while in the liquid hot state
+6,112,What does Adhesive mean?,B,Compounds that retard the rate of oxidation of a polymer,A substance capable of holding material together bu surface attachment,The tangent of loss angel of the insulating material
+6,113,“………………… is a chemical reaction in which the molecules of a monomer are linked together to form large molecules whose molecular weight is a multiple of that of the original substance .” ?,B,Resin,Polymerisation,Endothermic
+6,114,Polyester fabric obtains maximum tension on an airframe at ….. ?,A,350⁰F,320⁰F,300⁰F
+6,116,Stength of fibreglass is ………?,B,Either direction,Along the fibre,Across the fibre
+6,148,How can A turnbuckle be safetied ?,C,By teflon lock nuts,Doesnt require to be safety locked,By lock nuts and safety wirelocking
+6,169,What is the difference between annealing and normalizing ?,A,"Both are heated above the UCP , cool slowly to anneal , cool in air to normalize","Both are heated below the UCP,cool in air to anneal , cool slowly to normalize","Both are heated above the UCP , cool in air to anneal ,cool slowly normalize"
+6,204,Bubbles are removed from a wet composite lay-up by ….?,A,Use of a roller,Application of vacuum,Applicatin of pressure
+6,209,Bending of stretched honeycomb is …?,A,Across the web,With the web,Either way
+6,221,"When laying up a glassfibre repair , the extra layer of fibre is … ?",A,A sacrificial layer for sanding,For extra strength,For shrinkage
+6,223,When drilling a carbonfibre reinforced plastic use …. .?,A,A tungsten drill,A steel drill and carbide powder,A drill with a pointed tip
+6,233,What is plasticity?,A,Theabilitytoretain a deformationaftertheloadproducing it has +beenremoved,Theability of a metal toresistsuddenlyappliedloads,Abilitytoresistdeformation
+6,253,What is the largest hole in honeycomb can be repaired with microbaloons ?,A,2.54 cm,2.54 inches,2.54 mm
+6,264,Why would you use microbaloons as a filler ?,B,Itcross•linkswiththe panel,It is lightestfillingmaterial,It is thecheapest filler material
+6,271,Where would vacuum gauge placed during the vacuum baglay•up?,B,Nexttovacuum port,Oppositeside of thevacuum port,Overtherepair
+6,276,What is the maximum repair dimensions for the use of the microbaloons?,A,10 mm,20 mm,30 mm
+6,277,What is the strongest direction in fibrestrength?,A,Warp,Welf,Bias
+6,282,A thermosetting adhesive will give off ........ during the curing cycle,A,Heat,Static Radiation,Carbon monoxide
+6,284,On a honeycomb repair ........ used as the base covering,C,Plywood,Thick aliminium sheet,Glass cloth or thin aliminium sheet
+6,287,You would use ........ when drilling carbon fibre reinforced plastic,A,Tungsten drill,A drill with pointed tip,A steel drill and carbide power
+6,289,Why do we need an extra layer of fiber when laying up a fibre glass repair?,A,For a sacrifical layer for sanding,For extra strength,For shrinkage
+6,295,How do you remove bubbles from a wet composite lay-up?,C,By application of pressure,By application of vacuum,By using a roller
+6,307,What is the usually applied fibre to resin ratio for advanced composite wet lay-ups ?,C,60 to 40,50 to 50,40 to 60
+6,311,When anodic metal and cathodic metal brought together which will suffer from corrosion ?,B,There would be no corrosion risk,Anodic,Cathodic
+6,327,What is the temperature range of curing polymide adhesives?,A,260 to 350 °F,240 to 300 °F,380 to 500 °F
+6,328,What is the temperature range of curing bismaleimides adhesives ?,A,About 350 °F,About 250 °F,About 400 °F
+6,329,"Once cured, thermosetting resins .....",B,Can softened with heat,Cannot softened with heat,Can be formable
+6,330,Which statement is wrong for plastic laminates?,B,It enchances the surface of material,It decreases the strength and rigidity of many non-metalic structures,It provides a more durable surface to a softer material
+6,331,Ceramic Fibres can be used up to ...... degrees,C,1750,1800,1650
+6,332,What is the advantages of Carbon Fiber composite materials ?,A,It is stiff and strong,It is cheap and strong,It is resistant to corrosion
+6,406,A composite flap panel has corrosion. What NDT method will you use to detect?,B,High voltage x-ray,Low voltage x- ray,Coin tap test
+6,407,A composite flap panel has structural damage. What NDT method will you use to detect?,C,High volta x-ray,Low voltage x-ray,Coin tap test
+6,408,Pulleys are manufactured from,A,brass and phenolic resin,tungum and high tensile steel,stainless steel and nylon
+6,427,Bubbles are removed from a wet composite lay-up by,C,application of pressure,application of vacuum,use of a roller
+6,434,"Thermosetting adhesive, during their curing cycle give off",B,static radiation,heat,carbon monoxide
+6,435,"The effect of a lower temperature than ambient during the curing period of a resin, will cause the curing time to",A,increase,decrease,remain unchanged
+6,534,Composition of silver solder is.,C,tin and lead.,"tin, lead and silver.","tin, lead, silver and antimony."
+6,598,"Adhesives containing phenol-formaldehyde, to cure, requires.",B,room temperature.,high temperature.,low temperature.
+6,599,Two parts of the adhesive process are.,C,wetting and gripping.,spreading and setting.,wetting and setting.
+6,600,Types of adhesive joints are.,C,mechanical and cemented.,cemented and specific.,mechanical and specific.
+6,601,"What material would be used where a high temperature application is required, e.g. a firewall?.",C,Aramid (Kevlar) fibres.,Carbon/graphite fibres.,Ceramic fibres.
+6,602,Over extended honeycomb can bend in which direction?.,C,In all directions.,Across the ribbon.,Along the ribbon.
+6,603,Fibre weave strength is greatest in the direction of the.,B,weft.,warp.,bias.
+6,604,Which of these core materials will be used in the making of a composite material flat panel?.,A,Hexagonal core.,Rectangular core.,Flexible core.
+6,605,Which of the following could best be manufactured from Perspex panel?,A,A passenger window.,A radome.,A cockpit windscreen
+6,606,Kevlar and Nomex are types of.,B,glass fibre composite.,advanced composite.,aluminium alloy.
+6,607,Strength of fibreglass is.,B,either direction.,along the fibre.,across the fibre.
+6,608,Sound is best absorbed by a material which is.,B,dense.,soft and porous.,hard.
+6,609,The maximum tensile strength of fibre reinforced plastic is achieved using.,B,fibres uniformly distributed at 45 degrees to each other.,unidirectional fibres.,chopped strand mat.
+6,610,"Polyester resin and glass fibre cloth, becomes.",C,PTFE.,PVC.,GRP.
+6,611,A thermoplastic can be.,C,heated and formed only once.,is not affected by even low temperatures.,can be reheated and reformed more than once.
+6,612,An impact adhesive is part of the.,A,thermoplastic group.,thermoset group.,Anaerobic resin group.
+6,613,Sandwich panels made of metal honeycomb construction are used on modern aircraft because this type of construction.,B,may be repaired by gluing replacement skin to the inner core material with thermoplastic resin.,is lighter than single sheet skin of the same strength and is more corrosion resistant.,has a high strength to weight ratio.
+6,614,A category of plastic material that is capable of softening or flowing when reheated is described as a.,B,thermoset,thermoplastic.,thermocure
+6,615,The classification of high tensile strength fibreglass used in aircraft structures is.,C,G-glass.,E-glass.,S-glass.
+6,616,Which is the identifying characteristic of acrylic plastics?.,C,"Acetone will soften the plastic, but will not change its colour.",Has a yellowish tint when viewed from the edge.,Zinc chloride will have no effect.
+6,617,The classification for fibreglass reinforcement material that is high resistivity and the most common is.,A,E-glass,S-glass.,G-glass.
+6,618,Composite fabric material is considered to be the strongest in what direction?.,A,Warp.,Bias.,Weft.
+6,619,Which of the following are generally characteristic of aramid fibre (Kevlar) composites?.,C,High tensile strength and flexibility.,"Flexibility, stiffness and corrosive effect in contact with aluminium.","High tensile strength, stiffness and ability to conduct electricity."
+6,620,Which of the following are generally characteristic of carbon/graphite fibre composites?,C,"Flexibility, High compressive strength and ability to conduct electricity.",Flexibility and high compressive strength.,"Stiffness, high compressive strength and corrosive effect in contact with aluminium."
+6,621,Which of the following statements is true about thermosetting plastics?.,B,They are also known as Teflon.,Once moulded into shape they become set and cannot subsequently be softened by reheating.,They become plastic when heat is applied.
+6,623,What tests are done on adhesive joints?.,A,Shear and peel.,Impact and peel.,Impact and shear.
+6,624,"In a composite repair lay-up, how much should each layer extend beyond the layer below it?.",B,3 - 4 inches.,1 - 2 inches.,2 - 3 inches.
+6,625,What is the effect of heat on a cold cure resin?.,B,No effect on pot life.,Decrease pot life.,Increase pot life.
+6,626,"If you increase the amount of catalyst in a resin mixture,.",C,the material will become stronger.,the material will become weaker.,the pot life will be decreased.
+6,627,What two components of a three part polyester resin are dangerous to mix together directly?.,A,Accelerator and free catalyst.,Catalyst and resin.,Accelerator and resin.
+6,628,What is the effect of adding too much hardener to a resin?.,B,No effect.,Makes the repair more brittle.,The resin will not harden.
+6,629,An air driven router is used to remove honeycomb material for repairs.,A,when one outer skin is damaged.,to stainless steel honeycomb only.,when both outer skins are damaged.
+6,630,Where would you use a Templestick?.,B,For the boundary marking of a composite repair.,To indicate temperature when a repaired composite item is cured with heat lamps.,As a temporary repair in a glass fibre internal.
+6,631,The vacuum connections on a fibreglass repair must be placed onto the.,B,top layer of glass fabric directly.,breather mat.,peel ply.
+6,632,What do you do if you forget to add hardener to a composite repair?.,C,Add hardener at the edges and it will cure.,It will cure eventually anyway.,Remove all resin and start again.
+6,633,Why would you use microballoons as a filler?.,A,It is the lightest filler material.,It is the cheapest filler material.,It cross-links with the panel.
+6,634,When using a backing former on a composite repair you need to use.,B,a vacuum bag.,cellophane.,breather cloth.
+6,635,Heater mats should overlap the repair by.,C,4 inches.,6 inches.,2 inches.
+6,636,A thermoplastic fibre reinforced composite is prepared by.,B,a solvent wipe.,corona method.,etching.
+6,637,During vacuum bag lay-up the vacuum gauge is placed where?.,B,Next to the vacuum port.,Opposite side to the vacuum port.,Over the repair.
+6,638,Stepped curing has.,A,2 or more arrest points.,no arrest point.,1 arrest point.
+6,639,Maximum repair dimensions for use of microballoons is.,A,10mm.,20mm.,30mm.
+6,640,In an autoclave what pressure would the vacuum alarm be set at?.,C,Operating pressure.,Higher than operating pressure.,Lower than operating pressure.
+6,641,In an autoclave what would you cover the repair in?.,A,High temp nylon.,Polypropelene.,Polythene.
+6,642,When mixing resin it is dangerous to add.,A,accelerator and catalyst before resin.,catalyst and resin before accelerator.,resin and accelerator before catalyst.
+6,643,"In an autoclave, to apply pressure.",A,a vacuum bag is used.,weights are used.,clamps are used.
+6,644,What does MSDS stand for?.,B,Metal Surface Dimension Sector.,Material Safety Data Sheet.,Maximum Structural Design System.
+6,645,Honeycomb for repair can be removed with.,C,a drill.,locally manufactured concave knife,a router.
+6,646,The pot life of a cold cured resin.,B,is not reliant upon temperature fluctuations.,decreases with an increase in temperature.,increases with increase of temperature.
+6,647,"The effect of a lower temperature than ambient during the curing period of a resin, will cause the curing time to.",B,decrease.,increase.,remain unchanged.
+6,648,What is used as the base covering on a honeycomb repair?.,A,Glass cloth or thin aluminium sheet.,Thick aluminium sheet.,Plywood.
+6,649,When drilling a carbon fibre reinforced plastic use.,C,a steel drill and carbarundum powder.,a tungsten drill with a pointed tip.,a tungsten carbide drill.
+6,650,Use of excessive hardener in polyester resin leads to.,B,a less stiff joint.,reduced pot life.,stiffer joint.
+6,651,When the temperature increases on a hot bond repair is paused it is known as,A,arrest point.,ramping down.,ramping up.
+6,652,Slight waviness on a fibre composite structure.,B,may cause fatigue crack eventually.,may be tolerable if lightly loaded.,could be reinforce with additional plies over the weakened area.
+6,653,The maximum length of time a component is held in stores is known as the.,C,package life.,storage life.,shelf life.
+6,654,On a pre-preg composite.,B,life can be extended by 12 months if stored below 10 °C.,life can be extended by 12 months if stored above 40 °C.,"no life extension is allowed, it must be used immediately."
+6,655,Hot bond composite pane has a crack. When it reaches the ribbon it will.,C,carry on along the ribbon.,have no effect on its direction.,stop.
+6,656,In an autoclave the air is removed by.,C,pressure.,roller.,vacuum.
+6,657,What is the separation of an aramid panel layers described as?.,A,Delamination.,Debonding.,Detachment.
+6,658,Tap testing a sandwich panel construction.,C,is not an approved method of testing.,will not give very reliable results.,"is crude, but works remarkably well."
+6,659,Which product is a serious health hazard when handling?.,B,Ceramic.,Asbestos.,Glass fibre.
+6,660,Aircraft transparent plastics are cleaned using.,A,"warm soapy water, rinsed and dried",paraffin and soft cotton pad.,clean dry soft leather.
+6,661,A thermosetting adhesive.,C,will be resistant to heat.,can be re-formed when hot.,undergoes a chemical transformation and creates an insoluble substance.
+6,662,Metal fasteners used with carbon/graphite composite structures.,A,must be made of materials such as titanium or corrosion resistant steel.,must be made of high strength aluminium alloy.,may be made of any of the metals commonly used in aircraft fasteners.
+6,663,Which methods can be used to inspect fibreglass/honeycomb structures for entrapped water?.,B,Acoustic emission and X-ray.,X-ray and back-lighting.,Acoustic emission and back-lighting.
+6,664,"When balsa wood is used to replace a damaged honeycomb core, the plug should be cut so that.",C,it is about 1/8 inch undersize to allow sufficient bonding material to be applied.,the grain is parallel to the skin,the grain is perpendicular to the skin
+6,665,"When repairing puncture-type damage of a metal faced laminated honeycomb panel, the edges of the doubler should be tapered to.",C,whatever is desired for a neat clean appearance.,two times the thickness of the metal.,100 times the thickness of the metal.
+6,666,One of the best ways to assure that a properly prepared batch of matrix resin has been achieved is to.,B,test the viscosity of the resin immediately after mixing.,have mixed enough for a test sample.,perform a chemical composition analysis
+6,667,Which of the following are advantages of using microballoons in repairs to laminate honeycomb sandwich panels?.,B,"Greater concentrations of resin in edges and corners, improved strength to weight ratio, less density, lower stress concentrations.","Less density, lower stress concentrations.","Improved strength to weight ratio, less density, lower stress."
+6,668,The length and time that a catalyzed resin will remain in a workable state is called the.,C,shelf life.,service life.,pot life.
+6,669,One method of inspecting a laminated fibreglass structure that has been subjected to damage is.,A,strip the damaged area of all paint and shine a strong light through the structure.,use an eddy current probe on both sides of the damaged area.,"use dye-penetrant inspection procedures, exposing the entire damaged area to the penetrant solution."
+6,670,"When inspecting a composite panel using the ring test/tapping method, a dull thud may indicate.",C,an area of too much matrix between the fibres.,less than full strength curing of the matrix.,separation of the laminates.
+6,671,A potted compound repair on honeycomb can usually be made on damages less than.,C,4 inches in diameter.,2 inches in diameter.,1 inch in diameter.
+6,672,What reference tool is used to determine how the fibre is to be oriented for a particular ply or fabric?.,C,Bias clock.,Weft clock.,Warp clock.
+6,673,The strength and stiffness of a properly constructed composite lay-up depends primarily on.,C,the ability of the fibres to transfer stress to the matrix.,a 60% matrix to 40% fibre ratio.,the orientation of the plies to the load direction.
+6,674,Which fibre to resin (%) ratio for advanced composite wet lay-ups is generally considered the best?.,C,"2,527777778","2,118055556",40:60.
+6,675,What is the material layer used within the vacuum bag pressure system to absorb excess resin during curing called?,B,Breather.,Bleeder.,Release.
+6,676,"When necessary, what type of cutting fluid is usually acceptable for machining composite laminates?.",B,Water soluble oil.,Water only.,Water displacing oil.
+6,677,Fibreglass damage that extends completely through a laminated sandwich structure.,B,may be filled with resin to eliminate dangerous stress concentrations.,must be repaired.,may be filled with putty which is compatible with the resin.
+6,678,Fibreglass laminate damage that extends completely through one facing and into the core.,B,can be repaired by using a typical facing patch.,requires replacement of the damaged core and facing.,cannot be repaired.
+6,679,"Which of the following, when added to wet resins, provide strength for the repair of damaged fastener holes in composite panels?.",B,"microballoons, cotton flock and chopped fibres.",Cotton flock and chopped fibres.,Microballoons and chopped fibres.
+6,680,The part of a replacement honeycomb core that must line up with the adjacent original is the.,C,cell edge.,cell side.,ribbon direction.
+6,682,The defects not allowed at all on wooden structures are.,C,mineral streaks.,pitch pockets.,"checks, shakes and splits."
+6,683,The basic structure of an aircraft made of wood can be.,C,monocoque.,non-monocoque,"non-monocoque, monocoque, semi-monocoque."
+6,684,When a full inspection for corosion is to be carried out on a wooden aircraft you would.,C,Bring the aircraft into the hangar for 2 to 3 days prior to the inspection.,Jack and trestle the aircraft to the rigging position.,Remove all the fabric/cloth prior to inspection.
+6,685,"For fungus to cause wood decay in a wood structure, the moisture content in the wood must be at least.",A,20%.,85%.,5%.
+6,686,The normal moisture content in the wood of a wooden aircraft structure is.,A,10-12%.,20-30%.,0-2%.
+6,687,How is the moisture content within the wood of a wood aircraft structure determined?.,A,By inserting the probe of a moisture meter.,By measuring the size of the water stains at joints,By weighing the wood structure before and after drying it.
+6,688,"Except where specified by the manufacturer, a wooden spar may be spliced",B,at no point.,at any point except under the wing attachment fittings.,at any point
+6,689,Replacement of a wooden spar is.,C,only permitted by the manufacturer,a minor repair,a major repair.
+6,690,"A crack is found in a wooden spar, you.",B,must replace the spar section.,might be able to repair the spar.,must replace the entire spar.
+6,691,Wood sealants used on wooden aircraft structures are for.,A,helping to prevent wood cracking.,improving aerodynamic efficiency.,reducing the requirement for sanding.
+6,692,"To determine whether an aircraft wooden structure surface is compound curvature, you would use.",B,a curvature gauge.,a sheet of paper.,a trammel.
+6,693,"To assist the bending of plywood, a heated bending former must be heated to a temperature of.",B,300 °C.,150 °C.,100 °C.
+6,694,A splayed patch repair may be used on plywood damage which does not exceed.,B,20 times the skin thickness.,15 times the skin thickness.,10 times the skin thickness.
+6,695,A surface patch to a plywood structure may be a large as.,B,50 sq.inch area.,50 inch perimeter.,50 inch diameter.
+6,696,The steepest slope permitted on the scarf of a scarfed plywood repair is.,C,1 in 20.,1 in 4.,1 in 12.
+6,697,The maximum size damage to plywood skin that may be repaired with a fabric patch is.,C,3.0 inch diameter.,0.5 inch diameter.,1.0 inch diameter.
+6,698,The doubler used to support a scarfed patch plywood repair should be made from plywood of a minimum.,A,1/4 inch thick.,1/8 inch thick.,3/8 inch thick.
+6,699,An aircraft wooden structure must be surface finished and sealed.,A,on both the outer and inner surfaces.,on the inner surfaces only.,on the outer surfaces only.
+6,700,"Pine wood has a strength, compared to that of spruce.",A,less than.,exceeding.,the same as.
+6,701,The standard wood type for aircraft wood structures is.,A,spruce.,douglas fir.,pine.
+6,702,Hard knots in wood are acceptable.,A,in certain locations.,never,up to 3/8 inch diameter in any location.
+6,703,A 'shake' in a piece of wood is a crack.,C,across annual rings.,induced by artificial stress.,between two annual rings.
+6,704,"Wood with checks, shakes or splits.",C,can be used providing the damage is repaired by gluing and clamping.,can be used for certain secondary structure.,must be rejected.
+6,705,Compression wood.,B,is a hard-wood.,should be rejected.,is preferred because of its superior strength qualities.
+6,706,Red heart and purple heart.,B,are types of hard-wood.,are forms of decay in wood.,are harmless natural defects in wood.
+6,707,The greatest amount of shrinkage in wood is in which direction?.,A,Tangential.,Radial.,The shrinkage is equal in tangential and radial directions.
+6,708,Shrinkage of wood is.,B,equal along and across the fibres.,least along the fibres.,least across the fibres.
+6,709,The maximum permissible grain deviation in wood is.,C,"0,047222222","0,055555556","0,052083333"
+6,710,Nails used on wood structures should be.,C,50 mm apart.,12 mm apart.,25 mm apart.
+6,711,Small (up-to 3/8 inch diameter) hard-knots are allowed in a wooden spar.,A,in the middle 1/3 portion.,nowhere.,in the outer 1/3 portions.
+6,712,"If metal fasteners are removed from an aircraft's wood structure, and are found to have corrosion on them, this can indicate.",C,acidity of the adjoining wood structure.,deterioration of the fastener.,decay of the adjoining wood structure.
+6,713,Bolt holes through wooden structures should be.,A,"sealed, and the sealant allowed to dry before fitting the bolt.",left unsealed and unvarnished inside the hole.,sealed with varnish and wet-assembled with the bolt before the varnish has dried.
+6,714,Wood end-grain.,C,has the same susceptibility to moisture ingress as the side of the grain.,is less susceptible to moisture ingress as the side of the grain.,is more susceptible to moisture ingress as the side of the grain.
+6,715,In cases of elongated boltholes in a wood spar or cracks in the vicinity of the boltholes.,B,"it is permissible to ream the hole, plug with hardwood and re-drill.",a new section of spar should be spliced in or the spar entirely replaced.,the spar may be reinforced by using hardwood reinforcing plates.
+6,716,A faint line running across the grain of a wood spar generally indicates.,C,shear failure.,decay.,compression failure.
+6,717,The I-beam wooden spar is routed to.,B,obtain uniform strength,decrease weight.,increase strength.
+6,718,Pin knot clusters are permitted in wood aircraft structure provided.,C,they have no mineral streaks.,no pitch pockets are within 12 inches.,they produce a small effect of grain direction.
+6,719,Compression failures in wood aircraft structures are characterised by buckling of the fibres that appear as streaks on the surface.,C,parallel to the grain.,at right-angles to the growth rings.,at right angles to the grain.
+6,721,Aircraft fabric covering is made from.,B,silk.,polyester.,nylon.
+6,722,"At manufacture, aircraft fabric is.",C,shrunk.,doped.,stretched.
+6,723,Recovering or repairing of an aircraft with a fabric other than the original fabric type is.,A,a major modification and requires approval.,prohibited.,"a minor modification, providing the fabric is the same strength as the original."
+6,724,Reinforcing tape used on aircraft fabric covering must have a minimum strength of.,B,80 lb.,40 lb.,120 lb.
+6,725,Lacing cord used on aircraft fabric covering must have a minimum breaking strength of.,C,120 lb.,80 lb.,40 lb.
+6,726,Fabric seams are preferable.,A,parallel to the line of flight.,spanwise to the line of flight.,oblique to the line of flight.
+6,727,Single stitched machine sewn seams are permissible.,C,at all locations on the aircraft.,neve,only when positioned over a structure.
+6,728,The minimum pitch of hand-sewn stitch is.,A,1/4 inch.,equal to 10 times the thread thickness.,4 inches.
+6,729,Hand sewn stitch must be locked at a minimum of.,C,the end of the stitch only.,20 stitch intervals.,10 stitch intervals.
+6,730,Fabric to be hand sewn must be doubled under at the edge to a minimum distance of.,B,1/2 inch.,3/8 inch.,1/4 inch.
+6,731,"Holes are cut in fabric for inspection panels, spar fittings, drain grommets etc.",A,after doping.,before doping.,before attaching the fabric to the structure.
+6,732,Aircraft fabric lacing cord is reinforced with.,B,epoxy.,wax.,lanolin.
+6,733,The dope applied to an aircraft's fabric covering causes shrinkage.,C,on the last coat only.,on the first coat only.,on all coats.
+6,734,"Aircraft dope, during storage in adverse conditions in a store-room, will become.",A,acidic.,discoloured.,alkaline.
+6,735,What type of dope is preferred for use on natural fiber aircraft covering?.,A,Nitrate.,Any type of dope is suitable.,Butyrate.
+6,736,Which of the following is true regarding aircraft dope type?.,B,Nitrate dope may be applied over the top of butyrate dope.,Butyrate dope may be applied over the top of nitrate dope.,Either type of dope may be applied over the top of any type of dope.
+6,737,What type of shoes should be worn by the technician applying a dope finish to a fabric covered aircraft?.,B,Rubber soled.,Leather soled.,Plastic uppers.
+6,738,What are the limits of the environmental conditions for applying dope to a fabric covered aircraft,C,"Relative humidity 50 - 70%, temperature range 40 ° to 60 °F.","Relative humidity 50 - 75%, temperature range 65 ° to 75 °F.","Relative humidity 20 - 60%, temperature range 65 ° to 75 °F."
+6,739,Applying dope to a fabric covered aircraft should be done by.,B,spraying all coats to avoid brush marks.,spray all coats except the first three.,brushing all coats to ensure it is absorbed into the fabric.
+6,740,Regarding the thinning of aircraft dope.,C,underthinning is preferred to overthinning.,dope should be thinned with automotive thinners.,overthinning is preferred to underthinning.
+6,741,A retarder is added to aircraft dope to.,B,to extend the shelf life.,produce a smoother finish.,to retard the application time.
+6,742,Doped fabric.,C,is not to be treated after application.,is treated with varnish,is treated with wax compound.
+6,743,Dope should be applied to an aircraft's fabric coating in a relative humidity not exceeding.,C,50%.,85%.,65%.
+6,744,Dressing out' of a fabric covering refers to.,B,the trimming of excess fabric after fitting.,"applying finishing tapes, reinforcing patches, inspection ports etc.",laying the fabric out on the floor and cutting it to size prior to fitting to the aircraft.
+6,745,Coats of clear dope are applied to an aircraft's fabric.,B,before coats of aluminium pigmented dope are applied.,"before or after coats of aluminium pigmented dope are applied, it does not matter.",after coats of aluminium pigmented dope are applied.
+6,746,What is the reason for using aluminium-pigmented dope on a fabric covered aircraft?,B,To provide an aluminium colour to the aircraft.,To block UV radiation.,To provide strength.
+6,747,Aircraft sheet plywood skins are.,C,sealed and varnished or painted.,sealed and doped.,covered in fabric.
+6,748,Blushing' of a doped fabric surface is an indication of.,B,moisture enterring into the wood/fabric structure during service.,moisture condensing on the surface during drying of the dope.,oil contamination of the doped fabric.
+6,749,Orange peeling of a doped surface may be caused by.,B,dope viscosity too low.,dope viscosity too high.,air temperature too low.
+6,750,Butyrate dope burns.,A,slower than nitrate dope.,faster than nitrate dope.,the same rate as nitrate dope.
+6,751,Fabric coated with nitrate dope can be differentiated from fabric coated in butyrate dope by.,A,carrying out a burn test.,smelling the fabric.,observing the colour.
+6,752,"Where the edge of a new fabric section will be located within 1 inch of a structural member to which the fabric is attached by rib lacing or other methods, the new fabric section should.",A,be extended 3 inches past the structural member.,be extended to meet the structural member.,be designated a major repair.
+6,753,What width of finishing tape should be used on a tear in a fabric cover which is 10 inches long?.,C,2 inches.,6 inches.,4 inches.
+6,754,What width of finishing tape should be used on a tear in a fabric cover which is 20 inches long?.,A,6 inches.,2 inches.,4 inches.
+6,755,Lines of stitching of a fabric repair is locked at the end with.,C,a hitch knot.,a half hitch knot.,a double half hitch knot.
+6,756,Wrinkles in a fabric covering of a wood/fabric aircraft are.,C,not permitted.,a minor aerodynamic detriment.,permitted only if they are temporary due to damp/wet weather conditions.
+6,757,The threads per inch of Grade 'A' aircraft fabric is.,B,60-64.,80-84.,110-115.
+6,758,When and how is finishing tape applied on fabric covered aircraft?.,C,Doped on immediately prior to the finish coat.,Sewed or laced on before dope is applied.,Doped on after the first or second coat of dope
+6,759,The determining factor in the selection of the correct weight of textile fabric to be used in covering any type of aircraft is the.,C,maximum wing loading.,speed of the aircraft.,speed of the aircraft and the maximum wing loading.
+6,760,How many fabric thicknesses will be found in a French-fell seam?.,C,Five.,Three.,Four.
+6,761,Finishing tape (surface tape) is used for what purpose?.,B,To prevent 'ripple formation' in covering fabric,To provide additional wear resistance over the edges of fabric forming structures.,To provide additional anti-tear resistance under reinforcement tape.
+6,762,"Moisture, mildew, chemicals and acids have no effect on.",C,glass fabric.,linen fabric.,Dacron fabric.
+6,763,The strength classification of fabric used in aircraft covering is based upon.,C,bearing strength.,shear strength.,tensile strength.
+6,764,"When testing the strength of Grade A cotton fabric covering an aircraft that requires only intermediate grade, the minimum acceptable strength the fabric must have is.",C,56 pounds per inch warp and weft.,70% of its original strength.,70% of the original strength for intermediate fabric.
+6,988,A 0.5 in. diameter pipe is to be joined using standard nuts and fittings. What coupling would you use?.,C,AN8-8852-1,AN8-8852-2.,AN8-8852-8.
+6,989,A Skydrol hydraulic seal would be made of.,A,"butyl rubber, ethelene propylene or Teflon Phosphate Ester based.",natural rubber vegetable based.,synthetic rubber mineral based.
+6,990,Adapter nipples are not required on.,A,pipe to externally coned adapter.,pipe to pipe coupling.,pipe to internally coned adapter.
+6,991,A butyl rubber seal is made from.,B,silicon rubber.,synthetic rubber.,latex natural rubber.
+6,992,What is the colour of an AN steel flared-tube fitting?.,A,Black.,Red.,Blue.
+6,993,A flexible sealing element subject to motion is a.,B,gasket,packing.,compound.
+6,1126,Cementite laminated with ferrite in alternate layers produces.,B,Ferrite/Iron.,Pearlite.,Martensite.
+6,1128,The amount of carbon necessary to produce a totally pearlitic structure is.,B,1.0%.,0.83%,1.83%.
+6,53,Which is The most anodic Material ?,C,Zinc,Copper,Magnesium
+6,54,Surface Corosion on Stainless Steel is identified by ….?,A,lack pitting,White film,Pitting
+6,55,“……………. Corrosion is a chemical attack that occurs at the grain boundaries of certain metals” What may come to blank?,B,Crevice corrosion,Intergranular corrosion,Pitting corrosion
+6,56,Which type of Corrosions occur only on aluminium alloys?,C,Filiform Corrosion,Fretting corrosion,Exfoliation corrosion
+6,57,Which type of Alloys has the highest corrosion resistance?,A,Titanium,Copper,Aluminium
+6,58,"In corrosion, which electrons is lose ?",B,Cathode,Anode,Electrolyte
+6,81,“………………. are used in various application for attaching components to the aircraft structure where relevant movement is required” ? (Bolt head),C,Countersunk,Internal hexagon,Eyebolt
+6,101,Intergranular corosion is also called as ……... ?,B,Galvanic,Exfoliation,Stress corrosion
+6,102,How occurs a fretting corrosion ?,A,Vibration in bolted parts,Water trapped between moving parts,Improper heat treatment
+6,115,"“………………. Corrosion cracking is a cracking process, caused by the combined action of a sustained tensile stress and a corrosive environment “ ?",C,Fatigue,Surface,Stress
+6,133,What section is true about Intercrystalline corrosion ?,A,Always appeares as small surface cracks,Detecable by X-Ray,The same as exfoliation corrosion
+6,135,Why is The galvanic corrosion occur ?,C,Cyclic stressing and decrease in cross sectional area,Incorrect heat treatments or incorrect alloying,The joining of 2 dissimilar metals
+6,166,When metals effected by “……… “ corrosion spreads more quickly ?,A,High temperatures,Dry climates,Cold climates
+6,170,What statement is true about High tension leads ?,C,"Solid-core, screened","Multi-core, sibgle core ,screened","Multi strand , single core , screened"
+6,224,Electro chemical reaction is caused by the contact of … ?,B,Bonding,Dissimilar metal,"Moisture on the surface of the metal,"
+6,226,How is The surface corrosion on stainless steel identified ?,B,White film,Black pitting,Red rust
+6,240,Gradual destruction of metals by chemical reaction wit it senviroment called.,B,Wear,Corrosion,Impact
+6,242,Why the alclading process apllied to aliminum metals?,B,Toincrasebrittleness,Toincreaseresisttocorrosion,Toincreasestrength of metal
+6,258,Signs of a fretting corrosionis ...,C,ntergranullarcracking,Flaking,Black powderorcocoastaining
+6,269,Why would a corrosion occur when a steel material welded ?,A,Becausestripbecomescathodic,Because it is affectedbyspatter,Becausethepaint is removed
+6,270,What an active flux does ?,A,Cleans,Protects,Both
+6,278,What is the cause of an intergrannular corrosion?,A,Improperheattreatment,Dissimiliar metal contact,Improperlyassambledcomponents
+6,286,How do you identify the surface corrosion on stainless steel?,A,Black pitting,White film,Red rust
+6,293,You identify the fretting corrosion on the steel by ....,B,Rust on surface,Dark staining around area,Surface cracking as corrosion breaks through to surface of component
+6,310,How can you define the corrosion ?,C,It is the destruction of metal by electromechanical action,It is the destruction of metal by hydroelectrical action,It is the destruction of metal by electrochemical action
+6,312,How do you protect the magnesium alloy ?,B,By an electrochemical process,By a chemical process,By a painting process
+6,313,Which type of protection you could apply on magnesium alloys ?,A,Chromating process,Phosphating process,Cosletting process
+6,314,In which way do you remove the heavy corrosion deposits on clad aliminium alloys ?,C,Mechanically-By using a pneaumatic vibrator,Chemically-By using trichloroethylene,Chemically-By using phosphoric acid
+6,315,If a corrosion occurs on the grain boundaries of the material that type of corrosion is called .....,B,Fretting,Intergranullar,Filiform
+6,317,Which following material is most cathodic ?,C,Nickel,Magnesium,Stainless Steel
+6,318,What causes to intergranullar corrosion ?,A,Improper heat treatment,Dissimiliar metal contact,Improperly assembled components
+6,319,If a metal is inherently stable it ....,A,Strongly resist to corrosion,Highly prone to corrosion,Tries to revert to their natural state
+6,320,What is the resistance level to corrosion of an aliminium material?,B,Non resistant,Highly resistant,Reasonably resistant
+6,321,What is solvent ?,A,"A liquid, which is capable of dissolving cured or uncured adhesives",Certain adhesives may cause some plastics to “relax” or “crazy pave”,A material produced by chemical means
+6,322,"If a material is hydrosopic, it absorbs what ?",C,Heat,Radiation,Moisture
+6,324,If a chemical reaction is exothermic it will give of ..... to ambiance,A,Heat,Phosphor,Moisture
+6,381,Intergrannular corrosion is caused by,A,improper heat treatment,dissimilar metal contact,improperly assembled components
+6,383,What type of corrosion attacks grain boundaries of aluminium alloys which are improperly or inadequately heat treated?,B,Stress corrosion,Intergrannular corrosion,Surface corrosion
+6,384,What action should be taken on finding intergrannular corrosion?,C,De-corrode and reprotect,Renew corroded area by patching,Replace complete component part
+6,387,"In corrosion, the electrode that loses electrons is",B,the cathode,the anode,either the cathode or the anode depending upon the electrolyte
+6,388,Corrosion at the grain boundaries is called,B,filiform,intergrannular,fretting
+6,389,Most commonly used thread form in aviation is,C,round thread,buttress,V thread
+6,394,What is stress corrosion?,A,Corrosion in an area under continuous loading,Corrosion in an area under cyclic loading,Corrosion due to fretting
+6,396,Alclad is,C,minium with duralumin cladding,duralumin with magnesium cladding,duralumin with aluminium coating
+6,397,Corrosion will spread more rapidly when metals are exposed to,A,high temperatures,dry climates,cold climates
+6,409,The process of forming a pure layer of aluminium over an aluminium alloy is,B,electroplating,alclad,metalizing
+6,414,Corrosion will spread more rapidly when metals are exposed to,A,high temperatures,dry climates,cold climates
+6,418,Galvanic corrosion is caused by,A,the joining of 2 dissimilar metals,cyclic stressing and a decrease in cross sectional area,incorrect heat treatments or incorrect alloying
+6,419,Clad aluminium alloys are used in aircraft because they,C,can be heat treated much easier than the other forms of aluminium,are stronger than unclad aluminium alloys,are less subject to corrosion than uncoated aluminium alloys
+6,421,Chemical attack is a direct result of,B,inter-granular corrosion,cathodic & anodic changes in the material,filiform corrosion
+6,436,Fretting corrosion occurs where,C,pitting corrosion is allowed to become more pronounced,a deep scratch increases to become fretting corrosion,two material are subject to very slight movement between the two
+6,446,Corrosion at the grain boundaries is called,B,filiform,intergrannular,fretting
+6,453,Nitriding is,A,case hardening,anodising,tempering
+6,454,Anodizing protects alloy metal from corrosion and does what else?,A,Makes a good surface for paint to adhere to,Makes the surface alkaline,Seals the surface from moisture
+6,455,Intergranular corrosion,A,may have no visual surface indication,can be recognized by a grey powder deposit,can be recognized by its flaking and lifting of the material layers
+6,457,When silver coated connectors are used in unpressurised parts of the aircraft,A,corrosion can occur,wet track arcing can occur,separation of the coating can occur
+6,458,"When a steel part is welded, corrosion occurs because",A,the strip has become anodic,t is affected by spatter,the paint has been removed
+6,59,Which statement is true about screws ?,A,A screw isan externally threaded fastener capable of being screwed into performed threads in the assembled parts.,A screw is an externally threaded fastener designed for insertion through holes in the assembled parts,A screw is of robust construction and suitable for shear and tensile loads
+6,60,Screws and Bolts are the most used components .They are not suitable for ……?,B,Power transfer,Prevent overload,Mechanical guiding
+6,61,Which type of threads isn‟t used to transmit power in both directions ?,B,Vee,Buttress,Round
+6,62,Pitch of a …………. are defined as distance from the centre of one crest to the next?,A,Screws,Bolts,Nuts
+6,63,There are 2 types of special rivet fasteners. What are that?,C,"Special fasteners,high shear rivets","Lock bolts , blind rivets","Special fastener,blind rivets"
+6,64,Which parts of threads is the distance travelled axially for one complete revolution of the screw thread ?,A,Lead,Root,Flank
+6,65,"Pitch is equal to 1/threads per inch. In this case , What is the 15 threads per inch pitch ?",B,1/5 in.,1/15 in.,1/30 in.
+6,66,6-“……….. thread is used for unlaterally stressed threads”?,C,rapezoidal,Square,Sawtooth
+6,67,Sawtooth offers the relative merets of the vee thread at one side and of the trapezoidal thread at the other side . There is a flank angle . What should be this?,B,30⁰,33⁰,35⁰
+6,68,"There are Profiles type of thread , And profile has different types . Which is not Type of profile ?",A,Internal,Taper,Round
+6,69,Which is the A single start thread the lead?,B,1/2 x pitch,1 x pitch,2 x pitch
+6,80,Which material is commonly used in the manufacture of bolts and screws (BOTH)?,A,Corrosion resistant steel(CRS),Cadmium,Chrome
+6,82,Bolts have 3 different types length.What are that?,B,"1/4 , 1/8 , 1/16","1/8 , 1/16 , 1/32","1/4 , 1/16, 1/64"
+6,84,What is the purpose to use capped nuts ?,B,To provide a dry torque joint,To stop leaks,To prevent overtightening due to the threaded portion being restricted by the cap
+6,93,Which statement is true about The AN526 truss-head screw?,C,The AN526 truss-head screw is a widely used recesses head machine screw,The AN526 truss-head screw provides a good clamping force,The AN526 truss-head screw is a pan-head screw
+6,96,"The crutch ,can overrun the driving member, are known as…… ?",A,Freewheel clutches,Overload clutches,No-slip clutches
+6,117,What statement is true about The AN526 truss-head screw ?,A,A pan-head screw,Provides a goog clamping force,A widely used recesses head machine screw
+6,126,What is the rivet‟s main strength quality to resist?,A,Shear loads,Torsion,Tensile loads
+6,127,What should have the Fork end fittings on control rod ends ?,B,Anti-vibration compound,Bolt heads fitted upwards,0.002 inch axial movement
+6,132,What properties do precipitation treating gives to the metal?,B,"Harder ,stronger,and more ductile","Harder, stronger,and less ductile",Less strong and hard
+6,137,What does Fillister head mean ?,C,Filister head screws are used in countersunk holes where a flush finish is desired,Filister head screws are frequently used in assembling highly stressed aircraft components,Filister head screws are used as general-purpose screws and may also be used as cap screws in light applications such as the attachment of cast aluminium gearbox cover plates
+6,140,Rivets have a head marker.What does “B” type head marker mean ?,A,Raised cross,Raised double dash,Dimple
+6,141,“ MS20426 AD 5-8” What type of Rivet?,B,Round,Countersunk,Flat
+6,142,“MS20452 DD 5-8 “ What type of Rivet ?,A,Brazier,Universal,Round
+6,143,Hollow rivets that can be closed by pulling a mandrel through them are often known as …….. ?,B,Pull-through rivets,Blind rivets,Solid rivets
+6,144,"In countersunk head rivets , The countersunk angle may be …… ?",C,60⁰,75⁰,100⁰
+6,150,The angle of a screw thread is …. ?,B,Half the inclusive angle of the thread sides,The inclusive angle of the threads sides,The distance
+6,153,Rivnut were originally used for? ......,A,Securing rubber deicing boots,Securing structural parts,Securing cabin floorings
+6,157,Turnbuckle lock nut is a …..?,C,Slotted nut,Castle nut,Stiff nut
+6,182,What is Shear pins ?,B,"The only fasteners in some connections , in such applications they serve to transmit minor forces",Prevent overload to high –class and deicate machine tools,Have the function of locating the parts to be linked accurately in their intended positions
+6,183,“……….. pins are used for parts that must be unbolted repeatedly “ ?,B,Cylindrical,Taper,Grooved
+6,184,“AN 430 is a solid rivets” What kind of solid rivets.,C,Flat,Universal,Round
+6,185,"When the rivets are set on the materials , they have 2 head ,First is Manufactured head .What is the other head?",A,Driven,Pre-formed,Reaction
+6,186,What should the driven head‟s length be ?,A,1.5D,2.5D,0.5D
+6,187,“MS20 455 A “ What type of a rivets ?,B,78⁰ c‟sunk,Brazie,Round
+6,188,“MS20 470 DD” is a universal head rivet and What does DD mean?,C,Dimple,No mark,Raised dot
+6,189,"MS20 427 F” is a 100⁰ countersunk head rivet , What does F mean?",A,Stainless steel,Copper,Monel
+6,190,"There are 4 codding for the rivets to be used in a particular repair set-up with coding in 4 quadrants designated NW,NE,SW,SE . Which is the NW meant?",B,Upper right,Upper left,Lower right
+6,200,"According the British standards ,A 3/18” diameter UNF bolt will have the diameter code letter …?",B,N,J,G
+6,202,"In the drawing , both bolts are correctly wire locked when …… ?",A,Both A and B are right hand threads,Both A and B are left hand threads,A is a right hand thread and B is a left hand thread
+6,203,"While in the drawing, What letter represents the nominal length of a BSF bolt ?",C,B,C,A
+6,205,"A mechanical lock-type of rivet , is similar in desing to the ……..rivet ?",A,Friction lock,Tucker pop,Avdel
+6,206,Which diameter is avaible for a Huck rivet/fasteners ?,B,8\16'',5/32”,1\16''
+6,207,How is the Hi-shear rivets to removed?,C,Cut the collar off using a hallow end mill,Driven out with a punch,"Drilling the pin using a drill and drill brushing,and punching"
+6,210,Taper pins are subject to Which loads ?,C,Tensile,Compressive,Shear
+6,211,A „HUCK” rivet is similar in design to a ..?,C,Blind rivet,Dome head rivet,Cherry lock rivet
+6,213,Cold working of a material is used to reduce …. ?,A,Wear of manufacturing tools,fatigue,Material hardness
+6,214,"When fitting a replacement hacksaw blade , the new blade‟s teeth should face ..?",B,Towards the user,Away from the user,"Either direction,not dependent on safety or efficiency of saw"
+6,215,"Countersunk rivets have two angles of countersunk , What are thats?",A,100-115⁰,100-160⁰,125-135⁰
+6,216,Which can be re-used?,A,"Locking plate,circlip,spring washer","Tab washer , circlip ,locking plate","Shake proof washer , spring washer,locking plate"
+6,217,A non-metalic locknut is …?,B,Never torqued,Never used over 250⁰F,Never re-used
+6,227,Which is not the Hi-lock Fastener‟s advangates?,A,Maximum size and weight,Accurate pre-load and torque to within 10%,"Rapid , quiet, single-handed operation"
+6,243,The dimple on a head of a rivet indicates that its a...,A,2117 rivet,5056 rivet,2017 rivet
+6,244,2 raised radia ldashes on a head of a rivet indicates that its a ...,A,2024 rivet,2017 rivet,2219 rivet
+6,245,A raised triangle on a head of a rivet indicates that its a....,C,5056 rivet,7075 rivet,2219 rivet
+6,262,What colour and marking would be a BS rivet made from L36?,C,Natural anodic,Greenanodic,Black anodic
+6,266,Which metal is suitable for riveting magnesium alloy?,C,Monel metal,1100 aliminiumalloy,2024 aliminiumalloy
+6,267,Which metal is suitable forrivet in alloy steel?,B,48,13,73
+6,272,What is the identification of an aliminium alloy rivet ?,A,D embossed,X embossed,O embossed
+6,274,Why the D and DD rivetsarerefrigated?,A,Toretardagehardening,Toincreaseagehardening,Toprecipitationharden
+6,275,What would you do to prevent damage to seals on fitment?,C,Usegrease,Compressandstretchthem,Use a cardboardprotectoroverthethreadedportions
+6,279,The standart taper for a taper pin is...,B,"0,055555556","0,075","0,0625"
+6,280,What is the purpose of using rivnuts?,C,For securing cabin floorings,For securing structural parts,For securing rubber deicing boots
+6,285,How do you close avdel rivets ?,B,By squeezing it,By broaching,By a tapered mandrel
+6,292,"On a structural repair, what type of rivet you would use when the back side cannot accessed?",C,Hi-Lock Rivet,Pop Rivet,Blind rivet
+6,294,We use taper pins againist what loads ?,C,Tensile,Compressive,Shear
+6,298,What letter represents he nominal length of a BSF bolt in drawing ?,A,A,C,B
+6,333,What is the maximum quenching time limit for 2017 rivets ?,A,20 minutes,10 minutes,2 minutes
+6,334,How do you identify 5056 rivets ?,B,By a raised teat,By a raised cross,By a dimple
+6,335,How do you identify 2024 rivets ?,A,By raised double dash,By indented dimple,By plain
+6,336,What is the coding for 2024 rivets ?,A,DD,D,AD
+6,337,What is the coding for 2017 rivets ?,C,B,A,DD
+6,338,What is the coding for 5056 rivets ?,B,AD,B,DD
+6,339,Where would you usually use a countersunk headed rivet ?,A,On exterior areas of plane,On interior areas of plane,Both
+6,340,What is the flare angle of countersunk rivets ?,A,78 to 120,100 to 140,90 to 130
+6,385,Black streaks running away from a bolt or rivet would indicate,A,fretting corrosion,exfoliation corrosion,intergrannular corrosion
+6,390,Pitch of a screw thread is defined as,A,distance from the centre of one crest to the next,difference between major diameter and minor diameter,distance between the crest and the root of the thread
+6,398,A single start thread the lead is,B,2 x pitch,1 x pitch,½ x pitch
+6,399,A blind fastener described as external sleeve and internally threaded would be,B,a cherry lock,a jo bolt,a rivnut
+6,400,To install a flareless coupling,A,turn until torque is felt plus 2 flats,turn until torque is felt plus 3 flats,hand tight plus 2 flats
+6,416,The time between removal from heat treatment furnace and quenching must be not more than,C,3 seconds,7 seconds,10 seconds
+6,420,A turnbuckle can be safetied by,C,teflon lock nuts,doesn't require to be safety locked,by lock nuts and safety wirelocking
+6,428,"A tab washer has been removed after fitment for a short time from a non essential system, the tab washer may be",B,re-used,not re-used,re-used if a spare is not available
+6,431,"On a CHERRY MAX rivet, after the riveting process the mandrel section or stem is",B,discarded,remains in the rivet sleeve to provide mechanical strength,is ground down flush to rivet head
+6,444,Rivet MS 20426 has what head type?,C,Round,Universal,Countersunk
+6,445,Most commonly used thread form in aviation is,C,round thread,buttress,V thread
+6,452,Alloy rivets are heat treated by,C,annealing,anodising,solution treating
+6,456,What metal is suitable for riveting alloy steel,A,monel metal,mild steel,aluminium alloy
+6,460,How do you check a turnbuckle is in safety?,A,Use the inspection hole or count the threads showing,Ensure that the turnbuckle cannot be turned by hand,Make sure no threads are showing at either end of the turnbuckle
+6,70,Which of the followings categorized by maximum pressure “ ?,C,Rigid,Semi rigid,Flexible
+6,71,“…………….. are most prominent in brass “ Which elements may come to blank ?,C,Zinc and Copper,Aluminium and Zinc,Copper and Aluminium
+6,72,Which is an aircraft fittings‟ flare angle?,C,33⁰,35⁰,37⁰
+6,73,Titanium alloy spreferred materials in aviation. Why?,C,High compression strength,High tensile strength,Light weight with high strength
+6,74,What consist of the inner line of a flexible hose?,A,"una-N,cotton,rayon,neoprene","Butyl,teflon,neoprene,buna-N","Polyester fabric,butyl,teflon,neoprene"
+6,75,In the ……… strength test the material is pulled until it breaks.,B,Compressive,Tensile,Impact
+6,78,Which resin can be used for a wet-repair on glassfibre fabric?,C,Uretic,Phenolic,Polyester
+6,91,What are the limits of a metal pipe has small indentation?,C,5% of external diameter,5% internal diameter,No dent on a bend
+6,129,What is the purpose to the small hole on a swaged turnbuckle ?,C,To check for moisture deposists,To alloy the turnbuckle to be wire locked,To check if correct amount of cable has been inserted before swaging
+6,130,Where can The spring locking clips for turnbuckles be used ?,B,On all flying control cables,On no flying control cables,Only on trim control cables
+6,162,Teflon hoses are effected by …. ?,A,Oxygen,Oil,Fuels
+6,176,"Which situation is true , when fitting a replacement flexible hose ?",A,Ensure adequate clearence between the hose and the aircraft structure,Always pressure test before fitting,Use the old one to apply the set
+6,177,What can the non-reversible chains?,B,Only be moved in one direction,Only be fitted in one direction,Not be fitted through pressure bulkheads
+6,180,Where isn‟t the dowel pins used?,C,Brake Unit,Hydraulic pump,Gas turbine motors
+6,196,The markings on flexible hose must include the ….?,B,Manufacturers name,Date of manufactıure,Internal bore size
+6,197,Which statement is true about A tube compliying to BS T51 ?,C,Tungum,HTS tube,High pressure seamless copper tube
+6,208,A foot operated hydraulic swaging tools is checked for fluid level … ?,B,Vertically,Horizontally,Only when operating presuure is reached
+6,222,What made Hydraulic pipes from ?,A,Annealed steel,Aluminium alloy,CRS
+6,254,Flexible hoses categorisedby ...,B,Length,Maximum pressure,Diameter
+6,257,Rigid pipes on gasturbineenginesaremadefrom ...,A,Stainlesssteel,Aliminiumalloy,Titanium
+6,263,How do you assamble a banjo hose?,A,Put washereitherside of thebanjo,Put a washeronlyoutside of thebanjo,Put a washeronly inside of thebanjo
+6,288,Which material is hydraulic pipes made from ?,B,1100 or 2020,Annealed steel,5056 or 7075
+6,341,What is the pressure interval of high pressure hoses ?,C,1000 to 2000 PSI,2000 to 3000 PSI,1500 to 3000 PSI
+6,380,How are flexible hoses categorised?,B,by length,by maximum pressure,by diameter
+6,432,Shielded ball bearings are inspected by,C,running at operating speed and listening for signs of wear,dismantling and inspecting,rotating slowly by hand
+6,433,Thrust bearings take,A,sideloads,journal loads,radial loads
+6,519,"In most aircraft hydraulic systems, two-piece tube connectors consisting of a sleeve and a nut are used when a tubing flare is required. The use of this type of connector eliminates.",B,the flaring operation prior to assembly.,the possibility of reducing the flare thickness by wiping or ironing during the tightening process.,wrench damage to the tubing during the tightening process.
+6,77,Which is the first choice for spring material ?,C,Non-ferrous material,Non-metalic material,Stell
+6,145,What is the Hard –drawn Spring wire ?,A,"The wire is liable to posses fine seams in its surface and as such , would only be sed in applications of low stress discontinuities and would be found where long fatşgue loading cold be exerted",Which is atock that has been used for piston type aero-engine valve springs,"Which,When used in valve springs , has a higher fatigue life in the lower cycle ranges than other wires"
+6,165,Which isn‟t a Lever‟s proparties ?,B,Magnify force or displacement,Carry to shear loads,Change direction of movement
+6,229,Which is the one of the stress spring group ?,C,Helical,Disc,Bending
+6,230,Flat springs are commonly known as….. ?,A,Leaf,Bar,Conical
+6,342,Which following is not a spring force ?,B,Torsion,Shear,Tensile
+6,343,Where would you use stainless steel spring wire ?,B,Where long fatigue life is not necessary,Where the high corrosion resistance needed,Where high temperature resistance needed
+6,344,Where high temperature resistance and high stress resistance needed we use .......,C,Hard-drawn spring wire,Stainless steel spring wire,Chrome-Vanadium spring wire
+6,345,We use composite materials on springs for .....,B,Resistance to corrosion,For reducing the vibration,To increase strength
+6,417,A spring washer,C,must not be used more than once,may be used a second time provided it is fitted the reverse way round,maybe used more than once provided it continues to provide an efficient lock
+6,994,Coil springs are made from.,C,carbon or alloy steels with high working stress,low carbon steels with high working stres,carbon or high alloy steels with low working stress.
+6,995,What load are spring hooks subjected to?.,A,Bending.,Tension.,Compressive.
+6,996,Steel music wire is.,A,used for lower strength springs.,made of high carbon or nickel alloy.,used for high strength springs and as progressive-rate springs.
+6,997,A spring should be inspected for correct.,A,"length, strength and squareness.","width, strength and squareness.","width, length and strength."
+6,139,“ AN470 AD 2117-T” What does AD mean?,C,Plain,Raised dot,Indented dimple
+6,146,Which is the load of Thrust bearings take ?,A,Side loads,Journal loads,Radial loads
+6,149,A turnbuckle is in safety when ….. ?,A,The witness hole is covered or the amount of threads showing at the cable end is in Accordance with the Maintenance Manual,The colour on the threads is showing,It is lockwired
+6,154,Turnbuckles are used to ……?,B,Join the two ends of the cable,Adjust minor tension on the cable,Adjust major tension on the cable
+6,155,Needle bearings resist ….. ?,C,Radial and axial load,Axial load only,Radial load only
+6,160,A watermark on a bearing indicates ….?,C,Bearing running dry,Lack of lubrication,Intergranular corrosion
+6,194,Damage to the shield of a bearing should result in …. ?,C,No action,Replacement of the shield,Rejection of the bearing
+6,195,The stationary race of a journal bearing is normally …. ?,A,An interference fit,A push fit,A spigoted fit
+6,238,To make roller andballbearings ...used,C,Vanadium,Titanium,Chromium
+6,239,The weakening of a materia lcaused by repeatedly applied loads is,A,Fatigue,Corosion,Deformation
+6,283,How the shielded ball bearings is inspected?,B,By running it at operating speed and listening for signs of wear,By rotating slowly by hand,By dismantling and inspecting
+6,346,Which type of bearing doesnt accept the axial loads ?,C,Ball,Tapered,Spherical
+6,347,Which situation would thrust bearings work best ?,A,High load - low speed,High load - high speed,Low load - high speed
+6,391,Loads on tapered roller bearings,C,radial only,thrust only,radial and thrust
+6,392,The pot life of a cold cured resin,C,increases with increase of temperature,is not reliant upon temperature fluctuations,decreases with an increase in temperature
+6,429,A single row ball bearing is best suited to accepting,B,axial and radial Loads,radial loads only,axial loads only
+6,442,Where are needle roller bearings used,A,where there are space restrictions,high speed operations,Where is fluid damped bearing used
+6,998,Needle roller bearings.,B,can accept a small amount of misalignment.,are susceptible to brinelling.,are designed to carry axial loads.
+6,999,"When rotating a ball bearing by hand, a regular click indicates.",A,a cracked ring.,damage to the balls.,intergranular corrosion in the outer ring.
+6,1000,A journal load is.,B,compression.,radial.,axial.
+6,1001,What kind of bearing is used in a landing system?.,B,Needle roller bearing.,Tapered roller bearing.,Caged ball bearing.
+6,1002,Spherical roller bearings resist what loads?.,B,Large radial but no thrust.,Large radial and moderate thrust.,Large thrust and moderate radial.
+6,1003,Where are needle roller bearings used?.,C,High speed operations.,Where is fluid damped bearing used.,Where there are space restrictions.
+6,1004,Loads on tapered roller bearings are.,C,thrust only.,radial only.,radial and thrust.
+6,1005,A Hardy Spicer coupling has what type of bearings?.,B,Ball Bearings.,Needle bearings.,Plain bearings.
+6,1006,A self aligning bearing is a.,C,angular bearing.,precision bearing.,radial bearing.
+6,1007,A crankshaft would be fitted with a.,C,cylindrical roller bearing.,taper roller bearing.,spherical roller bearing.
+6,1008,Where heat is likely to be transmitted through a bearing.,B,group 2 bearings are used.,group 4 bearings are used.,group 3 bearings are used.
+6,1009,A single row ball bearing is best suited to accepting.,A,radial loads only.,axial loads only.,axial and radial Loads.
+6,1010,Taper roller bearings are used for which of the following purposes?.,B,To transmit radial loads whilst resisting axial movement,To transmit thrust loads with radial loads.,To permit axial movement whilst resisting radial load.
+6,1011,Inspection of bearings is normally carried out.,A,in situ.,when dismantled.,when removed from an assembly.
+6,1012,Damage to the shield of a bearing should result in.,C,no action.,replacement of the shield.,rejection of the bearing.
+6,1013,A watermark on a bearing indicates.,B,bearing running dry.,intergranular corrosion.,lack of lubrication.
+6,1014,Needle bearings resist.,C,radial and axial load.,axial load only.,radial load only.
+6,1015,When silica gel has absorbed moisture the colour changes to.,A,pink.,white.,blue
+6,1016,A thrust bearing is designed so that.,C,"it transmits radial loads, therefore limiting axial movement.","it transmits axial loads, therefore limiting radial movement.","it transmits axial loads, therefore limiting axial movement"
+6,1017,Lubrication of roller bearings and needle bearings are.,C,at low pressure via a tube.,under pressure.,by hand.
+6,1018,"Silica gel is used for moisture control during storage, when serviceable it is coloured.",A,blue.,white,pink
+6,95,"If we compare spiral gears with the spur gears,Spur gears …. ?",B,Have mechanical advantages,Less stress concentration on gears,More wear resistance
+6,98,How can a chain for elongation check?,B,Adjust the end fittings,"Lay flat on a table , apply tensile load and measure","Hang chain up, check sight line and measure"
+6,167,How is the large diameter on bevel gear called ?,C,Toe,Foot,Heel
+6,171,"What should be the wear pattern ,on the gear teeth?",C,The top edge most worn,The middle of the tooth most worn,Even
+6,193,What would be normally the teeth of gear ?,B,Nitrided,Case hardened,Tempered
+6,248,Where the light transmission necessary.....used,B,Polystrene,Acrylics,Acetate
+6,249,To store a chain...,C,Layuncoiledandflat in a greaseproofpaper,Hangedsotheydon‟tkink,Oiledandcoiled in a greaseproofpaper
+6,255,What is the pattern of a gear?,A,Mark it leaves on a matinggear,Thepaththeytakewhenthegear is rotating,Profile of thegearteeth
+6,260,Where shouldpair of gears sit whenit‟s not underload?,A,Inthemiddle,On theheel,On thetoe
+6,273,What is the riven allowance,A,1.5d,1.5d plusmaterialthickness,1d plusmaterialthickness
+6,299,The teeth of a gear normally would be ......,B,Nitrided,Case Hardened,Tempered
+6,348,What is compound gear ?,C,A gear which is interposed between the driving and driven gear,A gear which positioned between the driving gear and one or more driven gears in a gear train,A gear which has more than one driving face
+6,349,What is idle gear ?,C,A gear which has more than one driving face,A gear which positioned between the driving gear and one or more driven gears in a gear train,A gear which is interposed between the driving and driven gear
+6,382,Buttress threads are used,A,to transmit power in both directions,to transmit power on one direction,on nuts and bolts
+6,415,"Compared with the spur gears, spiral gears have",B,more wear resistance,less stress concentration on gears,have mechanical advantages
+6,422,Non-reversible chains can,C,only be moved in one direction,not be fitted through pressure bulkheads,only be fitted in one direction
+6,423,The teeth of a gear would normally be,B,nitrided,case hardened,tempered
+6,430,"During a inspection interval one segment of a long chain is found to be defective, the solution to this is to",C,replace the particular segment and run components to check for Serviceability,replace 3 segment either side of the deficiency,replace the whole chain
+6,1019,How do you check a chain for elongation?.,B,"Apply a load, measure chain and use 5% max formula to check extension.","Apply a load, measure chain and use 2% max formula to check extension.","Hang the chain under its own weight, measure chain and use 2% max formula to check extension."
+6,1020,How do you store a chain?.,A,Oiled and coiled in greaseproof paper.,Lay uncoiled and flat in greaseproof paper,Hanged so they do not kink.
+6,1021,Epicyclic gears are used on.,B,shafts rotating on axis 90 degrees from each other.,shafts rotating on the same axis.,shafts rotating on offset axis.
+6,1022,"What is the purpose of the guard, where a control chain goes around a sprocket?.",A,Stops the chain coming off if it goes slack.,Protects personnel when carrying out maintenance.,Prevents entry of foreign bodies.
+6,1023,Worm drives operate in shafts which are.,A,90 degrees to each other and in a differing plane.,90 degrees to each other and in the same plane.,parallel to each other and in the same plane.
+6,1024,The pattern of a gear is the.,C,the path they take when the gear is rotating.,profile of the gear teeth.,mark it leaves on a mating gear.
+6,1025,"How is the change in direction of a control chain, in two planes, achieved?.",B,By using a pulley.,By using bi-planer blocks.,By using spring clips.
+6,1026,How is a non-reversible chain different from a normal chain?.,B,By use of a chain guard.,Every second outer plate is extended in one direction.,Different end fittings.
+6,1027,When not under load where should a pair of gears sit?.,A,In the middle.,On the toe.,On the heel.
+6,1028,"For a pair of gears to operate properly, they must have.",A,lash and pattern.,end play and thrust.,pattern and profile.
+6,1029,The teeth on the smaller wheel of a bevel gear are called the.,B,heel.,toe.,foot
+6,1030,The correct meshing of gears is found by observing the marks made during a gear mesh test. On what part of the tooth should the marks be?.,C,Top,Bottom.,Middle.
+6,1031,What type of gear would be used on a propeller reduction gearbox?.,C,Split epicyclic.,Bevel.,Epicyclic.
+6,1032,Where would you find the inspection interval for chains?.,B,Overhaul manual.,Maintenance schedule.,Maintenance manual.
+6,1033,A feather key locates a gear on a shaft and permits.,A,positive drive and axial movement.,positive drive with the gear firmly locked.,a positive and strong drive for transmissions
+6,1034,A worm drive creates.,C,a drive in 2 planes and transmits both directions.,a drive in 1 plane but transmits both directions,a drive in 2 planes but transmits 1 direction only.
+6,1035,If a chain is removed for routine maintenance.,C,it must be proof checked to full load.,it must be proof checked to ½ max load.,it does not have to be proof checked.
+6,1036,"On gear teeth, the wear pattern should be.",A,the middle of the tooth most worn.,even from top to bottom.,the top edge most worn.
+6,1037,"On bevel gear teeth, the wear pattern should be.",A,at the centre of the tooth.,"greatest at the heel, least at the toe.","greatest at the toe, tapering off to the heel."
+6,1038,Bevel gears are.,A,all over case hardened.,heel is hardened.,toe is hardened.
+6,1039,A chain is checked for stiff links by.,C,hanging by hand by measure and sight.,stretching out and measuring.,running the chain over a finger by 180 degrees.
+6,1040,"During an inspection interval one segment of a long chain is found to be defective, the solution to this is to.",B,replace 3 segment either side of the deficiency.,replace the whole chain.,replace the particular segment and run components to check for serviceability.
+6,1041,The large diameter on a bevel gear is called the.,C,foot.,toe.,heel.
+6,1042,How do you check a chain for elongation?.,A,"Lay flat on a table, apply tensile load and measure.",Adjust the end fittings.,"Hang chain up, check sight line and measure."
+6,1043,Drive planes on an epicyclic gear are.,A,around a common axis of the plane.,at different angles to the plane.,at right angles to the plane.
+6,1044,"Compared with the spur gears, spiral gears have.",B,have mechanical advantages.,less stress concentration on gears.,more wear resistance.
+6,1045,"The clutch which can overrun the driving member, is known as.",C,overload clutches.,no-slip clutches.,freewheel clutches.
+6,1046,"A gear system, or gear train, is made up of gears that are.",C,driven and driver.,idler.,"driven, driver and idler."
+6,76,“…………….. mounting method is used the most to attch terminals to control cables?,A,Swaging,Soldering,Glueing
+6,85,Which material is used for manufacturing the cable stops ?,C,Magnesium alloy,Copper,Stainless steel
+6,118,Interconnect cables are …..?,A,Employ thinner insulation than airframe types,Used for equipment wire in the unified system,The cable through the MEC to the engine
+6,121,What material is the conductor in tersil cable?,B,Tinned copper,Nickel plated copper,Stainless steel
+6,138,“…………………… are used for hinge pins in some aircraft control systems “ ?,A,Clevis pin,Taper pin,Split pin
+6,163,“1x7 type of control cables are …..”?,C,Flexible,Lockclad,Non-felxible
+6,164,“7x19 type of control cables are …. “?,A,Extra-flexible,Flexible,Non-flexible
+6,168,How is the diameter of a cable measured ?,B,Diameter of one wire only,Overall diameter,Diameter of one wire multiplied bu the number of wires
+6,220,Nİckel coated cables temperature range is … ?,C,100 to 150 ⁰C,150 to 200⁰C,200 to 250⁰C
+6,290,What is nickel coated cables temperature range ?,A,200 to 250 °C,150 to 200 °C,100 to 175 °C
+6,296,How do you prevent interference in ribbon cables?,B,By the use of common earth return between signal wires in the cable,By grounding alternate wires so signal wires are never adjacent,By using alternate return wires so that the cable differencies cancel each other out
+6,350,Which following statement is not true for HTS and HTSS wires ?,C,Resist kinking,Resist un-stranding,Resists shear loads
+6,351,If a cable is 7x19 it has ....,A,"7 strands , each containing 19 wires","19 strands , each containing 7 wires",7 mm diameter and contains 19 wires
+6,410,A 7x7 cable has seven strands each of,B,one wire,seven wires,fourteen wires
+6,441,To correctly tension cables it can help to,A,have control surface locks in to support weight and adjust turnbuckles equally,take up initial slack by additional pulleys,use a cable run with turnbuckles at least every eight feet
+6,443,Cable tension is maintained by,A,a cable tension regulator,a grommet,a fair lead
+6,1047,When is a turnbuckle not in safety?.,C,When a small diameter wire can be passed through the inspection hole.,When you can see daylight through the hole.,When a wire of the same diameter as the inspection hole can be passed through.
+6,1048,How do you check a turnbuckle is in safety?.,A,Use the inspection hole or count the threads showing.,Ensure that the turnbuckle cannot be turned by hand.,Make sure no threads are showing at either end of the turnbuckle.
+6,1049,British aircraft cables are classified by their.,A,breaking load in hundredweights.,"breaking loads in lbf, where 1 lbf = 4.448N.",diameter and breaking load in Hundredweights.
+6,1050,Cables are preferred to other control systems because.,B,single braid allows for 2 way directions.,they are strong and light.,they maintain slight mechanical advantage over push/pull systems.
+6,1051,"Turnbuckles, depending on type, are locked by.",B,stiffnuts.,locknuts and wire.,castleated nuts and splitpins.
+6,1052,To correctly tension cables it can help to.,B,take up initial slack by additional pulleys.,have control surface locks in to support weight and adjust turnbuckles equally.,use a cable run with turnbuckles at least every eight feet.
+6,1053,British turnbuckles are checked for safety by.,A,attempting to pass a hardened pin probe through the inspection hole.,attempting to pass locking wire through the hole.,looking through the hole and checking for threads showing.
+6,1054,Turnbuckles are correctly fitted when.,C,both rods are seen to touch in the inspection hole.,both rods enter the barrel by the same amount.,the inspection hole is blind or the required number of threads are showing.
+6,1055,9 * 16 cable is.,A,9 strands of 16 wires.,9 cables having 16 turns per inch.,cable size 9/16 inch diameter.
+6,1056,Spring locking clips for turnbuckles can be used on.,B,no flying control cables.,all flying control cables.,only on trim control cables.
+6,1057,What is the small hole on a swaged turnbuckle for?.,B,To check for moisture deposits.,To check if correct amount of cable has been inserted before swaging.,To alloy the turnbuckle to be wire locked.
+6,1058,When checking the safety of turnbuckles you should use what?.,B,Visual check.,Wire the same diameter as the inspection hole.,Wire smaller than inspection hole.
+6,1059,Cable minimum breakage strain for British and American is measured by.,B,"hundredweight for British, c.s.a. and pounds for American.","hundredweight for British, c.s.a. hundredweight for American.",pounds for both.
+6,1060,If a pulley shows signs of wear on one side.,C,the cable is too tightly tensed.,the pulley is too large for the cable.,the cable is misaligned.
+6,1061,A 7x7 cable has seven strands each of.,B,fourteen wires.,seven wires.,one wire.
+6,1062,Cable stops are manufactured from. ,B,stainless steel.,copper.,magnesium alloy.
+6,1063,"In a Teleflex flexible control system, the Teleflex cable consists of.",B,multi strand steel wires and is used primarily as a single one way device operated from a control lever.,a high tensile steel wire with a right or left hand helix wire wound on to it. The system can operate in two directions.,a flexible seven or nineteen strand steel cable used for the operation of manual flying controls.
+6,1064,A cable tension regulator will be installed in a flying control system to.,C,automatically compensate for low cable tension caused by worn cables.,compensate for rapid movement of the controls by taking up the slack.,allow for variations in temperature which will vary the cable tension.
+6,1065,Aircraft flying control cables are normally classified by the.,C,circumference of the cable and overall length.,number of strands it contains and the number of wires in each strand.,minimum breaking load or the diameter in inches.
+6,1066,7 * 7 cable has seven stranded wires each with.,A,7 wires.,14 wires.,49 wires.
+6,1067,Tension regulators on aeroplanes with fully metal bodies are used to.,B,set up the necessary tension.,maintain the necessary tension.,relax the tension in cold conditions.
+6,1068,What is the smallest size cable that may be used in aircraft primary control systems?.,C,5/16 inch.,1/4 inch.,1/8 inch.
+6,1069,How are changes in direction of a control cable accomplished?.,C,Bellcranks.,Fairleads.,Pulleys
+6,1070,A flight control cable is replaced if.,A,single wires are blended together.,the protective fluid coating is missing.,a wire is 20% worn.
+6,86,How can we remove a thread insert ?,A,With a blade removal tool,With a hammer and punch,With a pre-wind insertion tool
+6,92,The tang of thread insert ………… ?,A,May left it in the insert after installation,is removed with a hammer and a punch,Must be removed
+6,94,Which definition is true concerning the Interconnect cables?,A,Employ thinner insulation than airframe types,The cable through the MEC to the engine,Used for equipment wire in the unified system
+6,128,Why is The Electric cable on aircraft is mainly made from copper ?,A,t offers low resistance to current flow,It more malleable,It doesn‟t oxide
+6,131,"What will happen to the voltage drop , if the cross sectional area of a cable is increased ?",A,Decrease,Increase,It doesn‟t change
+6,158,Which is true about 9x16 Cable ?,B,Cable size 9/16 inch diameter,9 cables of 16 strands,9 cables having 16 turns per inch
+6,161,“MS3101” is a basic configuration of the connector . What type of connector?,B,Angle plug,Cable receptacle,Wall receptacle
+6,181,Which is the diameter of wire ?,A,0.0025 inch,0.054 inch,0.084 inch
+6,218,Aluminium wiring when flexed will …?,C,Have a higher resistance,Have no effect,Work harden and embrittle
+6,251,"When comparing 14 and 18 gaugecable, 14 gaugecablehas ...",A,Highercurrentrating,Samecurrentrating,Lowercurrentrating
+6,256,Equipment cable ...,C,Can be usedforinterconnectwiring,Has thickerinsulationthaninterconnectwire,Is flexibleandsuitableforsoldering
+6,259,What does the digit 6 represents in following wiringcode: EF6B22 NMS V1.,A,Cable number,Cable size,Circuitfunction
+6,261,What an “X” symbolindicates on a cable ?,B,Emergencypower,AC power,Control system
+6,268,What wil lhappen i fyou use silver coated connectors at unpressurized areas of theairplane ?,A,Corrosioncouldoccur,Wettrackarcingcouldoccur,Seperation of thecoatingcouldoccur
+6,291,What will happen when aliminium cable flexed ?,B,Will have no effect,Will work harden and embrittle,Will have a higher resistance
+6,352,Shackle pins used to counter what load ?,B,Tension,Shear,Tensile
+6,353,A electric cable must be able to perform it functions on some certain situations.Which following is not one of them ?,A,At high moiustrous ambiance,At high temperatures,At low temperatures
+6,354,Fireproof cables must be operational at least ....... in case of fire,B,20 minutes,15 minutes,10 minutes
+6,355,"Aliminium wires smaller than six-gauge in not recommended , why ?",A,It is so easily broken by the vibrations,It isnt resistant to corrosion,It is easily flammable
+6,356,In a cable coding 1 EF6B 22 NMS V what does 1 mean ?,B,Suffix data,Unit number,Cable number
+6,357,In a cable coding 1 EF6B 22 NMS V what does E mean ?,C,Suffix data,Cable segment letter,Circuit function letter
+6,358,In a cable coding 1 EF6B 22 NMS V what does F mean ?,B,Cable segment letter,Circuit designation letter,Cable size
+6,359,In a cable coding 1 EF6B 22 NMS V what does 6 mean ?,B,Cable segment letter,Cable number,Circuit function letter
+6,360,In a cable coding 1 EF6B 22 NMS V what does B mean ?,A,Cable segment letter,Circuit function letter,Cable size
+6,361,What is the coding for AC power for wires ?,C,D,K,X
+6,362,What is the coding for lighting for wires ?,C,X,J,L
+6,363,When would open wiring used ?,B,When there is no chemical danger,When there is no mechanical danger,When the external protection is needed
+6,364,What is the max angle when clamping wires or cables ?,A,45,60,25
+6,365,What does MS3100 coding for connectors mean ?,C,Straight plug,Box receptacle,Wall receptacle
+6,366,What does MS3101 coding for connectors mean?,A,Cable receptacle,Angle plug,Straight plug
+6,367,What does MS3108 coding for connectors mean ?,B,Box receptacle,Angle plug,Straight plug
+6,368,When bending a cable radius of bend must not be less than .... times the radius of cable bundle,A,6,7,5
+6,439,What colour is used to identify a primary structure on a diagram or drawing?,C,Yellow,Green,Red
+6,440,If you are unable to identify a structure classification as either primary or secondary what action should you take?,B,Grade as secondary,Upgrade as primary,Paint it red and stamp it as tertiary
+6,459,Plug pins are numbered,C,from the outside in - clockwise,from the inside out - anticlockwise,from the inside out - clockwise
+6,1071,A 14 gauge cable when compared to an 18 gauge cable has.,B,the same current rating.,higher current rating.,lower current rating
+6,1072,"In a front release connector, the pin will be.",A,released from the front and extracted from the rear.,released from rear and extracted from the front.,released from the front and extracted from the front.
+6,1073,An interconnect cable has what insulation?.,C,same thickness as airframe cable.,thicker than airframe cable.,thinner than airframe cable.
+6,1074,Why is the ground side of an electrical power conductor usually connected to a male connector?.,B,To make installation of the connector easier.,To reduce the chance of an accidental short.,To reduce the chance of corrosion affecting the pins.
+6,1075,Maximum temperature of tin coated copper cable is.,C,200 °C.,260 °C.,105 °C.
+6,1076,Equipment wire.,A,is flexible and suitable for soldering.,can be used for interconnect wiring.,has thicker insulation than interconnect wire.
+6,1077,"In the wiring code shown, what does the number 6 (4th number from the left) represent? 1EF6B22 NMS V.",A,Cable number.,Circuit function.,Cable size.
+6,1078,An aluminium oxide layer on a conductor will do what when the temperature is increased?.,B,Remain the same.,Become thicker.,Become thinner.
+6,1079,What is a coaxial cable?.,B,A single conductor.,Two or more conductors.,A twisted pair of conductors.
+6,1080,X' on an electrical cable indicates.,B,emergency power.,AC power.,control system.
+6,1081,What must you be careful with a hot stamped cable?.,C,Corrosion.,Peeling of the insulation.,Wet arc tracking.
+6,1082,What is the effect of aluminium oxide on aluminium electrical cable?.,A,Insulates,Reduces resistance.,Provides strength.
+6,1083,What amperage is an 18 swg cable?.,B,1 amp.,10 amp.,5 amp.
+6,1084,A co-axial cable is better than a normal cable because.,A,there is an electrostatic field around it which helps to reduce the electromagnetic field.,weight for weight it can carry more signal.,it has less resistance.
+6,1085,What is the danger if a silver coated connector comes into contact with glycol de icing fluid.,A,Fire hazard.,Corrosion.,Wet arc tracking.
+6,1086,The conductor in Tersil cable is.,B,stainless steel.,nickel plated copper.,tinned copper.
+6,1087,A cable is marked NYVIN 22. The 22 represents the.,B,current/weight ratio.,cross sectional area.,current rating.
+6,1088,Copper is an inferior conductor to aluminium when comparing.,A,weight for weight.,CSA with CSA.,load for load.
+6,1089,Silver plated copper wire has a maximum working temp of.,C,250 °C.,300 °C.,200 °C.
+6,1090,For an electrical cable to be fireproof it must be able to stand 1100 °C for.,C,20 mins.,10 mins.,15 mins.
+6,1091,Oxide on exposed silver plated wires is.,C,non corrosive.,a conductor.,an insulator.
+6,1092,On a rear insert plug the tool is used to.,C,insert the pins from the front and extracted from the rear.,insert the pins from the rear and extract from the front.,insert the pins from the rear and extract from the rear.
+6,1093,Aluminium wiring when flexed will.,C,have a higher resistance.,have no effect.,work harden and embrittle.
+6,1094,"On a hydraulic swaging tool, the swage is formed when.",B,the bypass valve closes and ram is neutrally loaded.,the bypass valve opens and ram is neutrally loaded.,swage pressure is reached on the gauge.
+6,1095,Interference in ribbon cables can be prevented by.,B,the use of a common earth return between signal wires in the cable.,grounding alternate wires so that signal wires are never adjacent.,using alternate return wires so that the cable differences cancel each other out.
+6,1096,H.T. leads are.,A,"multi-strand, single-core, screened.","single-strand, single-core, screened.","multi-strand, multi-core, screened."
+6,1097,"If the cross sectional area of a cable is increased, what will happen to the voltage drop?.",A,Decrease.,Increase.,Stay the same.
+6,1098,The cross sectional area of a copper crimp barrel is.,B,larger than an aluminium one.,smaller than an aluminium one.,same as an aluminium one.
+6,1099,Electrical cable on aircraft is mainly made from copper because.,A,it offers low resistance to current flow.,it more malleable.,it does not oxidise.
+6,1100,"When crimping, what chapter in the ATA system should you refer to?.",A,20,24,12
+6,1101,Interconnect cables.,A,employ thinner insulation than airframe types.,are used for equipment wire in the unified system,are the cable through the MEC to the engine.
+6,1102,The first step for the coaxial cable to attach to the end fitting is.,B,use a tooling hold between the assembly and cable.,the outer covering is cut back to expose the braided outer conductors.,back-off the insulator and connect with conductor.
+6,1103,A fire resistant cable must maintain adequate insulation in a fire for.,B,10 minutes.,5 minutes.,30 minutes.
+6,1104,When silver coated connectors are used in unpressurised parts of the aircraft.,B,wet track arcing can occur.,red plague can occur.,separation of the coating can occur.
+6,1105,Knuckling is a problem on earlier aircraft cables due to.,C,hot stamping of cables.,too much flux.,wires being pulled through too hard.
+6,1106,Cable current ratings are based on a conductor temperature rise of 40 °C and if the maximum design ambient temperature is continuously exceeded they should be.,A,multiplied by the 'K' factor.,divide by the 'K' factor.,halved.
+6,1107,Which of the following types of electrical wire is likely to be used for connection of thermo-couples around the jet-pipe of a turbine engine?.,C,Nyvin.,Tersil.,Fepsil.
+6,1108,The main reason why crimped joints are preferable to soldered joints is.,C,the quality of crimped joints will be constant.,no flux is needed.,there is no heat required.
+6,1109,In the cable identification '2 P 215 A 28 N' the position of the letter P indicates.,B,that it is a Pneumatics system cable.,the circuit function.,which segment the cable is in.
+6,1110,Crimping terminals are colour coded. The colour indicates.,C,the type of crimping tool to be used only.,the wire size to be used with that crimp only.,both the crimping tool and the size of the wire to be used.
+6,1111,14 SWG electrical cable when compared to a 18 SWG cable can carry.,C,less current.,the same current.,more current.
+6,1112,Co-axial cables are used.,B,as they are able to handle high current.,as the fields due to current flow in the inner and outer cancel each other out.,as they produce an electrostatic field around them which prevents HIRF interference.
+6,1113,Direct removal connector pins are fitted from the rear.,B,are fitted from the front but removed from the rear.,and removed from the rear.,and removed from the front.
+6,1114,"When installing coaxial cable, it should be secured along its entire length.",A,at 2-foot intervals.,at 1-foot intervals.,wherever the cable sags.
+6,1115,How should splices be arranged if several are to be located in an electrical wire bundle?.,C,Enclosed in a conduit.,Grouped together to facilitate inspection.,Staggered along the length of the cable.
+6,1116,"When approved, splices may be used to repair manufactured harnesses of installed wiring. The maximum number of splices permitted between any two connectors is.",B,two.,one.,three.
+6,1117,The most common method of attaching a pin or socket to an individual wire in an MS electrical connector is by.,A,crimping.,soldering.,crimping and soldering.
+6,1118,The pin section of an AN/MS connector is normally installed on.,C,the power supply side of the circuit.,either side of a circuit (makes no difference).,the ground side of the circuit.
+6,1119,The primary considerations when selecting electric cable size are.,C,the voltage and amperage of the load it must carry.,the system voltage and cable length.,current-carrying capacity and allowable voltage drop.
+6,1120,How does the routing of coaxial cables differ from the routing of electrical wires?.,B,Coaxial cables are routed at right angles to stringers and ribs.,Coaxial cables are routed as directly as possible.,Coaxial cables are routed parallel with stringers and ribs.
+6,1121,The socket section of an AN/MS connector is normally installed on.,A,the power supply side of the circuit.,the ground side of the circuit.,either side of a circuit (makes no difference).
+6,1122,"In the American Wire Gauge (AWG) system of numbers used to designate electrical wire sizes, the number assigned to a size is related to its.",A,cross sectional area.,combined resistance and current-carrying capacity.,current-carrying capacity.
+6,1123,"Where electrical cables pass through holes in bulkheads, formers, ribs, firewalls etc., the wires should be protected from chafing by.",C,wrapping with electrical tape.,wrapping with plastic.,using a suitable grommet.

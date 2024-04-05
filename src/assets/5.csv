@@ -1,0 +1,733 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+5,1,What is the expression EFIS mean ?,C ,Electromagnetic Flight Instrument System,Electronic Flight Indicator System,Electronic Flight Instrument System
+5,2,Which of the following isn't include in EFIS system?,B,Electronic attitude deviation indicator (EADI),Traffic alert and collision avoidance system (TCAS),Electronic horizontal situation indicator (EHSI)
+5,3,The meaning of the term EADI is :,A,Electronic attitude deviation indicator,Electromagnetic attitude data indicator,Electromechanic attitude deviation indicator
+5,117,What are the basic elements for 'Classic T' format?.,C,"Direction, altitude and height.","Airspeed, pitch and roll.","Airspeed, attitude, altitude and direction."
+5,118,Typical displays on an EHSI are.,B,Engine indications.,"VOR, Map, Plan and weather radar.","VOR, Plan, Map and Attitude."
+5,119,An EADI display showing a moving runway moves down during the final stages of an approach. The aircraft must.,A,fly down.,fly up.,hold descent path.
+5,120,"During an instrument approach, the glideslope pointer eflects below the glideslope centre mark. This means the aircraft is positioned.",A,above the glideslope,below the glideslope,to the left of the localiser.
+5,121,Engine parameters are displayed on.,A,ECAM.,EHSI.,FMSCDU.
+5,122,What is the fixed feature of an ADI?.,B,The glideslope pointer.,The aircraft symbol.,The lateral deviation bar.
+5,123,"On an EADI, the Flight Director command bars show.",B,the path with respect to the horizon.,the required path with respect to the actual path.,the actual path with respect to the required path.
+5,124,What instrument includes a display of a rising runway?.,C,ECAM.,EHSI.,EADI.
+5,125,What functions are available on the EHSI?.,B,Full arc and Wx only.,"Full arc, Wx and Map Mode.",Full Arc only.
+5,126,"With radio coupled autopilot, what are the inputs?.",B,ADF and VOR.,ILS and VOR.,ADF and ILS.
+5,127,An EADI display of flight director commands are coloured.,B,cyan.,magenta.,red.
+5,128,"EFIS systems have two control panels, their purpose is.",A,one to control the type of EFIS display and the other to select the source of the information being displayed.,one for the EADI display and one for the EHSI display.,to provide display control by one control panel whilst the other provides a standby.
+5,129,What would you expect to see displayed on an EADI display?.,C,"Compass heading, selected heading and VOR.","Course information, weather radar, way point alert and bearing pointers.","Flight director command bars, slip indicator, rate to altitude & autoland."
+5,130,An EFIS ADI display will show along with pitch and roll.,B,"flight director bars, autoland, compass rose, altitude.","decision height, autoland, rad alt , altitude.","flight director bars, autoland, altitude, range to altitude, decision height."
+5,131,If the glideslope pointer is below the centre mark the aircraft is.,C,below the glideslope.,on the glideslope.,above the glideslope.
+5,132,On an EFIS system the weather radar is displayed on.,C,the FMC CDU.,the EADI.,the EHSI.
+5,133,EADI displays show.,B,"pitch, roll and waypoints.",pitch and roll attitudes.,heading and weather radar.
+5,134,"On an EHSI in weather radar mode, a severe storm would be shown as.",B,orange areas with black or yellow surrounds.,red areas with black surrounds,blue areas with white background.
+5,135,During flight (non fault conditions) the EICAS system displays on the lower CRT.,B,flight phase page.,secondary engine parameters.,synoptic display.
+5,136,Radio altitude is displayed on an EFIS system.,B,on the Electronic Horizontal Situation Indicator.,on the Electronic Attitude Direction Indicator.,on the RMI.
+5,137,"An EFIS system ADI displays pitch, roll.",B,"autoland, altitude, compass rose and flight director bars.","autoland, decision height, range to altitude and flight director bars and slip indicator.","autoland, rad alt, decision height and slip indicator."
+5,138,An electronic flight instrument display consists of.,A,"Mode control panel, Raster and Stroke generator display, microprocessor and Data inputs","ADC, Altimeter, VSI and ASI.","ADI, HSI and Symbol generator."
+5,139,The EFIS system consists of.,B,"EHSI, Mode control panel, EADI.","EADI, EHSI, Symbol generators.","Mode control Panel, RDMI, EHSI."
+5,140,ILS indications on PFD/ND are shown in.,B,cyan.,magenta.,green.
+5,141,A weather radar image can be displayed on the ND on all modes except.,C,arc.,nav rose.,plan.
+5,142,In a typical commercial aircraft Head Up Guidance System.,A,the type of information shown on the attitude director indicator is displayed on a transparent plate.,all instrument information is displayed on the windshield.,only emergency indications or warnings are displayed to the pilot.
+5,143,A modern Electronic Horizontal Situation Indicator will display the following:.,A,"Waypoints, ILS Steering Information, Distance to go and Magnetic Heading.","ILS Steering Information, Flight director information and Glide Slope Deviation.","Ground speed, Magnetic Heading, Way points and Localiser."
+5,144,Cockpit panels have a matt colour finish. The purpose is.,B,so that pilots feel more comfortable during daytime.,so that the amount of glare is reduced to minimum.,so that dust and dirt are less evident on panels.
+5,145,A complete EFIS installation in an aircraft is made up of.,A,either of the above.,right (captain) and left (co-pilot).,left (captain) and right (co-pilot).
+5,146,"On a modern 'glass cockpit' aircraft, engine information will be.",C,FMS.,EFIS.,ECAM.
+5,147,What does EFIS mean?.,B,Electronic Fire Indication Signal,Electronic Flight Instrument System.,Electronic Flight Information System.
+5,148,What does EICAS mean?.,B,Electronic indicator and control alerting system.,Engine indicating and Crew alerting system.,Electronic indicator and crew alerting system.
+5,149,What does ECAM mean?.,C,Engine Centralised Aircraft Management System.,Engine Centralised Aircraft Monitoring System.,Electronic Centralised Aircraft Monitoring System.
+5,4,The couting system using a base of two is called .........,A,the binary system,the decimal system,the octal system
+5,5,Eight bits consists of how many nibbles?,B,1,2,3
+5,6,LSB means ................,C,Lowest Significant Bit,Lowest Start Bit,Least Significant Bit
+5,7,What is the MSB?,B,Most Start Bit,Most Significant Bit,Mathematical Start Bit
+5,8,The binary - type elements are connected together to count to the base of called a ................,A,binary coded decimal,octal coded decimal,hexadecimal coded decimal
+5,9,(28)10 = (?)2,A,(11100)2,(10100)2,(1111)2
+5,10,(10111)2 = (?)10,B,18,23,20
+5,11,(273)10 = (?)8,C,(326)8,(452)8,(421)8
+5,12,(146)8 = (?)10,A,(72)10,(34)10,(56)10
+5,13,(64702)8 = (?)2,B,(010011001011)2,(110100111000010)2,(1011001001110)2
+5,14,(B28)16 = (?)10,C,(210)10,(214)10,(216)10
+5,15,(1011001110101001)2 = (?)16,A,(B3A9)16,(B1A9)16,(C2A9)16
+5,16,(B2A3D)16 = (?)2,A,(10110010101000111101)2,(10000111010101111011)2,(01101011000110000101)2
+5,17,(10010101111)2 = (?)8,C,(1257)8,(2357)8,(2257)8
+5,18,(478)10 = (?)16,B,(EC2)16,(ED1)16,(BD4)16
+5,150,Convert 011101 Base2 to octal.,B,25,35,33
+5,151,The binary number 11010111 expressed as a decimal is.,A,215,223,207
+5,152,The octal number 1001 expressed as a decimal is.,C,9,65,513
+5,153,What is 345 in binary?.,B,100111001,101011001,110011001
+5,154,What is hex 110 in decimal?.,B,282,272,32
+5,155,Convert the binary word 1100 to decimal.,C,11,16,12
+5,156,"If a data message is made up of 1s and 0s, it is.",C,analogue.,binary.,digital.
+5,157,Convert the binary word 1110 to decimal.,B,12,14,15
+5,158,Convert the binary number 110010 to decimal.,B,80,50,34
+5,159,Convert the hexadecimal number D into decimal.,A,13,15,14
+5,160,Convert decimal 15 into binary.,A,1111,1101,1110
+5,161,Convert 448 to hex.,C,22 Base16.,36 Base16.,24 Base16.
+5,162,Convert decimal 15 into hexadecimal.,C,G.,E.,F.
+5,163,What is 345 in binary?.,C,100111001,110011001,101011001
+5,164,Convert 1D to binary.,A,11101,29,101001
+5,165,Convert 2C hex to octal.,C,35,44,54
+5,166,A hexadecimal is a number to base.,B,2,16,8
+5,167,1012 converted to decimal is.,C,52,210,510
+5,168,The binary coded decimal number 10011000 expressed as a decimal number is.,B,1528,9810,1522
+5,169,The decimal number 7 expressed as a binary number is.,B,101 Base 2.,111 Base 2.,7 Base 2.
+5,170,Convert 011101 binary to octal.,B,25,35,33
+5,171,Binary Number: 110010 is.,B,80,50,34
+5,172,Binary addition of 1101 + 101101 is.,A,58,70,61
+5,173,The binary number 11010111 is expressed as a decimal is.,B,107,215,53
+5,174,The octal number 1001 expressed as a decimal is.,C,713,613,513
+5,175,What is 011100001 Base2 in Octal?.,C,225 Base 8.,281 Base 10.,341 Base 8.
+5,176,The binary number 1010100011100101 Base2 in hexadecimal is.,C,22BC Base 16.,FFFF Base 16.,A8E5 Base 16.
+5,177,0011011000101001 when transferred to computer language this information can be a representation of.,C,"binary, octal or decimal numbers.","hex, octal and binary numbers.","hex, octal and decimal numbers"
+5,178,A computer message 3B4 is.,C,Octal.,binary.,hexadecimal.
+5,179,What is 54 octal in hexadecimal?.,C,2F.,4F.,2C.
+5,180,2D in decimal is.,B,43,45,41
+5,181,84 decimal in hexadecimal is.,C,5f.,f4.,54
+5,182,16 hexadecimal converted to decimal is equivalent to.,C,48,38,22
+5,183,Decimal 10 converted to binary is.,C,1111,1001,1010
+5,184,What systems uses base 10?.,C,Octal.,Binary.,Decimal.
+5,185,What systems use base 16?.,C,BCD.,Octal.,Hexadecimal.
+5,186,Binary coded decimal (BCD) format has a minimum of.,B,2 lots of four.,four.,3 lots of four.
+5,187,What is the Hexadecimal number F86 in Binary?.,C,"1,1111E+11",3974,"1,1111E+11"
+5,188,What is 11000012 - 1011002?.,C,10001101 Base 2.,110111 Base 2.,110101 Base 2.
+5,189,What is used for the power of 10?.,C,Digital.,Octal.,Decimal.
+5,190,What is 44 in hexadecimal?.,B,2d.,2c.,2F.
+5,191,What is octal 33 in hexadecimal?,A,1b.,11,22
+5,192,An octal format hexadecimal number 3F written as binary would be.,B,110 111.,111 111.,101 011.
+5,193,What is f86 hex when converted to binary?.,B,"1,00001E+12","1,1111E+11",1E+11
+5,194,"In a computer, the address 3B8 is.",A,hexadecimal.,decimal.,octal.
+5,195,What is a Grays converter?.,B,Analogue to Analogue.,Analogue to Digital,Digital to Analogue.
+5,196,What is the hexadecimal number AE5 in octal form?.,C,5445,5340,5345
+5,197,Hexadecimal 5C is what in binary?.,B,1011111,1011100,1110100
+5,198,Binary 11001101 converted to octal is.,B,12E.,315,205
+5,199,What is the binary notation for 29?.,C,0001 0110.,0010 1001.,0001 1101
+5,200,101012 + 110012 =.,C,462,468,4610
+5,201,If a signal has quantity in volts and physical position it is.,C,digital.,synchronous.,analogue.
+5,202,"Within a computer controlled flight system, position feedback is converted from.",B,position feedback to rate feedback.,analogue to digital.,digital to analogue.
+5,203,What is serial to parallel and vice-versa called?.,B,Switching.,Multiplex/Demultiplex.,Encoder/Decoder.
+5,204,A thyristor is a device which has.,B,a positive temperature coefficient.,a negative temperature coefficient.,a temperature coefficient of zero.
+5,205,"Physical variables in quantitative forms, such as voltage or angular rotation of a shaft are.",B,digital.,analogue.,binary.
+5,206,A D to A converter is required to produce an output range of 0 to 10V. This can be achieved by.,B,a non inverting op amp connected in series with output.,an inverting op amp connected in series with output.,a differentiator with a 100 Kilohm feedback resistor.
+5,207,A D to A converter would use a precision amplifier to.,B,compensate for the variation of the feedback resistor with temperature.,ensure that the output voltages remain accurate,ensure that the input voltage remains accurate.
+5,208,A given transducer provides a voltage which corresponds to true heading. This voltage can beconverted to 'bits' by using a.,A,analogue to digital converter.,digital to analogue converter.,commutator.
+5,209,An A to D converter uses successive approximation to.,C,increase resolution.,increase accuracy.,increase speed.
+5,210,An R-2R D to A converter uses.,A,two values of resistors whose precision is not important,two values of precision resistors.,resistors whose values are logarithmic.
+5,211,The function of a commutator is to.,C,convert from analogue to binary form.,provide continuous availability of all parameters connected to the system.,provide a sampling in sequence of a number of parameters.
+5,212,An encoder using Grey code.,C,changes analogue to binary.,changes digital to analogue.,changes analogue to digital.
+5,213,An analogue to digital converter is as accurate as.,B,the frequency.,the sampling rate.,the amplitude.
+5,214,A digital to analogue converter that requires the output to range between 0v and -10v would have.,B,a non-inverting amplifier in line with the output with a resistor to ground.,an inverting amplifier in series with the output line.,a non-inverting amplifier in parallel with the output line.
+5,215,"In an analogue to digital converter, the input voltage.",C,is switched by the digital input.,is intermittent.,stays on constantly.
+5,216,An R-2R Converter has values or resistance.,B,whose relative precision are accurate.,whose precision are not accurate.,whose precision are accurate.
+5,217,What does 1 represent in an analogue system?.,B,High frequency,"Switches closed, magnetised","Switches open, unmagnetised"
+5,218,Audio sounds recorded digitally.,A,are superior quality and graeter bandwidth.,are narrow bandwidth.,are not as accurate due to clipping and input errors.
+5,219,An analogue to digital converter where it counts up to binary state equal to the analogue input and then back down when this is reached is a.,A,a ramp type converter.,successive approximation counter.,flash type converter.
+5,220,Transistors are used in a current triggered D to A device to.,C,switch off the inputs.,switch on the input.,change the state of the inputs.
+5,221,Op amps generally used in ADCs and DACs are normally.,B,"high input impedance, high output impedance.","high input impedance, low output impedance.","low input impedance , how output impedance"
+5,222,Analogue logic 1 is.,B,"closed switch, Logic Q=0.","closed circuit, Logic Q=1.",open circuit.
+5,223,An ADC uses successive approximation to.,A,increase speed.,increase accuracy.,increase resolution.
+5,224,A DAC uses a precision amplifier to.,A,ensure the output voltages remain accurate.,compensates for the variation of the feedback resistor due to temperature.,ensure the input remains accurate.
+5,225,A precision op-amp is used in a DAC to.,B,compensate for temperature variation.,give output at required level.,make output between 0 - 5V.
+5,226,In an R-2R ladder converter the values of resistors.,A,do not need to be of precise values.,only the first resistor need to be precise.,are precise.
+5,227,What is the quickest method of analogue to digital conversion?.,B,Voltage to frequency.,Flash converter.,Single ramp method.
+5,228,A charge balancing ADC uses.,C,successive approximation logic circuit to control the output.,a closed loop system to compare the analogue input to give the required digital output.,a closed loop system to check the analogue input with the input sample
+5,229,Sample and hold is a technique used in.,C,D to A conversion,Moving coil instruments.,A to D conversion.
+5,230,An analogue to digital converter (ADC) requires the following.,B,"a reference voltage, an input gate, an internal counter, a comparitor.","a reference voltage, an input gate, a comparator.","a reference voltage, an input gate, an internal counter"
+5,231,What is 'Throughput Rate' for the A/D converter?.,A,Number of complete digital words encoded in a specified unit of time.,None of the above.,Speed of variable resistor which senses the analogue signal.
+5,232,What is the Resolution of A/D and D/A converters?.,B,Resolution of the Instrument which displays the values.,Number of discrete values that can be represented by the digital word.,Rate at which data is converted.
+5,233,Digital signals can be represented.,B,only as a binary value.,by a series of integers.,by real numbers.
+5,234,When testing EGT probe.,A,it must be soaked and ambient temperature allowance taken into consideration.,not necessarily soaked but ambient temperature must be taken into consideration.,"if its not soaked, a minimum temperature of 20 degrees C taken as OAT."
+5,235,Digital to Analogue Converter has a resolution of 0.3 Volts. What will be the analogue output when the digital input is 10110.,C,6.6 Volts RMS.,-6.6 Volts DC.G36.,6.6 Volts DC.
+5,236,"A number represented as a physical quantity, e.g. voltage or speed of rotation is.",C,digital.,maximum value.,analogue.
+5,19,Which of the following cables used for ARINC 429 bus system?,B,no one,a twisted shielded pair of wire,a coaxiel cable
+5,20,ARINC 429 transmission consist of 'words' made up of ................... bits.,A,32,16,20
+5,21,For ARINC 429 transmission what is the low and high speed?,C,"12 KHz , 95 KHz","14 KHz , 110 KHz","12,5 KHz , 100KHz"
+5,22,Which of the following is true?,A,ARINC 429 bus system uses single transmitter,Each ARINC 429 bus carries data two directionals,ARINC 429 bus system uses a coaxiel cable
+5,23,How many receivers can be connected to an ARINC 429 bus?,C,25,8,20
+5,24,What kind of transmission wave form is used in the ARINC 429 bus system?,B,non return to sero signal,return to zero signal,analogue signal
+5,25,ARINC 429 transmission are always of ...................,C,RS 232,even parity,odd parity
+5,26,How is encoded the label of an ARINC 429 word?,A,octal,hexadecimal,no one
+5,27,What is the task of the ARINC 429 parity bit?,C,It provides the receiver to determine if transmission errors in the sign status matrix,It provides the receiver to determine if transmission errors in the source/destination identifier,It provides the receiver to determine if transmission errors in the whole word occurred
+5,28,How negative numbers are represented in the digital system?,B,Negative numbers are represented by the three's complement,Negative numbers are represented by the two's complement,Negative numbers are represented by the one's complement
+5,29,What is the true statement about the octal label in ARINC 429 ?,A,The octal label is transmitted with the most significant bit of the digit first.,The octal label is decimal encoded most significant.,It is identifies the sign and validity of the data.
+5,30,What is the SSM?,C,SSM identifies the error of the data.,It only checks the octal label.,SSM identifies the sign and validity of the data.
+5,31,............. indicates the source LRU in a multi-box installation by sistem number.,B,Sign Status Matrix (SSM),Source/Destination İdentifier (SDI),Data Field
+5,32,MIL-STD-1553 transmission consist of 'words' made up of ....................... bits.,C,25,32,20
+5,33,Haw many receivers can be connected to a MIL-STD-1553 bus?,B,26,32,15
+5,34,Which of the following is true?,A,MIL-STD-1553 uses a twisted shielded pair of wire.,MIL-STD-1553 a coaxiel cable.,MIL-STD-1553 a twisted unshielded pair of wire.
+5,35,MIL-STD-1553 transmissions are always of ...............,C,octal label,even parity,odd parity
+5,36,Which bit is parity bit of the MIL-STD-1553?,B,8,20,5
+5,37,Which one terminal isn't of the MIL-STD-1553?,B,Bus controller,Symbol generator,Bus monitor
+5,38,What is the purpose of the MIL-STD-1553 bus controller?,C,It is a unit used for data bus testing,It is one of the simplest of all error checking methods used in data handling.,It is an avionics computer that controls the flow of information on the data bus.
+5,237,"In arinc 629, LRUs are programmed to transmit.",B,one at a time.,one transmits and one recieves.,all at the same time.
+5,238,"In aircraft use, fibre optic cables should comply with.",C,ARINC 629 standard.,ARIND 429 standard.,ARIND 636 standard.
+5,239,ARINC 629 databus is.,C,"one cable, bi-directional.","two cables, uni-directional.","two cables, bi directional."
+5,240,An ARINC 573 data bus is used.,A,to input into a Digital Flight Data Recorder.,to supply digital inputs from a Symbol Generator to the EADI and EHSI.,to input into a FDR Digital
+5,241,An ARINC 429 bus uses.,A,a twisted shielded pair of wires.,two bi-directional twin sheathed and earthed wires.,a single twin wire cable for each transmitter.
+5,242,The ARINC 429 data bus word systems use.,A,binary coded decimal.,decimal numbering.,hexadecimal numbering.
+5,243,ARINC 573 is related to what system?,B,Weather Radar.,FDR.,INS.
+5,244,ARINC 629 current mode couplers are.,C,capacitive.,resistive.,inductive.
+5,245,ARINC 629 databus is.,A,"one bus, bi-directional data flow.","two buses, unidirectional.","two buses, bi-directional data flow."
+5,246,Normal transmission order of ARINC 629 LRUs in periodic mode is in order of.,C,shortest to largest TI.,shortest to largest TG.,power up.
+5,247,"In an ARINC 429 wordstring, bits 1 to 8 represent the.",B,destination LRU address.,monitored parameter.,message.
+5,248,ARINC 629 terminal transmit interval is.,A,common to each terminal.,unique to each terminal.,when all terminals are quiet.
+5,249,MIL-STD-1533 is a data bus for.,C,Inertial Reference System.,Flight Data Recorders.,Digital Information Transfer System.
+5,250,ARINC 629 periodic mode is used for.,C,transferring data only on events important to aircraft operation.,database loads.,normal operation.
+5,251,How is data coupled to an ARINC 629 data bus?.,B,By a resistive pickup.,By an inductive pickup.,By a capacitive pickup.
+5,252,How does MIL-STD-1533 put data onto the databus?.,A,Through the bus controller.,R1 (remote terminal).,SSIFU (sub-system interface unit).
+5,253,The parity bit in digital information is used.,A,to check the validity of data information.,for BITE programs.,to check the status of the system.
+5,254,ARINC 429 SDI word format is at bits.,C,32,1-8.,9-10.
+5,255,What is the parity bit for on an ARINC 429 bus?.,C,To act as a terminal gap in an emergency.,To delay the signal.,To check for corruption during transmission of a word.
+5,256,An ARINC 429 word label format is.,B,hexadecimal.,octal.,binary.
+5,257,How many LRUs can be connected to an ARINC 429 data bus?.,C,120,60,20
+5,258,ARINC 629 terminal transmit interval is.,A,common to each terminal.,is when all transmissions are quiet.,unique to each terminal.
+5,259,An ARINC 429 bus uses.,A,a twisted shielded pair of wires.,a single twin cable for each transmitter.,"two bi-directional twin, sheathed and earthed wires."
+5,260,ARINC 429 data bus systems uses.,B,hexadecimal numbering.,binary coded decimal.,decimal numbering.
+5,261,An ARINC 429 Binary Coded Decimal word occupies word bits.,B,1-8.,11-29.,11-28.
+5,262,An ARINC 429 system uses a.,B,20 bit word over a bi-directional bus.,32 bit word over a twisted pair of wires.,16 bit word over a twisted pair of wires.
+5,263,An ARINC 629 characteristic is.,B,all LRUs can transmit and receive at the same time.,data can transmit in both directions down the data bus.,all LRUs can transmit at the same time.
+5,264,What limits the number of ARINC 429 receivers on a bus?.,C,The speed and size.,The weight.,The parallel input impedance.
+5,265,Data is transferred on the MIL-STD-1553B by.,B,non return to zero.,Manchester bi-phase.,bi-polar return to zero.
+5,266,How are engine indications sent to the FDR?.,C,Source isolated.,Via ARINC 629.,Via ARINC 573.
+5,267,What system uses base 8?.,A,"ARINC 429, in dataword labels only",ARINC 573.,ARINC 629.
+5,268,"On an ARINC 629 data bus, the maximum amount of current-mode couplers per data bus is.",B,46,120,64
+5,269,To connect an LRU to the data bus.,C,a terminal controller and interface module only is required.,"current mode coupler, terminal controller and a production break is required.","a current mode coupler, serial interface module and terminal controller is required."
+5,270,A current-mode coupler contains an E-Core assembly. The purpose of the E-Core is to provide effective screening of the signal through the.,B,current-mode coupler.,couple the signal to the data bus.,enable easy access for monitoring of the signal.
+5,271,The ARINC 429 low rate of transmission is.,B,100 kbits/second with high of 12-14 Mbits/second.,12-14 Kbits/second with high of 100 kBits/second.,12-14 Mbits/second with high of 100 Mbits/secon.
+5,272,An ARINC 629 bus cable is a twisted pair of wires with.,B,a 130 ohm resistor at one end.,a 130 ohm resistor at both ends.,a 230 ohm resistor at one end.
+5,273,An ARINC 629 stub cable.,B,connects single directional data between the LRU and current mode coupler.,connects bi-directional data between the LRU and current mode coupler.,connects bi-directional data between two LRUs.
+5,274,"Care must be taken when installing ARINC 629 cables into bus panels, damage to cables can cause.",A,corrosion of the conductor.,arcing of high voltage signals.,standing waves.
+5,275,An aircraft databus system.,B,can use both ARINC 629 and ARINC 429 as they are compatible.,"can use both systems, ARINC 629 and ARINC 429 via system card files and signal gateways.",cannot use both ARINC 629 and ARINC 429 data buses.
+5,276,ARINC 629 is used for.,C,emergency only.,a backup to ARINC 429.,normal flight.
+5,277,Once an ARINC 629 LRU has transmitted a message it will wait how long before transmitting again?.,C,Until the end of the synchronization gap.,Until the start of the terminal gap.,Until the end of the transmit interval
+5,278,How is the word label 206 written in ARINC 429?.,B,Decimal 206.,Octal 01100001.,Binary 11000110.
+5,279,What is ARINC 561 used for?.,,Fly by Wire systems.,Flight Data Recorder systems.,Inertial Navigation Systems.
+5,280,"An ARINC data word is bits 11-29, if bits 11-18 are patched which of the following would be the LSB bit?.",A,19,29,21
+5,281,Fibreoptic databus links are.,B,simplex.,bi-directional.,one way data buses.
+5,282,ARINC 629 is.,A,half duplex.,full duplex.,simplex.
+5,283,A signal in an ARINC 629 system uses.,C,a pair of wires per transmitter unit.,a single wire.,a twisted pair of wires or fibre optics.
+5,284,An in-series ARINC 429 system transmits using.,B,encoder.,time division multiplexing,wave division multiplexing.
+5,285,A terminal controller.,B,is repetitive transmitting.,will transmit only once during each transmit interval.,transmits only when addressed.
+5,286,The number of LRUs which transmit/receive on ARINC-429 is dependent upon.,B,speed of transmission & size of aircraft systems,parallel input impedance.,size of S.D.I.
+5,287,One of the ARINC 429 formats is,A,BCD.,octal.,hexadecimal.
+5,288,A group of bits transmitted at the same time is.,A,parallel data.,a clock signal.,serial data.
+5,289,The ARINC 429 system uses which of the following system to transfer data?.,C,Non return to zero.,Harvard bi phase.,Bi-directional return to zero.
+5,290,Which of the following ARINCs is bidirectional?.,A,629,429,573
+5,291,Data is transferred on the MIL-STD-1553B by using.,B,non return to zero.,Manchester bi-phase.,bipolar return to zero.
+5,292,The general arrangement of ARINC 629 includes.,A,"databus cable, current mode coupler, stub cable.","current mode coupler, databus cable only.","databus cable, stub cable, voltage mode coupler."
+5,293,ARINC 629 Databus cables are terminated using.,B,100 ohms resistor.,130 ohms resistor.,25 ohms resistor
+5,294,"In ARINC 429 data field is bits 11 to 28. If the bits 11 to 18 had pad bits, the L.S.B. Of the data would be.",C,bit 11.,bit 28.,bit 19.
+5,295,The BCD data field of ARINC 429 is contained within bits.,A,11-29.,11-28.,1-8.
+5,296,ARINC 629 is transmitted using.,B,single wire for each transmitter.,fibre optics or twisted pair of wires.,SWG 28 wire.
+5,297,A simplex system has.,A,1 transmitter and multiple receivers.,1 bus controller and 1 remote terminal.,1 bus controller and multiple receivers.
+5,298,To create a bi-directional communications link within an ARINC 429 system,C,four databuses are required.,only one databus is required.,two databuses are required.
+5,299,Why does an ARINC databus system send data to LRUs in series?.,A,Saves weight.,More information can be sent.,Takes less time.
+5,300,Can an LRU transmit and receive on more than one 629 bus?.,A,Yes.,Only if paralleled.,No.
+5,301,ARINC 629 LRUs transmit.,C,when addressed.,when signal gap is sensed.,when terminal gap is sensed.
+5,302,"An ARINC 429 BCD word occupies bits 11-29, if 11-15 are filled with padders then the LSB of the word will be.",B,11,16,29
+5,303,A simplex system has.,A,"one transmitter, many receivers.",a bus controller and separate controller.,"one transmitter, one receiver."
+5,304,"In an Arinc 429 Word label-representing heading is 320, this is represented in bits 1- 8 as.",B,1011001,1011,1101000
+5,305,"In ARINC 629 aperiodic mode, LRUs transmit in order of.",C,longest terminal gap to shortest terminal gap.,power up.,shortest terminal gap to longest terminal gap.
+5,306,"ARINC 629, aperiodic mode is used",C,for landing and approach operation.,for normal operation.,for database loads
+5,307,How is ARINC 429 bi-directional data transfer achieved?.,B,Via a current mode coupler.,Using two data buses,Via a twisted pair of shielded cables
+5,308,The data format use to transmit signal to flight data recorder.,A,Harvard bi-phase 12 bit.,Bi-Polar RZ 12 bit.,Manchester 2 bi-phase 12 bit.
+5,309,The output voltage of ARINC 429 signal is.,B,+5v.,+10v to -10v. H73.,-5v.
+5,310,An ARINC 629 label word is.,B,10 bits.,12 bits.,8 bits.
+5,311,The T/R of ARINC 629 is.,B,Encoder / decoder.,Multiplex / demultiplex.,switching.
+5,312,Terminal gap in ARINC 629 is.,C,always the same period.,flexible.,can be changed by adjusting the rx/tx software.
+5,313,How does ARINC 629 bus transmit and receive information?.,B,Sockets and pins.,Inductive coupling.,Optical coupling.
+5,314,What is ARINC 561 used for?.,B,To specify LRU pin-outs.,To specify Radio Comms data bus.,To specify Flight Data Recorder data bus.
+5,315,What is the purpose of the parity bit on an ARINC 429 bus?.,C,To indicate if the data is analogue.,To indicate that the data is digital.,To indicate to the receiver that the data is valid.
+5,316,ARINC 429 is.,A,Single Source Multiple Sink System.,Multiple Source Multiple Sink system.,Single Source Single Sink system.
+5,317,What is the purpose of intermediate production breaks in ARINC 429 or 629 Data cables?.,B,Cables are only manufactured 40 feet long.,To allow maintenance personnel to divide the right and left system buses into two parts for easy removal and installation.,To allow connection of new cables to the existing ones in case of a modification.
+5,318,Where is the parity bit installed in a data word?.,B ,Front.,End MSB.,Middle.
+5,319,RZ bi-polar modulation consists of bits which are one of __________ states?.,C,Eight.,Two.,Three.
+5,320,"In the ARINC 429 digital information transfer system, data may travel in:.",B,both directions on the same bus simultaneously.,one direction only.,both directions on the same bus sequentially by time multiplexing.
+5,321,An ARINC 629 data word.,B,includes an 8 bit label and a 16 bit data field.,has only 20 bits.,comprises up to 256 data bits.
+5,322,In an ARINC 429 digital word bit number 32 is used for.,B,terminating the data field.,checking parity.,identifying word type.
+5,323,What connects an LRU to the Bus Coupler in an ARINC 629 Data Bus?.,B,Patch Cord.,Stub Cable.,Interconnect Cable
+5,39,Which truth table is true for following gate?,A,15,7,91
+5,40,Is it possible to substitute a NAND gate by using other types of gates?,C,"Yes, while using an EX-OR gate and a NOT gate on the output.",No,"Yes, while using an AND gate and a NOT gate on the output."
+5,41,Which truth table is true for an EX-OR gate?,B,64,41,43
+5,42,Which of the following is the NOR gate?,B,54,54,64
+5,43,Which truth table is true for an AND gate?,C,37,94,85
+5,44,Which truth table is true for following gate?,A,72,21,97
+5,45,The NAND gate's is that the output state is '0' only when all inputs are at .................................,A,logic 1,logic 0,no one
+5,46,If an AND gate’s inputs are inverted which logic gate function occurs?,B,EX-OR,NOR,NOT
+5,47,If an OR gate’s inputs are inverted which logical gate function occurs?,C,NOT,EX-NOR,NAND
+5,324,What is the equivalent of this gate?.,A,= (NOT-A + NOT-B).,= (A + B)NOT.,= (A.B)NOT.
+5,325,A NOR gate with both inputs inverted becomes a.,B,NAND gate.,AND gate.,OR gate.
+5,326,Adding invertors to the two inputs of an AND gate makes a.,B,OR gate.,NOR gate.,NAND gate.
+5,327,This truth table is for a.,B,OR gate.,AND gate,NAND gate
+5,328,Which logic gate can be represented as a parallel circuit?.,A,OR gate.,Exclusive OR gate.,NAND gate.
+5,329,Making an inverter from a NAND or NOR gate is achieved by.,A,connecting the inputs.,inverting the input.,connecting two in series.
+5,330,An AND gate output is 1 when inputs are.,A,both 1.,both 0.,1 and 0.
+5,331,What sort of gate requires two positive voltages to operate?.,A,AND.,OR.,NOT.
+5,332,When will a NAND gate give logic 0 at the output?.,A,When both inputs are at 1.,When the inputs are different,When both inputs are at 0.
+5,333,Which logic gate has this truth table?.,C,NOT.,NAND.,Exclusive OR.
+5,334,Which logic gate can be represented as a parallel circuit?.,C,Exclusive OR.,NAND.,OR.
+5,335,What is this truth table?.,C,NOR gate.,NOT gate.,AND gate.
+5,336,What sort of gate is this?,B,NOT gate.,NOR gate.,Or gate
+5,337,The output of a NOT gate is logic 1. The input is.,A,logic 0.,logic 1.,both logic 1.
+5,338,"When the voltage that represents a logic 1 state is less than the voltage that represents a logic 0 state, the logic being used is.",C,either positive or negative,positive.,negative.
+5,339,The output of an AND gate having two inputs A and B is logic 1. The two inputs will have the logic states of.,C,"A = 0, B = 0.","A = 1, B = 0.","A = 1, B = 1."
+5,340,The output of an OR gate having two inputs A and B is logic 0. The two inputs will have the logic states of.,C,"A = 1, B = 0.","A = 0, B = 1.","A = 0, B = 0."
+5,341,What is this symbol?.,C,Exclusive AND gate.,Exclusive NOR gate.,Exclusive OR gate.
+5,342,What Logic Gate does this switch circuit indicate?.,C,NOR gate.,AND gate.,OR gate.
+5,343,Which logic gate has both inputs high to get an output?.,A,AND gate.,OR gate.,NAND gate.
+5,344,A NAND and NOR to become a NOT gate have.,C,inputs inverted.,outputs inverted,inputs connected together.
+5,345,An AND gate with inverted inputs and an inverted output is equivalent to.,C,an AND gate.,a NOR gate.,an OR gate.
+5,346,Logic gates internal operating mechanisms are produced from.,B,thin film resistors.,transistors.,diodes.
+5,347,A logic 1 may be represented in an analogue system by (where Q is an output of a latch / flip-flop),B,switch closed / light off / Not Q.,positive / magnetised / Q.,switch open / light on / Q.
+5,348,To get logic 1 using this gate.,C,A and B = 1.,A or B = 1.,A and B = 0.
+5,349,What logic gate would this circuit represent?.,C,NAND Gate.,NOR gate.,AND gate.
+5,350,What type of gate is this?,C,NAND.,NOT.,E-OR.
+5,351,What sort of gate requires two negative input voltages to operate?.,B,OR.,NAND.,NOT.
+5,352,What sort of gate requires two negative input voltages to operate?.,A,NAND.,OR.,NOT.
+5,353,In Positive Logic representation.,B,both states have same positive voltages but stage 1 has more current.,state 1 is more positive than state 0.,state 0 is more positive than state 1.
+5,354,Switching within logic gates is normally achieved with the use of.,C,BTB's.,relays.,diodes.
+5,355,The truth table of A =0011 B=0101 and =0110 indicates that the logic device is.,A,an ECLUSIVE OR gate.,a NOR gate.,an AND gate.
+5,356,What input is required to activate the relay shown?.,C,A=0 B=1.,A=1 B=0.,A=1 B=1.
+5,357,"A NAND gate has inputs A and B and output C. If the output (c) was zero, what are the inputs?.",A,A=1 B=1.,A=0 B=0.,A=1 B=0.
+5,358,The 'fan-in' in a gate is the.,A,number of inputs to a gate.,number of outputs from a gate.,number of inputs and outputs of a
+5,359,What does the logic circuit shown represent?.,A,Full Adder Circuit.,Half adder circuit.,Multi-bit adder.
+5,360,"What would be the outputs of this circuit, if A=0 B=0 C=1.",B,"1, 1.","0, 1.","0, 0."
+5,361,"What would be the outputs of this circuit, if A=1 B=1 C=0.",C,"0, 1.","1, 1.","1, 0."
+5,362,Tristate devices are found.,A,on input circuits.,on output circuits.,on both input and output circuits.
+5,363,A full adder has.,A,three inputs and two outputs.,two inputs and one output.,three inputs and one output.
+5,364,What is the Boolean Algebra for the circuit shown?.,B,18,95,47
+5,48,What is the purpose of hardware?,A,It is the physical base of a computer system and enables the operarion of the software.,It is the enables only the operation of the software.,It is only the physical base of a computer
+5,49,Which of the following is not included in a computer?,C,central unit,input and output units,electronic horizontal situation indicator
+5,50,Which statement is true for software?,C,It provides data storage,It is capable of performing arithmetic and logical operations,It controls the behavior of the whole computer system.
+5,51,What is the RAM?,B,RAM stores data for a long time,RAM is a volatile memory.,RAM doesn't store data
+5,52,What does the expression CPU mean ?,A,Central processing unit,Control processing unit,Central positive unit
+5,53,Which of the following isn't comprise in the CPU?,B,Arithmetic - lojic Unit (ALU),navigation display,Registers
+5,54,Which makes the process the ALU?,C,it stores the data,only arithmetic operations,arithmetic and logical operations
+5,55,Within an 8-bit CPU the ALU is capable of processing ............,C,16 bits at a time,32 bits at a time,8 bits at a time
+5,56,Which are the bus names that used to interface in the CPU?,A,"Address bus,control bus,data bus","Data bus, control bus, processing bus","Address bus, display bus,control bus"
+5,57,The meaning of the term ROM is,B,Read Only Monitor,Read Only Memory,Read and Written Memory
+5,58,Which statement is true for a EPROM?,A,The contents of an EPROM is erasable by UV light,Electrical Programmable Read Only Memory,No one
+5,59,Which of the following information are not provided by air data systems?,B,Total air temperature(TAT),Remote terminal information,True airspeed(TAS)
+5,365,"In a computer memory device, which one of these has the slowest access time?.",B,floppy disk.,magnetic tape.,8mm video tape.
+5,366,The advantage of DRAM over SRAM is.,B,are cheaper to manufacture.,has a larger storage capacity per chip area.,they operate slower
+5,367,A BYTE is usually.,A,an 8 bit word.,a six bit word.,a 12 bit word.
+5,368,What is the definition of baud rate?.,C,1 word per second.,1 byte per second.,1 bit per second.
+5,369,Which would have the least components?.,A,ALU.,CPU.,LSI.
+5,370,What is a baud?.,A,A bit of data.,A block of data.,A byte of data.
+5,371,In a bi-stable memory circuit.,B,the memory is retained indefinably.,the memory is lost as soon as power is removed.,"the memory needs to be refreshed constantly, even when power is on."
+5,372,What is the advantage of series over parallel message sending?.,A,Only one pair of conductors.,More information sent.,Quicker.
+5,373,A typical example of a mass storage memory device which is also WORM (Write Once Read Many) is.,C,an IC.,a magnetic tape.,a CD Rom
+5,374,A computer using RAM would utilize.,C,magnetic tape.,a compact disc.,an integrated circuit (chip).
+5,375,Magnetic materials are used in.,B,ROMs only.,some RAMs.,EPROM.
+5,376,A typical example of a mass storage device is.,C,IC,magnetic tape.,CD.
+5,377,What is EPROM?.,B,Enhanced programmable read only memory.,Erasable programmable read only memory.,Erasable programming read only module
+5,378,How many bytes can be carried in a 32bit word?.,B,8 bytes.,4 bytes.,2 bytes
+5,379,A common used material in computer manufacturing is.,C,ferrite material.,permeamag material.,ferromagnetic material
+5,380,Ferrite medium is used for computer memory because.,A,data is stored after the power is removed.,it is light.,it has low eddy current losses.
+5,381,Data is usually stored in.,B,RAM.,ROM.,EEPROM.
+5,382,Registers are used in digital computers to.,B,store bits of information in a permanent memory.,store a limited amount of information on a temporary basis.,keep a count of operations completed.
+5,383,A computer consist of at least the C.P.U and.,A,memory and input & output port.,"memory, ALU, input & output port.","egister section, ALU, timing and control section."
+5,384,A basic computer would consist of.,B,"register section, ALU and timing and control section.","memory, input/output ports and CPU.",RAM/ROM and input/output ports.
+5,385,DRAM.,A,requires a refreshing charge.,memory is stored when power supply is removed.,it does not require a refreshing charge.
+5,386,Bubble memory stores data on.,B,magnetic tape.,semiconductor material.,ferrite core.
+5,387,An EPROM.,A,is non-volatile memory.,requires constant refreshing.,is erased after reading.
+5,388,"A computer requires to operate, a.",B,"address bus, a data bus only.","data bus, a control bus, a address bus.","data bus, a control bus only."
+5,389,"data bus, a control bus only.",B,DRAM.,SRAM.,RAM.
+5,390,A computer is acting in real time when.,B,the CPU requires a clock pulse.,the output is equal to the input of data,the time to access memory is equal to the data speed in.
+5,391,What is the function of a status register in a microprocessor?.,A,To indicate the status of the processor.,"In the ALU, to store the position of the program during an interrupt.",To synchronize the clock pulse.
+5,392,What is the purpose of the ALU?,B,To store data being used by the CPU.,The part of the CPU unit where arithmetic & logic operations are carried out.,To convert serial into parallel data.
+5,393,The CPU consists of.,A,"ALU, timing and control section, register.",register and arithmetic logic unit only.,"register, timing and control section only."
+5,394,How is multiplication achieved in an ALU?.,A,by addition.,by subtraction.,by coupling.
+5,395,The smallest operation of a CPU is.,C,the processor cycle.,the processor sub-cycle.,the time cycle.
+5,396,Where does the clock signal in a microprocessor come from?.,C,ALU.,Memory.,Control unit.
+5,397,Where is the operating program for the CPU stored?.,C,Control unit.,ALU.,Memory unit.
+5,398,A priority encoder.,A,outputs the highest input.,outputs the selected input,outputs the lowest input.
+5,399,The smallest operation possible in a computer is the.,A,timing cycle.,processor sub-cycle.,processor cycle.
+5,400,A clock pulse in processor equipment.,A,is to synchronise everything.,is used for the maintenance tests.,is to give the correct timing when calculations are made.
+5,401,"In a computer, the code that fetches correct data and feeds it to the ALU is called.",A,the instruction set.,ARINC.,the computer program.
+5,402,A computer processor has within it.,C,"register, buffer, data bus.","ALU, register, memory.","ALU, control section, register."
+5,403,The arithmetic logic unit (ALU) in a central processor unit (CPU) carries out.,A,"addition, subtraction, multiplication and division.",computations as instructed.,timing and synchronisation.
+5,404,The CPU requires a clock to determine.,B,the number of bits on the highway.,the speed of operation.,the date and time.
+5,405,An ALU performs the following.,B,"Arithmetic, Logic, Branch and Move Operations.","Input/Output operations, Arithmetic, Logic Functions.","Arithmetic, Logic, Branch and Find Operations."
+5,,"When 4 binary serial counters are connected in cascade for frequency division, what division factor is required?",B,8,16,4
+5,406,What function do gates 1 and 2 perform?.,B,Full adder.,Half Adder.,Shift Register.
+5,407,"On an IC, pin 1 is to the left of the notch. Which way are the pins numbered?.",B,Left to right.,Anticlockwise.,Clockwise.
+5,555,3 binary counters in cascade. What is the division?.,B,32,8,16
+5,556,"Within a 3 bit frequency cascade, division is to.",C,2,4,8
+5,557,Very Large Scale Integrated (VLSI) means the number of gates in a single IC is.,B,"up to 10,000.","over 10,000.",up to 1000.
+5,558,An encoder changes.,C,digital to analogue.,analogue to digital.,data from one format to another.
+5,559,An RS flip-flop with Q at 1 is said to be.,A,set.,reset.,zero.
+5,560,"When a JK flip flop is used as a memory device, what type of memory would it be?.",C,read-only.,non-volatile.,volatile.
+5,561,"In an RS flip flop, output is one. This means it is.",C,intermediate.,reset.,set.
+5,562,An ALU is an example of.,C,MSI.,SSI.,LSI.
+5,563,With a j-k flip flop which is the output set.,A,q = 1.,q = 0.,either
+5,564,Data is converted from serial to parallel and parallel to serial by.,C,a synchronous counter.,a parallel register.,a shift register.
+5,565,A typical characteristic of a CMOS is.,C,high power dissipation.,high voltage handling.,low power dissipation.
+5,566,The pins on an op amp are numbered.,A,anticlockwise.,clockwise.,cross ways.
+5,567,A parallel register.,B,requires a clock pulse for each bit.,reads each bit to be stored simultaneously.,reads the stored data when logic 0 is applied to the read line.
+5,568,"A device, which converts serial to parallel and parallel to serial for arithmetical functions, is a.",B,Parallel to serial and serial to parallel converter,Shift Register.,Multiplexer and De-Multiplexer.
+5,569,What is the device used to convert Binary Coded Decimal into separate supplies for a seven segment digital display?.,B,Multiplexer.,Decoder.,Demultiplexer.
+5,570,Operation of a frequency counter is such that.,C,it compares the incoming waveform with standard sine waves.,it detects incidences of peak value.,it changes the incoming waveform to a standard square wave.
+5,571,An example of a small size integrated circuit would be.,B,DIP switch.,Control Processor Unit.,ALU.
+5,572,What is this?.,C,Counter.,Shift register.,Multiplexer.
+5,573,"In a Master Slave, negative edge triggered JK flip flop, both inputs are connected to logic 1. The output.",B,will change state when the leading edge of the clock pulse is applied.,will change state when the trailing edge of the clock pulse is applied.,does not change state when a clock pulse is applied
+5,880,A Digital to Analogue Converter has a resolution of 0.3 Volts. What will be the analogue output when the digital input is 10110.                   ,C,6.6 Volts RMS.           ,-6.6 Volts DC.G36.    ,6.6 Volts DC.  
+5,574,A 12 bit 16 Channel encoder will use a multiplexer with.,B,3 bit parallel address line.,4 bit parallel address line.,2 wire series address line.
+5,575,How many address lines would be needed for an 8 line MU?.,B,2,3,4
+5,576,"In a MU, how is parallel converted to serial?.",A,By way of a shift register.,By way of an encoder.,By way of a demultiplexer.
+5,577,A multiplexer.,A,takes many signals in and converts it to a serial transmission output.,takes many signals in and puts these in a parallel transmission on the output.,takes one signal in and converts it to a parallel transmission output.
+5,578,A multiplexer in test equipment could be used for.,A,frequency divider.,analogue to digital converter.,digital to analogue converter.
+5,579,An 8 data input multiplexer has how many Data Select lines.,B,8,3,2
+5,580,The signal sent between a MU/DEMU is controlled by.,C,clock.,the ALU.,control unit.
+5,60,What is the 'critical internal angle'?,C,it is plastic buffer,it is special light -emitting diode,it is the angle of internal reflection begins
+5,61,What to do to increase internal reflections of the fibre?,A,The fibre is encased in a cladding material that has a high index of refrection,The fibre is not encased in a cladding material that has a high index of refrection,No one
+5,62,Is it used to connector for fiber optics?,B,No,Yes,it is a light detector for fibre- optic system
+5,63,The time difference between the direct path and the reflection paths is called ...................................,A,the modal dispersion,the coupler,the connector
+5,64,Which statement is true for a fiber-optic system?,B,At the fibre-optic system can't use connector,the core and the cladding should be different indices of refrection to work the fiber,fibre-optic cables don't include core
+5,65,What is the use fibre-optics system for optical transmitter?,A,Light emmiting diode (LED),Triac,Transistor
+5,66,Which of the following don't use on the transmission side of an optical fibre communication system?,C,light source,driver,symbol generator
+5,67,Which of the following is used in local area network as a fiber optic data bus?,B,adress bus,fibre-optic distributed data interface(FDDI),bus controller
+5,581,Some of the advantages of fibre optic cable over copper cables are.,B,"non conductive, easy to manufacture and assemble, more robust, cheap.","smaller in size and weight, non conductive, higher security and higher bandwidth.","non conductive, smaller in size and weight, easy to manufacture and assemble and higher security."
+5,582,A fibre optic cable consists of.,A,a silica glass core with a cladding having a lower refractive index.,a silica glass core with a cladding having a higher refractive index.,a plastic core with a cladding having a higher refractive index.
+5,583,Fibre optic cables.,A,are immune to EMI.,attenuate EMI.,are susceptible to EMI.
+5,584,Two connected fibre optic cable ends are parallel but not quite touching. This is called.,A,end to end coupling.,lens connector.,end fire coupling.
+5,585,A disadvantage of a fibre optic cable is.,B,couplings susceptible to ingress of fluid.,end terminals are susceptible to environmental contamination.,shallow bend radius allowed.
+5,586,What kind of light is used in a fibre optic systems?,A,Infrared.,Visible.,Ultraviolet.
+5,587,Fibreoptic data is sent by.,B,modulating the frequency of a laser beam.,a strobe light.,modulating the frequency of a filament beam.
+5,588,HIRF is prevented from entering a fibre optic cable by.,A,using an opto-isolator coupling.,grounding the fibre at both ends.,enclosing it in a metal braid.
+5,589,Continuity of a fibreoptic cable is checked by.,B,a calibrated light source.,a calibrated light source and an opto-power meter.,a light source and an opto-power meter.
+5,590,A fibreoptic data bus used on an aircraft.,B,can send only one message at a time.,can transmit on several channels at the same time.,connects non-essential systems only.
+5,591,Light travels along a fibre optic by.,B,refraction,reflection.,dispersion.
+5,592,What is the main disadvantage of a fibre optic data bus?.,B,Less strong and durable when compared to twisted pair and coaxial cable.,Expensive to install.,Bend radius and moisture ingress at connections.
+5,593,A typical fibre optic connector is.,B,F-type connector.,"coupling type, with lens fitted.",push-pull connector
+5,594,Which of the following is an optoelectronic device?.,B,Triac.,Laser Diode.,Thyristor.
+5,595,What is the advantage of a single mode fibreoptic over ordinary wire?.,B,Not prone to damage.,Large bandwidth.,Small bend radius.
+5,596,A fibreoptic light source is normally.,C,a strobe light.,a filament lamp.,a laser or LED.
+5,597,The fibreoptic cable can be identified on aircraft by its jacket colour which is.,A,purple.,yellow.,red.
+5,598,For a fibre optic cable connector that is not regularly disconnected you would use the.,A,butt type.,ball lens type.,ceramic lens type.
+5,599,What maintenance problems are associated with fibreoptics?.,B,Corrosion.,Kinking and contamination of connectors.,Earthing faults.
+5,600,A fibreoptic data bus.,A,can transmit several messages simultaneously.,is only used for non essential messages.,can only transmit 1 message at a time.
+5,601,A fiberoptic cable to LRU connector should be connected.,A,very carefully to ensure alignment and reduce light loss.,using torque-loaded pliers.,hand tight only.
+5,602,Some of the advantages of fibreoptic cable over copper cable are.,A,"smaller size and weight, non conductive, more rugged, higher security.","non conductive, easy to manufacture and assemble, higher bandwidth.","non conductive, higher bandwidth, higher security, smaller size and weight."
+5,603,In a single mode fibreoptic cable.,B,several waves travel down the cable.,the diameter of the cable is dependent on the wavelength of the light used.,the distortion of the signal is dependent on the length of cable.
+5,604,A semiconductor which emits photons and releases electrons when stimulated by photons is called.,B,a photodiode.,a laser diode.,an LED.
+5,605,What does a fibreoptic star connection do?.,B,Provides a continuous loop of fibre interconnecting all nodes.,Provides direct point-to-point services to units on dedicated lines emanating from the central hub.,Shares a common bandwidth of a common cable.
+5,606,A fibreoptic lens type coupling with lens and integral LED compared to an end-fire coupling is.,A,more efficient.,less efficient.,equally efficient.
+5,607,Passive sensors in fibreoptics.,C,Passive sensors in fibreoptics.,require power for processing the signal before they send them down the fibre optic.,require no power and they do not process signals.
+5,608,Optical fibre losses are due to.,B,absorption only.,"absorption, scattering and reflection.","radiation, absorption and reflection."
+5,609,The cone of acceptance is measured between.,C,the two outer angles.,the two outer angles.,longitudinal axis of the core and the outer angle.
+5,610,Fibreoptic cables use.,A,refractive outer shell.,reflective inner shell.,reflective outer shell.
+5,611,"In fibreoptic cable, signals are separated by.",A,active optic filter.,low pass filter.,passive optic filter.
+5,612,Most fibreoptic connectors are designed so.,B,the receptacle has to be torqued to a designated value to ensure correct alignment.,the connectors can not be over tightened.,the connector can not be replaced on the aircraft.
+5,613,The light source used in fibreoptics is.,B,visible light.,lower bandwidth than visible light.,higher bandwidth than visible light.
+5,614,Light transmission in a fibreoptic cable is due to.,A,repeated internal reflection.,defraction of the light.,refraction of the light.
+5,615,The name given to the joining of two fibreoptic cables by aligning them carefully and bringing them into close proximity of each other is.,C,Fusion.,Lens Coupling.,End to end.
+5,616,In a fibreoptic cable.,A,multiple data signals can be sent down it at one time.,data can only be sent in one direction.,only one data signal can be sent down it at any one time.
+5,617,Fibreoptics relies on.,C,fibre absorbing light.,light escaping cladding.,light reflecting off cladding.
+5,618,The 'light' emitted from a LED used within a fibre-optic system will have a wavelength.,C,slightly shorter then that of visible light.,equal to that of visible light.,slightly longer then that of visible light.
+5,619,Sensors in a fibreoptic flight control system.,C,require processing to give output.,does not require power.,require power for processors.
+5,620,Fibreoptic systems can transmit data in.,B,in two directions,both directions at the same time.,one direction only.
+5,621,For high bandwidth high-speed fibreoptic transmission what sort of cable would you use?.,B,Step index.,Single mode.,Graded index
+5,622,In fibreoptics the wavelength of the light is.,A,more than visible light.,equal to that of visible light.,less than visible light.
+5,623,What is the advantage of an ILD over an LED when used as a light source in fibre optics?.,A,Lower frequency range.,Lower intensity.,Higher bandwidth.
+5,624,Speed of light in a fibreoptic fibre.,C,increases if it passes through material of higher refractive index.,is always the same no matter what material it is.,is never greater then the speed of light in free space.
+5,625,The angle of incidence of a beam of light in a fibreoptic cable will be.,B,twice that of the cone of acceptance.,approximately half that of the cone of acceptance.,parallel with the end of the cable.
+5,626,"In an optical fibre, the angle of acceptance is.",C,1/2 the signal wavelength.,equal to the cone of acceptance.,1/2 the cone of acceptance.
+5,627,When using a TDR (time delay reflectometer) the loss value of the cable is.,A,shown by the curve on the screen.,set on the TDR.,allowed for in the calculation.
+5,628,Common aircraft fibreoptics use.,A,modulating intensity on direct read.,modulating intensity on indirect read.,modulating frequency on direct read
+5,629,What is the main cause of attenuation in fibreoptics?.,A,Poor termination.,Refractive index.,Bends in the cable.
+5,630,What is the advantage of a laser diode over an LED?.,B,Greater bandwidth.,Narrower bandwidth.,There are no advantages
+5,631,A 'type A' fibre optic connector.,C,is used when regular disconnection and re-connection of a cable is required.,produces a larger light loss that a type B connector,would be used for connections not regularly disconnected.
+5,68,Which of the following are main methods to display data in electronic form?,A,"LED,LCD,CRT","TTL,CRT,LED","LCD,AND,CRT"
+5,69,What is the main advantage of the LEDs?,B,They require high voltage,They require low voltage and low current,They require high current
+5,70,The meaning of the term TFT is :,A,Thin Film Transistor,Thin Film Transducer,Thin Film Triac
+5,71,What is the typical performance of an LCD at a very low temperature?,C,It is not affected by low temperatures,It emits high light,The rapid decrease of the switching speed at reduced temperatures due to an increase in liquid crystal viscosity
+5,72,What happens when LCD is exposed to high temperatures?,B,the picture doesn't occur,the picture starts to become black.,the quality picture is formed
+5,73,Which of the following is not on the CRT?,C,the electron gun,the electro - magnetic deflection,thin film transistor
+5,74,How is produced colour on the CRT display?,B,all colours are a product by focussing,"all colours are a product of the primary colours, red, green and blue",colour is produced by electro - magnetic deflection
+5,75,Which shadowmask value causes a higher resolution on a display?,A,"0,24 mm","0,25 mm","0,26 mm"
+5,76,Which display consumes more power ?,B,LED,CRT,No one
+5,77,Are the colour picture tubes sensitive to the influence of exterior magnetic fields?,C,No,it is only affected by light,Yes
+5,632,The inside of a CRT consists of.,B,an oxide coating and rare mercury gas.,a phosphor coating and rare mercury gas.,iodine and rare mercury gas.
+5,633,CRT horizontal beam control is achieved by a.,C,sinusoidal wave.,square wave.,sawtooth wave.
+5,634,"In a CRT, if the magnetic field is parallel to the Y plates, what will be the direction of the electron beam movement?.",B,Horizontal.,Vertical.,No movement.
+5,635,Primary colours of a CRT are.,C,"red, green and yellow.","red, blue and yellow.","red, green and blue."
+5,636,What are the effects of the X and Y plates on a CRT?.,A,"Y plates move the beam vertically, X plates move the beam horizontally.","X plates move the beam vertically, Y plates move the beam horizontally.",X and Y plates can move the beam in either direction.
+5,637,EADI sky and ground display is provided by.,C,synthetic TV signals.,stroke pulse.,raster scan.
+5,638,What frequency creates the raster effect on a CRT?.,A,50/60 Hz.,250Hz.,400 Hz.
+5,639,The sweep waveform used on a electromagnetic CRT is.,A,trapezoidal.,sinusoidal.,sawtooth.
+5,640,What shape does the waveform take to counter the impedance effect of the coils in an electromagnetic controlled CRT?.,C,Sawtooth.,Rectangular.,Trapezoid.
+5,641,Magnetic deflection in a CRT is achieved by.,B,a sawtooth waveform.,a trapezoidal waveform.,a sinusoidal voltage
+5,642,The timebase in a CRT consists of.,A,an amplifier and an oscillator.,an oscillator only.,an amplifier only
+5,643,What creates the raster effect on a CRT?.,A,Sawtooth frequency.,Trapezoidal frequency.,Sinusoidal frequency.
+5,644,LCD screens are driven by.,A,AC voltage.,variable current DC voltage.,fixed current DC voltage.
+5,645,A Liquid Crystal Display (LCD) has the advantage over a CRT that.,A,it requires no cooling.,it displays more colours.,it requires less servicing.
+5,646,The release of a photon by another photon is the principle of.,C,a photo diode.,a zener diode.,an LED.
+5,647,"If a magnetic field is parallel to the X plates in a CRT, which way will the beam move?.",B,Vertically.,Horizontally.,Diagonally.
+5,648,An LED display is.,A,monochrome only.,red and green.,high definition.
+5,649,An LCD display uses what type of power supply?.,B,DC voltage,Continuous AC.,Variable level DC voltage.
+5,650,A beam deflection on EFIS displays are.,B,electrostatic.,electromagnetic.,solid state.
+5,651,The supply to an LCD is.,A,AC.,current restricted DC.,voltage restricted DC.
+5,652,An LED will emit light when.,C,it is reverse biased.,either forward or reverse biased if a sufficient level of ac voltage is applied.,it is forward biased.
+5,653,A CRT display has the advantage over an LCD display of a.,C,brighter clearer output.,more energy efficient.,large viewing angle.
+5,654,To display a circle on a CRT you use.,C,2 square wave 90 degrees out of phase.,2 sine waves 180 degrees out of phase.,2 sine waves 90 degrees out of phase.
+5,655,"To deflect the beam of a CRT horizontally, coils are placed on the neck of the tube.",B,each side.,top and bottom.,"one on the side, one at the bottom."
+5,656,If the magnetic deflection plates produce a magnetic field which is parallel to the horizontal then the trace is deflected in.,C,circular motion.,horizontal axis.,vertical axis.
+5,657,The most common CRT control for an EFIS system screen is.,A,a combined system.,an electrostatic system.,an electromagnetic system.
+5,658,L.E.D.s can give.,B,high definition displays.,monochrome displays only.,red and green displays only.
+5,659,"At low ambient temperatures, an LCD screen.",A,is slower to update as data changes.,viewing angle becomes larger.,loses contrast.
+5,660,Colour CRT shadow mask screen resolution is.,B,400 lines per square inch.,84 triads,600 lines per scan.
+5,661,An LCD display.,A,has three colours only.,is monochrome.,has infinite colours.
+5,662,A segmented configuration for the display of alphanumeric data requires.,B,the starburst display for numbers and lower case letters only.,16 segments to display the full range of capital letters and numerals.,at least 13 segments for all upper and lower case letters.
+5,663,Electronic CRT beam display is used typically in.,A,weather radar indicators.,IRU control display units.,distance measuring indicators; digital counters.
+5,664,"In a colour cathode ray tube, how is the phosphor arranged in the tube.",A,"A single phosphor layer containing red, green and blue.",A red layer on the front with two green layers behind it.,"Layers of red, blue and green."
+5,666,A colour LCD which is back lit has.,A,three colours.,monochrome,an infinite amount of colours.
+5,667,A dot matrix/LED construction is.,A,4*7 or a 9*5 rolling end display.,5*9 or a 4*7 rolling end display.,4*7 or a 5*7 rolling end display.
+5,668,What are the advantages of an LCD display over an LED?.,B,It is brighter.,It uses less current.,There are no advantages
+5,669,A seven segment display is used to.,B,display alpha-numeric characters.,display octal and decimal numbers only.,Bdisplay octal and binary numbers only.
+5,670,How are Alphanumeric Displays produced on a CRT?.,A,By Stroke pulse.,Raster scanning.,by the use of X & Y EM Coils.
+5,671,The Shorter lead near the Flat portion of an LED is the.,A,Cathode.,Anode.,Gate.
+5,672,Submarining' is.,A,caused by the inability of some LCD screens to respond to fast moving images on screen.,a CRT screen defect which can usually be remedied by degaussing the screen.,the process used to form liquid crystals into a flat screen.
+5,78,How produces electrostatic charge?,B,it depend on low pressure,"friction between two surfaces, at least one of which is non - conductive","friction between two surfaces, two conductive materials"
+5,79,What does the expression ESD mean ?,A,Electrostatic Discharge,Electromagnetic Discharge,Electrostatic Charge
+5,80,Which of the following is true for ESD?,C,Electrostatic discharge is produced by high temperature,Electrostatic discharge is produced by pressure,Electrostatic discharge (ESD) is the transfer of an electrostatic charge between bodies at different potentials and occurs with direct contact or when induced by an electrostatic field.
+5,673,ESDS bags are sealed by.,C,ESDS labels.,zip locks.,twine (100% cotton).
+5,674,What precautions are required when removing ESDS equipment?.,A,Wear a wrist strap connected to an approved ground point.,No special precautions are required.,Keep one hand on the airframe.
+5,675,flight deck CRT LRU is being replaced. What does the ESDS label indicate?.,B,Wrist straps should be worn.,Do not touch plug pins or leave them exposed.,Remove power before connecting.
+5,676,During an EFIS screen fit.,A,dont touch terminals.,no tooling is required.,use bonding strap.
+5,677,"With a relative humidity of 10% to 20%, if you walked over a carpet what electrostatic voltage value would you expect to see?.",A,"35,000 volts.","6,000 volts.","12,000 volts."
+5,678,Before fitting a Printed Circuit Board you should check the.,C,resistance between skin and strap end plug is less than 10 megohms.,resistance between skin and strap end plug is more than 1 megohms.,resistance between strap and strap end plug is less than 1 megohms.
+5,679,The resistance of the wrist strap used as part of anti static precautions should be.,C,0 - 200 ohm.,20 megohm - 200 megohm.,250 kilohm - 1.5 megohm
+5,680,"When handling PCB's labelled ESDS, what precaution are taken?.",B,Do not touch its pins as copper contamination can occur.,Isolate electrical power before installing on Aircraft.,First earth with aircraft then to it.
+5,681,"After attaching a wrist strap to your wrist (which is connected to aircraft ground), prior to removal of ESDS equipment, the resistance measured.",C,between your skin and the pin ground must be >1 megohms.,between the strap and the pin ground must be <1 megohms.,between the strap and the pin ground must be >1 Megohms.
+5,682,Which of the following ESDS devices can withstand higher static electricity voltage?,B,MOSFET.,SCR.,ECL.
+5,683,A wrist band must be worn when working with ESDS devices.,A,to dissipate and prevent static build-up on the operator.,to prevent the operator from getting an electric shock.,to dissipate static charge on the device.
+5,684,A humid atmosphere.,A,reduces static charge.,eliminates static charge.,has no effect on the level of charge.
+5,685,Electrostatic discharge occurs when.,C,the ground lead on a wrist strap touches the skin.,materials are rubbed together or pulled apart.,materials of different potential are brought in close proximity to each other.
+5,686,"Before removing an assembly from an aircraft, with regards to HIRF, you must first ensure that there is minimum current flow between",B,the assembly and the aircraft,you and the assembly.,you and the aircraft.
+5,687,When removing a PC card from an ESDS assembly ensure a low current path between.,c,aircraft and ground.,you and the assembly.,you and the aircraft.
+5,81,What have to be considered while the software of an LRU is updated?,C,You have to consider about the right display unit,You have to consider about the right manufacturer,You have to consider about the right P/N.
+5,82,Which of the following can't do program interchange?,B,Portable data loader,Central processing unit,Control display unit
+5,83,What is the DO 178 B ?,A,it is a software development and verification process for critical systems.,it is a the program data loader,it is a register for LRU
+5,688,"An aircraft system that, should it fail due to a software error, would cause a significant reduction in safety margins may also cause.",B,no injuries to occupants.,injuries to some occupants.,the loss of the aircraft.
+5,689,"An aircraft system allocated a software level of C that, should it fail due to a software error, may cause.",A,injuries to some occupants.,injuries to a large proportion of occupants.,no injuries to occupants.
+5,690,An aircraft system allocated a Criticality Category of Hazardous has a Software Level of.,B,A,B,C
+5,691,"An aircraft system that, should it fail due to a software error, would cause a slight increase in crew workload, has a software level of.",A,D,B,C
+5,692,"An aircraft system with a software level of D, should it fail due to a software error, may cause the aircraft safety margin to be.",A,slightly decreased.,slightly increased.,significantly decreased.
+5,693,"If due to a software error in an aircraft system that would cause injuries to some of the occupants, the system has a software criticality category of.",A,major effect.,hazardous effect.,minor effect.
+5,694,"An aircraft system that, should it fail due to a software error, would cause no injuries to occupants, has a criticality category of.",B,major effect.,minor effect.,hazardous effect.
+5,695,Requirements for software control can be found in.,B,JAR AWO.,AWN 43.,JAR OPS.
+5,696,Software can be modified by.,B,the manufacturer,using the same rules as apply as to modifications to hardware.,licensed avionics engineers
+5,697,Who is responsible for producing the operational program of the FMS?,A,The manufacturer.,The pilot.,The engineer
+5,698,Software documentation procedures are laid down in.,C,MOE.,JAA Ops.,AWN (45).
+5,699,Control of software is carried out by.,C,the aircraft manufacturers.,a licensed engineer.,the National Aviation Authority.
+5,700,What is the definition of level one software?.,C,Non-essential.,Essential.,Critical.
+5,701,Who can sign for a software update?.,B,Design organization or the aircraft manufacturer.,Engineer.,Chief pilot.
+5,702,What is the effect of a level 1 software failure?.,C,Significant reduction in safety margins.,Large reduction in safety margins.,Loss of aircraft and / or fatalities.
+5,703,Software changes come under the responsibility of.,C,the engineer.,the national aviation authority.,the aircraft constructor.
+5,704,Who can design new software?.,A,BCAR section A8 approved company.,BCAR section A1 approved company.,The CAA.
+5,705,As far as a software product is concerned.,C,the 'Software Release' phase is the same as the 'Finished Product' phase.,the 'Validation' phase is done to the software rather than to the component.,the 'Verification' phase includes performance testing a programmed EPROM.
+5,706,AWN 43 requires that.,C,the aircraft operator be responsible for software assessment.,the CAA be responsible for software assessment.,the aircraft constructors be responsible for software assessment.
+5,707,Level 1 software failure.,C,is defined as essential and will reduce safety margins.,is defined as essential and may have a minor effect.,is defined as critical and can lead to loss of aircraft.
+5,708,Requirements for configuration management of software can be found in.,A,AWN 43.,JAR Ops (M).,"ATA Chapter 46, Information Systems."
+5,709,Where would you find the rules regarding upgrade of software?.,C,JAR OPS.,The aircraft manufacturer.,AWN 43.
+5,84,What is the expression EMC mean ?,A,Electromagnetic Compatibility,Electrically Compatibility,Electromechanic Converter
+5,85,What is the aim of the EMC?,B,The aim of EMC is to create electromagnetic fields,"The aim of EMC is the correct operation, in the same environment, of different equipments, which involve electromagnetic phenomena in their operation",its aim is to load the program
+5,86,A device is considered to comply with EMC when ...................................................................,C,emission interference level is above specified limit,immunity interference level is below specified limit,both conducted and radiated interference levels are below specified limits
+5,87,It's immunity or susceptibility to conducted and radiated interference are ...................... specified limits.,B,below,above,same
+5,88,Electromagnetic interference can be propagated ........................,B,it can be propagated by light,Conducted interference along input and output cables,Conducted interference by the high temperature
+5,89,The electric fields of interest in EMC studies cover usually a range from.,A,"0,1 μV/m - 10MV/m",10mA - 1A,100Hz - 10MHz
+5,90,The frequency of interest in EMC studies cover usually a range from.,C,1V - 100kV,10μs - 100s,1Hz - 100GHz
+5,91,What is the EMC emission standart number?,C,EN 50083,EN 50082,EN50081
+5,92,What is the EMC immunity standart number?,B,DO 178 B,EN 50082,EN 50080
+5,93,The currents of interest in EMC studies cover usually a range from.,A,1nA - 1MA,10Hz - 1GHz,1V/m - 100KV/m
+5,94,The time scales of interest in EMC studies cover usually a range from.,A,1s - 1ps,100mV - 1MV,1KHz - 10GHz
+5,95,The meaning of the term EMI is :,B,Electromechanic Interference,Electromagnetic Interference,Electrically Interference
+5,96,Why is the used EMI filter?,A,EMI filter provides to protect the system from included disturbance signals,EMI filter ensures the high magnetic field,It provides to protection from light
+5,97,A broadband signal may spread its energy across .........................,B,A few GHz,Hundreds of MHz,A few MHz
+5,98,HIRF means .......,C,High Interference Radiated Field,High Interference Real Field,High Intensity Radiated Field
+5,99,If the HIRF gradient exceed ................................ electrical discharge may occur.,A,23 kV/cm,17kV/cm,23V/m
+5,100,Which of the following is not lightning protection and surge-protective devices?,C,Lightning Rod,Surge Arrester,Semiconductor
+5,710,"In order to maintain HIRF protection, bonding checks between airframe and electrical components carrying voltages greater than 50 volts RMS or DC or main earth return should not exceed.",B,0.05 ohm.,1 ohm.,1 megohm.
+5,711,Ribbon cables effected by mutual impedance and current loop leakage should be protected by.,A,earthing each alternative conductor to separate point.,connecting all conductors to a common earth.,shielding each individual conductor.
+5,712,To shield a fibre optic from EMI you must.,C,earth both transducer and couplings.,shield it with a braided shield.,use an opto-isolator.
+5,713,Manufacturers of aircraft can ensure HIRF protection by.,B,"advising operators of all points susceptible to deterioration due to corrosion, moisture ingress, flexing etc.",designing specific avionic areas that are shielded against HIRF.,ensuring all single wires are shielded with metal conduit.
+5,714,Which of the following could be a primary cause of HIRF protection failure?.,c,Broken or missing static wicks.,Corrosion on bonding leads.,Unserviceable radio filters.
+5,715,Manufacturers of aircraft can ensure HIRF protection.,A,by designing specific avionic areas that are shielded against HIRF.,by ensuring all single wires are shielded with metal conduit.,"by advising the operator of parts of the aircraft susceptible to degradation due to corrosion, moisture ingress, flexing etc."
+5,716,HIRF protection of LRUs is provided by.,B,internally shielded cables.,built in filters and overvoltage circuits.,built in filters only.
+5,717,"To stop earth loops forming, you would.",C,earth both ends of the cable screen.,leave both ends of the cable screen open circuit.,earth only one end of the cable screen.
+5,718,An aircraft may have been HIRF affected.,B,A bonding load check is required.,A static wick check is required.,Test all radio frequencies for interference.
+5,719,Testing of HIRF on aircraft systems is done.,B,by periodically listening for interference on all systems.,at and during production and testing (initial certification).,only after a report of radio interference
+5,720,When carrying out a bonding check on a surface protected by anodic film.,B,the film is conductive so no preparations are required.,the anodic film should be removed locally to ensure a good contact.,add a bonding factor to the result of the test to account for the resistance of the anodic film
+5,721,When clamping cable looms containing co-axial cables.,A,avoid distortion to the co-axial cable to maintain the dielectric constant.,the clamps must be no more than 1 metre apart.,distortion of the outer sheath is allowed providing the inner cable is not affected.
+5,722,When incorporating an aerial cable it must be.,C,in the centre of the other wires.,outside the other wires for easy access.,positioned separately from the loom.
+5,723,When carrying out airframe bonding checks as part of a program of HIRF prevention the airframe bonding resistance should be less than.,C,100 milliohms.,1 ohm.,50 milliohms.
+5,724,Electromagnetic compatibility is achieved by.,A,"shielding, screening, earthing, bonding and interference filters.",coating in a conductive paint.,enclosing the system with same frequency and strength of which screening is done.
+5,725,To reduce HIRF on radio equipment.,A,ensure all static wicks are in place.,periodically check bonding leads for condition.,transmit on all radio frequencies to determine which frequencies are causing the interference.
+5,726,"For braided cables, the amount of braiding.",B,must conform to the requirement for the shielding to cover at least 50% of the surface of the cable.,keeps radiated power inside the emitting assembly or away from the susceptible circuit.,is a trade-off design feature.
+5,727,HIRF is acronym for.,B,Heavily Ionised Radio Frequencies.,High Intensity Radiated Field.,High Intensity Radio Frequencies.
+5,728,HF aerials are protected against lightning strike by.,C,current mode coupler.,bus terminal.,spark gap.
+5,101,A Uplink is a message that...........,B,it provides the connection between aircraft systems,This message sent from the ground station to the aircraft.,This message sent from the aircraft to ground station
+5,102,Burst transmission are used with a limit of ...................... character per message,C,120,230,220
+5,103,A Downlink is a message that...........,C,The ACARS system hasn't Downlink message,No one,is originated in the airplane and sent down to the ground
+5,104,The ECAM system is .......................,A,Developed by AIRBUS as an answer to Boeing’s EICAS system,Used to monitor navigation information,it provides information about electrical system
+5,105,ECAM's right unit displays ..........,A,associated information in pictorial or synoptic format,navigation information,information on the status of system
+5,106,Attitude data is provided by the .................. for EFIS system.,C,MFD,DAC,IRS
+5,107,What is the expression EICAS mean ?,B,Electronic Indicating and Crew Alerting System,Engine Indicating and Crew Alerting System,Electromagnetic Indicating System
+5,108,In a fly by wire system computer sends electric signals to flight control surface actuators ...........................................,B,with mechanical linkage,without any mechanical linkage,with electrical linkage
+5,109,FMS database is updated every.,C,15 days,23 days,28 days
+5,110,The satellites orbit the earth at an altitude of ..................,A,20000km,12000km,24000km
+5,111,Why is used atomic clock for the GPS?,C,The GPS doesn't use atomic clock,it is used for both the receiver and the satellite have to generate their codes at the different time.,it is used for both the receiver and the satellite have to generate their codes at the same time.
+5,112,What is the accelerometer?,B,it is a power supply,it is an pendulum,it is a gyro
+5,113,What is the 'gyrocompassing' ?,C,it ensures information for ACARS system,it is a kind of symbol generator,Before navigation can start from an actual position there must be a reference to true or magnetic north.
+5,114,Why is used to TCAS (Traffic Alert and Collision Avoidance System) ?,B,it is used to a message display,it is used to reduce mid-air collision of aircrafts,it is used toan engine display
+5,115,TCAS consist of ..................,A,a radio transmitter and a tranponder,a power supply and transmitter,a transponder and an engine
+5,116,The different between TCASI and TCASII is .............................,C,TCASII gives only traffic advisory,TCASI gives only resolution advisory,TCASII gives resolution advisory
+5,729,"An FMS system, besides controlling navigation, thrust and auto-nav, also provides.",B,GPWS warnings.,dedicated status and warnings.,take-off and landing warnings.
+5,730,The minimum standards for aircraft instrumentation is set by.,C,CAA.,ICAO.,JAA.
+5,731,EADI sky and ground display is provided by.,A,raster scan.,stroke pulse.,synthetic TV signals.
+5,732,HSI heading is valid if the heading flag is.,C,in view.,green.,out of view.
+5,733,MFD is the abbreviation for.,A,Multi function display.,Mandatory flight display.,Master flight display.
+5,734,"A TCAS uses the radar mile definition in its calculations, which is.",A,12.36 microsecond.,6.18 microsecond.,24.72 microsecond.
+5,735,GPS navigation uses a constellation of satellites that is made up of.,A,21 active and 3 spare.,28 active and 7 spare.,23 active and 5 spare.
+5,736,An IRS is only certifed for alingment up to.,B,+88.45 and -88.45 degrees.,+78.25 and -78.25 degrees.,+60 and -60 degrees.
+5,737,The command bars on an ADI relate to.,C,roll indications.,path being followed.,path required.
+5,738,ECAM has at its heart.,A,a multi function symbol generator.,a central maintenance computer.,ACARS.
+5,739,The recording medium in an FDR is.,C,copper foil coated with ferrite.,a high density floppy disc.,magnetic tape coated with ferrite.
+5,740,An FMS databank memory is updated.,B,every 365 days.,every 28 days.,every 32 days.
+5,741,What does the CADC feed?.,A,cabin pressure controller sensor / machmeter / altimeter.,Altimeter / FMS / secondary radar.,standby altimeter / machmeter
+5,742,"In a Flight Management System (FMS), data is input manually to the computing system through the.",C,Data Acquisition Unit.,Electronic Centralised Aircraft Monitoring control panel.,Control and Display Unit.
+5,743,"In a Global Positioning System (GPS), the number of satellites required to achieve a 3 dimensional fix is.",C,2,3,4
+5,744,"In a Global Positioning System (GPS), each satellite transmission identifies the satellite using a.",B,different channel frequency.,pseudo random code.,whisper shout method.
+5,745,In a Global Positioning System (GPS) satellites below the Mask Angle are ignored as these may cause.,A,range errors.,clock errors.,ephemeris errors.
+5,746,Information required by a Flight Management System (FMS) to function correctly is indicated on the display by.,C,dashes.,a flashing cursor.,boxes.
+5,747,A flight data recorder can obtain information from aircraft instruments.,B,provided there is adequate damping.,provided there is adequate isolation.,by direct connection to the instruments.
+5,748,The inputs and outputs of a CADC are.,C,"pitot and static in; altitude, attitude, CAS and VS out.","pitot and static in; altitude, CAS, mach and VS out.","pitot in; static, altitude, mach, CAS and VS out."
+5,749,EICAS provides the following:.,B,Engine parameters and engine warnings only.,Engine parameters and system warnings only.,Engine parameters only.
+5,750,A central maintenance computer provides.,A,ground and flight monitoring and testing on an on-board computer.,ground and BITE testing using a portable control panel.,display of system warnings and cautions.
+5,751,The rising runway is positioned from information derived from.,B,barometric height.,radio altimeter.,vertical speed.
+5,752,Where are the Digital Flight Data Recorder outputs supplied to?.,B,The recording unit.,There are no outputs.,Flight instruments.
+5,753,FMS failure and warnings are.,B,EFIS warnings only.,displayed on EICAS.,engine warnings only.
+5,754,Flight director command bars are moved to the correct position by.,B,calibration.,position feedback.,amplifier gain.
+5,755,What information is required before completion of the alignment of an Inertial Navigation System?.,A,Aircraft present position.,Heading and attitude.,Aircraft present position and heading.
+5,756,IRS accelerometers are mounted.,A,90° to each other.,45° to each other.,60° to each other.
+5,757,An FMS navigation database is updated.,B,once a month.,every 28 days.,at the operators request.
+5,758,A single failure of a fly-by-wire system.,C,will reduce operational heights and speeds.,will limit the flight profile.,has no effect on aircraft operation.
+5,759,Fly-by-wire load alleviation function in turbulent conditions will result in.,C,spoilers moving symmetrically upwards.,ailerons moving symmetrically upwards,ailerons and spoilers moving symmetrically upwards.
+5,760,Fly-by-wire roll control is achieved by.,A,spoilers and ailerons.,ailerons.,spoilers.
+5,761,The movement of fly-by-wire control surfaces are.,C,hydraulically controlled and electrically actuated.,both electrically controlled and electrically actuated.,electrically controlled and hydraulically actuated.
+5,762,"An FMS system, besides controlling navigation, thrust and auto-nav, also provides.",A,dedicated status warnings.,take-off and landing warnings.,GPWS warnings.
+5,763,If an EFIS has 3 symbol generators. What is the purpose of the 3rd symbol generator?.,C,Comparison with No.1 symbol generator.,Parity function.,Standby.
+5,764,FMS operational program is updated every.,B,90 days.,28 days.,7 days.
+5,765,An FDR fitted to a helicopter begins recording.,C,when power is applied to the aircraft.,on take-off.,on engine start-up.
+5,766,The FMS databases consist of.,B,one navigation and one performance database.,one performance and two navigation databases.,two performance and one navigation database.
+5,767,The FMS can update the IRS position outputs by using information from either.,B,VOR and DME only.,"GPS, DME, LOC and VOR.",DME and GPS only.
+5,768,The accepted error from INS/IRS is.,A,3 miles / hour + 3 miles.,2 miles per hour + 3 miles.,1 mile/hour+3 miles.
+5,769,Before an IRS can complete the alignment sequence.,A,the current present position must be entered.,either the last or current position must be entered.,the shutdown present position must be entered.
+5,770,What warnings can an FMS provide?.,A,Discrete warnings.,Spurious faults.,Ground faults only.
+5,771,Electronic Centralised Aircraft Monitoring System.,C,performs in-flight and ground tests of aircraft systems by carrying out a BITE interrogation.,performs in-flight BITE interrogation only,give red warnings and amber cautions to display system status.
+5,772,The control of the speed or rate that the flight director command bars move can be controlled by.,B,position feedback.,rate or velocity feedback.,amplifier gain.
+5,773,The Centralised Aircraft Monitoring System uses the maintenance mode of operation.,A,on the ground only.,in the air only.,either in the air or on the ground.
+5,774,The third EFIS Symbol Generator is operated.,C,in an emergency.,with EICAS.,as a standby to the No1 and No2 system
+5,775,EFIS displays of the right hand and left hand displays are compared by comparators in the.,C,FMS.,EICAS.,Symbol Generators.
+5,776,What is the approximate earth rate?.,C,10°/hour.,5°/hour.,15°/hour.
+5,777,An IRS has.,B,two or three accelerometers depending on the system.,three accelerometers.,two accelerometers.
+5,778,IRS Laser Ring Gyros provide.,A,rate of movement about an axis.,displacement about an axis.,both rate and displacement about an axis.
+5,779,What are the outputs of a Digital ADC?.,B,"TAS, MACH, Altitude and TAT.","TAS, MACH, Altitude, TAT and SAT.","TAS, MACH and Altitude."
+5,780,"Fly By Wire systems in the fully active mode, the actuators will.",A,both be active.,"both be in damping mode, awaiting control inputs.","one in active mode, one in damping mode."
+5,781,"On a Fly By Wire system, what controls the stab trim?.",A,ELAC and SEC.,SEC.,ELAC.
+5,782,The minimum requirement for a cockpit voice recorder to begin operating is.,A,on engine start-up.,on commencing the takeoff roll.,once established in the en-route climb.
+5,783,Aircraft Communications Addressing and Reporting Systems is used to.,A,download aircraft status reports.,make telephone calls.,allow the pilot of an aircraft to talk to base.
+5,784,B-RNAV system must be capable of.,B,holding six waypoints.,displaying distance and bearing to waypoint.,reversing the waypoints for.
+5,785,The basic principle of radar is based upon.,B,the amount of power in the signal returned.,the time delay between outward and returning pulse.,ultrasonic wave propagation.
+5,786,What systems does the ADC feed?.,B,Altimeter / FMS / secondary radar,Cabin pressure controller sensor / machmeter / Altimeter.,Standby altimeter/machmeter.
+5,787,Which systems does a modern ADC give information to?.,C,EFIS.,EICAS.,"Flight control computer, Air Data Instrument, Engine systems."
+5,788,Where do the outputs from a DADC go?.,B,EHSI.,EADI.,IRMP: Inertial Reference Mode Panel.
+5,789,How many satellite signals are required to achieve precise 3D positioning?.,A,4,5,6
+5,790,The minimum requirement for an aeroplane CVR is.,B,from power on.,from engine start.,from beginning of take off roll.
+5,791,An Inertial Navigation System (INS/IRS) computes distance from acceleration by.,A,two successive integrations.,a simple integration.,a differentiation followed by an integration.
+5,792,Before the aircraft is moved from the loading pier the pilot must.,C,insert the longitude and latitude of the first waypoint into the INS.,set the altitude to be fed into the INS.,insert the latitude and longitude of the pier into the IRS.
+5,793,An IRS has.,A,accelerometers and gyros fixed to a the airframe.,accelerometers fixed to the airframe and gyros on a stable platform.,accelerometers on a stable platform and gyros fixed to the airframe.
+5,794,An IRS system requires data for wind computation from.,C,Doppler System.,satellites.,central Air Data Computer
+5,795,"The FMS carries out a Rho/Theta navigation function, the purpose of this is to.",A,update the IRS system with an accurate position fix of latitude and longitude.,to update the VOR and DME systems with an accurate position fix.,to update the EMS with the new lateral flight profile for the flight plan.
+5,796,The FMS is updated.,B,automatically by update data from the ACARS.,by an aircraft engineer updating the system either by a magnetic tape or floppy disc,by the aircrew by reference to the Tech Log.
+5,797,Pitch Control of a fly by wire system is achieved by.,C,stabilizer only.,elevators only.,stabilizer and elevator.
+5,798,"In a fly by wire system, if the pilot control input is derived from a side stick controller:.",A,there is no control surface feedback to the side stick.,control surface feedback is fed to the side stick.,there will be only control surface feedback to the side stick after a computer failure.
+5,799,A basic IRS platform has.,C,3 accelerometers and 2 laser gyros.,2 Accelerometers and 3 laser gyros.,3 accelerometers and 3 laser gyros.
+5,800,What must be entered into the IRS before the aircraft can be moved?.,B,Flight plan.,Present position.,Cruise height.
+5,801,The FMS Operational Database is.,B,updated once a month.,"is fed with information on aircraft weight, cruise altitude and cost index before take off.",needs no update information.
+5,802,Control surface feedback is fed back to.,A,the Flight Control Computer only.,the side stick controller only.,the Flight Control Computer and side stick controller.
+5,803,The accelerometer output in an INS/IRS is.,C,integrated once to give distance.,integrated twice to give velocity.,integrated twice to give distance.
+5,804,An INS/IRS Battery Unit provides.,B,standby power only whilst in flight.,standby power when airborne and on the ground.,standby power only on the ground.
+5,805,If a fly by wire actuator loses hydraulic power the control surface will.,C,automatically move back to the neutral position.,remain rigid in the failure position.,remain in the failure position but may move due to aerodynamic pressure.
+5,806,IRS alignment.,A,takes up to 10 minutes and the present position can be entered at any time during alignment.,takes up to 10 minutes and present position must be entered before alignment.,takes up to 10 minutes and the previous flight shut down present position is used for the alignment.
+5,807,A fault light appears on the IRS Mode Selector Unit during the alignment sequence. The correct action is.,B,immediately switch off and select the standby system.,"select HDG/STS on the Inertial System Display Unit (ISDU), observe the action code in the right alpha/numeric display.",refer to the warning display on the EICAS/ECAM system.
+5,808,A FMS has a total of how many Databases.,A,2,4,1
+5,809,Fly by wire High Speed protection is.,A,to prevent tuck under.,to increase the pitch angle as speed increases.,to prevent high speed stall.
+5,810,An IRS Laser gyro provides.,A,detection of the rate of movement about an aircraft axis.,detection of the earths gravitational force to establish true north.,detection of the earths rotation to establish true north.
+5,811,The left and right cockpit displays.,C,are supplied from separate Symbol Generators at all times.,are supplied from the same Symbol Generator.,will only be supplied from the same symbol generator when all other symbol generators have failed.
+5,812,A single failure of a fly by wire control surface computer will.,B,cause the system to revert to an alternate law of operation.,not have any operational effect on the system.,cause the system to revert to a direct law of operation.
+5,813,What are the outputs from digital clocks used for?.,A,"Flight data acquisition unit, Flight management computer and Voice recorder.","VOR, ILS and DME.","Weather radar, TCAS and ACARS."
+5,815,A full operation system BITE check will carry out a internal system test that ensures the system meets design requirements and is operational.,C,but will not move the controls.,as well as checking full system and will move the controls to their stops.,as well as checking full system but will not move the controls to their stops.
+5,816,If on a flight deck EFIS system all the displays were missing one bit of information. This is most likely to be.,C,the input sensor bus and display controller.,the symbol generator and display.,the display controller and symbol generator.
+5,817,A centralised monitoring computer system is used.,B,to test system during flight and for BITE test of systems on the ground using a carry on control unit.,to test systems in flight and on the ground using a centralised on board control unit.,testing systems on the ground only.
+5,818,"In an EFIS display, the lines, scales, indicator and synoptic are generated by.",C,raster scan.,synoptic scan.,stroke pulse.
+5,819,"The method of producing (white) lines for aircraft symbols, V/S scale etc. on an EADI is by.",C,raster scan.,trapezoidal input.,stroke pulse.
+5,820,"In modern aircraft, the output from the clock is used.",C,to synchronise the signals on the control bus.,to provide a clock pulse for CRT.,to give GMT details to the flight recorder and other systems.
+5,821,"As a minimum requirement, when must a cockpit voice recorder start recording?.",C,From the start of the aircraft take off run.,After take off when airborne.,On first engine start.
+5,822,The operational database of the FMS may have to be modified in flight.,A,It cannot be modified in flight.,by the pilot.,automatically by the DADC.
+5,823,CADC outputs are.,B,"altitude, vertical speed, IAS, mach no.","altitude, vertical speed, TAS, CAS, mach no, SAT, TAT.","altitude ,vertical speed, angle of attack, TAT, SAT."
+5,824,If one EICAS CRT fails.,B,the FMS CDU will display the failed CRT data.,the remaining CRT will display primary EICAS data.,the standby CRT will automatically take over.
+5,825,Variations in light on EFIS displays are compensated for by.,A,An external light dependant resistor mounted on the flight deck compensating for all displays in a parallel-parallel format.,manual adjustment by flight crew on EFIS controller.,integrated light dependant resistors in the display compensating for each display individual.
+5,826,A method used in modern aircraft for reporting in flight faults to an engineering and monitoring ground station is.,B,TCAS II.,ACARS.,TAWS.
+5,827,The self test function on an EFIS system can be tested.,C,on the ground only.,in the air only.,in the air and on the ground.
+5,828,Each of the symbol generator outputs in an EFIS system can be.,A,displayed on each individual display.,only no. 2 can be displayed on the no.1.,can not be interchanged.
+5,829,BITE tests are inhibited for ground use during.,C,forward motion.,gear retraction.,take-off.
+5,830,Modern aircraft with electronic displays would display information on airframe and engine on which system?.,A,Electronic centralised aircraft monitoring system (ECAM).,Flight management system.,EADI.
+5,831,The Flight data recorder starts recording.,C,after take off.,on aircraft roll out from stand.,after the first engine has started.
+5,832,Data to flight data recorder can be taken from a communal data bus if.,C,the power is within flight data recorder limits.,it goes directly to it.,source isolation has been considered.
+5,833,A central fault display system should be available through.,C,a bite test.,a central bite test box with clear LED indications.,a easily accessible multifunction control display unit.
+5,834,A flight data recorder should be capable of recording.,C,the last 25 hours.,the last 25 hours of aircraft flight.,the last 25 hours with engines running.
+5,835,BITE for ground use only is switched off.,A,on take-off.,when brakes are released.,when undercarriage up.
+5,836,During normal functioning of an ECAM system the engine data shown on the Engine/Warning display comes from the.,C,EFIS channel of DMC3.,ECAM channel of DMC1.,ECAM channel of DMC3.
+5,837,Using I.N.S. an aircraft flies.,C,rhumb line.,course directed by ground station.,great circle route.
+5,838,What warnings can an FMS provide?.,B,Ground faults only.,Discrete warnings.,Spurious faults.
+5,839,Aircraft heading (HDG) is.,A,the angle between True North and the longitudinal axis of the aircraft.,the angle between True North and the actual track.,the angle between True North and the desired track.
+5,840,"Control Display Unit (CDU ) selection of TKE (Track Angle Error), displays.",A,difference in degrees that the aircraft is to the right or left of the desired track.,distance perpendicular from the selected track.,difference in degrees from True North in a clockwise direction from the desired track.
+5,841,"In the EICAS system, when is the maintenance mode available?.",A,Lower screen only - only available on the ground.,In flight.,On the upper and lower screens - only available on the ground.
+5,842,On a modern aircraft when are BITE checks carried out?.,A,Continuously when system is in use.,After engine shut down.,Only when BITE selected.
+5,843,"In an IN system, the purpose of the stable platform is to.",B,provide attitude reference.,prevent unwanted acceleration affecting the accelerometers.,stop the gyros from toppling.
+5,844,An IN system requires data from the.,B,Doppler system.,airdata computer.,satellites.
+5,845,TK (cross track) is the.,C,actual track across the earths surface.,angle in degrees that the aircraft track is left or right of desired track.,perpendicular distance from the desired track.
+5,846,The output of an INS can be fed to the.,A,attitude indicators.,altimeters.,vertical speed indicators.
+5,847,The three accelerometers on a strapdown system are mounted.,A,90° to each other.,parallel to each other.,120° apart.
+5,848,Gyro-compassing is the term used for.,C,self-alignment in the vertical.,use of the gyro-magnetic compass system to align the platform.,self-alignment in azimuth.
+5,849,Electronic Centralized Aircraft Monitoring System operates to.,A,give red warnings and amber cautions to display system status.,perform in-flight BITE only.,perform in-flight and ground tests of aircraft systems by carrying out a BITE.
+5,850,The Centralized Aircraft Monitoring System uses the maintenance mode of operation.,A,on the ground only.,in the air only.,either ground or air.
+5,851,"If part of a display is lost on a CRT, this could be due to.",A,an inoperative symbol generator or control panel.,an inoperative symbol generator or input sensor,loss of power to the CRT.
+5,852,A cyclic test (watch dog) should be performed for ECAM.,C,via MCDU.,during power up.,during flight.
+5,853,How does the symbol generator detect a program error?.,B,By looking at the even parity without error.,By looking at the odd parity without error.,By check sum bites for error detect.
+5,854,Relationship of CMCs to BITE systems is best described as.,B,CMCs replaced but is not related to the older BITE system.,CMCs monitors the individual BITE systems and presents data.,CMCs modifies and upgrades BITE systems.
+5,855,An IRU interface test is carried out.,B,in the air.,only on the ground.,on the ground or in the air.
+5,856,FMS system gives warning indications for.,C,take off and landings only.,any flight phase.,cruise.
+5,857,FMS CDU warnings are.,C,fail and MSG.,OFST and Fail.,"MSG, fail and OFST."
+5,858,CMC (central maintenance computer) works to.,A,"perform in-flight bite and ground tests of aircraft systems, i.e. BITE.",give red warnings and amber cautions to display in accordance with system status.,perform in-flight bite only.
+5,859,BITE test carried out on input sensors and actuators performs.,B,validation of the information of the LRU.,a performance test of the system.,a test of the LRU.
+5,860,A BITE check for automatic performance and fault monitoring is carried out when?.,A,Power-up self test.,For in-flight monitoring.,To check the performance of the LRU.
+5,861,In which of the following does TCAS II advise the pilot to make a maneouvre?.,A,RA.,TA.,either RA or TA.
+5,862,What are the shapes of traffic shown on a TCAS display?.,B,"White circles, red diamonds and amber squares.","White diamonds, red squares and amber circles.","White squares, red diamonds and amber circles."
+5,863,"If a display shows a red cross only, it is due to.",A,Symbol Generator failure.,CRT failure.,Altimeter failure.
+5,864,ACARS is an acronym for.,C,ARINC Communicating Addressing and Reporting System.,Airborne Communicating Addressing and Reporting System.,Aircraft Communicating Addressing and Reporting System.
+5,865,When does the flight data recorder start recording ?.,C,Undercarriage up.,Parking brake released.,When the first engine starts.
+5,866,Brake temperature displayed on a flight deck CRT has.,C,a master warning light.,same colour throughout.,different colour for different temperatures.
+5,867,When performing test on Electronic Displays using the Built In Test system.,B,CRT continues to display current data while the SGs and Display are internally tested.,SG injects a test signal into the display system and the word TEST appears on the screen.,displays cannot be tested it is only SG which are tested by BITE.
+5,868,Heading reference required to establish initial heading during alignment sequence comes from.,C,FMS which gathers data from other Radio devices.,Magnetic compass installed on the airplane.,Earths Rotation.
+5,869,What is primary mode of navigation on a modern aeroplane?.,B,Both GPS and IRS.,Only IRS.,Inch precise GPS.
+5,870,"In a flight director, how are small deviations corrected?.",A,Pilot input.,Instrument is calibrated at fitment to remove any possible error.,Instrument feedback.
+5,871,For a 3 dimensional fix in a Global Positioning System.,C,Minimum of 3 satellites must be in view.,Minimum of 2 satellites must be in view and altitude used to simulate a 3rd satellite.,Minimum of 4 satellites must be in view.
+5,872,In an aircraft equipped with TCAS II and EFIS.,C,RA pitch command is shown on the EHSI and TA/RA traffic on the EADI.,RA pitch command is shown on the VSI and TA/RA traffic on the EHSI.,RA pitch command is shown on the EADI and TA/RA traffic on the EHSI.
+5,873,The BITE indicator on a DFDR shows Yellow colour. This indicates.,C,power is ON but DFDR is not recording data.,power is ON and DFDR is recording data.,power is OFF or DFDR is at Fault.
+5,874,In a typical 'Glass Cockpit' EICAS provides the following.,A,engine parameters and system warnings only.,engine parameters and engine warnings only.,engine warnings only.
+5,875,What is the minimum requirement for CVR to operate?.,A,BEFORE take-off.,BEFORE engine start.,at any time the manufacturer decides.
+5,876,ECAM system was adopted for.,A,Airbus A310.,both Boeing and Airbus aircraft.,Boeing 757 and 767 aircraft.
+5,877,"A modern electromagnetic Flight Data Recorder, for recording data, could use:.",B,a floppy disk.,a plastic tape coated in ferrite.,a copper oxide string.
+5,878,What is the minimum requirement for a CVR to start recording?.,C,When parking brake is released.,On commencement of flight.,When aircraft is capable of moving under its own power.
+5,879,As a minimum requirement when must a cockpit voice recorder start recording?.,C,Once airborne after take off.,Before engine start.,Once aircraft is ready to move under its own power.

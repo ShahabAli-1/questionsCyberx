@@ -1,0 +1,310 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+15,1,Boyle’s law states:,A,P1.V1 = P2.V2,P.V=n.R.T,Q=m.c.ΔT
+15,2,What is the equivalent value of 15°C in Kelvin?,B,278,288,298
+15,3,Entropy change means:,C,The ratio of pressure to volume,Pressure ratio,The ratio of heat to temperature
+15,4,"In turboprop engines,",C,There is a mechanical connection between free turbine and propeller,There is a mechanical connection between free turbine and reductor,There is a mechanical connection between free turbine and compressor
+15,5,Free turbine..,C,Drives compressor,Drives combustion chamber,Reductor gear drives propeller
+15,6,First law of Newton states…,A,Inertia,F= m.a,Action-reaction
+15,7,Which law of Newton can the propulsion in jet engines be explained by?,C,Inertia,F= m.a,Action-reaction
+15,8,What is the speed range of transonic aircraft?,B,"0-0,75 mach","0,75-1,3 mach","1,3-5 mach"
+15,9,What is the purpose of turboshaft engines in aviation?,A,Supplying power to helicopters,Supplying power to aeroplanes,Production of jet propulsion
+15,10,Ram jet air inlet is…,A,Divergent,Convergent,Convergent / divergent
+15,11,Patent of jet-driven engines belongs to…,A,Rane Lorin,Agusto Otto,Rudolf Diesele
+15,12,Patent of jet propulsion engines belongs to…,C,Rane Lorin,Agusto Otto,Rudolf Diesel
+15,13,General gas equation is..,A,P.V/T = constant,P.V = constant,P/T = constant
+15,14,The first law of Newton which is also called inertia states that…,A,When a force is applied to an object it will tend to keep its stability or motion,Force is related to mass and acceleration,There is always an equal reactionin the opposite direction to any action
+15,15,"Which of the following equations expresses the basic propulsion formula? (V1=incoming air velocity, V9=outgoing air velocity, P1 and P9= pressures, Aa= section area of exhaust exit)",C,93,79,53
+15,16,Working cycle of gas turbine engine is called also…,C,Otto cycle,Diesel cycle,Brayton cycle
+15,17,Brayton cycle occurs under the condition of…,A,Constant pressure,Constant volume,Constant temperature
+15,18,Which comparison is correct for a divergent duct?,C,V<P<T,V>P>T,V<P>T
+15,19,Which comparison is correct for a convergent duct?,C,V<P<T,V>P>T,V>P<T
+15,20,What is the velocity of narrowest cross-section of convergent/divergent nozzle?,A,1 Mach,"0,8 Mach","1,3 Mach"
+15,21,Which is correct for ISA temperature?,A,"Decreases 1,98°C with increasing an altitude of 1000 feet","Increases 1,98°C with increasing an altitude of 1000 feet","Decreases 6,5°C with increasing an altitude of 1000 feet"
+15,22,What is temperature value at mean sea level according ISA in Kelvin?,C,0,15,288
+15,23,Whihc is correct for tropopause?,B,The layer between ionosphere and stratosphere,The layer between troposphere and stratosphere,The layer between ionosphere and troposhere
+15,24,Which equation is correct for Horse Power?,A,1 HP = 550 feet lb/s,1 HP = 500 feet lb/s,1 HP = 650 feet lb/s
+15,25,Pressure ratio of compressor:,A,P3/P2,P5/P4,P9/P7
+15,26,Pressure ratio of engine:,A,P7/P2,P9/P7,P4/P3
+15,27,Net thrust of engine:,A,(P-Po.A+W(Vj-V./g,(P-Po.A,W(Vj-V./g
+15,28,When does an engine produce the highest thrust?,C,High aircraft velocity,Low aircraft velocity,On ground
+15,29,"An engine has airflowing mass of 1.200 kg/min, and a bypass ratio of 5:1. How much air is used for combustion?",B,25 kg/min,50 kg/min,240 kg/min
+15,30,An engine has airflowing mass of 1.200 kg/min. How much air is used for combustion?,A,75 kg/min,240 kg/min,120 kg/min
+15,31,When is the highest thrust of a gas turbine engine produced?,A,At high RPM,At low RPM,At low aircraft speed
+15,32,Air inlet in commercial and business jets is,B,Stable,Divergent,Convergent
+15,33,Air inlet is located..,A,In front of compressor,In front of combustion chamber,In front of turbine
+15,34,The station number of engine air inlet is ..,A,1,2,3
+15,35,"In all supersonic aircraft, air inlet is…",C,Divergent,Convergent,Convergent/divergent
+15,36,Which comparison is correct for air inlet of business and commercial aircraft?,A,P>T>V,P>T<V,P<T>V
+15,37,When does the shock wave happen in aircraft?,B,At the velocity of 1 Mach,At the velocity higher than 1 Mach,At the velocity lower than 1 Mach
+15,38,Which is correct for air inlet?,C,It decreases the velocity below sound speed,It controls shock occurence,All
+15,39,Which is correct for centrifugal-flow compressor?,C,easy production,using with small engines,all
+15,40,what is the main advantage of axial flow compressor?,A,Breathing more air,More efficient,Easy production
+15,41,Which of the following is not a part of axial flow compressor?,B,Impeller,Air inlet,Diffusser
+15,42,What is the bypass ratio in turbofan engine with high bypass?,C,1:3,1:4,1:5
+15,43,Discs and blades can be produced as a complete part. What is the name of the product?,C,Blast,Disc,Blisk
+15,44,What is the name of powered engine stall?,A,Surge,Stall,Velocity
+15,45,Where is Variable Stator Vane located?,A,First stages of HP compressor,First stages of LP compressor,First stages of LP turbine
+15,46,How is CIT sensor called?,A,Tt2,Tt3,Tt4
+15,47,Bleed valve system consists of…,B,"One to bleed the 13th stage air, two to bleed the 8th stage air","Two to bleed the 13th stage air, one to bleed the 8th stage air","One to bleed the 13th stage air, one to bleed the 8th stage air"
+15,48,What does the station number Ps3 represent?,C,High pressure compressor inlet pressure,Low pressure compressor inlet pressure,Low pressure compressor discharge pressure
+15,49,What does the station number Pt2 represent?,A,Compressor inlet total pressure,High pressure discharge pressure,Turbine discharge total pressure
+15,50,What does the station number Ps4 represent?,A,Turbine inlet static pressure,Turbine discharge static pressure,Compressor inlet static pressure
+15,51,VBV’s are generally located at…,C,Turbine section,Combustion chamber,Engine fan frame
+15,52,What of the following is one of the tasks of VBV?,A,To direct LP compressor air to fan duct,To direct LP turbine air to fan duct,To direct HP compressor air to fan duct
+15,53,Which of the following is one of tasks of VBV?,C,To control the air flowing into LP turbine,To control the air flowing into HP turbine,To control the air flowing into HP compressor
+15,54,Which of the following is one of the tasks of VBV?,A,To protect LP compressor against stall and surge,To protect HP compressor against stall and surge,To protect HP turbine against stall and surge
+15,55,What is the location of VSV?,B,First stage of LP compressor,First stage of HP compressor,First stage of LP turbine
+15,56,Which of the following is not a material of compressor stator vane?,C,Nickel,Titanium,Aluminium
+15,57,In what way is VSU rods driven?,A,By FCU fuel pressure,By hydraulic pressure,By pressurized air
+15,58,Which of the following is not a method of securing rotor blade?,C,Solid root,Fir tree root,Juniper root
+15,59,In axial flow compressor..,B,P=constant T>V,V=constant P>T,P=constant T<V
+15,60,How do N1 and N2 vibration signals occur?,B,By using two independent vibration sensors,By comparing N1 and N2 rpm signals,By using two dependent vibration signals
+15,61,What does P3 sensor measure?,C,Compressor inlet temperature,LP turbine discharge pressure,HP compressor discharge pressure
+15,62,What kind of temperature sensor is used for EGT?,B,NTC resistor,Thermocouple,Pyrometer
+15,63,Which areas in compressor blades are suitable for corosion?,C,"Rotor : root (leading and trailing edges)	NULL	NULL_x000D_
+15	4	64	Which of the following is correct for air temperature?						x	x	x	x	x				A	Thrust increases with decreasing OAT	Thrust decreases with decreasing OAT	Thrust is constant up to a temperature of 25°C, then, it increases with increasing outside air temperature_x000D_
+15	4	65	In air inlet, blow in gates are…	x	x	x	x	x									A	Open on ground at high power settings	Open in air at high air power settings	Open in air at high speeds_x000D_
+15	4	66	Which section of engine is essential for anti-icing system?						x	x	x	x	x				B	Bypass guide vanes	Inlet guide vanes	Variable stator vanes_x000D_
+15	4	67	How is the change in pressure, temperature and speed at subsonic diffusers?						x	x	x	x	x				C	Pressure and speed decrease, temperature increase	Pressure increase, temperature and speed decrease	Pressure and temperatue increase, speed decrease_x000D_
+15	4	68	What is the ratio P3/P2 in double shaft engines?						x	x	x	x	x				A	Compressor ratio in compressor section	Compressor ratio in high pressure compressor section	Compressor ratio in low pressure compressor section_x000D_
+15	4	69	Rotor and shaft must be..						x	x	x	x	x				C	Statically balanced	Dynamically balanced	Statically and dynamically balanced_x000D_
+15	4	70	What is most important factor for pressure ratio in axial flow compressor?						x	x	x	x	x				C	Compressor internal temperature	Compressor internal pressure	Number of section in compressor_x000D_
+15	4	71	What is the purpose of shroud rings in compressor stator vanes?						x	x	x	x	x				A	Sealing process amongst layers	Decreasing the vibration in rotor blades	Increasing the vibration in rotor blades_x000D_
+15	4	72	What is purpose of shroud on fan blade?	x	x	x	x	x									C	Optimizing airflow	Reducing noise	Reducing vibration and providing stability_x000D_
+15	4	73	Which type of compressor is used in turbo-fan engines?	x	x	x	x	x									A	Axial type	Centrifugal type	Can-annular type_x000D_
+15	4	74	Which of the following is the most effective way to prevent surge in compressors?						x	x	x	x	x				C	IDG	CIT	VBV_x000D_
+15	4	75	From which section of compressor is bleed air taken at low engine rpm?						x	x	x	x	x				B	LPC 3	HPC 9	HPC 5_x000D_
+15	5	76	What is speed of air flowing from compressor for combustion?	x	x	x	x	x									B	500 feet(152 m)/s	400 feet(130m)/s	300 feet(94 m)/s_x000D_
+15	5	77	Under normal working conditions, complete air fuel ratio of a combustion chamber is…						x	x	x	x	x				B	40:1 and 120:1	45:1 and 130:1	50:1 and 140:1_x000D_
+15	5	78	What is temperature of gases after combustion?	x	x	x	x	x									A	Between 1800°C and 2000°C	Between 1000° and 1500°C	Between 500°C and 1000°C_x000D_
+15	5	79	What are contaminants which are controlled internationally?						x	x	x	x	x				C	Unburned HC and Carbon particules	Carbon monoxide and nitrogen oxide	All_x000D_
+15	5	80	What are flame tube cooling methods?	x	x	x	x	x									C	Corrugated strip cooling and machined cooling ring	Transpiration cooling and splash cooling strip	All **_x000D_
+15	5	81	What are the minimum and maximum air/fuel ratio for combustion?						x	x	x	x	x				A	1/7,5 to 1/24	1/8 to 1/20	1/6 to 1/12_x000D_
+15	5	82	Which of the following is not a type of combustion chamber?						x	x	x	x	x				B	Multiple chamber	Air sprayed chamber	Tubo-annular chamber_x000D_
+15	5	83	What is the division ratio of air in combustion chamber?						x	x	x	x	x				A	25% is primary air, 75% is secondary air	50% is primary air, 50% is secondary air	85% is primary air, 15% is secondary air_x000D_
+15	5	84	What is the advantage of reverse flow combustion chamber?						x	x	x	x	x				C	Low combustion temperature	Low fuel consumption	Smaller and lighter engine_x000D_
+15	6	85	What is the turbine inlet temperature?	x	x	x	x	x	x	x	x	x	x				A	850-1700°C	600-1000°C	300-1200°C_x000D_
+15	6	86	What is the main task of turbine?	x	x	x	x	x	x	x	x	x	x				B	Carrying out the combustion process	Rotating the compressor	Smoothing the airflow_x000D_
+15	6	87	Which is correct in gas turbine?	x	x	x	x	x	x	x	x	x	x				C	LP turbine rotates HP compressor	HP turbine rotates LP compressor	LP turbine rotates LP compressor_x000D_
+15	6	88	Which type of turbine is generally used in gas turbine engine?	x	x	x	x	x	x	x	x	x	x				C	Impulse turbine	Reaction turbine	Impulse/reaction turbine_x000D_
+15	6	89	What is the efficiency ratio of turbine in gas turbine engine?	x	x	x	x	x	x	x	x	x	x				C	0,72	0,82	0,92_x000D_
+15	6	90	What are efficiency losses of turbine?	x	x	x	x	x	x	x	x	x	x				A	Aerodynamic loss of %3.5 and exhaust system loss of %4.5	Aerodynamic loss of %4.5 and exhaust system loss of %5.5	Aerodynamic loss of %5.5 and exhaust system loss of %6.5_x000D_
+15	6	91	Turbine disc life depends on …	x	x	x	x	x	x	x	x	x	x				C	Turbine rpm	Turbine gas pressure	Resistance shown against fatigue crack_x000D_
+15	6	92	Which material in turbine blades shows good creep and fatigue properties?	x	x	x	x	x	x	x	x	x	x				A	Cast nickel based alloys	Cast iron alloys	Aluminium alloys_x000D_
+15	6	93	Which of the following is most used method for turbine blade attachment?	x	x	x	x	x	x	x	x	x	x				B	De laval bulb root	Fir tree root	Solid root_x000D_
+15	6	94	In which crystal structure is the blade life is longest?	x	x	x	x	x	x	x	x	x	x				A	Single cristal blade	Directionally solidified turbine blade	Coventionally solidified turbine blade_x000D_
+15	6	95	In creep stress-time graph, when does fracture occur?	x	x	x	x	x	x	x	x	x	x				C	Primary creep	Secondary creep	Tertiary creep_x000D_
+15	6	96	What are the components of a turbine?	x	x	x	x	x	x	x	x	x	x				A	Nozzle guide vanes, turbine discs and turbine blades	NGV and turbine discs	Nozzle guide vanes and turbine blades_x000D_
+15	6	97	In a gas turbine engine, nozzle guide vanes must be checked for cracks and malfunctions. What is the most efficient way to do that?	x	x	x	x	x	x	x	x	x	x				A	Baroscope inspection	Paint penetration test	Spectrometric analyse_x000D_
+15	6	98	How do you turn the N2 rotor system for baroscope inspection?	x	x	x	x	x	x	x	x	x	x				A	by connecting the crank device to accessory gearbox or transfer gearbox.	by connecting crank device to the low pressure spool.	by connecting crank device to reduction gearbox_x000D_
+15	6	99	You noticed during the maintenance that there were particules in the oil filter but the chip detector was clean. What is the reason of that condition?	x	x	x	x	x	x	x	x	x	x				C	Particules were catched by the filter before they reached the chip detector.	Particules were small fort he chip detector.	Particules in the filter element weren’t magnetic._x000D_
+15	6	100	A broken layer in the turbine was detected at the baroscope inspection. What is the possible cause?	x	x	x	x	x	x	x	x	x	x				B	FOD	Excessive temperature	Vibration_x000D_
+15	6	101	An increase in the power settings, …………….profile flow rate at the end of the combustion chamber	x	x	x	x	x	x	x	x	x	x				C	Increases	Decreases	Approximately remains the same_x000D_
+15	6	102	The air flowing through the combustion chamber of the turbine engine…..	x	x	x	x	x	x	x	x	x	x				C	completely combined with the fuel and combustion.	its speed and temperature increase with the actions at the turbine.	supports the combustion and is used to cool the engine._x000D_
+15	6	103	What is the main function of the turbojet engine turbine stage?	x	x	x	x	x	x	x	x	x	x				C	It directs gas directly to the exhaust pipe.	It increases the exhaust gas temperature.	It provides power to feed the compressor_x000D_
+15	6	104	What is the turbine active clearance control?	x	x	x	x	x	x	x	x	x	x				A	to cool the cowling outside the turbine stage.	to cool the high pressure turbine stage with the secondary air cooling.	to bath the high pressure turbine stage with its precooler._x000D_
+15	6	105	What is the most important mechanical specialties of engine parameters for turbine engine operation?	x	x	x	x	x	x	x	x	x	x				B	Temperature of the air entering to the compressor.	Compressor revolution.	Temperature of the air entering to the turbine._x000D_
+15	6	106	What is the difference between the turbine clearance control system and compressor clearance control system?	x	x	x	x	x	x	x	x	x	x				A	Turbine clearance control system is used for air cooling but compressor clearance control system is used for air heating.	Turbine clearance control system is used for air heating but compressor clearance control system is used for air cooling.	Turbine clearance control system is used for air cooling but compressor clearance control system is used for air cooling._x000D_
+15	6	107	Low pressure turbine starts ………….. Which one of the followings are used to fill in the blank?	x	x	x	x	x	x	x	x	x	x				C	Accessory gearbox	High pressure compressor	Low pressure compressor_x000D_
+15	7	108	Exhaust gas temperature in the gas turbine	x	x	x	x	x	x	x	x	x	x				A	550 to 850 oC	450 to 750 oC	350 to 650 oC_x000D_
+15	7	109	Gas speed leaving from the turbine to exhaust part is	x	x	x	x	x	x	x	x	x	x				A	between 750 feet/s and 1,200 feet/s	650 feet/s to 1,100 feet/s	550 feet/s to 1000 feet/s_x000D_
+15	7	110	Exhaust system is made of	x	x	x	x	x	x	x	x	x	x				A	Nickel or titanium	Copper or titanium	Aluminium or titanium_x000D_
+15	7	111	The most important advantage of the joint exhaust nozzle	x	x	x	x	x	x	x	x	x	x				A	mixes cold and hot exhaust gases.	increases the engine weight.	exhaust nozzle structure is more complicated._x000D_
+15	7	112	Advantage of the exhaust gas mixer	x	x	x	x	x	x	x	x	x	x				A	mixes the cold and hot exhaust gases.	increases the engine weight	Exhaust nozzle structure is simpler_x000D_
+15	7	113	Why the maximum engine EGT is limited?						x	x	x	x	x				B	to prevent over-speed of the compressor.	to prevent excessive temperature of the hot zone.	to prevent over-speed of the turbine._x000D_
+15	7	114	At the engines with Fan Reverser						x	x	x	x	x				A	Fan air is reversed.	Exhaust gases are reversed.	Hot and cold exhaust gases are mixed._x000D_
+15	7	115	Reverse propulsion at the prop engines						x	x	x	x	x				C	reverses the fan air	reverses the exhaust gases	by changing the propeller blade pitch_x000D_
+15	7	116	Thrust Reverser	x	x	x	x	x	x	x	x	x	x	x	x		A	decelerates on the wet and dry runway in the landing distance.	lengthens the landing distance on the wet and dry runways.	stops the propeller_x000D_
+15	7	117	Thrust Reverser	x	x	x	x	x	x	x	x	x	x				A	Fan and Turbine reverser	Fan reverser	Turbine Reverser_x000D_
+15	7	118	Fan Reverser types	x	x	x	x	x	x	x	x	x	x				B	Cascade vane, bucket door	Pivoting Door, cascede vane	Bucket door, chamsheel_x000D_
+15	7	119	Shutoff Lever call position						x	x	x	x	x	x	x		A	Maximum Take-off and Cutoff	Open and Cutoff	Reserve and Cutoff_x000D_
+15	7	120	What is the difference between the reverser lock system and reverser interlock system?						x	x	x	x	x				C	It connects reverser interlock system with the lock system controlling the reverse power adjustment.	Reverser lock system controls the interlock system controlling the reverser position and mechanism operation before loads are imposed on the wheels.	Reverser lock system connects reverser with the interlock system controlling the reverse power adjustment._x000D_
+15	7	121	Is it possible to control throttle lever and reverser lever simultaneously?						x	x	x	x	x				A	No, throttle lever and reverse lever are designed to operate reversely to each other.	Reverse lever can be controlled when desired. A reaction occurs when the wheel weight warning sends the correct signal.	Yes, throttle lever and reverse lever are designed to travel in the same direction._x000D_
+15	7	122	What landing stage is the thrust reversers used more effectively?						x	x	x	x	x				C	At the end of the landing, when the aircraft decelerates after landing.	When it is required to move the aircraft back.	During the touchdown and the aircraft is at the high speed._x000D_
+15	8	123	The most important role of the bearings						x	x	x	x	x				B	to bear engine rotors.	to bear and allow to turn the engine rotors .	to cool the engine bearings._x000D_
+15	8	124	Bearing type that is used for the engines is						x	x	x	x	x				C	Ball bearing	Roller bearing	Ball and roller bearing_x000D_
+15	8	125	Ball bearing (Fixed Bearing.						x	x	x	x	x				C	bears radial loads.	bears axial loads.	bears radial and axial loads._x000D_
+15	8	126	Roller Bearing (floating Bearing.						x	x	x	x	x				A	bears radial loads.	bears axial loads.	bears radial and axial loads._x000D_
+15	8	127	Oil seal types						x	x	x	x	x				B	Labyrinth seals	Labyrinth and carbon seals	Labyrinth air/oil seals_x000D_
+15	8	128	What is the pressure balancing operation?						x	x	x	x	x				A	Pressure balancing operation is the method for decreasing axial loads in the fixed bearings and for decreasing type clearance in an engine.	Pressure balancing operation is the method for decreasing the oil pressure in the oil system.	Pressure balancing operation allows the distribution of the overpressure at the air inlet._x000D_
+15	8	129	What does a labyrinth seal require during the maintenance?						x	x	x	x	x				C	Good lubrication	Hydraulic pressure	Sealing air_x000D_
+15	8	130	What is the type of the oil seals in the main bearings generally used at the turbine engines?						x	x	x	x	x				A	Labyrinth and/or carbon friction	Labyrinth and/or silicone rubber	Teflon and synthetic rubber_x000D_
+15	8	131	What kind of loads are carried by moving reel (free bearing) bearing?						x	x	x	x	x				C	Axial loads and radial loads	Weight loads and axial loads	Weight loads and radial loads???_x000D_
+15	9	132	At the gas turbine engines	x	x	x	x	x									C	mineral lubricants	mineral and synthetic lubricants	synthetic lubricants_x000D_
+15	9	133	Flash point of the synthetic lubricants	x	x	x	x	x									C	100 C	150 C	250 C_x000D_
+15	9	134	Pour point of the synthetic lubricants	x	x	x	x	x									C	-27	-37	-57_x000D_
+15	9	135	Thermic stability of the synthetic lubricants	x	x	x	x	x									B	240 C	340 C	440 C_x000D_
+15	9	136	Oxidation resistance of the synthetic lubricants						x	x	x	x	x				B	110 C	220 C	330 C_x000D_
+15	9	137	When the synthetic lubricants are new, they have						x	x	x	x	x				A	strawberry colour	banana colour	amber colour_x000D_
+15	9	138	viscosity measurement unit is						x	x	x	x	x				C	.inch	decibel	centistoke_x000D_
+15	9	139	To measure the oil oxidation	x	x	x	x	x									B	oxidation inhibitor	regulator	bypass valve_x000D_
+15	9	140	Excessive oxidation in the lubrication system	x	x	x	x	x									B	an increase in the viscosity and sediment formation	a decrease in the viscosity and sediment formation	an increase in the lubricant amount_x000D_
+15	9	141	Advantage of the synthetic lubricants	x	x	x	x	x									A	they easily penetrate to the skin	they include excessively toxic additives	they resist against high temperature and pressure_x000D_
+15	9	142	Oil used at the turbofan engines is	x	x	x	x	x									A	type 1 synthetic	type 2 synthetic	type 3 synthetic_x000D_
+15	9	143	Oil used in the APU	x	x	x	x	x									A	type 1 synthetic	type 2 synthetic	type 3 synthetic_x000D_
+15	9	144	Flame speed in the combustion used Hc fuel						x	x	x	x	x				B	less than 0.4 mach	less than 0.2 mach	less than 0.3 mach_x000D_
+15	9	145	Colour of the jet a1 fuel is	x	x	x	x	x									C	colourless or straw-coloured	red	green_x000D_
+15	9	146	Colour of the jet a fuel	x	x	x	x	x									C	colourless or straw-coloured	red	green_x000D_
+15	9	147	colour of avgas 80 fuel	x	x	x	x	x									A	colourless or straw-coloured	red	green_x000D_
+15	9	148	Colour of Avgas 100 fuel	x	x	x	x	x									A	colourless or straw-coloured	red	green_x000D_
+15	9	149	Colour of avgas 100 LL fuel	x	x	x	x	x									C	colourless or straw-coloured	red	blue_x000D_
+15	9	150	fuel control with the hydrokit material						x	x	x	x	x				A	30 parts water per one million	300 parts water per one million	3000 parts water per one million_x000D_
+15	9	151	fuel control with the hydrokit material						x	x	x	x	x				B	pink-violet	red-green	blue – purple_x000D_
+15	9	152	Which one of the primary/secondary fuel nozzle fuel source is active during the engine start?						x	x	x	x	x				C	Primary and secondary fuel sources are active during the engine start.	Secondary fuel source is active during the engine start.	Only primary fuel source is active during the engine start._x000D_
+15	9	153	avgas 80 fuel pipe colour code is	x	x	x	x	x	x	x	x	x	x				A	red	green	blue_x000D_
+15	9	154	avgas 100 fuel pipe colour code is	x	x	x	x	x									A	red	green	blue_x000D_
+15	9	155	Avgas 100 LL fuel pipe colour code is	x	x	x	x	x									A	red	green	blue_x000D_
+15	9	156	The most important purpose of the lubrication system is						x	x	x	x	x	x	x		A	to lubricate and cool	to clean	to prevent corrosion_x000D_
+15	9	157	When the engine accelerates, oil flow to the bearings						x	x	x	x	x				B	increases	decreases	remains the same_x000D_
+15	9	158	Main components of the lubrication system include						x	x	x	x	x				C	an oil tank, an oil pump	an oil tank, an oil liter, an oil jets	an oil tank, an oil filter, an oil pump_x000D_
+15	10	159	The most important advantage of the lubrication system is	x	x	x	x	x									A	to be simple and light	not to have a lubricant cooler	not to have a suction pump_x000D_
+15	10	160	oil cooler types	x	x	x	x	x									C	fuel cooling	air cooling	fuel and air cooling_x000D_
+15	10	161	At the oil cooler	x	x	x	x	x									A	the oil is cooled and the fuel is heated	the oil is heated and the fuel is cooled	the oil is cooled and the hydraulic is heated_x000D_
+15	10	162	What is the role of the oil cooling bypass valve?	x	x	x	x	x									B	to close at a determined temperature and to allow adequate oil cooling.	to open at a determined differential pressure and to allow the required oil to flow for lubrication.	to open at a determined differential pressure and to provide the oil tubes for pressurizing_x000D_
+15	10	163	What is the probable cause of the low oil pressure?						x	x	x	x	x				C	A blocked oil cooling	A blocked filter	A pressure regulating valve._x000D_
+15	10	164	What is the probable cause of the fluctuating oil pressure?						x	x	x	x	x				A	A failed oil pressure regulator usually causes a fluctuating oil pressure.	A fluctuating reference pressure usually causes a fluctuating oil pressure.	A fluctuating RPM usually causes a fluctuating oil pressure._x000D_
+15	10	165	Why it is not a good maintenance application to control all the chip detectors of all the engines with the same maintenance control?						x	x	x	x	x				B	Because the operation faults cause a difference between the engines and oil samples.	Because the operation faults cause an oil loss of all the engines at the subsequent flight.	You must follow the time ranges mentioned in the maintenance book._x000D_
+15	10	166	In the commercial engines …….						x	x	x	x	x				B	Mineral and synthetic engine oils are used. ??????????????????	Mineral oil is used.	Synthetic oil is used._x000D_
+15	10	167	When the engine oil is subject to a sampling analysis?						x	x	x	x	x				B	After the engine is shut	After a determined time lasts after the engine is shut.	When the oil level is high_x000D_
+15	10	168	What is the flash point of the synthetic engine oils?						x	x	x	x	x				B	Approximately 1500C	Approximately 2500C	Approximately 3500C_x000D_
+15	10	169	Why is the degradation and aging resistance of an oil used in the engine important?						x	x	x	x	x				A	Oil must have a resistance against degradation and aging, because it directly contacts to the fresh sealing air (oxidation becuase of air resistance).	Oil must have a resistance against degradation and aging, because it directly contacts to the sealing air (thermal degradation resistance).	Oil must have a resistance against degradation and aging, because it directly contacts to the sealing air (steam pressure, chemical stabilizer spread)._x000D_
+15	10	170	Which one is the followings unrelated with the oil system indicators?						x	x	x	x	x				C	Oil quantity	Oil pressure	Oil flow speed_x000D_
+15	11	208	overheating of the turboprop engines						x	x	x	x	x	x	x		A	is prevented with the governor	is prevented with the propeller speed control	is prevented with fuel sprey nozzle_x000D_
+15	11	209	P2 pressure is the	x	x	x	x	x	x	x	x	x	x				A	Compressor inlet pressure	Compressor outlet pressure	Turbine inlet pressure_x000D_
+15	11	210	P3 pressure is the	x	x	x	x	x	x	x	x	x	x				B	Single-shaft compressor inlet pressure	Single-shaft compressor outlet pressure	Double-shaft compressor inlet pressure_x000D_
+15	11	211	P4 pressure is the	x	x	x	x	x	x	x	x	x	x				C	Single-shaft low pressure compressor outlet pressure	Single-shaft high pressure compressor inlet pressure	Double-shaft low pressure compressor outlet pressure_x000D_
+15	11	212	P5 pressure is the	x	x	x	x	x	x	x	x	x	x				C	Compressor outlet pressure	Compressor inlet pressure	Turbine inlet pressure_x000D_
+15	11	213	pressure rate of the single compressor is						x	x	x	x	x				A	P3/P2	P4/P3	P5/P4_x000D_
+15	11	214	pressure rate of the double-shaft compressor is						x	x	x	x	x				A	P4/P2	P3/P2	P2/P4_x000D_
+15	11	215	pressure rate of the double-shaft high pressure compressor is						x	x	x	x	x				A	P4/P3	P3/P4	P2/P1_x000D_
+15	11	216	FADEC stands for	x	x	x	x	x									B	Fuel control unit	Full authority digital engine control	Engine fuel control_x000D_
+15	11	217	Which one of the followings is not a fuel nozzle type?						x	x	x	x	x				C	Sımplex nozzle	Dublex nozzle	Fuel sprey nozzle_x000D_
+15	11	218	Used fuel measurement	x	x	x	x	x									B	with the extrapolation result of the real fuel flow signal	with the integration calculation of the fuel flow signal	with fuel rating unit_x000D_
+15	12	201	What is the percentage of the air flow in an engine used by the air system?	x	x	x	x	x									B	0,1	0,2	0,3_x000D_
+15	12	202	Main role of the air cooling system of an engine						x	x	x	x	x				C	turbine cooling	combustion chamber cooling	turbine and combustion chamber cooling_x000D_
+15	12	203	For the high thermal efficiency	x	x	x	x	x	x	x	x	x	x				A	Turbine inlet temperature	Turbine outlet temperature	Compressor inlet temperature_x000D_
+15	12	204	Anti-icing systems operate	x	x	x	x	x	x	x	x	x	x				C	with the hot air	with the engine oil	all of the above_x000D_
+15	12	205	de-icing is made with	x	x	x	x	x	x	x	x	x	x				C	Pneumatic de-icers	Hydraulic de-icers	Pneumatic de-icers by heating the wing leading edge and tail cone_x000D_
+15	12	206	structure of the de-icer	x	x	x	x	x	x	x	x	x	x				C	is composed of flat inflated pipes	is composed of the pipes placed horizontally to the beams	All of the above_x000D_
+15	12	207	For the inflated de-icers at the anti-icing systems	x	x	x	x	x	x	x	x	x	x				A	Engine powered air pump	Engine powered hydraulic pump	Engine powered water pump_x000D_
+15	13	186	Spark plugs number of a engine ignition system isB	x	x	x	x	x	x	x	x	x	x				B	1	2	3_x000D_
+15	13	187	Spark rate of a spark plug at the ignition system is	x	x	x	x	x	x	x	x	x	x				C	10–20 sparks per minute	20–30 sparks per minute	60–100 sparks per minute_x000D_
+15	14	194	EGT instruments	x	x	x	x	x	x	x	x	x	x	x	x		A	are written as C type	are written as K type	are written as R type_x000D_
+15	14	195	EGT temperature detection	x	x	x	x	x	x	x	x	x	x				A	Thermocouple	Resistor	Diode_x000D_
+15	14	196	EGT indicator	x	x	x	x	x	x	x	x	x	x				C	indicates the value as millivolt	indicates the value as Ohm	indicates the value as Rpm_x000D_
+15	14	197	At the metal case of EGT thermocouple	x	x	x	x	x	x	x	x	x	x				C	Copper-alumel	Nickel-alumel	Alumel-chromel_x000D_
+15	14	198	Turbine internal temperature indicator (ITT.	x	x	x	x	x	x	x	x	x	x				A	as C type	as F type	as R type_x000D_
+15	14	199	Main components of the engine speed indicator is	x	x	x	x	x	x	x	x	x	x				C	rpm indicator, rpm transmitter	rpm transmitter, rpm indicator	rpm indicator, Rpm transmitter, rpm cable line_x000D_
+15	14	200	For operation of the fuel flow meter indicator	x	x	x	x	x	x	x	x	x	x				A	28 V DC	115 V AC	220 V AC_x000D_
+15	15	188	When water and methanol mixture is sprayed						x	x	x	x	x				C	compressor air intake temperature decreases	air density increases	all of the above_x000D_
+15	15	189	Gas flow speed coming from the turbine is						x	x	x	x	x				A	750–1200 feet speed	350–1000 feet speed	250–800 feet speed_x000D_
+15	15	190	Flame temperature at an engine used an afterburner is maximum						x	x	x	x	x				C	1000 C	1200 C	1700 C_x000D_
+15	15	191	jet pipe material of an afterburner system						x	x	x	x	x				A	Nickel alloy	İron	Aluminium alloy_x000D_
+15	15	192	Propulsion at an afterburner system maximum						x	x	x	x	x				C	30% increases	40% increases	70% increases_x000D_
+15	15	193	The reason not to use water/methanol injection frequently is						x	x	x	x	x				A	to provide the required power to the modern engines with very precise electrical controls	It is the expanded air combustion system for the civil aviation engines	This power enhancement system isn’t efficient for the comparison at the after combustion system_x000D_
+15	16	171	Basic differences between the Turbo jet and turboprop engines	x	x	x	x	x									A	Turboprop engines have more turbine stages	Turboprop engines have more compressors	Turboprop engines have more combustion chambers_x000D_
+15	16	172	Gases leaving from the exhaust of the turboprop engines comprise ……..% of the total propulsion.						x	x	x	x	x				C	%5-%10	%10-%15	%10-%25_x000D_
+15	16	173	What is the propulsion percentage produced by the exhaust in the Turboprop engines?						x	x	x	x	x				A	%5-%10	%6-%12	%7-%14_x000D_
+15	16	174	Advantages of the turboprop engines	x	x	x	x	x									C	simple design	less weight/power rate	all of the above_x000D_
+15	16	175	sfc at the turboprop engines is approximately						x	x	x	x	x				A	0,614 1b/HP/h	0,514 1b/HP/h	0,414 1b/HP/h_x000D_
+15	16	176	Power produced by a Turboprop engine	x	x	x	x	x									B	decreases with the air speed	Rapidly increases with the air speed	remains constant with the air speed._x000D_
+15	16	177	to keep the speed and rpm constant at the turboprop engines						x	x	x	x	x				A	turbine power must be equal to the propeller load	turbine power must be greater than the propeller load	turbine power must be less than the propeller load_x000D_
+15	16	178	At the high or takeoff position speed of the turboprop engine ……………						x	x	x	x	x				C	57% low speed",21,46
+15,179,Generally the start system at the commercial and military set engines,A,to start with air,to start with hydraulic,to start with oil
+15,180,Start system at the gas turbine engines,C,Pneumatic or hydraulic,with pneumatic or oil,with pneumatic or electricity
+15,181,operation sequence at the turbo jet engines is,B,Starter-fuel-ignition,Starter-ignition-fuel,Ignition-Starter-fuel
+15,182,Turboprop engines are optimized to provide mechanical shaft power and,C,Hot gas flow prevents the remaining propulsion.,It is operated at the constant RPM.,It uses the propulsion remaining from the hot gas flow.
+15,183,When compared with a jet engine what is the advantage of a turboprop engine?,C,It provides a higher flight speed,High thrust improvement,Less specific fuel consumption
+15,184,How is the engine oil pressure compared with the necessary propeller system oil pressure?,C,Engine oil pressure and necessary propeller system oil pressure are equal.,Engine oil pressure is higher than the necessary propeller system oil pressure.,Engine oil pressure is lower than the necessary propeller system oil pressure.
+15,185,A turboprop engine…….,C,is less fuel efficient than a bypass engine.,is more effective at the high flight levels and high cruise speeds,it is not sensitive for the foreign objects because of the special air intake.
+15,246,At a free turbine turboshaft engine …..,B,There is a mechanic connection between the compressor and turbine of the free turbine turboshaft engine,There isn’t a mechanic connection from a free turbine turboshaft engine power shaft to the compressor.,None of them
+15,247,Reduction gears of the turboshaft engines are optimized to provide……,C,Constant engine power,Constant engine speed,Constant rotor speed
+15,248,Turboshaft engine is optimized to provide mechanic shaft power and ………………,B,it is optimized to prevent remaining propulsion from the hot gas flow.,it is operated at a constant RPM speed.,Constant engine power
+15,249,A turboshaft engine with a direct shaft ……,A,has a mechanic connection between the compressor and turbine.,none of them,constant engine power
+15,256,APU stands for and it means,C,Auxılıary protective unit; yardımcı koruyucu ünite.,Auxılıary processer unit; yardımcı çözümleyici ünite.,Auxılıary power unit; yardımcı güç ünitesi.
+15,257,Main reason to mount an APU to an aircraft is,B,to provide additional air pressure in the air.,to prevent delays and financial losses caused various reasons.,to provide propulsion power.
+15,258,APU generally locates ……………….in the aircraft,B,in the special places which are pressurized and perpendicular to longitude axis.,in the unpressurized and isolated special places.,only in the place called as “tale cone”
+15,259,Maximum pressure value generated by APU,A,47 PSI.,35 PSI.,27 PSI.
+15,260,Main parts of Apu,C,"Compressor, combustion chamber, gearbox and exhaust.","Compressor, combustion chamber, turbine and exhaust.","Compressor, combustion chamber, turbine and gearbox."
+15,261,Function of the load compressor in APUs having two compressors,A,to generate the required pressure to use at the aircraft.,to generate the pressurized air to use in the combustion chamber.,to disburden the turbine and to turn the gearbox.
+15,262,"Generally, the combustion chamber used in APUs;",C,Two pieces as Can and annular type.,One piece as only can type.,One piece as Can and annular type.
+15,263,An APU turbine functionally;,B,generates air to be used in the compartment.,generates revolution energy from the gas flow.,cools air to be used in the compartment.
+15,264,With “APU Fire” warning;,A,“Master Warning” warning starts.,“Master Cautıon” warning also starts.,Both warning starts simultaneously.
+15,265,“Over temperature” at the APU starting;,C,it is prevented by “Fuel pump relief valve”.,it is prevented by “Fuel governor”.,it is prevented by “Acceleratıon limiter”.
+15,266,“Overspeed” at the APU starting;,B,it is prevented by “Acceleratıon limiter”.,it is prevented by “Fuel governor”.,it is prevented by “Control thermostat”.
+15,267,APU “Fuel heat system” automatically;,A,it is operated by “Temperature sensing air regulator valve”.,it is operated by“Aır supply line check valve”.,it is operated by“Fuel heater and bypass valve”.
+15,268,"At the first start, the valve starting the ignition and fuel flow;",A,“Oil pressure sequencing sw”.,“Centrifugal sw”.,“Fuel control unit”.
+15,269,Operation limit of the “APU starter unit”,C,"1 min ON,3 min OFF.","2 mins ON,5 mins OFF.","1 min ON,4 mins OFF."
+15,270,Function of the starter – generator used at the APUs,B,"starter to %55 RPM, then it stops as a passive device.","starter to %35 RPM, then it operates as a generator.","starter to %35 RPM, then it makes overspeed limiting."
+15,271,Oil sequencing sw ;fuel flow;,A,"is started when the oil pressure reaches to 2,5 ~ 3,5 PSIG.","is started when the fuel pressure reaches to 2,5 ~ 4,5 PSIG.","is started when the oil and fuel pressure reaches to 2,5 ~ 5,5 PSIG."
+15,272,Which sw does illuminate the“APU oil pressure low” light?,C,it is illuminated under 35 PSI by the oil temperature sw.,it is illuminated under 40 PSI by the oil sequencing sw.,it is illuminated under 45 PSI by the oil pressure sw.
+15,273,“Oil pressure regulator”…………… APU oil pressure,B,keeps constant at 65 ± 10 PSI.,keeps constant at 90 ± 10 PSI.,keeps constant at 121 ± 10 PSI.
+15,274,“APU oil temp high” amber light ;,C,is illuminated at 121 ± 4oC by the centrifugal sw.,is illuminated above 165oC by the Pressure regulator valve.,is illuminated above 121oC by the Oil temperature sw.
+15,275,APU oil tank capacity is approximately …………… liters.,A,3.8 lt (1 USG..,7.6 lt (2 USG..,5.7 lt (1.5 USG..
+15,276,Function of the “fuel atomizers” used in APUs;,A,to pulverize the fuel to the inside of the combustion chamber.,to direct the fuel to the primary and secondary lines.,to pulverize the fuel flow going to the flow divider.
+15,277,“drain check valve” locating in APUs ;,A,After a failed start it discharges the accumulated fuel.,"It opens at the first start, discharges water posing an accumulation risk.",After a successful start it discharges the accumulated fuel.
+15,278,When an APU acceleration problem occurs;,B,An adjustment must be made by a crack adjuster on the acceleration limiter.,Thermostat must be controlled and it must be adjusted if required.,An adjustment must be made by a speed adjuster on the governor.
+15,279,How many thermostat types are used in APUs,C,"One type, only quadrant adjustable.","One type, shim or quadrant adjustable.","Two types, quadrant and shim adjustable."
+15,280,How many degrees do each line range of the control thermostat quadrant effect EGT?,A,Effects 5o F.,Effects 3oC.,Effects 7oF.
+15,281,"If there is a congestion in the fuel heater, what is the operation value of the check valve bypassing?",C,3 ± 2 PSID,5 ± 2 PSID,1.5 PSID
+15,282,Which device is the fuel heater placed after?,B,"Temperature sensing air flow regulator valve,",Fuel shutoff valve.,High pressure fuel filter
+15,283,What is the oil type that is used in APU oil system?,A,A type 2 oil used in the engine with the same trade mark.,"A type 1 oil, chp: the trade mark mentioned in servicing part 49 is used.","A type 3 oil, chp: oil trade mark mentioned in part 12 is used."
+15,284,Operation value of “Oil Pressure regulator valve” is,C,105 ± 2 PSIG,70 ± 5 PSIG,90 ± 10 PSIG
+15,285,Which of the followings do generate “Oil temperature high” amber warning and which degree is the warning generated at?,B,It is generated above 120 ± 2o C by oil sequencing sw.,It is generated above 121o C by oil sequencing sw.,It is generated at 90 ± 10o C by oil sequencing sw.
+15,286,When 35% RPM lever arm of the centrifugal sw opens the contact which one of the followings occurs?,C,“Oil pressure low” light dims.,Hour meter starts operating.,"Starter, cut out stops operating"
+15,287,When 95% lever arm of the centrifugal sw closes the contact ;,B,“60 sec timedelay” starts counting to energize “Pneumatic solenoid valve”.,“APU load ready” blue light illuminates and hourmeter starts operating.,Actuating rod is fixed by braking the governor fly weights.
+15,288,Which one of the following sws tests normal operation of it in the “auto shutdown” circuit after each APU shutdown activity when the overspeed occurs?,B,"2,5 ~ 5 PSI contact of oil sequencing sw,",110% RPM contact of centrifugal sw,High output contact of ignition exciter
+15,289,APU Ignition system;,B,is fed from its own battery with 28 V DC.,operates with 28V DC coming from the aircraft main battery.,operates with 18 V DC coming from GPU (Ground power unit).
+15,290,Which sw stops the sparking of the spark plug by cutting input voltage or by cutting “input power” of the “Igniter unit”?,C,35% RPM sw.,110% RPM sw.,95% RPM sw.
+15,291,"When the APU undergoes a normal “shutdown”, all the covers;",A,close after 30 seconds after “Oil pressure low” light illuminates.,close immediately after “Fuel shutoff solenoid valve” closes.,close after 2 seconds after RPM decreases under 95%.
+15,292,What is the position of the door control sw at the ground starts?,B,It must be at “Ram” position.,It must be at “Auto” position.,It must be at “Off” position.
+15,293,What is the other advantage of APU exhaust cooling in addition to effecting the item life positively?,A,it decreases the exhaust gases noise.,it decreases the emission values of exhaust gases.,it increases the exhaust gases noise.
+15,294,What turns the cooling air fan?,A,APU gear box turns it.,Its own AC motor turns it.,Its own DC motor turns it.
+15,295,How is the second part of the APU exhaust cooled?,C,It is cooled with air coming from unpressurized zones of the aircraft.,It is cooled with air coming from aft accossory compartment.,It is cooled with air coming from outside the aircraft because of vacuum.
+15,296,How many “thermocouples” are generally used in APUs and where are they placed?,C,There is one thermocouple and it is placed in the exit of the “combustıon chamber”.,There are two thermocouples and they are placed in the “turbine plenum”.,There is one thermocouple and it is placed in the “exhaust flange”.
+15,297,How many different metals are used to manufacture “Thermocouple”?,B,It is manufactured from three different metals.,It is manufactured from two different metals.,It is manufactured from three different nonmetals.
+15,298,Which one of the following specialties belongs to “alumel” element of the thermocouple?,A,Its colour is green and it is negatively loaded.,Its colour is white and it is positively loaded.,Its colour is blue and it is positively loaded.
+15,299,RPM indication system in APUs is generally,B,composed of wiring and indicators.,composed of a tachometer and an indicator.,composed of wiring and a tachometer.
+15,300,Which one of the followings is true for the tachometer?,C,It is a two-phased generator turned mechanically.,It is a DC generator turned mechanically.,It is a three-phased generator turned mechanically.
+15,301,APU Engine hourmeter ;,A,starts counting at 95% RPM.,starts counting at 35% PRM.,starts counting at 100% RPM.
+15,302,Shockmounts,A,don’t transmit the vibration generated by the APU to the body or fusulage,they are the brackets placing the APU into the Gearbox.,it is the name of actuator connections of ram and non-ram doors.
+15,303,After which RPM percentage should the electricity and air be received from APUs?,B,After 85% RPM,After 95% RPM,Before 95% RPM
+15,304,EGT limit can be exceeded for a short time but,C,The thermocouple must be changed after it is operated twice.,Hot part control must be made after the shutdown.,Limits must be observed for the following firts start.
+15,305,Before the APU is made shutdown,A,APU gen sw and aircondition sw must absolutely be positioned to OFF.,APU gen sw OFF and aircondition sw must absolutely be positioned to ON.,APU RPM value must absolutely be normal and battery sw must be in the OFF position.
+15,306,………….feeds fuel to the APU.,B,APU feeds fuel with its own self-contained system.,Main aircraft fuel system feeds fuel.,Ground equipment feed fuel.
+15,307,Under the changing pneumatic and mechanic loads fuel measurement for APU ………………,B,is automatically controlled by the fuel control unit of the main aircraft engine.,is automatically controlled by the APU fuel control system.,isn’t controlled.
+15,308,"If ……………………………., APU is normally at the highest charge.",C,Electrical charge is applied by the generator.,Bleed air valve is closed.,Bleed air valve is open.
+15,309,RPM in APU….,B,is controlled by a lever in the cockpit.,It remains near 100% RPM in the all operation conditions.,Electrical charge is applied by the generator.
+15,250,The adjustment made with FCU for max engine propulsion outlet,A,trimming,.cowling,monitaning
+15,251,When is an engine trimming made?,C,after the engine is changed,after the FCU is changed,Engine and FCU aren’t changed and max propulsion isn’t provided
+15,252,engine cowlings must,C,resist to vibration,resist to inertia,"resist to vibration, inertia and air loads"
+15,253,wing connection of the engine,B,cowling,pylon,mount
+15,254,In the Pylon,B,"an engine control, fuel source",all of the above,power cables
+15,255,"When the engine is mounted on an aircraft, it is mounted",A,to the aircraft x axis and engine level,to the aircraft y axis and engine level,to the aircraft z axis and engine level
+15,232,BCF halon 1211 portable fire extinguisher gas temperature,A,0 C,5 C,10 C
+15,233,Semi-conductive material in the fire wire is,C,Copper,Nickel,Glass/oxide
+15,234,How many fire extinguishing balls are generally available for each engine?,B,1,2,3
+15,235,oil and fuel fires are,B,Class A,Class B,Class C
+15,236,aluminium magnesium fires are,C,Class A,Class B,Class D
+15,237,BTM halon 1301 gas temperature is,C, -10 C,-20 C,-60 C
+15,238,Fire warning,C,LOOP FAIL indicator illuminates,Speakers and headphones give an audio warning,All of the above
+15,239,Operation condition of the engine fire detection system is,C,Fire/overheat condition,Test condition,All of the above
+15,240,If a fault occurs at the fire wire detection element,A,Environment resistance changes,Audial warning,Loop fail indicator illuminates
+15,241,Fire cable is connected in the manner that it,B,is horizontal,"resists inertia, vibration etc occuring at the normal operation",is vertical.
+15,242,Why is it important to connect the engine cables?,A,Plastic protector deformation on the cable causes vibration when free installation is made.,Installation is accepted under the mechanical stress.,Test condition.
+15,243,Explosive load in the fire prevention system …………….…,A,is a continually changed part.,is mechanically activated.,is not a continually changed part.
+15,244,Which extinguishing agent is used in the fire extinguisher?,B,Freon compound,Halogenated hydrocarbon,Water
+15,245,How is the engine fire extinguishing system activated?,A,by an explosive load electrically started,by an active control valve manually started,by mechanic rod installation
+15,228,Oil level control is,A,a daily control,a weekly control,a monthly control
+15,229,to determine the aerodynamic performance of the engine???????????,A,"EPR, RPM, F/F (fuel flow.,EGT",EPR. RPM,"F/F (fuel flow.,EGT"
+15,230,to determine the mechanic performance of the engine ????????,C,Vibration amlitude,Oil consumption,Vibration amplitude and oil consumption
+15,231,When controlling the engine shock connections especially………………..must be controlled.,C,Colour changes,Fractures in the attenuation materials,Fractures in the load bearing parts
+15,219,Long term storage period in the wooden containers is,B,until 6 months,until 12 months,until 3 months
+15,220,Long term storage period in the metal containers is,C,until 6 months,until 12 months,more than 12 months
+15,221,Short term storage,C,Only the engine is covered with a protective cover,Engine is checked every month,All of the above
+15,222,In the general storage procedure the fuel system,C,is filled with fuel,is filled with hydraulic,is filled with protective oil
+15,223,In the general storage procedure the lubrication system,C,is filled with fuel,is filled with hydraulic,it is enabled that the lubrication system is emptied
+15,224,Which materials are used for washing?,A,"Purified water, kerosene, methanol, cleaning agent","Purified water, methanol","Kerosene, methanol"
+15,225,"When an engine undergoes a long term protection, what must be done? (without being connected to the aircraft)",A,Engine fuel system and engine filling prevention elements must be prohibited together.,Generators and hydraulic pumps etc. must be removed.,Engines must be removed.
+15,226,When an aircraft is stored for a long term period what must be done for the engine?,A,its operation on a flat surface on the ground msut be observed.,Generators and the hydraulic pump etc. must be removed.,Engines must be removed.
+15,227,"When an aircraft undergoes a short term protection, what must be done?",A,All engine cowlings must be assembled.,Generators and the hydraulic pump etc. must be removed.,Engines must be removed.

@@ -1,0 +1,103 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+14,47,A sensing element goes open circuit in a ratio meter. What will be happen?,B,Temperature indicates below ambient,Full scale deflection,Hairspring takes indicator off scale
+14,48,A thermocouple is constructed of,A,two dissimilar metals welded together,two dissimilar metals with an air gap between them,three dissimilar metals welded together
+14,49,A thermocouple indication is taken from the,B,hot junction,cold junction,difference between the hot junction and the cold junction
+14,50,"On a twin spool engine, the HP compressor is driven by",B,ram air over the compressor,early stages of the turbine,later stages of the turbine
+14,51,"In a multiple probe thermocouple system, what is the effect if one probe fails?",A,No noticeable effect,Reduction in temp reading,Increase in temp reading
+14,52,In a gas turbine if air is tapped from the H.P bleed,A,EPR decreases and EGT increases,EPR stays constant and EGT decreases,EPR increases and EGT decreases
+14,53,The vane on a vane type fuel flow measuring device becomes stuck. What safety backup is available for the engine fuel flow?,C,A fuel bleed valve,A bypass valve,A differential pressure bypass valve
+14,54,"In a FADEC engine with a hydro mechanical fuel system, how is fuel flow controlled?",B,By fuel pressure,By electro-hydraulic servo valves (EHSVs),By oil hydraulics
+14,55,In the HEIU the discharge resistors,C,"allows sufficient voltage to be stored to provide relight facilities up to 55,000 ft.",protects the unit from excessive voltages.,allows the capacitors to discharge when the unit is switched off.
+14,56,A modular constructed gas turbine engine means that,A,its major assemblies can be removed and replaced,all engines have a specific component layout,the engine is constructed by the vertical assembly technique
+14,57,The purpose of a high bypass ducted fan engine is to,A,improve efficiency,improve thrust,reduce size
+14,58,When using a test set to test an EGT thermocouple circuit,A,Spring sealed bellows,Two bellows against atmospheric pressure,There is no compensation
+14,59,An EMF is produced by a thermocouple. This is sensed,B,at the hot junction,at the cold junction,between the hot and cold junctions
+14,60,Supervisory EEC sends its output to the,B,fuel valve,HMU/FFG,EGT thermocouple circuit
+14,61,Ratiometer pointer movement is achieved by,C,fuel valve,HMU/FFG,EGT thermocouple circuit
+14,62,A fuel flow transmitter requires a motor or a synchronous motor to have a,B,constant voltage within small tolerances,constant frequency within small tolerances,low EMF as it is immersed in fuel
+14,63,A boost gauge measures,A,absolute pressure on the inlet port,brake mean effective pressure,gauge pressure at the injector
+14,64,"On a thermocouple circuit on a non FADEC engine, what is the purpose of the ballast resistor?",B,To compensate for ambient temperatures,To standardise both engine's EGT readings,To compensate for altitude
+14,65,Boost pressure is measured in,A,inches of Hg,inches of water,PSI
+14,66,Power is adjusted in a gas turbine engine by,C,increasing airflow to the combustion chamber,increasing air and fuel flow,increasing fuel flow
+14,67,The EPR reading is taken from a ratio of,A,jet pipe pressure to compressor inlet pressure,compressor delivery pressure to compressor inlet pressure,turbine inlet pressure to compressor delivery pressure
+14,68,The basic gas turbine engine cycle is,A,"induction, compression, combustion, expansion, exhaust","induction, compression, expansion, combustion, exhaust","compression, combustion, induction, expansion, exhaust"
+14,69,The high bypass duct,C,drives a cabin air compressor,provides engine cooling,improves propulsive efficiency
+14,70,If an engines fadec system loses air data permanently the pilot will,A,select alternate pilot static,switch to alt on the relevant EEC,turn that EEC off
+14,71,"An EPR system reads slightly over 1, this would mean",B,the transmitter datum point has moved and needs replacing,no action required this is normal,the indicator needs re-calibrating back to 1
+14,72,Manifold pressure is measured,A,at inlet port above and below ambient conditions,at inlet port above and below standard atmosphere at sea level,at inlet port indicating boost pressure
+14,73,A temperature indicating system incorporating a resistance bulb on a selected range has pointer movement,A,proportional to bulb resistance,inversely proportional to bulb resistance,resistance does not affect pointer movement
+14,74,"In a ducted fan engine, the fan is driven by the",B,accessory gearbox,turbine,air passing over the compressor
+14,75,"In a FADEC system, active control switchover occurs",A,2 systems,3 systems,4 systems
+14,76,Gas turbines work on the,B,otto cycle,brayton cycle,diesel cycle
+14,77,Oil systems consists of,B,2 systems,3 systems,4 systems
+14,78,With the EEC in control the throttle levers are always,C,in the fully forward position,in the fully aft position,anywhere between the fully fwd and fully aft positions
+14,79,Turboprop thermocouple probes are,A,rapid response,stagnation,surface mounted
+14,80,Propelling nozzle provide,C,pressure thrust,velocity thrust,pressure and velocity thrust
+14,81,How are the combustion chambers cooled?,B,By l.p compressor air,By h.p compressor air,By fan pressure air
+14,82,Fan blade speed is measured by,A,phonic wheel,drag cup and tachometer,eddy currents
+14,83,Fadecs operate by,C,2 controlling 1 operating,1 controlling 1 operating,2 units each capable of independent control
+14,84,"When a thermocouple fails, the temperature reading will",C,over read,under read,stay the same
+14,85,An aircraft flying at 500rnph would typically use,A,turbojet,turbofan,turboprop
+14,86,The inlet of a turbo fan is,A,divergent,convergent,convergent-divergent
+14,87,What is the pressure increase over one stage of a centrifugal compressor?,A,"0,209027778",1.2:1,8:1
+14,88,The bleed valve on a engine at start up is,A,open,closed,modulating
+14,89,EPR is measured between inlet and,A,jet pipe,cold and hot exhaust,front of turbine
+14,90,One stage of a turbine is,A,n.g.v then turbine blade,turbine blade then n.g.v,i.g.v then turbine blade
+14,91,"In a flow type fuel system, fuel shutoff is done by",A,mechanical ball valve,FCU torque motor,l.p fuel cock
+14,92,The fuel flow transmitter is downstream of,C,pr sov,h.p pump,l.p pump
+14,93,How is fuel flow varied in a variable displacement pressure type pump?,A,Alter the cam plate angle,Remote servo pressure,Direct cable to cam plate
+14,94,Advantage of flow type over pressure type is,B,it has lower pressure so greater reliability,"it can take into account rpm, pressure (ambient) and e.g.t.",has no need for fly weights and governors
+14,95,"When the full authority fuel control unit is changed, the rating plug",A,stays with the engine,stays with the FAFC,is replaced every time
+14,96,The EEC is powered and able to operate via,C,only a dedicated alternators,the aircraft electrical system,The EEC is capable of being powered by both independently depending on conditions
+14,97,The EEC uses,A,ARINC 429 formatted data,ARINC 629 formatted data,uses neither ARINC 429 or 629 formatted data
+14,98,The fuel metering unit has direct inputs via,C,only the EEC,the EEC and the fire control handle,"the EEC, fire control handle and the engine master switch"
+14,99,The optimum turbine speed is defined as,A,the most efficient speed of the turbine,100% rpm of the engine,95 % rpm of the engine
+14,100,An increase in fuel flow through the impeller type fuel flow transmitter is measured by,B,drum lags impeller,impeller lags turbine,decreasing angle between the two
+14,101,No power to EGT is indicated by,A,yellow flag in front counter,bug moves in the x direction,bug moves in the y direction
+14,102,Connection to a tachogenerator,A,3 phase star,3 phase delta,2 phase star
+14,103,A short circuit in a d.c ratio meter will give,C,max scale reading,zero scale reading,min scale reading
+14,104,An open circuit in a d.c ratio meter will give,A,max scale reading,zero scale reading,min scale reading
+14,105,A compressor shaft rotates on,B ,sintered bearings,ball and roller bearings,plain bearings
+14,106,The EEC changes power settings by,B,changing the throttle lever angle,changing the fuel flow input,changing the airflow input
+14,107,A torque pressure measuring indicator is fed by,A,direct oil pressure,differential pneumatic pressure,servo operated
+14,108,The tachogenerator output has:,B,A fixed frequency,A Variable frequency,A DC Current output
+14,109,On a fuel flow measuring device located on the engine,A,no adjustments can be made,external adjustments can be made for maximum rate fuel flow,external adjustments can be made for minimum rate fuel flow
+14,110,Where is the hot junction of a EGT thermocouple system found?,C,In the indicator,Upstream of the combustion chamber,Downstream of the combustion chamber
+14,111,The fan on a turbofan engine is turned by,B,induction of the air across the fan into the compressor,the turbine section,the combustion chamber gases
+14,112,When terminating connections for a EGT sensing system,C,ensure that the pins and sockets are correctly crimped and brazed,ensure that all connections are silver soldered,ensure that the pins and sockets are of the same material as the leads
+14,113,An EPR gauge indicates '1'. You should,C,adjust the indicator back to zero,"replace the indicator, there is no adjustment",do nothing this is what it should read with the engine shut down.
+14,114,A Gas Turbine's propulsion force is produced by,A,reaction of the rearward moving gasses,impingement of the gasses on the surrounding air,induced airflow into the engine
+14,115,In a single spool gas turbine engine the compressor rev/min is,C,more than the turbine speed,less than the turbine speed,equal to the turbine speed
+14,116,A tacho pointer is moved by,A,drag cup coupling,ac servo motor,synchronous motor
+14,117,In a twin spool engine,B,the HP turbine drives both LP and HP compressors,the LP turbine drives the LP compressor and the HP turbine drives the HP compressor,the HP turbine drives the LP compressor and the LP turbine drives the HP compressor
+14,118,Relative permeability of fuel is also known as,C,density of the fuel,weight of the fuel,dielectric constant of the fuel
+14,119,The cycle of a gas turbine engine is,C,completed in one revolution of engine.,completed in two revolution of the engine.,continuous
+14,120,Engines having two independent moving systems are,B,compound engines,twin spool engines,complex engines
+14,121,Compression ratio of compressor of gas turbine Engine is,A,outlet pressure to Inlet pressure.,measured across all rotor stages of compressor,mass of airflow to combustion.
+14,122,Torque pressure indication to measure power output of an engine is,C,used in all Gas Turbine engines.,not used in Gas Turbine engines.,only used when engine output pressure is used for torque not for thrust.
+14,123,Manifold pressure is measured in,C,direct absolute pressure in Bars,differential pressure in mill bars,direct absolute pressure in inch of Hg
+14,124,Typically a torque pressure indication system is,C,differential pressure type,remote synchronous type,direct Oil Pressure sensing type
+14,125,A tachometer used to measure Rev/Min in turbine engines,A,develops its own power for the system,28V dc is required,115V ac is required
+14,126,Primary power for electronic engine control,C,115V ac essential bus.,on side 115V ac bus bar supply.,Permanent Magnet Alternator
+14,127,Leads to measure thermocouple temperature are,A,calibrated for circuit in used and cannot be shortened,affected by Magnetic and electrical interference,insulated by heat legging device to reduce errors in the indication end
+14,128,A thermocouple sensing system test set requires,A,a serviceable battery,No power,24V dc
+14,129,The HP compressor is powered by,A,the first set of turbines,the last set of turbines,the intermediate compressor
+14,130,Torque is measured in gas turbine engines,B,never,where there is a free turbine providing the power,on small pure jet engines
+14,131,What is the supply voltage to tacho generators?,C,28vdc,115vac,It has no supply
+14,132,"A FADEC takes measurements of engine speed,",A,temperature and pressure,temperature,pressure
+14,133,The fuel metering valve in the hydro mechanical unit of a FADEC system is operated by,B,hydraulic servo pressure,fuel servo pressure,electrical servo
+14,134,Boost pressure is,C,atmospheric above ambient,atmospheric below ambient,the absolute of the manifold chamber
+14,135,To check/test a temperature indicator you would,B,connect a decade box in place of the temperature sensing element,connect a decade box in series with the temperature sensing element,connect a decade box in parallel with the temperature sensing element
+14,136,Calibration for a ratiometer type temperature indicator takes into account,B,the material of the coils,the material of the sensing element,the type of representation on the dial
+14,137,Reverse thrust can only be selected when the throttle is,C,75% power position.,open.,at the idle stop
+14,138,On a FADEC engine the EEC,A,has electronic control of the hydro-mechanical fuel control unit in all modes,has electronic control of the hydro-mechanical fuel control in some modes,has mechanical control of the hydro-mechanical fuel control system
+14,139,EPR is a measure of,A,exhaust pressure compared to compressor inlet pressure,exhaust pressure compared to combustor pressure,combustion pressure compared to compressor inlet pressure
+14,140,What exactly does a thermocouple measure?,B,The difference between the hot and cold junction.,Hot junction temperature.,Cold junction temperature.
+14,141,In a temperature sensing ratio meter what determines the actual temperature?,A,The material of the sensor,The material of the sensing coil,The material of the balancing coil
+14,142,Torque is a useful measure,A,on engines where a portion of thrust produces torque,on engines which only produce thrust,on all engines
+14,143,Boost pressure is a measure of,B,manifold pressure,atmospheric pressure plus turbocharger inlet pressure,atmospheric pressure less turbocharger inlet pressure
+14,144,The test switch of a continuous loop fire detector gives a,A,continuity check,bonding check,insulation check
+14,145,What are the types of continuous fire detection system?,A,Capacitive and resistive,Capacitive,Inductive and capacitive
+14,146,During normal running conditions,C,combustion is continuously supported by ignition,combustion is intermittently supported by ignition,combustion is self supporting
+14,147,What indication does the pilot receive that thrust reversers have deployed ?,C,A feeling of rapid deceleration,An audible warning,A sequence of lights
+14,148,"On a fixed pitch propeller single engine aircraft, what is indicated as a measure of power?",B,Oil pressure,Engine speed,Cylinder head temperature

@@ -1,0 +1,469 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+4,1,What gives the colour of an LED?,A ,The active element.,The plastic it is encased in.,The type of gas used inside it.
+4,2,A germanium diode is used for.,A ,rectification.,voltage stabilization.,modulation.
+4,3,Why is a diode put in parallel with an LED?.,A ,To protect it from AC.,So it will work only above a certain,So it will work only below a certain voltage.
+4,4,When testing the forward bias of a diode with a multimeter.,C,the positive lead of the ohmmeter is placed on the anode.,it does not matter which terminal the positive lead of the ohmeter is placed.,the positive lead of the ohmmeter is placed on the cathode.
+4,5,This is a diagram of.,A ,an SCR.,a TRIAC.,a Schottky diode.
+4,6,Which of the following describes the characteristics of a Thyristor?.,C,High voltage handling.,High power handling.,High current handling.
+4,7,Light Emitting Diodes (LEDs).,A ,emit light of only one wavelength dependent on type.,have very wide viewing angles.,are easily damaged if forward biased b more than 5V.
+4,8,"In a semiconductor junction diode, electrons are the minority carriers.",A ,within the P region.,within the N region.,in both the N and P regions.
+4,9,"A silicon diode, when compared to a germanium diode has.",A ,a higher forward bias voltage. ,the same forward bias voltage.,less forward bias voltage.
+4,10,This symbol is.,B,a transistor.,a diode.,a triac.
+4,11,This symbol is.,A ,a photodiode.,a laser diode.,an LED.
+4,12,A zener diode., B,allows current to flow in one direction.,stabilizes voltage at a predetermined level.,acts like a switch.
+4,13,A junction diode.,B,is similar to a vacuum diode but cannot rectify.,has one p-n junction.,can handle only very small currents
+4,14,Reverse bias.,A ,raises the potential barrier,lowers the potential barrier.,greatly increases the majority carrier current.
+4,15,A diode connected across a relay coil is used to.,A ,dissipate coil spikes on switch off.,allow the coil to energize with only one polarity.,cause a delay in switching on.
+4,16,"To check the forward resistance of a diode with a multimeter, the lead connected to the positive terminal is put to the.",A ,anode.,cathode.,either anode or cathode.
+4,17,A thyristor has which of the following?.,B,A positive temperature coefficient.,High resistance when switched off.,High resistance when switched on.
+4,18,What does the circuit shown do?.,B,Full wave rectifier.,Half wave rectifier.,Voltage doubler.
+4,19,"In an LED, what is used to make the colour?.",C,The plastic lens cover.,The electrons.,The doping material.
+4,20,An atom with 5 electrons in its outer shell is part of.,C,a C type material.,a P type material.,an N type material.
+4,21,A thyristor is commonly used for.,C,overvolts regulation.,voltage regulation.,rectification.
+4,22,A diode which emits photons when conducting is a.,A ,light emitting.,varactor.,zener.
+4,23,The electrodes of an SCR are.,A ,"gate, cathode, anode.","source, drain, gate.","anode, cathode, source."
+4,24,What gives an LED its colour?.,C,A gas.,The cover.,Composition and impurity of the compound
+4,25,Forward voltage of a silicon diode is,B,1.6V.,0.6V.,0.2V.
+4,26,What is the typical volts drop across an LED.,C,0.2V.,0.4V.,1.6V.
+4,27,What diode gives off light photons when forward biased.,A ,LED.,Gunn diode.,Schottky diode.
+4,28,The anode of a diode is connected to a +4V DC supply and the cathode is connected to a +2V DC supply. The diode is.,C,forward biased not conducting.,reverse biased not conducting.,forward biased conducting.
+4,29,Using electron flow in a diode the current flows from,C,Anode to Cathode.,Cathode to Base,Cathode to Anode.
+4,30,When a hole diffuses from the p region to the n region.,A ,raises the potential barrier,it becomes a minority carrier in the n region,lowers the potential barrier
+4,31,A junction diode.,C,can handle only small currents.,is similar to a vacuum diode but cannot rectify.,has one p-n junction.
+4,32,A germanium diode.,A ,has a lower forward bias voltage than a silicon diode,has a higher forward bias voltage than a silicon diode.,has the same forward bias voltage as a silicon diode.
+4,33,What switches off a thyristor?.,C,Reverse bias gate,Remove the gate voltage.,Remove supply voltage.
+4,34,When an SCR is switched on it has.,A ,low resistance.,no change in resistance.,high resistance.
+4,35,A piece of pure Germanium.,A ,is electrically stable.,has a deficit of electrons.,has an excess of electrons.
+4,36,"When a diode is forward biased, current flow is mainly due to the.",B,germanium bias junction.,majority carriers.,minority carriers.
+4,37,When a diode is forward biased the.,C,positive lead is connected to both N and P type.,positive lead is connected to the N type and negative to the P type,positive lead is connected to the P type and negative to the N type.
+4,38,The typical voltage drop across an L.E.D is.,A ,2V.,4V.,6V.
+4,39,What are the majority carriers for a forward biased PN junction device?.,A ,Electrons and holes.,Holes.,Electrons.
+4,40,Germanium in its pure state is.,B,negatively charged.,neutral.,positively charged.
+4,41,Which diode has a lower forward bias voltage?.,B,Silicon.,Germanium.,Both have the same forward bias voltage.
+4,42,A Zener diode is used for.,C,voltage stabilisation.,rectification.,voltage regulation.
+4,43,A thyristor SCR is a.,B,bi-directional device.,unidirectional device.,multidirectional device.
+4,44,What component is used to turn AC to DC?.,B,Thyristor.,Diode.,Transistor.
+4,45,What is an intrinsic material?.,C,One with added elements.,One with removed elements.,A pure material.
+4,46,The voltage drop of a silicon diode is.,B,1 V.,0.7 V.,0.3 V.
+4,47,A diode is parallel to an LED in an AC circuit to.,C,provide correct amount of current for LED when circuit is switched on.,prevent back EMF in the circuit when LED is switched off.,protect LED from AC current when switched on.
+4,48,"In a forward biased diode, current is carried by.",B,majority carriers.,both.,minority carriers.
+4,49,When checking a diode for reverse bias resistance the positive lead goes to.,B,anode and negative lead to earth.,cathode and negative lead to,anode and negative lead to
+4,50,Zener diodes are used for.,B,Current control.,Voltage control.,Temperature control.
+4,51,Once started conducting an SCR switches off.,A ,only when the anode goes negative to the cathode.,automatically after a specific time.,only when the anode goes positive to the cathode.
+4,52,"In a forward biased diode, electrons leave the.",B,the anode.,the cathode.,the doped area.
+4,53,Diodes are.,B,conductors.,semi-conductors.,Insulators.
+4,54,"To function, i.e. conduct, a junction diode made of silicon requires a forward bias of at least.",C,0.2V.,1.41V.,1V.
+4,55,What is the average gain of an Op Amp?.,B,20,200000,200
+4,56,Tunnel diodes have the following characteristics.,A ,Heavily doped P-N junction with an extremely narrow depletion region.,Lightly doped P and N regions and a high reverse breakdown voltage.,"Lightly doped P region, heavily doped N region and has a fast response time."
+4,57,The capacitance of a varactor diode is.,A ,inversely proportional with reverse bias voltage,a linear function of applied reverse bias voltage.,directly related to the forward bias voltage.
+4,58,A semiconductor doped with an element having a valency of 5 will produce.,A ,an N type material.,either an N type or a P type depending on what type of semiconductor material is used.,a P type material.
+4,59,"In a diode clamper, if the resistor is removed making the time constant equal to C x r where r is the reverse resistance of the diode, this will ensure a.",A ,long time constant.,short time constant.,Very Long Time Constant.
+4,60,PIN diodes are used mainly for. ,B,linear rectifiers.,fast switching devices.,voltage operated rectifiers.
+4,61,"To enable an IMPATT diode to operate correctly, it must be.",C,connected to a resonant circuit,used in its reverse bias mode.,operated in its negative resistance range.
+4,62,What type of diode would be used to stop voltage spikes across a coil of a relay?.,B,Gunn diode.,Double acting diode.,Schottky diode.
+4,63,What is a schottky diode used for?.,C,Rectification.,Stabilization.,Very high frequency applications.
+4,64,When a hole diffuses from a p-region to the n-region it.,C,becomes a minority carrier in the n-region.,lowers the potential barrier.,raises the potential barrier.
+4,65,The junction barrier offers opposition to only,C,holes in the p-region.,free electrons in the n-region.,majority carriers in both regions.
+4,66,Avalanche breakdown occurs when.,A ,reverse bias exceeds a certain value.,forward bias exceeds a certain value.,forward current becomes excessive.
+4,67,"If forward bias is increased from zero on a p-n junction, a rapid increase in current flow for a relatively small increase in voltage occurs.",C,when the flow of minority carriers is sufficient to cause an avalanche breakdown.,when the depletion layer becomes larger than the space charge area.,only after the forward bias exceeds the potential barrier.
+4,68,A band pass filter excludes frequencies.,B,below the frequency required only.,above and below the frequency required.,above the frequency required only.
+4,69,"In an unbiased p-n junction, current flow is.",B,"zero, because equal but opposite currents are crossing the junction.","zero, because no charges are crossing the junction.",due to the diffusion of minority carriers only.
+4,70,"With a small amplitude voltage, what type of diode would you use to produce the output waveform?",C,Gunn.,Zener.,Schottky.
+4,71,What diode is used to stop power spikes in a coil?.,C,Gunn diode.,Schottky diode.,Two directional zener diode.
+4,72,What type of diode when forward biased holes and electrons recombine producing photons?.,A ,LED.,Photodiode.,Gunn.
+4,73,A zener diode is designed to operate.,C,below its breakdown voltage.,either above or below its breakdown voltage.,above its breakdown voltage.
+4,74,A triac is a type of.,C,thermistor.,Option B. transistor.,thyristor.
+4,75,"If a junction diode is reverse biased too far, the output current would.",C,reverse direction.,cease to flow.,İncrease
+4,76,"When a PN junction is forward biased, it conducts via.",B,intrinsic carrier.,majority carrier.,minority carrier.
+4,77,"In the Zener Diode suppressor shown, point X in respect to point Y should be.",C,more Positive.,either positive or negative.,more negative.
+4,78,If the reverse bias voltage across a diode is too high.,B,load current reduces to zero.,load current increases rapidly.,load current reverses.
+4,79,An LED which emits green light uses.,A ,gallium phosphide.,gallium arsenide.,gallium arsenide phosphide.
+4,80,A photodiode is operated under.,A ,reverse bias conditions.,forward bias conditions.,reverse or forward bias conditions.
+4,81,To increase capacitance of a varactor diode.,B,reverse bias voltage is increased.,reverse bias voltage is decreased.,forward bias voltage is decreased.
+4,82,The diagram shows a.,A ,voltage doubler.,half wave rectifier.,full wave rectifier.
+4,83,A bi-directional TRIAC has two SCRs connected in.,B,series parallel.,inverse parallel.,parallel series.
+4,84,A thyristor can be forward biased by a.,C,positive or negative pulse.,negative pulse.,positive pulse.
+4,85,N' type materials are doped with.,C,acceptors.,acceptors and donors.,donors.
+4,86,"In an electronic circuit, if the anode of a diode is clamped to ground. What is this called?.",C,A negative clamping circuit.,A negative limiting circuit.,A positive clamping circuit.
+4,87,To decrease the capacitance of a varactor.,C,reverse bias should be decreased.,forward bias should be increased.,reverse bias should be increased.
+4,88,A Zener diode is used across the output for a power supply circuit to.,C,give a full wave rectification.,prevent thermal runway.,provide a steady DC voltage output without falling.
+4,89,"If a diode has gone open circuit in a full wave bridge rectifier, the output frequency ripple is.",C,the same as the input frequency.,twice the input frequency.,half the input frequency
+4,90,In a full wave bridge rectifier,A ,the output is pure DC. Frequency is 0 Hz.,the output frequency is twice the input frequency,the output voltage is twice the input voltage
+4,91,"After passing through a rectifier, alternating current becomes.",B,smooth direct current.,pulsating direct current.,square wave form current.
+4,92,A Zener diode usually works.,A ,only in reverse bias.,at variable voltages.,only in forward bias.
+4,93,P' type materials require.,A ,acceptors.,conductors.,donors
+4,382,Which picture shows a diode?,A ,20,34,43
+4,383,What is the forward voltage of silicon diodes?,C,"0,3V","0,5V","0,7V"
+4,384,Which of the following is incorrect for rectifier diode?,C,Forward direction; anot to (+) and cathode to (-),Reverse direction; anot to (-) and cathode to (+),Diode is the conductor companent
+4,385,Which defines the internal structure of the diode?,A ,PN junctional,PNP junctional,NPN junctional
+4,386,Which of the following with temperature effect on diode is correct?,B,As temperature increases forward voltage is increased.,As temperature increases reverse voltage is decreased.,Forward voltage is the directly proportional to the temperature.
+4,387,What is the barrier voltage of germanium diode?,B,"0,6V","0,3V","0,2V"
+4,388,Which is the output signal of the circuit?,A ,51,8,68
+4,389,What is the following the output signal of the circuit?,C,30,21,64
+4,390,Which is the output signal of the circuit?,B,Half-Wave Rectification,Full-Wave Rectification,Half-Wave Signal
+4,391,Which is used to smooth the current after rectified?,A ,Capacitor,Resistor,Conductance
+4,392,Which picture shows a photo-diode? ,A ,I,II,III
+4,393,Which picture shows a zener-diode?,C,I,II,III
+4,394,Which does the abbreviation LED stand for? ,A ,Light Emitting Diodes,Light Emitted Diodes,Light Emiter Diodes
+4,395,LED diode forward voltage depends…………………..?,A ,…… on the color,…… the types.,…… the current.
+4,396,What is zener-diode used for? ,B,Inverting,To generate a reference voltage or Voltage stabiliser,Full wave Rectifier
+4,397,How is bias of photo-diode? ,B,Forward direction,Reverse direction,Higher direction
+4,398,Which of the following photo-diode correct?,B,İs a light-emitting diode.,The current is directly proportional the light intesity.,The resistance is directly proportional the light intesity.
+4,399,Which elements belong to the above symbol?,B,VDR,LDR,LED
+4,400,Which is incorrect for LDR work?,C,When the ligh intensity decreases the resistance increases.,When the ligh intensity increases the resistance decreases.,LDR is a type of diode.
+4,401,LDR which is not used the application?,A ,Rectifier,Dimming switches,Photometers
+4,402,What does the abbreviation VDR stand for?,A ,Voltage Dependent Resistor,Voltage Defenced Resistor,Varistor Dependent Resistor
+4,403,Which is incorrect for VDR?,C,İs called varistors,The resistor increases when the voltage decreases.,Symbol is;
+4,404,The symbol for SCR which option given is correct?,A ,44,27,5
+4,405,The tree regions of all SCR are?,C,"Anot, Collector, Gate","Voltage, Gate, Cathode","Anot, Cathode, Gate"
+4,406,Which of the following is incorrect for SCR?,B,Used as an electronic controlled switch.,Passes current flow in both directions.,SCR; Silicon Controlled Rectifier
+4,407,Symbol belonds to which element.,A ,Triac,Thyristor,Transistor
+4,408,Which element is over pass current in both directions?,B,Diode,Triac,VDR
+4,409,What is not correct for static resistance measurement?,C,Reverse resistance check,Forward resistance check,Ampermeter is connected to the diode leads.
+4,410,Two silicon diodes are connected in series. What is the barrier voltage value?,C,"0,6V","0,2V","1,4V"
+4,411,Three germanium diodes are connected in series. What is the barrier voltage value?,A ,"0,9V","0,3V","0,6V"
+4,414,Which of the following correctly in the transistor regions is given?,B,"Collector, Base, Emitting","Base, Collector, Emitter","Emitter, Conductor, Base"
+4,415,Which one is correct for PNP bias?,A ,66,48,68
+4,416,Which of the following incorrect?,C,IE  = IB + IC,IC = IE -IB,IC = IB- IE
+4,417,Which one is correct for NPN bias?,C,63,88,87
+4,418,"On a NPN transistor you can measure the IB?(IC8,2mA,IE=9,6mA)",A ,"1,4mA","2,5mA",3mA
+4,419,Which of the following incorrect?,C,When the  VBE decrease VCE the increase,When the VBE  increase VCE the decrease,VBE is directly proportional with the RCE
+4,420,Which is not a transistor applications?,B,Amplification,Rectifier,Switching
+4,421,What type of transistor connections is shown in the picture?,B,Common Emitter,Common Collector,Common Base
+4,422,Input and output signals of the circuit which belong to?,A ,Common Emitter,Common Collector,Common Base
+4,423,Which statement is incorrect about Common Collector Amplifier?,A ,VP is very big ,vu<1 ,ϕ is 0°
+4,424,Which statement is correct about Common Base Amplifier?,B,VU very small ,Vİ <1,ϕ is 180°
+4,94,Which of the following explains how the photodiode works?.,C,Photodiodes are forward biased to conduct when light falls upon them.,Photodiodes are back biased not to conduct when light falls upon them.,Photodiodes are back biased to conduct when light falls upon them.
+4,95,In an NPN transistor the P is the.,C,collector.,emitter.,base.
+4,96,"When compared to a photo diode, a photo transistor.",C,is less sensitive to light levels.,responds faster to changes of light,is slower to respond to changes of light.
+4,97,"For correct operation of a transistor, the following conditions must apply.",C,The base-emitter junction must be forward biased and the base-collector junction must be greater than 0.7 volts.,For an NPN transistor the base-emitter junction must be forward biased and for a PNP transistor the base emitter junction must be reverse biased.,The base-collector junction must be reverse biased and the base-emitter junction must be forward biased.
+4,98,Current gain in a common emitter amplifier is given the symbol.,A ,Β.,a.,Hcg.
+4,99,When a positive voltage is applied to the base of a normally biased n-p-n common emitter amplifier.,A ,the collector voltage goes less positive.,the emitter current decreases.,the base current decreases.
+4,100,Which way does conventional current flow in a PNP junction?.,A ,Emitter to base.,Collector to base.,Collector to emitter.
+4,101,"For conduction of a transistor, the emitter junction is.",C,forward or reverse as appropriate to the input signal.,reverse biased.,forward biased.
+4,102,"In a PNP transistor, which way does conventional current flow?.",C,Base to emitter.,Collector to emitter.,Emitter to collector.
+4,103,"In a PNP transistor, conventional current will flow when.",A ,the emitter is more positive than the base.,the base is more positive than the emitter.,the collector is more positive than the emitter.
+4,104,In a common collector circuit the output and input are.,A ,in phase.,out of phase by 60°.,out of phase by 90°.
+4,105,For an NPN transistor to conduct the collector circuit has to be.,A ,more positive than the base.,less positive than the emitter.,more positive than the emitter.
+4,106,Point X compared to point.,B,Y is more negative.,Z is more positive.,Z is more negative.
+4,107,The resistance measured using an AVO between the Collector and Emitter of a transistor is.,B,smaller Collector to Emitter.,same both ways.,higher Collector to Emitter.
+4,108,A transistor is used in.,B,current amplifiers.,both current amplifiers and voltage amplifiers.,voltage amplifiers.
+4,109,Under normal operating conditions X will be.,B,negative with respect to Z.,positive with respect to Z.,negative with respect to Y.
+4,110,In which direction does the current flow on a PNP transistor when forward biased?.,B,Emitter to base.,Emitter to collector.,Collector to emitter.
+4,111,With an NPN transistor electrons leave the.,C,Base.,Collector.,Emitter.
+4,112,"In a transistor, the arrow always points in the direction of.",B,electron flow.,conventional current.,emitter.
+4,113,In an NPN transistor the.,A ,collector is more positive than the base,collector is the same as the base.,emitter is more positive than the base.
+4,114,In an NPN transistor the.,B,emitter is more positive than the,collector is more positive than the emitter.,emitter is more positive than the collector.
+4,115,"If light entering a photo transistor decreases, the current to the collector.",A ,decreases.,remains the same.,increases.
+4,116,A silicon bi-polar transistor with two depletion zones.,C,operates by varying electric fields.,is a voltage operated device.,consists of 3 slices of semiconductor material.
+4,117,How is the amplifier in the diagram shown wired?.,B,Common base.,Common emitter.,Common collector.
+4,118,To decrease the voltage gain of a common emitter amplifier you would increase the resistance in the.,C,base circuit.,emitter circuit.,collector circuit.
+4,119,The current I/P and O/P waveforms in a common emitter amplifier are.,A ,out of phase.,in phase.,90° out of phase.
+4,120,Which mode of operation provides the best high frequency response? Common.,B,emitter.,base.,collector.
+4,121,A FET when compared to a junction transistor is.,C,low impedance.,current operated.,high impedance.
+4,122,One characteristic of the emitter follower is.,A ,low resistance output.,low current amplification.,high voltage amplification.
+4,123,"An amplifier current gain will be slightly less than 1, but its voltage gain will be high, if it is connected in the.",A ,common base configuration.,common emitter configuration.,common collector configuration.
+4,124,The common collector amplifier is sometimes called the emitter follower circuit because.,C,the emitter voltage follows the collector voltage,the emitter current follows the collector current.,the emitter voltage follows the base voltage.
+4,125,Amplifiers may be classified as.,A ,voltage amplifiers or power amplifiers,oltage amplifiers or impedance amplifiers.,common emitter or common collector amplifiers.
+4,126,An amplifier can provide both voltage gain and current gain when it is connected in the.,B,common collector configuration.,common emitter configuration.,common base configuration.
+4,127,How do you increase voltage gain of an amplifier?.,B,decrease base circuit bias.,decrease input resistance.,decrease output resistance.
+4,128,"In the diagram shown, what is resistor R used for?.",C,Amplification.,Bias.,Stabilisation.
+4,129,The input and output signals of a common emitter amplifier are.,C,in phase.,equal.,out of phase.
+4,130,A transistor is said to be in the quiescent state when.,C,no currents are flowing.,it is unbiased.,no signal is applied to the input.
+4,131,A common base transistor circuit is so called because.,A ,the base is common to the emitter and collector circuits.,the base region is located between the emitter and collector region.,the base is n-type material.
+4,132,"With reference to the circuit shown below, how is the transistor configured?      ",A ,Common emitter.,Common collector.,Common base.
+4,133,"In a FET, the junction connections are called.",A ,"drain, source and gate.","drain, collector and junctions.","base, collector and emitter."
+4,134,How is a push-pull transistor arrangement connected?.,B,Collector to collector.,Emitter to emitter.,Base to base.
+4,135,Thermal runaway in a transistor is caused by.,A ,excessive heat causing maximum current flow.,excessive heat causing minimum current flow.,low heat causing minimum current flow.
+4,136,An advantage of a common emitter is.,A ,it has high power gain.,it is a voltage follower.,it has high voltage gain.
+4,137,What class of amplifier is biased at cut off?.,B,C,B,A
+4,138,"When testing a transistor with an ohmmeter, what is the resistance of the emitter/collector?.",C,Low resistance both ways.,High resistance one way.,High resistance both ways.
+4,139,A transistor at saturation has.,A ,low resistance.,zero resistance.,high resistance.
+4,140,A capacitor-resistor coupled multistage amplifier lets.,C,DC pass only.,AC and DC pass to the next stage.,AC pass only.
+4,141,An oscillator operating at its natural frequency has feedback which is.,C,90 degrees out of phase.,180 degrees out of phase.,in-phase.
+4,142,Which mathematical operation is performed by a modulator amplifier?.,C,Addition.,Subtraction.,Multiplication.
+4,143,A JFET is.,C,either of the above depending on resistance in the circuit.,current sensitive.,voltage sensitive.
+4,144,Thermal runaway in a transistor refers to.,C,high current flow when temperature decreases.,low current flow when temperature increases.,high current flow when temperature increases.
+4,145,Resistors and capacitors are used to couple stages of amplifiers so that.,B,only DC can be applied.,only AC can be applied.,equal amounts of AC and DC can be applied.
+4,146,An advantage of a FET when compared to a bi-polar transistor is.,B,the switching time is quicker.,the input resistance is higher.,the input resistance is lower.
+4,147,The typical bandwidth for an audio frequency amplifier is shown by line.,B,Z,X,Y
+4,148,Where are decoupling capacitors used in digital circuits?.,B,Between pins 1 & 8.,Close to the positive pin.,Close to the negative pin.
+4,149,A Common Collector circuit has the following characteristics.,A ,"Medium Voltage Gain, High Current Gain, Non-Inverted Output.","Low Voltage Gain, High Current Gain, Inverted Output.","Medium Voltage Gain, Low Current Gain, Inverted Output."
+4,150,In a Common Emitter Amplifier RE is used for.,C,load control.,biasing.,stabilisation.
+4,151,In the diagram the relationship of the input to the output is.,A ,180 degrees out of phase.,90 degrees out of phase.,in phase.
+4,152,The most suitable class of amplifier for a high fidelity radio transmitter is.,C,B,C,A
+4,153,Which curve is from a Broadband amplifier?,B,C,A,B
+4,154,A transistor in Common Emitter mode gives.,C,high voltage gain only.,high current gain only.,high power gain.
+4,155,"For a transistor in common emitter mode, the term Hfe indicates.",C,the Voltage gain Vce/Vbe at Ib constant.,the Power gain Pin/Pout.,the current gain Ic/Ib at Vce constant.
+4,156,In a differential amplifier the term 'common mode voltage' means.,C,output voltage with one input connected to common ground.,output voltage with non-inverting input at 0 volts.,output voltage when both inputs have equal voltages.
+4,157,In an ideal current amplifier.,A ,input impedance must be low and output high.,input impedance must be high and output low.,both input and output impedances must be low.
+4,158,In an ideal voltage amplifier.,A ,input impedance must be high and output impedance low.,input impedance must be low and output impedance high.,input impedance must be low and output impedance low.
+4,159,The term ICE related to transistor in common emitter mode means.,B,leakage current flowing between Collector and Emitter with Base open circuited.,forward current between Collector and Emitter with Base connected to signal.,leakage current between Collector and Emitter with Base connected to ground.
+4,160,A common base amplifier has.,B,high input and high output impedance.,low input and high output impedance.,low input and medium output impedance.
+4,161,"The emitter, base and collector currents in a common emitter circuit, follow ohm's and kirchoff's law, which is.",C,Ie = Ic - Ib.,Ib = Ie + Ic.,Ie = Ib + Ic.
+4,412,Which is the symbol of PNP transistor?,B,4,48,61
+4,413,Which is correct in the NPN transistor regions?,C,15,19,83
+4,162,What are the ideal characteristics of an Op Amp?. ,B,"Infinite gain, infinite input Impedance and infinite output impedance.","Infinite gain, infinite input Impedance and zero output impedance.","Low gain, infinite input Impedance and zero output impedance."
+4,163,What gate does the following Boolean expression represent F = A.B.C.,A ,AND.,OR.,NOT.
+4,164,What gate does the following Boolean expression represent F = A+B+C.,B,NOR.,OR.,NOT.
+4,165,"In an integrated circuit, the components are mounted.",C,by metal screws.,by metal oxide film.,by means of wires connecting them.
+4,166,A non-inverting op-amp.,B,has an inverting input and a non-inverting output.,a non-inverting input connection only.,has a non-inverting input and an inverting output.
+4,167,"In an operational amplifier, the two input waves are the same amplitude, same frequency, but exactly anti-phase. What would the output be?.",A ,Double.,Zero.,Half. Correct Answer is.
+4,168,"In the following Boolean algebra statement, which gate is described?. F = A + B + C.",B,And.,Or.,Not.
+4,169,"In the Boolean algebra statement below, the gate described is F = A.B.C.",B,Nand.,And.,Nor.
+4,170,"Infinite gain, infinite input impedance and zero output impedance is characteristic of a.",C,Class B amp.,Class A amp.,Op amp.
+4,171,What is meant by a bistable circuit?.,A ,The circuit has 2 stable states and will stay in which one it is put.,The circuit has 1 stable state and it can be negative or positive.,The circuit has 2 stable states and will stay in both at the same time.
+4,172,What does the output voltage of an op-amp depend upon?.,C,The op amp bandwidth.,The gain of the op-amp.,The resistors in the circuit.
+4,173,What type of gate is an OR gate with both inverted inputs and inverted outputs?.,C,NAND gate.,NOR gate.,AND gate.
+4,174,Diodes connected in parallel would act like an.,B,an NAND gate.,an AND gate.,an OR gate.
+4,175,The output of the circuit shown will be.,B,-15 V.,0 V.,+30 V.
+4,176,The voltage supply to a Complimentary Metal Oxide Semiconductor (CMOS) integrated circuit must be.,B,0 V is 5 V DC.,3V to 18V DC.,3V to 15V AC.
+4,177,This is a diagram of a.,A ,differentiator.,adder.,İntegrator.
+4,178,This is a diagram of a.,A ,integrator.,adder.,differentiator.
+4,179,How are the pins numbered on an op-amp IC?.,B,from left to right from the dot.,counter clockwise from the dot.,clockwise from the dot.
+4,180,On an integrated circuit the hole in the top left corner is pin 1. The pins are counted.,C,clockwise.,from left to right.,anticlockwise.
+4,181,A single integrated circuit Op Amp has how many pins?.,B,7,8,4
+4,182,What is the output of the amplifier shown?,A ,5V.,3V.,0V.
+4,183,A logic circuit with more than one gate will have.,B,2 or more outputs.,one of 2 states of logic output.,an analogue output.
+4,184,Components on an integrated circuit are.,A ,on the surface.,in the solid.,don't need them.
+4,185,A VLS IC has.,A ,"more than 10,000 gates.",less than 1000 gates.,more than 1000 gates.
+4,186,A momentary input at the reset input of a flip flop will.,A ,reset the true output to 0.,clock in new data from the data inputs.,reset the true output to 1.
+4,187,Which type of flip flop has only 1 data input?.,B,JK.,D.,RS.
+4,188,When you use an op amp as a buffer it has.,B,low input impedance and high output impedance.,high input impedance and low output impedance.,the same input an output
+4,189,What is required for the switching of a monostable multivibrator?.,A ,One trigger pulse to both switch on and off.,One trigger pulse to switch on and two trigger pulses to switch off.,One trigger pulse to switch on and another to switch off.
+4,190,An astable multivibrator is a.,C,one which requires no input whatsoever.,one which requires an input to switch on and off.,free running vibrator.
+4,191,Op amps use what power supply?.,B,26 VAC.,5-15 VDC.,26 VDC.
+4,192,"A device which has a high input impedance, low output impedance and high voltage gain is a.",A ,Op-Amp.,Class A amp.,Class B amp.
+4,193,"In an integrated circuit, the components are mounted by.",C,a three dimensional process with no connections between them required.,wires connecting them using conformal coating.,metal oxide film etched onto the surface.
+4,194,"In an integrated circuit, the components are inserted.",B,automatically.,by doping in successive layers.,manually.
+4,195,"In an electronic circuit with an operational amplifier connected in the push-pull configuration, the circuit.",A ,utilizes both sides of the input signal.,decreases impedance.,blocks half of the input signal.
+4,196,Pin 3 on an op-amp has a + symbol. This designates.,B,positive input DC pin.,non-inverting input.,positive offset null.
+4,197,The semiconductor substrate used in 'chips' is most commonly.,A ,silicon.,phiidide.,germanium.
+4,198,An integrated circuit is manufactured by.,A ,doping impurities into layers of intrinsic material.,etching copper tracks onto an insulating board.,"computer hardware, which use individual circuits on ribbon."
+4,199,A monostable vibrator.,A ,is switched on by a trigger pulse then within a pre-set time will eventually return to its original state.,uses a trigger pulse to turn on and the same pulse to turn off,uses one pulse to turn on and another to turn off.
+4,200,The negative feedback for an op-amp integrator is connected across a.,C,resistor.,inductor.,capacitor.
+4,201,The input resistance to an inverting op-amp is 100 Ohms. The feedback resistance is 100 kilohms. What is the amplifier gain?,C,1000,1/1000.,-1000
+4,202,"In an integrated circuit, active, passive and connecting components are.",C,connected by fine gold wires.,mounted on the outside of the solid block.,embedded within the solid block.
+4,425,Which Op-amp is not terminal? ,C,Inverting İnput,Non-inverting input,Gate Input
+4,426,What is the ideal Op-amp input impedance values should be?,B,Zero Value,Infinite value,Middle value
+4,427,The given characteristics of the ideal Op-amp which is incorrect?,A ,Zero input impedanse,Infinite gain (open-loop gain),Zero output impedance
+4,428,"In a differantial amplifier, R1= R = Rƒ =Rg Inverting input +5V and non-inverting input +6V. What is the value Vout ?
+",B,-1V,+1V,+2V
+4,429,What type of Op-amp circuit is shown in the Picture?,A ,Inverting Op-amp,Non-inverting Op-amp,Differantial Op-amp
+4,430,What is the purpose of on inverting Op-amp correct?,C,The output signal will be 0° out of phase regarding to the input signal,The output signal will be 90° out of phase regarding to the input signal.,The output signal will be 180° out of phase regarding to the input signal
+4,431,"In a non-inverting Op-amp Rƒ = 2kΩ and Rin=1kΩ.If the input voltage at Vin İS+2V, Vout=?",B,4V,6V,8V
+4,432,Which of the following incorrect?,B,Inverting Op-amp circuit input signal (-) is applied to the terminal.,Non-ınverting Op-amp circuit input signal (-) is applied to the terminal.,Voltage follower OP circuit input signal (+) is applied to the terminal.
+4,433,Which statement about the voltage follower OP is incorrect?,C,Vout = Vin,Used as a buffer amplifier,Zin = 0Ω
+4,434,Which of the following characteristics matches to the shown circuit?,A ,High frequency- low amplification,High frequency- higy amplification,Low frequency- low amplification
+4,435,What type of OP circuit is shown in the picture?,B,Integrator,Differantiator,Smihmitt trigger
+4,436,What is the purpose of a comparator OP circuit incorrect?,A ,"V1> V2,Vout =-Vs","V1> V2,Vout =+VS","V1<V2,VOUT= -VS"
+4,437,Integrator OP is the circuit which filters?,C,Band-Pass Filter,Band- Stop Filter,Low Pass Filter
+4,438,Differentiator OP is the circuit which filters?,B,Band-Pass Filter,High Pass Filter,Band- Stop Filter
+4,439,What is the value  VOUT?(R1= R2 = R3 =Rƒ),A ,-6 V,+ 6 V,-12 V
+4,440,What does the abbreviation TTL stand for?,C,Transistor- Thyristor Logic,Transistor- Triac Logic,Transistor- Transistor Logic
+4,203,"When compared to a system that is constructed on one board, a modular system using Printed Circuit Boards (PCBs) is.",C,harder to fault find.,more expensive for spares.,easier to fault find.
+4,204,A Printed Circuit Board (PCS) is constructed of a plastic laminate which has bonded to one or both sides.,A ,a thin sheet of copper.,various thicknesses of copper.,a thick sheet of copper.
+4,205,How is a PCB protected after manufacture?.,A ,By conformal coating.,With non-conductive varnish.,With wax.
+4,206,A multi-layer PCB has.,C,two or more layers on one or both sides.,one layer on either side.,two or more layers connected in series.
+4,207,When removing a microprocessor.,C,ensure the power is OFF to avoid static discharge,no damage is done by static discharge.,considerable damage can be done by static discharge.
+4,208,"On a PCB, a decoupling capacitor is used to get rid of transient currents between which points?.",C,The electronic circuit and the aircraft ground.,The negative rail and the rest of the circuit.,Interspaced along the circuit.
+4,209,A decoupling capacitor in a PCB is used to.,C,minimise transient currents.,pass DC only.,pass AC only.
+4,210,What is the base material of a PCB?.,A ,Insulator.,Semiconductor.,Conductor.
+4,211,"In a printed circuit board , the surface resistance testing is.",A ,insulation resistance between adjacent printed conductor.,the resistance between the tow inductors.,between the board and the conductor.
+4,212,What are printed circuit boards made of?.,A ,Fibreglass board coated with copper in which circuits are etched.,Synthetic resin board etched with copper.,Matrix board with components soldered on.
+4,441,"Positive logic circuits, one of which refers to the level?",A ,High,Low,Zero
+4,442,Which of the following is not from the family of the IC?,B,ECL,TRL,TTL
+4,443,Which is not types of circuit boards? ,B,Soldering strips,Conductor boards,Tag raster boards
+4,444,Which of the following is incorrect for soldering strips ?,C,Simple electronic circuits with low voltage supply can be built very easy on soldering strips.,Battery supply can be built very easy on soldering strips.,Complex circuits is suitable for construction.
+4,445,What is the designation of side to which components are fitted in raster boards?,C,Conductor Side,Conductance Side,Component Side
+4,446,Which of the following incorrect for raster boards?,A ,Components are soldered on the component side .,They consist of hard paper without copper coating,Are used for simple electronic circuits
+4,447,What is the difference between tag raster boards and raster boards?,B,Raster boards with silver coathing around each hole are designated tag raster boards.,Raster boards with copper coathing around each hole are designated tag raster boards.,Tag raster boards with silver coathing around each hole are designated raster boards.
+4,448,Which of the following is not advantages of tag raster boards ? ,C,The circuit and circuit layout can be changed very easily,Tag raster boards are reusable,Mechanical instability and low adhesion
+4,449,Which is not the advantages of veroboards?,C,The circuit can be changed very easily,Test set-ups can be built without preparation in a very short time,Possess mechanical stability
+4,450,What is the ease of use a veroboards?,B,One side of the base material is coated with straight copper,Prototypes and test set-ups of electronic circuitry can be built very easily on veroboards.,Changing of circuits take time
+4,451,Which statement is the incorrect about veroboards? ,A ,Veroboards used just as hobby circuit,High-quality hard paper as base material,One side is coated with straight copper
+4,452,What does the abbreviation SMD stand for?,A ,Surface Mounted Device,Surface Mounting Device,Surface Mounting Diode
+4,453,What does the abbreviation PCB stand for?,B,Printed Current Boards,Printed Circuit Boards,Printed Conductance Boards
+4,454,Which of the following is not suitable as base material of a PCB?,C,Teflon glass fibre,Melamine glass fibre,Phenol hard paper
+4,455,Which of the following is not a techniques to produce PCB’s?,C,Additive technique,Subtractive technique,Pressure tecnique
+4,456,What is the conductor side coating material of PCB?,B,Cobalt,Copper,Silver
+4,213,The output of a tachogenerator is.,A ,proportional to speed of rotation.,proportional to position.,proportional to acceleration.
+4,214,AC power to a synchro system is supplied to.,B,torque transmitter only.,both the torque receiver and torque transmitter.,torque receiver only.
+4,215,A differential synchro.,A ,can be used as either a transmitter or a receiver.,can only be used as a receiver.,can only be used as a transmitter.
+4,216,A resolver has.,C,3 coils on the rotor and 2 coils on the stator.,2 coils on the rotor and 3 coils on the stator.,2 coils on the rotor and 2 coils on the stator.
+4,217,The 'null' point on a control synchro is when the two rotors are.,B,wired in series.,at 90° to each other,parallel to each other.
+4,218,The rotor of a desynn indicator is.,B,an electromagnet.,a permanent magnet.,an AC magnet
+4,219,The position feedback from a potentiometer is.,A ,anti-phase.,in phase.,90 degrees out of phase.
+4,220,A differential synchro has.,B,"single phase stator, 2 phase rotor.","3 phase stator, 3 phase rotor.","3 phase stator, single phase rotor."
+4,221,"When a servomotor has stopped, the rate feedback from a tachogenerator is.",C,maximum and in phase.,maximum and anti-phase.,zero.
+4,222,A tachogenerator is usually used for.,B,angular feedback.,rate feedback.,position feedback
+4,223,Differential synchros have.,A ,a transmitter and a receiver.,a transmitter only.,a receiver only.
+4,224,"In a torque synchro system, the power supply is connected to.",A ,the rotor windings of both the transmitter and receiver.,the stator windings of the transmitter.,the rotor windings of the transmitter only.
+4,225,To reduce overshoot errors in a synchro.,B,the gain of the amplifier is increased.,the system will have velocity feedback.,the system will have position feedback.
+4,226,A synchro transformer is used to.,B,add the output of two synchro transmitters.,derive an error voltage from a synchro transmitter signal and a shaft position.,obtain a 26 volt AC reference.
+4,227,Reversal of the complete power to a torque synchro system will.,C,displace the receiver rotor by 180o.,cause reverse rotation of the receiver rotor.,have no effect
+4,228,The power supply to a torque synchro system is.,B,AC or DC.,AC.,DC.
+4,229,An open loop system is one which has.,A ,no direct feedback loop.,rate feedback loop.,position feedback only.
+4,230,Mechanical friction in a servo results in.,B,increased inertia.,increased damping.,reduced gain.
+4,231,The position feedback signal is.,C,phase advanced by 90° with respect to the input signal.,in phase with the input demand signal.,in anti-phase with the demand signal.
+4,232,A servo system that overshoots and oscillates is.,A ,under damped.,over damped.,critically damped.
+4,233,The power supply to a torque synchro system is connected to.,C,the transmitter rotor only.,the transmitter stator.,the transmitter and receiver rotors.
+4,234,"In a toroidal resistance transmitter indicator system, the power supply is connected to.",C,the resistor slab.,the rotor,the brushes.
+4,235,"When a servo has reached its null and stopped, the velocity feedback is.",C,maximum and anti-phase.,maximum and in phase.,zero.
+4,236,The primary purpose of rate feedback in a positional servo system is to.,B,ensure system linearity.,prevent excessive overshoot.,ensure minimum response time.
+4,237,"In an AC rate servo, a steady input will result in the servomotor.",B,rotating to a new datum position.,rotating at a constant speed.,oscillating about a new datum.
+4,238,In a torque synchro that includes a differential synchro the power supply is connected to.,B,all three rotors.,the transmitter and receiver rotors only.,the transmitter rotor only.
+4,239,A differential synchro rotor has.,A ,three windings,two windings,one winding.
+4,240,In a resolver synchro the stator windings are electrically displaced by.,A ,90°.,180°.,120°.
+4,241,A resolver synchro output is obtained from a rotor with.,A ,two coils at 90°.,one single coil.,three coils at 120°.
+4,242,"In a speed control servo system (rate control), the purpose of the tachogenerator is.",C,to make the velocity proportional to servo demand.,to make the deflection proportional to servo demand.,to make it run at constant speed.
+4,243,The rotor of a torque synchro indicator is.,A ,supplied with an excitation voltage.,connected in series with the transmitter stator coil.,short circuited.
+4,244,"To increase the output of a servo amplifier, it is necessary to.",A ,reduce the tacho feedback.,increase the position feedback.,increase the tacho feedback.
+4,245,Angular displacement of the control coils with respect to the reference coils in a two phase induction motor are.,A ,"90°, 270°.","0°, 180°.","90°, 120°."
+4,246,A servomotor having only a tachogenerator as a feedback device will.,C,vary its speed with input error voltage.,null out at a position dependant upon input error voltage.,have a constant speed for any given input voltage.
+4,247,The null position of a torque synchro system is when.,A ,the TX and TR rotors are parallel to each other.,the TX and TR rotors are 90° to each other.,the TX and TR rotors are 120° to each other.
+4,248,An AC tachogenerator stator has.,C,two windings 180° apart.,three windings 120° apart.,two windings 90° apart.
+4,249,"When the rotor of an AC tachogenerator is stationary, the rotor has.",C,no magnetic fields.,no circulating currents.,low circulating currents.
+4,250,A closed loop servomechanism.,C,must only have position feedback.,must have both position and velocity feedback.,can have either position or velocity feedback.
+4,251,In a control synchro system the power supply is connected to the.,B,transmitter and receiver rotors.,transmitter rotor and amplifier.,receiver rotor and amplifier.
+4,252,Velocity feedback.,A ,opposes the demand input.,assists the demand input.,prevents dead space errors.
+4,253,An increase in velocity feedback will.,A ,decrease the speed the load moves.,have no effect on speed.,increase the speed the load moves.
+4,254,Rate feedback can be obtained from a.,A ,tachogenerator.,synchro.,potentiometer.
+4,255,Positional feedback can be obtained from a.,B,synchro.,potentiometer.,tachogenerator.
+4,256,The 'null' point in a control synchro is when the two rotors are.,A ,at 90° to each other.,wired in series.,parallel to each other.
+4,257,In a control synchro the stator current ceases to flow when the.,B,CT rotor is at null.,power is removed.,two rotors are aligned.
+4,258,In a rate servo (speed control) the signal into the servo amplifier is.,C,input voltage plus position feedback voltage.,input voltage plus tachogenerator output.,input voltage minus tachogenerator output.
+4,259,To reduce oscillations about a demand position.,A ,the amount of velocity feedback would be increased.,the amount of velocity feedback would be decreased.,the amount of position feedback would be increased.
+4,260,Positive feedback applied to a servomechanism.,A ,increases the response of the system.,opposes the demand signal.,decreases the response of the system.
+4,261,A differential synchro rotor consists of.,C,two windings at 90° apart.,one winding parallel to the transmitter rotor.,three windings at 120° apart.
+4,262,A differential synchro transmitter used for addition has.,C,the TDX S1 and S3 connections cross connected to the TX.,the TDX S1 and S3 connections cross connected to the TR.,"the TDX R1, R3 and S1, S3 connections cross connected to the TX."
+4,263,Differential transmitters are used to.,B,add or subtract two electrical signals.,add or subtract a mechanical signal to an electrical synchro signal.,increase the operating speed of the synchro receiver.
+4,264,When resolving a Cartesian input to a Polar output.,C,the outputs are two voltages.,the inputs are a shaft angle and a voltage.,the inputs are two voltages.
+4,265,A resolver synchro output is obtained from a rotor with.,B,one single coil.,two coils at 90° to each other.,three coils at 120° to each other.
+4,266,The output of a resolver synchro is.,C,dependant upon the position of the rotor only.,proportional to the speed of input rotation.,a function of the rotor position and excitation voltage.
+4,267,The rotor of an autosyn position indicating system is.,C,a permanent magnet.,spring controlled.,an electromagnet.
+4,268,The rotor of a magnesyn transmitter is.,A ,a permanent magnet.,an ac electromagnet.,a dc electromagnet.
+4,269,Torque synchro systems are normally used when the.,C,system accuracy is of extreme importance.,mechanical load is high.,mechanical load is low.
+4,270,In a resolver synchro the stator windings are electrically disposed by.,A ,90°.,120°.,180°.
+4,271,Torque synchro systems are normally used when the.,C,system accuracy is of extreme importance.,mechanical load is high.,mechanical load is low.
+4,272,What device transfers one energy type to another?.,B,Transponder.,Transducer.,Transmitter.
+4,273,Electrical power is supplied to a synchro rotor.,A ,through slip rings.,through a commutator.,directly.
+4,274,"In a synchro resolver, the stator coils are at what angle in relation to one another?.",C,45 degrees.,80 degrees.,90 degrees.
+4,275,An increase in negative feedback to the servo amplifier.,B,has no effect.,increases amplifier stability.,decreases amplifier stability.
+4,276,"In a synchro, what is used to convert signals from one form to another?.",A ,Transducer.,Transmitter.,Transformer.
+4,277,A control surface position feedback signal is.,B,inversely proportional to surface position.,proportional to surface position.,non-linear.
+4,278,A position gyro will provide.,C,acceleration feedback.,velocity feedback.,positional feedback
+4,279,In velocity feedback the signal is.,A ,out of phase.,in phase.,equal to the error signal.
+4,280,"If velocity feedback in a servo system is above optimum, this will cause.",B,no effect.,sluggish operation.,hunting.
+4,281,The amount of rate feedback from a tachogenerator is.,A ,proportional to speed.,constant for all servo speeds.,inversely proportional to speed.
+4,282,What control system is used on an input that gives a controlled predetermined output?.,B,Control Servo.,Closed Loop.,Open Loop.
+4,283,Increasing velocity feedback from optimum will give.,B,faster performance.,sluggish performance.,no change on the output.
+4,284,A rate control servo system with a steady input voltage will give.,C,decreasing speed.,increasing speed.,constant speed.
+4,285,An increase in amplitude of a rate feedback signal will cause.,C,sluggish servo operation.,unstable operation.,reduced hunting.
+4,286,An increase in negative feedback.,A ,decreases system sensitivity.,increases system sensitivity.,will make the driven device continuously rotate.
+4,287,Position feedback is used to.,C,indicate to the pilot the position of the load.,to prevent control surface oscillations while the surface is being moved.,ensure control surface moves to the demanded position by the controls.
+4,288,The output from a control transformer is.,B,torque.,AC voltage.,DC voltage.
+4,289,The stator output voltages from a synchro resolver are.,B,3 phase.,AC single phase.,DC.
+4,290,A typical use for resolver synchros is.,C,fly by wire system.,engine power instrumentation.,in compass comparator units.
+4,291,What does a resolver do?.,C,Adds two signals.,Resolves a movement into sine and cosine components.,Resolves a position into sine and cosine components.
+4,292,"If the feedback is ideally damped, the signal will.",A ,overshoots once and return back.,not overshoot.,oscillate.
+4,293,In a tachogenerator the output voltage is.,C,inversely proportional to the speed.,zero.,directly proportional to the speed.
+4,294,The primary purpose of rate feedback in a positional servo system is to.,B,ensure system linearity.,prevent excessive overshoot.,ensure minimum response time.
+4,295,In a control surface position indicating system the feedback signal is.,C,in phase with the control surface position.,indirectly proportional to the control surface position.,proportional to the control surface position.
+4,296,Synchro systems depend on the principles of.,C,electromagnetic induction.,capacitive reaction.,mutual Inductance.
+4,297,A piezoelectric crystal is an example of.,A ,an analogue transducer.,a Pneumatic Transducer.,a Electro Acoustic Transducer.
+4,298,The difference between an open and closed loop is.,B,error signal.,feedback.,correspondence.
+4,299,"In a Desynn indicator system, where is power supplied to?.",C,Transmitter and indicator.,Indicator only.,Transmitter only.
+4,300,What does the Desynn indicator rotor consist of?.,B,Electro magnet.,Permanent Magnet.,Aluminium cored coil.
+4,301,When a servomotor overshoots after a step input and oscillates it is.,A ,under damped.,over damped.,critically damped.
+4,302,A reduction from the optimum setting of the velocity feedback in a servo loop could cause.,A ,instability.,slow response.,ow servo gain.
+4,303,The phase difference between the supplies of a two phase induction motor is.,A ,90°.,180°.,0°.
+4,304,"If the rotor of the receiver in a torque synchro system was prevented from aligning with the transmitter rotor, then.",C,the transmitter rotor will turn to align with the receiver rotor.,the receiver will hunt.,the receiver will overheat.
+4,305,An E&I bar output at datum has.,C,an imbalance of voltages in the secondary windings.,no induced voltage in the secondary windings.,equal and opposite voltages induced in the secondary.
+4,306,The result of cross connecting two of the transmission leads in a torque synchro system and then turning the rotor of the transmitter 60° clockwise would be.,B,the receiver would move 60° clockwise.,the receiver would move 60° anticlockwise.,the receiver would move 120° anticlockwise.
+4,307,The control windings of a two phase servomotor is supplied with AC voltage of.,A ,"variable amplitude, variable phase.",variable phase.,constant amplitude.
+4,308,If the rotor of a control synchro sticks.,C,the system hunts,the position feedback will oscillate.,high current will flow.
+4,309,"With the reversal of the connections to the rotor of the transmitter of a torque synchro, the position of the receiver rotor will be.",C,changed by 120°.,unchanged.,changed by 180°.
+4,310,The application of a 'stick-off' voltage to a control synchro servo system is.,C,to overcome the effect of static friction.,to overcome the effect of viscous friction.,to prevent alignment to a false null.
+4,311,"A servo system may include a brake, an automatic trim system is one example where a brake is used. The brake is.",A ,applied when trimming is complete to prevent stabilizer creep.,applied during trimming to prevent oscillations about the demand position.,applied during trimming to prevent servo runaway.
+4,312,In a control synchro the stator current ceases to flow when.,B,the CT rotor is at null.,when power is removed.,when the two rotors are aligned.
+4,313,The result of reversing the rotor connections to the receiver of a torque synchro system is that the rotor position.,A ,is changed by 180°.,is unchanged.,is changed by 120°.
+4,314,A two phase induction motor used in a servomechanism.,C,will always require a starter.,runs with no slip.,is self starting under light loads.
+4,315,A hysteresis servo motor is used in a servomechanism because.,A ,it has good starting characteristics.,good speed/voltage relationship.,low inertia.
+4,316,Reversal of two of the stator connections on a torque synchro receiver would cause.,C,the transmitter to become the receiver.,the output to move the same direction as the input.,the output to move the reverse direction to the input
+4,317,The output of a tachogenerator should be.,C,exponential.,linear.,sinusoidal.
+4,318,"With a constant input to a speed control servo, the servo motor.",B,moves to a certain position.,moves at a constant speed.,"oscillates, but otherwise does not move."
+4,319,Critical damping in a servomechanism is.,B,the point which allows just one overshoot before the load comes to rest.,the amount of damping that results in the load just not oscillating.,the critical damping required for the optimum damping of the servomechanism.
+4,320,Reverse rotation of a control transformer rotor can be caused by.,B,connections to the transmitter rotor reversed.,connections between the transformer rotor and the amplifier reversed.,short circuit between two transmission lines.
+4,321,Velocity lag can be decreased by.,C,keeping the error detector (summing point) output as low as possible.,introduction of an integrator.,decreasing the coulomb friction in the system.
+4,322,A two phase motor will stop when.,C,the control phase is reversed.,the reference phase is reversed.,the control phase is zero.
+4,323,A tachogenerator output is.,C,"variable frequency, constant voltage.","variable frequency, variable voltage.","variable voltage, constant frequency."
+4,324,"If two of the stator leads are cross connected in a control synchro system, a 25° clockwise rotation of the input rotor would result in the output rotor.",B,moving 180° to rectify the defect.,moving 25° anticlockwise.,moving 25° clockwise
+4,325,Damping in a servomechanism is easier to apply if.,B,the mechanism is light and has high inertia.,the mechanism is light and has low inertia.,the mechanism is heavy and has high inertia.
+4,326,"If the electrical connections to the feedback generator in a control synchro system were disconnected, the.",C,motor would run in the wrong direction.,input signal to the amplifier would reduce.,system would tend to oscillate.
+4,327,An increase in servo amplifier gain,A ,increases system response.,reduces tendency to hunt.,reduces the speed of the system.
+4,328,The term 'velocity lag' refers to a.,C,speed error.,acceleration error.,position error.
+4,329,The rotor of an AC tachogenerator,C,rotates at constant speed.,has skewed slots,"has a copper, brass or aluminium cylinder."
+4,330,A servo system with transient negative velocity feedback.,A ,is damped with little velocity lag.,is underdamped with high velocity lag.,is damped with high velocity lag.
+4,331,To reverse the direction of rotation of a two phase induction motor.,B,reverse the polarity of both the control phase and reference phase.,reverse the polarity of the control phase.,shift the reference by 90°.
+4,332,Loss of DC to a servo amplifier causes the motor to.,B,reverse.,stop.,run continuously.
+4,333,An AC servo demand can be converted to drive a DC motor by the introduction of a.,B,rectifier.,demodulator.,modulator.
+4,334,Synchro indicator systems are used when the indication is required to move.,B,a fraction of the input distance.,at the same rate as the input.,slower than the input rate.
+4,335,A linear variable differential transformer is used to measure position feedback where.,A ,an output whose phase is related to direction of movement and amplitude linear over a wide range,360° of rotation and high angular accuracy is required.,is of limited importance but robust construction and reliability is important.
+4,336,A low frequency sinusoidal input will cause a closed loop servomechanism load to.,C,move backwards and forwards at the input frequency.,move backwards and forwards at the input frequency.,move to a demand position with no overshoot.
+4,337,If a servo amplifier is suffering from drift.,B,"the load would move to a new position, proportional to the drift and then return back to the datum position.","the load would move to a new position, proportional to the drift and stay there.",the load would oscillate about the datum position.
+4,338,"In a transient velocity feedback circuit, the tachogenerator output is summated with the demand voltage.",B,at all times when the load is moving.,only when the load is speeding up or slowing down.,only when the load is slowing down.
+4,339,An LVDT has.,A ,an output winding which is wound in series opposition.,an input winding whose voltage will change with load movement.,an output winding whose voltage and frequency is linear to load angular movement.
+4,340,To convert a differential synchro from subtraction to addition you would,A ,change over two rotor and two stator connections.,change over all three stator windings.,reverse the reference phase supply.
+4,341,In general the accuracy of a synchro system increases if the.,A ,stator current is low.,rotor current is high.,stator current is high.
+4,342,The induced signal in the output coils of the magnesyn system.,B,de-saturates the soft iron core.,is of a value of 800 Hz.,damps the pointer oscillations.
+4,343,The direction of the induced (secondary) magnetic field in a synchro transmitter.,A ,in the same direction as the primary field.,is in the opposite direction to the primary field.,is 90° to the primary magnetic field.
+4,344,The cogging effect in synchros is rectified by,B,using an elliptical cog.,skewing the rotor.,using carbon brushes.
+4,345,Reversal of the power supply to either the transmitter or the receiver of a torque synchro system would.,B,make the receiver rotor rotate in the opposite direction.,cause a 180° displacement between the transmitter and the receiver.,"have no effect on the indication, but would cause a heavy current to flow."
+4,346,The purpose of a flywheel incorporated in a synchro is to.,C,increase the driving force.,prevent insect ingress.,prevent oscillations.
+4,347,"In a synchro system, if two stator lines are crossed the receiver will.",C,be 180° out.,not be affected.,reverse direction.
+4,348,"In an E and I signal generator at datum, the voltage on the secondary windings.",C,is zero.,is maximum.,are equal and opposite.
+4,349,"In a synchrotel, the.",B,stator coil is fixed and the rotor coil moves.,rotor coil and stator coil is fixed.,rotor coil is fixed and the stator coil moves.
+4,350,An E&I transformer out of datum has.,A ,equal and opposite voltages in each windings.,unequal and opposite voltages in both windings.,no voltage in either winding
+4,351,When is maximum voltage induced into the rotor of a control synchro transformer?.,B,90 degrees (null position).,0 degrees.,When spinning fast.
+4,352,To check the output of a synchro stator it would be preferable to use.,A ,a Valve Voltmeter.,a Cambridge Bridge.,an Avometer
+4,353,Synchro capacitors are connected into synchro systems to.,B,act as spark suppression due to wear of the slip rings.,increase the accuracy of the control synchro.,minimize the torque synchro stator current at null.
+4,354,In a slab desynn transmitter the.,B,pick-offs form part of the circuit resistance.,pick-offs rotate on the slab resister.,pick-offs are connected to a spark suppressor.
+4,355,"If, in a servo system, the amplitude from the feedback system is below normal, the servo will.",B,be sluggish in operation.,oscillate.,be overdamped.
+4,356,"A desynn instrument has a positive regular increasing error, you would adjust.",C,lever length.,lever angle and lever length.,lever angle.
+4,357,Torque synchro receiver bearing friction will cause.,B,improved accuracy.,misalignment.,hunting
+4,358,A control synchro system pointer is.,C,actuated by a permanent magnet,displaced by the torque of the stator.,motor driven.
+4,359,A D.C. signal converted to a phase sensitive A.C. is.,A ,modulation.,demodulation.,phase conversion.
+4,360,The rotor coil of a synchrotel.,C,rotates only when a current flows in it.,rotates.,is stationary.
+4,361,The purpose of synchro capacitors in a differential synchro transmission system.,B,reduce stator circuit impedance,to reduce stator current.,reduce rotor current.
+4,362,The purpose of a flywheel in a synchro receiver indicator is to.,B,increase driving torque.,prevent spinning or oscillation.,encourage spinning.
+4,363,A linear variometer is.,A ,a special synchro giving ac output proportional to shaft angle.,a special auto transformer for synchro system power supplies.,an alternative term for a desynn system.
+4,364,In a synchrotel the rotating winding is.,C,the stator.,rotor.,neither
+4,365,The receiver rotor in a torque synchro system oscillates over an arc of approx 75 degrees. The probable cause is.,A ,one stator line open circuit.,two stator lines reversed.,short circuit between two stator
+4,366,Synchro capacitors are fitted.,A ,to improve sensitivity and accuracy.,to provide critical damping,to make additional damping features unnecessary.
+4,367,The output of a control transformer is made.,A ,phase and amplitude sensitive by direction and magnitude of the transmitter rotor movement respectively.,phase and amplitude sensitive by magnitude and direction of the transmitter rotor movement respectively.,phase sensitive by transmitter rotor excitation and amplitude sensitive by direction of transmitter rotor movement.
+4,368,The letter 'B' following the identification code on the case of a synchro denotes.,C,that the synchro is second hand.,the modification status.,that the stator is rotatable.
+4,369,TX is the abbreviation for a.,A ,torque transmitter.,control transformer.,torque receiver
+4,370,TR is the abbreviation for a.,B,transmitter Resolver.,torque receiver.,torque synchro.
+4,371,"When a synchro system is in correspondence, its transmitter and receiver.",A ,are in phase.,are anti-phase.,are at 90° to each other.
+4,372,The reference phase to a synchro is.,C,50 Hz.,28 VDC.,400 Hz.
+4,373,"In rate feedback, when the motor has reached the commanded position, the output will be.",C,maximum and in-phase with the input,maximum and out-of-phase with the input.,zero.
+4,374,What power is required for a desynn indicator system?.,A ,DC.,AC 400 Hz.,AC 50 Hz.
+4,375,What material would have 3 electrons in the outermost orbit?.,C,Majority Carrier material.,The donor to an N-Type semi-conductor material.,The acceptor to a P-Type semi-conductor material.
+4,376,a microprocessor on a PCB.,B,is not easily damaged by static-electricity.,is easily damaged by static-electricity if mishandling.,is only easily damaged by static-electricity if removed from teh PCB.
+4,377,"On a torque synchro, the AC power supply is applied to.",A ,the rotors of both the transmitter and the receiver.,the rotor of the transmitter only.,the stators of both the transmitter and the receiver.
+4,378,The Characteristic Curve of a transistor is plotted on axis of.,C,base current against Vec.,collector current against Vbe.,collector current against Vec.
+4,379,Amplifier output characteristics are defined by.,C,the collector resistance.,the effect of the load resistor.,the configuration of the transistor.
+4,380,What Type of Diode is this?.,C,Varactor Diode.,Double Acting Diode.,Shottky Diode.
+4,381,A device which provides cheap and convenient variable power supply is a.,B,Diac.,Variac.,Triac.
+4,457,For a control loop in the which processing order is correct?,B,"Controlled system (process), measuring transducer(sensor), correcting element (actuator), controlling system (controller)","Controlled system (process), measuring transducer(sensor), controlling system (controller), correcting element (actuator)","Controlled system (process), correcting element (actuator),measuring transducer(sensor), controlling system(controller)"
+4,458,What is the ‘w’ a close loop control?,C,Controlled variable (output feedback signal),Deviation (error signal),Commond variable (commond signal)
+4,459,Which statement about the correcting variable ‘x’ is correct?,A ,It is the output signal from the controlled system and the input signal to measuring transducer.,It is the output signal from the controlling system and the input signal to measuring transducer.,It is the output signal from the measuring transducer and the input signal to correcting element.
+4,460,Which doesn’t exist in an open-loop control?,C,Controlled system,Correcting element,Feedback signal
+4,461,What has a torque syncro system?,A ,A transmitter and a receiver,A transformer and a receiver,A transmitter and a resolver
+4,462,What does the abbreviation CT stand for?,B,Control transmitter,Control transformer,Control transistor
+4,463,Which belongs to the system; synchro tansmitter and synchro receiver?,C,Differantial system,Control system,Torque system
+4,464,What does resolver structure consist of?,A ,A rotor with a single winding and a stator with two windings at 90° to each order.,A rotor with a single winding and a stator with two windings at 180° to each order.,A rotor with a two winding and a stator with two windings at 90° to each order.
+4,465,How many leads has a RDX?,B,3 leads,6 leads,200V DC
+4,466,What may the application power supply value of the rotor of the synchro transmitter be? ,C,220V DC,200V DC,"115, 400 Hz AC"
+4,467,What does an input controller of the servo-mechanism have?,A ,Synchro control transmitter (CX) and synchro control transformer (CT),Synchro transmitter (TX) and synchro receiver (TR),Synchro control transmitter (CX) and synchro receiver (TR)

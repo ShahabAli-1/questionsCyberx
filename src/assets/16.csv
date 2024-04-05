@@ -1,0 +1,461 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+16,1,If an engine has a total cylinder volume of 2100 cm3 and a swept volume of 1800 cm3 its compression ratio would be:,B,6: 1,7: 1,7: 6
+16,2,IHP is the power:,C,developed in the cylinder,measured at the propeller shaft,used to drive the accessories
+16,3,If ignition occurs when the piston is at 20o before TDC it is,C,retarded with respect to 18o before TDC,more advanced than 22o before TDC,more advanced than 18o before TDC
+16,4,How many valves are normally fitted to a standard single cylinder?,B,Four,Two,Six
+16,5,Maximum pressure in the cylinder is:,A,on the power stroke,on the compression stroke,on the exhaust stroke
+16,6,Valve overlap is :,C,when both valves are open over BDC on the induction/compression strokes,when both valves are closed together,when both valves are open over TDC on the exhaust/induction strokes
+16,7,"With an increase in RPM, valve overlap will:",B,increase,remain the same,decrease
+16,8,Friction horsepower is the power,B,Measured in the cylinder,"used to overcomethe friction of pistons, crankshafts and bearings etc",measured at the break shaft
+16,9,Compression ratio is the ratio between the,B,piston travel on the compression stroke and on the intake stroke,cylinder volume with piston at bottom dead centre and at top dead centre,combustion chamber pressure on the combustion stroke and on the exhaust stroke
+16,10,In a four stroke cycle the following actions occur:,B,Exhaust stroke follows the induction stroke,Compression stroke follows the induction stroke,Induction stroke follows the power stroke
+16,11,The speed at which valve timing gears operate is,C,crankshaft speed,twice crankshaft speed,half crankshaft speed
+16,12,In the four stroke cycle:,C,exhaust follows compression stroke,induction follows power stroke,compression follows induction stroke
+16,13,Pressure scavenging is obtained by valve:,C,lead on the inlet valve,lag on the exhaust valve,lead on the exhaust valve
+16,14,An Engine Type Certificate is issued by the :,B,Manufacturer,Licensing Authority,Operator
+16,15,What is the firing order of a 7 cylinder radial engie,A,1357246,1473625,1362574
+16,16,Valve lead is when the:,B,exhaust valve opens before the inlet valve,inlet valve opens before TDC and the exhaust valve opens before BDC,inlet valve opens before the exhaust valve
+16,17,Newtons's third law of motion states:,C,a change in motion is proportional to the force applied,a mass will remain at rest or in uniform motion unless acted upon by an external force,to every action there is an equal and opposite reaction
+16,18,"In the modified Otto Cycle, the reason for the inlet valve opening before the exhaust stroke T.D.C. is",B,to increase the pressure in the cylinder on completion of the induction stroke,to induce a greater amount of mixture into the cylinder,to allow the incoming mixture to mix with a certain proportion of exhaust gases
+16,19,Thermal efficiency is:,B,The ratio of the fuel it uses to the heat developed in the cylinder,The ratio of the work done by an engine to the heat energy of the fuel it uses,the heat of the induction charge
+16,20,The thermal efficiency of the engine can be increased by:,B,increasing the RPM,increasing the compression ratio,increasing the piston area
+16,21,The working cycle of a four-stroke engine is,B,"induction, power, compression, exhaust","induction, compression, power, exhaust","compression, induction, power, exhaust"
+16,22,If there is insufficient tappet clearance in an engineâ€™s inlet valve the result would be:,A,a weak mixture in that cylinder,popping back in the carburetor manifold,Misfiring
+16,23,The exhaust valve opens:,C,After BDC on the induction stroke,Before TDC on the exhaust stroke,Before BDC on the power stroke
+16,24,The Piston Engine is a machine devised for the purpose of converting:,A,Heat Energy into mechanical energy,Rotary motion of the crankshaft into torque,Pressure energy into mechanical energy
+16,25,Relative to TDC ignition timing is normally indicated as occurring at the following point:,A,Advanced,Normal,Retarded
+16,26,The number of revolutions of the crankshaft to complete a full cycle in a four-stroke engine,A,2,8,4
+16,27,A typical figure for thermal efficiency is:,A,25%,50%,85%
+16,28,"On the induction stroke, if the piston is at 100 after TDC the exhaust valve is",A,nearly closed,fully closed,fully open
+16,29,The five events of a four-stroke Otto cycle engine in the order of their occurrence are,B,"intake, ignition, compression, power, exhaust","intake, compression, ignition, power, exhaust","intake, power, compression, ignition, exhaust"
+16,30,Exhaust back pressure reduces:,A,volumetric efficiency,mechanical efficiency,thermal efficiency
+16,31,What is the rotational speed of a camshaft?,B,The same speed as the crankshaft,Half the speed of the crankshaft,Twice the speed of the crankshaft.
+16,32,"A cylinder has a clearance volume of 200 cubic centimeters and a swept volume of 1300 cubic centimeters, the compression ratio is:",B,6.5 : 1,7.5 : 1,5.5 : 1
+16,33,"The weight of charge, on the compression stroke, will:",C,increase,decrease,remain the same
+16,34,Mechanical efficiency of an engine is:,B,IHP/BHP,BHP/IHP,THP/IHP
+16,35,The amount of heat released during combustion that is converted into mechanical work is:,C,50%,85%,25%
+16,36,The inlet valve is opened before TDC:,C,so that both valves can be opened together,To blow the exhaust gases from the cylinder,To overcome the inertia of the induction fuel/air mixture
+16,37,Compression ratio is found by dividing the:,B,total volume by the swept volume,swept plus clearance volume by the clearance volume,swept volume by the clearing volume
+16,38,In which of the following orders do the four stroke occur:,B,"induction, power, compression, exhaust","power, exhaust, induction, compression","exhaust, compression, induction, power"
+16,39,The compression ratio of an engine cylinder,C,is the ratio of the clearance volume to the swept volume,is the ratio of the total volume to the swept volume,is the ratio of the total volume to the clearance volume
+16,40,The number of revolutions of the crankshaft to complete a full cycle in a 3-cylinder four stroke engine is:,A,2,8,4
+16,41,Exhaust valve lag is;,A,When the exhaust valve closes after TDC on the induction stroke,When the exhaust valve closes after BDC on the induction stroke,When the exhaust valve opens before BDC on the induction stroke
+16,42,Swept volume is equal to:,A,area of the cylinder multiplied by twice the crankthrow,area of cylinder multiplied by the crankthrow,diameter of the cylinder multiplied by the stroke
+16,43,The swept volume of a cylinder is,B,the volume of the cylinder with the piston removed,the difference in volume within a cylinder between piston TDC and BDC,the amount of air ejected through the exhaust port in one cycle
+16,44,Valve overlap is defined as the number of degrees of crankshaft travel,C,between the closing of the intake valve and the opening of the exhaust valve,during which both valves are on their seats,during which both valves are off their seats
+16,45,"The volume of the mixture, on the power stroke will:",C,decrease,remain the same,increase
+16,46,Valve lead is the term applied when the inlet valve opens before:,C,Bottom dead center,The exhaust valve,Top dead center and the exhaust valve opens before bottom dead center
+16,47,The inlet valve opens:,A,Before TDC on the exhaust stroke,Before BDC on the compression stroke,After TDC on the induction stroke
+16,48,The four strokes of the Otto cycle in order are:,C,compression induction power exhaust,ignition compression power exhaust,induction compression power exhaust
+16,49,The weight of the charge in a cylinder during compression assuming no valve leaks,C,decreases,increases,remains the same
+16,50,Valve overlap is,B,the amount in piston movement that the inlet valve remains open after T.D.C.,the amount in degrees of crankshaft rotation that the inlet and exhaust valves are open at the same time,the amount in piston movement that the inlet valve remains open after B.D.C.
+16,51,The camshaft of a horizontally opposed 4 stroke engine rotates,A,at half engine speed,at twice engine speed,at engine speed
+16,52,Pressure scavenging is initiated by:,B,Opening the exhaust valve after BDC on the exhaust stroke,Opening the exhaust valve before BDC on the power stroke,Closing the exhaust valve after TDC on the inlet stroke
+16,53,The compression ratio of a piston engine,C,will increase with an increase in engine rev/min,will increase with an increase in manifold pressure,is a constant factor for a particular engine
+16,54,One purpose of the crankshaft is to,C,move the pistons,open and close the valves,drive the accessory gearbox
+16,55,If the piston is travelling toward TDC the engine is on the:,C,induction stroke,power stroke,compression stroke
+16,56,A single cylinder four stroke engine provides one power stroke for every:,B,crankshaft revolution,two crankshaft revolutions,a half crankshaft revolution
+16,57,Engine power depends upon:,B,the revolutions per minute (rev/min),the rev/min compression ratio and combustion pressure,the rev/min and the efficiency of the ignition
+16,58,The power output of the engine is determined by:,C,the number of cylinders,altitude,weight of the induced charge
+16,59,Brake horse power is the power:,A,available to do external work,developed in the cylinder,used to overcome friction
+16,60,Indicated mean effective pressure is:,B,the power available at the crankshaft,the average pressure developed within the engine,the pressure developed by the engine
+16,61,"During the Modified four-stroke cycle, when does ignition take place",C,At TDC on the power stroke,After TDC on the power stroke,Before TDC on the compression stroke
+16,62,Length of the stroke is:,A,twice the crank throw,Â½ crank throw,equal to crank throw
+16,63,What is the compression ratio of an engine with a total volume of 1300 CC and a swept volume of 1100 CC?,C,13.1,5.5:1,6.5:1
+16,64,As engine speed increases the ignition point is:,C,remains the same,retarded,advanced
+16,65,During the theoretical four-stroke cycle the inlet valve is:,C,Open together with the exhaust valve on the exhaust stroke,Opened before TDC on the exhaust stroke,Closed at BDC on the induction stroke
+16,66,During the compression stroke the temperature of the charge,C,stays the same,decreases,increases
+16,67,Valve clearance must be maintained to allow for:,A,thermal expansion,wear in the rocker arm,wear in the valve stem
+16,68,Valve overlap is incorporated in a piston engine to,C,prevent a weak-out when the engine is accelerated rapidly,increase the engine compression ratio,improve volumetric efficiency
+16,69,Aero-engines are designed with high compression ratios in order to:,A,increase the horse power,avoid detonation,maintain power at high altitudes
+16,70,"As an aircraft climbs, the air density will:",B,increase,decrease,remain the same
+16,71,What effect will the selection of economical cruise have on the air/fuel ratio?,B,It will be at stoichiometric,It will be weaker than stoichiometric,It will be richer than stoichiometric
+16,72,Due to the decrease in density associated with an increase inaltitude:,C,the mixture must be enriched to compensate for power,the throttle needs to be close to maintain the best fuel air,the mixture needs to be weakened
+16,73,If the mixture is weakened below the best power fuel/air ratio the engine power will,C,"initially increase , but below take off power will decrease",increase,decrease
+16,74,A rich mixture will be indicated by:,A,loss of power and decrease in engine temperature,will have no indication,increase in power and increase in engine temperature
+16,75,When does the engine produce best power?,C,Throughout the whole range,At take off,At about 12.5:1 air/fuel ratio
+16,76,At altitude the power of a normally aspirated engine:,C,increases,increases initially then decreases,decreases
+16,77,The horsepower developed in the cylinders of a reciprocating engine is known as the,A,indicated horsepower,brake horsepower,shaft horsepower
+16,78,The thermal efficiency of piston engine increases with an increase in:,B,piston diameter,compression ratio,engine speed
+16,79,Maximum engine speed is varied by,A,moving the PCU lever,command from the FCU,moving the throttle lever
+16,80,The fuel flow to a piston engine will vary with:,C,rev/min and throttle position only,rev/min and mixture selection only,"rev/min, throttle position and mixture"
+16,81,How does injection of water or water-alcohol during high power output increase the available power of reciprocating engines ?,B,By improving volumetric efficiency,By suppressing detonation,By increasing the weight of charge
+16,82,An increase in temperature will:,C,have no effect on density.,cause an increase in density,cause a decrease in density.
+16,83,A weak mixture will be indicated by:,B,will have no indication,loss of power and rise in engine temperature,an increase in power and drop in engine temperature
+16,84,The mixture on take-off and climb is supplied over-rich:,C,to give greater thermal efficiency,to give excess power,to assist in cooling and prevent detonation
+16,85,Black smoke emitting from an exhaust system is indicative of:,A,an over rich mixture.,a very lean mixture.,an oil leak in the inlet manifold.
+16,86,"When black smoke is seen in the exhaust, it is an indication of",A,a rich mixture,an oil leak into the exhaust,a weak mixture
+16,87,The ratio of the power produced by an engine to the power available in the fuel is known as,C,specific fuel consumption,indicated horse power available,thermal efficiency
+16,88,The margin between power required and power available:,A,"decreases, because power required increases and power available decreases with increasing altitude",increases with altitude due to the change in power requirements,increases with altitude because power available decreases as density decreases
+16,89,Detonation is recognised by:,A,metallic knocking noise from the engine,loss of power,Fluctuating RPM
+16,90,The specific fuel consumption of an engine,C,is the ratio of the quantity of fuel consumed per hours at economical cruising power to the quantity of fuel consumed per hour at take-off,is the quantity of fuel consumed per hour at maximum take-off power conditions,is the quantity of fuel consumed per horse-power developed per hour
+16,91,The effect of altitude on a normally aspirated engine is to:,A,reduce the power output,increase exhaust back pressure,reduce engine revolutions
+16,92,Brake Mean Effective Pressure is,A,the average useful working pressure applied to the piston during the working stroke,the minimum working pressure obtained in a cylinder,the maximum working pressure reached in the engine cylinder
+16,93,Specific fuel consumption is the,B,Number of horse power produced by one pound of fuel,Number of pounds of fuel burned per hour to produce one horse power,Number of pounds of fuel consumption to produce one break horse power
+16,94,Brake horse power is the power:,C,developed in the cylinders,used to overcome friction,available to do external work on the propeller shaft
+16,95,Indicated Horse Power is the power:,B,used to drive the accessories,developed in the cylinder,measured at the propeller shaft
+16,96,"As an aircraft climbs at a fixed throttle setting, the mixture will:",C,become leaner.,remain the same.,become richer.
+16,97,Volumetric efficiency of a piston engine is an indication of the efficiency with which,C,compression is achieved,expansion takes place after combustion,the cylinder fills with fresh charge
+16,98,To ensure that the mixture strength remains constant with a decrease in air density the fuel flow rate needs to be :,B,kept constant,decreased,increased
+16,99,The margin between power required for flight and power available from the engine,B,is substantially unaffected by altitude since both alter at the same rate,decreases at altitude due to the increase in the power required and the decrease of the power available,widens at altitude because of the decline in the power available
+16,100,The main difference between detonation and pre-ignition is that:,A,pre-ignition occurs before normal ignition and detonation occurs after normal ignition,"detonation occurs before normal ignition, while pre-",there is no basic difference as they both cause excessive temperature
+16,101,An increase in engine speed will provide more power due to the increase in:,B,specific fuel consumption,weight of fuel burned in a given time,the compression ratio
+16,102,For what duration can an engine be run at maximum continuous power?,A,For an unlimited duration,Unrestricted duration with economical cruising mixture strength,For a duration of 5 minutes only
+16,103,The greater the weight of combustion mixture in the cylinder:,C,the weaker is the mixture,the more the power is decreased,the greater is the power developed
+16,104,To obtain an increase in power without detonation:,C,a lower octane rating fuel is necessary,a weak mixture is necessary,a rich mixture is necessary
+16,105,At altitude the effect of exhaust back pressure is to,C,decrease power,has no effect on power,increase power
+16,106,"The higher the aircraft climbs, the availability of oxygen for combustion becomes",B,sufficient,less,more
+16,107,The actual power delivered to the propeller of an aircraft engine is called,A,brake horsepower,mean effective horsepower,friction horsepower
+16,108,When calculating the indicated horsepower (IHP) by using the PLANK formula. N in the formula stands for,B,Number of cycles per minute,Number of strokes per minute,Number of cylinders
+16,109,Detonation can be caused by:,A,a very lean mixture,low compression within the cylinders.,an over rich mixture
+16,110,"The air mixture control valve, when operated to compensate for altitude, will",C,increase the pressure difference between the venturi and the float chamber,ensure the pressure difference between the venturi and the float chamber remains unaltered,decrease the pressure difference between the venturi and the float chamber
+16,111,Valve overlap will,A,improve volumetric efficiency,cause the loss of volumetric efficiency which is Compensated for by the increase in thermal efficiency,not affect volumetric efficiency
+16,112,The hottest part of the cylinder at piston mid stroke is,B,the cylinder walls,the cylinder head,the cylinder mounting flange
+16,113,Detonation is:,C,incorrect ignition in the engine cylinder/s,the automatic richening of the mixture,unstable combustion in the engine cylinder/s
+16,114,The ratio of air to fuel during normal engine operations (cruise) is about:,C,10 to one,one to 15,15 to one
+16,115,Crankcases are normally manufactured from,A,aluminium alloy,stainless steel,cast iron
+16,116,"On an inverted V in-line engine, the crankshaft will be fitted",B,horizontal with the cylinders,above the cylinders,below the cylinders
+16,117,A crankshaft journal rotates in:,B,connecting-rod big end,a main bearing,connecting-rod small end
+16,118,Valve springs are made of:,C,aluminum alloy,phospher bronze,special steel
+16,119,The tappet is located at the:,C,valve end of the rocker arm,crankshaft end of the rocker arm,camshaft end of the rocker arm
+16,120,Piston engines which have horizontally placed cylinders are called:,C,‘V’ inline engines,radial engines,Flat opposed engines
+16,121,The exhaust valve is cut to an angle of:,C,600,300,450
+16,122,If the valve clearance was too large the valve would:,C,"open early, close late","open late, close late","open late, close early"
+16,123,Multiple springs are used on poppet valves in aero engines:,A,as a safety measure and to reduce valve bounce,to increase the thermal efficiency of the engine,to reduce the amount of valve lift
+16,124,The master rod and articulated connecting rod arrangement is fitted to:,C,V Type engines,In-line cylinder engines,Radial engines
+16,125,The part of the rocker arm in contact with the valve is called:,C,the cam follower,the push-rod,the rocker pad
+16,126,The inside of some cylinder barrels is hardened by,C,nickel plating,shot peening,nitriding
+16,127,The master rod of a radial engine connecting rod assembly,B,has only one articulated rod fitted,is attached to the crank pin,is secured by a wrist pin
+16,128,The valves are closed by:,A,springs,camshaft,rocker arm
+16,129,Odd numbered cylinders on a two row radial engine will be found,A,in the rear row,starting at the propeller end,in the front row
+16,130,Inlet and exhaust valve seat angles are normally:,A,between 20 and 45,between 60 and 90,between 20 and 30
+16,131,The piston ‘crown’ is:,C,the two holes housing the gudgeon or piston pin,the “skirt like” end of the piston,the flat face on the upper part of the piston
+16,132,The cylinder barrel is made of alloy steel because:,,it must withstand high pressure of combustion,it has to be much lighter,it must keep the heat in the cylinder
+16,133,The sump is fitted to:,A,the bottom of the crankcase,the cylinder heads,the accessory gearbox
+16,134,The valve clearance is measured between:,C,the rocker arm and the push-rod,the push-rod and the cam follower,the valve stem and the rocker pad
+16,135,A camshaft will be fitted to,A,an in-line engine,any radial or in-line engine,a radial engine
+16,136,The input drive into the accessory section is normally taken from the,A,crankshaft,piston Connecting Rods,camshaft
+16,137,An advantage of an overhead camshaft is:,A,fewer moving parts,easier to time the valves,more efficient valve operation
+16,138,Smaller in-line engines are usually inverted because:,B,they fit the airframe better,they do not obstruct the pilot’s forward vision,they look more streamlined
+16,139,Exhaust valves are usually hollow and contain sodium to:,C,make them lighter,make them thicker,assist in cooling
+16,140,The crankshaft journals,C,support the connecting rods,allow the cam lobes to move each valve in turn,allow the bearings to be fitted to support the crankshaft
+16,141,A Cam Lobe is the part of a Cam which provides:,A,lift for the tappet,Camshaft adjustment,a period where the Cam is inoperative
+16,142,The big end shells are normally manufactured from,B,ferrous metal,non ferrous metal,composite Materials
+16,143,The crankshaft is accurately balanced to:,C,assist lubrication,fit more easily,minimize vibration
+16,144,A small-end bearing will be found on the connecting rod,B,supporting the inlet valve,at the piston end,at the crankshaft end
+16,145,The ‘big end’ of the connecting rod is connected to:,C,the gudgeon or piston pin,the main bearing,the crank pin
+16,146,The “small end” of the connecting rod is connected to:,A,the gudgeon or piston pin,the crank bearing,the crankpin
+16,147,The gudgeon pin,C,connects the articulated rod to the master rod,attaches the connecting rod to the crank pin,attaches the connecting rod to the piston
+16,148,If there are four cylinders on an engine there are:,A,4 crank throws,6 cranks throws,8 crank throws
+16,149,Collets located on valve stems are fitted to:,C,prevent spring bounce,help dissipate the heat,retain the spring caps on the stem
+16,150,Valve Seats are faced with,A,Stellite,Inconel,Hiduminium
+16,151,Cylinder barrels are manufactured from,C,bronze,aluminum Alloy,steel
+16,152,The component that actuates the valves is called:,C,push rod arm,valve arm,rocker arm
+16,153,The valve with the larger diameter,B,depends on the design of the engine,is the inlet,is the exhaust
+16,154,One of the special qualities of the metal used in piston rings is:,A,wear resistance,easy to remove,easy to fit
+16,155,Metallic sodium is used:,A,in exhaust valves,only on Camshaft engines,in inlet valves
+16,156,The sideways movement of the piston ring in the groove can be checked with a:,B,spirit level and feeler gauges,straight edge and feeler gauges,Dial Test Indicator
+16,157,"Two springs are fitted, one inside the other, to:",B,keep the valves open,provide a safety factor and prevent valve bounce,lock the valves in place
+16,158,A gudgeon pin is fitted:,A,At the connecting rod small end,On the crank pin,At the connecting rod big end
+16,159,The piston is usually made of:,C,steel,cast iron,aluminum alloy
+16,160,On a four cylinder engine the crank throws are:,B,160o apart,180 o apart,120 o apart
+16,161,The inlet valves are held closed:,B,by the action of the rocker arms,by the force exerted by the valve springs,by gas pressure on the compression stroke
+16,162,Some propellers are fitted with accumulators for the purpose of,A,unfeathering the propeller,providing standby fine pitch control,feathering the propeller
+16,163,Blue smoke being emitted from the exhaust manifold is an indication of:,C,Worn big end shells.,Rich mixture.,Worn piston rings.
+16,164,What part of an in-line engine supports the crankshaft and its bearings?,C,The accessory gearbox,The nose section,The crankcase
+16,165,On a piston there are usually:,A,two compression and one scraper ring,two compression and two scraper rings,two scraper and one compression rings
+16,166,Journal bearings are,A,softer than the crankshaft material,the same hardness as the crank material to gain even wear,harder than the crankshaft material
+16,167,The inlet valve is cut to an angle of:,B,600,300,450
+16,168,How many throws are there on a crankshaft fitted to a radial engine with only a single row of cylinders?,A,1,2,4
+16,169,The cylinder head is generally made of:,B,brass,aluminum alloy,high grade steel
+16,170,A valve stem may be filled with,A,sodium,salt,copper
+16,171,On a six cylinder crankshaft there are:,C,12 crankthrows,3 crankthrows,6 crankthrows
+16,172,The purpose of two or more valve springs in aircraft engines is to,B,equalise side pressures on the valve stems,eliminate valve bounce,reduce valve stretch
+16,173,Which engine component houses the crankshaft main bearings:,C,the wheelcase,the accessories gearbox,the crankcase
+16,174,A cam ring will be fitted on:,B,an opposed engine,a Radial engine,an in-line engine
+16,175,Hydraulic valve tappets are used on some engines to:,A,eliminate constant valve adjustments and checks,give more positive valve action,eliminate valve bounce
+16,176,The valve clearance allows for:,A,Heat expansion of the valves,Weakening of the valve,Wear on the push-rods
+16,177,How is the dynamic balancing of a crankshaft achieved?,B,By having fixed balance weight,By incorporating moving pendulum balance weights,By static balancing
+16,178,The accessory housing provides the mounting for:,,"fuel, oil, hydraulic, pneumatic pumps, etc.",the cylinders,the propeller
+16,179,Sodium-filled valves are advantageous to an aviation engine because they,C,are lighter,have great strength properties,dissipate heat well
+16,180,The connecting rod is attached to the:,,crankthrow,crankpin,crankweb
+16,181,How many compression rings are normally fitted to a piston?,B,6,3,5
+16,182,The camshaft is driven at:,B,crankshaft speed,half engine speed,twice engine speed
+16,183,The connecting rod is usually made of:,A,high tensile steel,aluminum alloy,cast iron
+16,184,Piston rings are of three main types:,C,"oil control, self adjusting, multi-blade","scraper, compression, Z-Section","compression, oil control, scraper"
+16,185,Compression rings are manufactured from,B,Stainless Steel,Cast Iron,Metallic sodium
+16,186,What component parts of the camshaft move the valve arm connecting rods to ensure a correct opening sequence?,C,The drive train,The journals,The lobes
+16,187,The connecting rod is subjected to:,A,tensile and compression loading,shear loading,impact loading
+16,188,An exhaust valve is surface hardened with,A,stellite,inconel,surface hardened
+16,189,The purpose of the crankcase breather is:,C,to prevent distortion of the crankcase,to keep pressure in the oil tank the same as outside,to prevent pressure building up inside the engine
+16,190,The crankshaft converts:,A,reciprocating into rotary motion,axial into centrifugal motion,rotational into linear motion
+16,191,To what part of the crankshaft is the connecting rod fitted?,A,The crank pin,The journal,The cheek
+16,192,Tappet clearance is measured between the:,A,valve tip and rocker arm,valve spring and rocker pad,valve tip and rocker cover
+16,193,Valve guides are fitted to,B,allow ease of removal of the valves,prevent wear in the valve holes in the cylinder head,prevent wear of the valve seats
+16,194,Valve clearance must be maintained to allow for:,C,wear in the valve stem,wear in the rocker arm,thermal expansion
+16,195,Oil control rings are fitted:,A,below the compression rings,above the compression rings,in between the compression rings
+16,196,The purpose of valve springs is:,A,to close the valves,to set the timing,to obtain a ‘snap’ opening of the valves
+16,197,Full floating piston pins (or gudgeon pins) are those which allow motion between the pin and,B,the piston,both the piston and the connecting rod,the connecting rod
+16,198,The cylinder numbering system for a radial engine is determined in a clockwise direction. This is viewed,B,from the front,from the rear,from the propeller shaft end
+16,199,‘Clearance’ is necessary between the valve stem and the rocker arm pad to allow for:,B,Valve timing adjustments,Expansion during operation,Manufacturing tolerances.
+16,200,Some aircraft engine manufacturers equip their product with choked or taper-ground cylinders. The reason choke-type cylinders are used is to,B,reduce the possibility of piston rings sticking in the ring grooves.,provide a straight bore at operating temperature.,compensate for normal cylinder barrel wear
+16,201,Piston rings are usually made of:,C,high tensile steel,aluminum alloy,special grade of cast iron
+16,202,The use of prolonged carburetor heating will cause:,A,a decrease in power,an increase in power.,the fuel to evaporate more quickly
+16,203,"If the main air bleed of a float-type carburettor becomes clogged, the engine will run",A,rich at idle,lean at idle,lean at full power
+16,204,Upon what principle does the back-suction type mixture control operate?,A,By varying the pressure acting on the fuel in the float chamber,By varying the pressure within the venturi section,By altering the height of the fuel in the float chamber
+16,205,In a Bendix Injector system the flow divider:,A,keeps fuel metered pressure constant,is open for fuel flow at all times,keeps air pressure constant
+16,206,What is fitted in a PIC to ensure the fuel valve remains open enough to supply adequate fuel for idle RPM,A,A spring in the regulator.,A spring in the vapour vent,A diaphragm in the mixture control
+16,207,In a Bendix Injector system the air bleed nozzles are fitted in:,A,in each cylinder head adjacent to the inlet valve,in the injector throttle area,each induction manifold
+16,208,One physical principle that is widely used in piston engine fuel metering device is,A,Bernoulli’s principle,Bowel’s principle,Pascal’s principle
+16,209,Information relating to the carbon monoxide contamination of exhaust heater systems will be found in Airworthiness Notices No.,C,50,10,40
+16,210,What does the enrichment jet supply fuel for?,A,Rich mixture at take-off for cooling,Rich mixture at cruise to prevent engine stall,Rich mixture at idle for smooth running
+16,211,With a back suction economizer the pressure of in the economizer channel at full throttle is,C,approximately the same as atmospheric,approximately the same as in the aneroid,approximately the same as the venturi
+16,212,Air flow through the venturi of a carburetor causes,A,a drop of pressure at the throat,a rise of pressure at the throat,a reduction of air velocity at the throat
+16,213,"To control the volume of air that passes through a venturi, all carburetors are equipped with",B,an adjustable restrictor,a throttle valve,variable guide vanes
+16,214,"In a PIC with a fuel control unit, which jet is in series with the auto rich jet?",A,The power jet,The auto lean and the power jets,The auto lean jet
+16,215,Fuel priming is used:,C,to prime the fuel pump,to provide a rich mixture for take-off,to provide a rich mixture for start-up
+16,216,The function of an accelerator pump in a carburetor,C,is to pressurize the fuel in the float chamber so allowing more fuel to pass through the main jet,is to assist in atomizing the fuel before it leaves the discharge nozzle,is to temporarily enrich the mixture by pumping more fuel into the induction system
+16,217,When icing conditions prevail the accumulation of ice may take place:,A,in the venturi of the carburetor so restricting the air flow,"on top of the fuel in the carburetor, so restricting the fuel flow",in the air passages of the carburetor so altering the mixture strengths
+16,218,The vapour vent in the regulator unit of a PIC is vented to,C,the atmosphere,the impact air tube,the aircraft fuel tank
+16,219,In a Bendix Injector system the regulator section senses:,C,fuel pump delivery pressure and throttle air pressure,venturi pressure and metered fuel pressure,fuel pump delivery pressure and metered fuel pressure
+16,220,The slow running fuel is ducted to:,C,the induction manifold,the main fuel nozzle,the area at the tip of the throttle valve
+16,221,What prevents an over rich mixture in a back suction type mixture control?,B,The diffuser,Reduced venturi pressure via the idle cut off line,The venturi
+16,222,Complete combustion of a fuel ideally occurs:,C,with an air/fuel ratio of 12.5 : 1,with an air/fuel ratio of 8 : 1,with an air/fuel ratio of 15 : 1
+16,223,The needle type power and enrichment jet supplies fuel,C,directly to the main jet,instead of the main jet,in addition to the main jet
+16,224,Overheating of a piston engine is likely to result from:,A,an excessively weak mixture,an excessively rich mixture,an excessively high barometric pressure
+16,225,The ability of fuel to change from liquid to vapor is called,A,Volatility,Instability,Evaporability
+16,226,"On a float-type carburettor, the purpose of the economizer valve is to",C,maintain the leanest mixture possible during cruising best power,provide extra fuel for sudden acceleration of the engine,provide a richer mixture and fuel cooling at maximum power output
+16,227,The accelerator pump provides fuel:,C,at slow-running only,at all time,during opening of the throttle for increasing RPM
+16,228,"In the automatic mixture control, the servo piston is moved by the",A,engine oil pressure,diffuser air pressure,pump fuel pressure
+16,229,"In a carburetor, the primary function of a diffuser;",B,is to provide adjustment of the slow running speed,is to control mixture strength over part of the engine speed range,is to vent air from the float chamber
+16,230,When the manual mixture control lever attached to the FCU of a PIC is selected 'cut-off',C,all three holes of the FCU are uncovered,only the two smaller holes are uncovered,all three holes are covered
+16,231,The carburetor venturi creates a:,B,pressure at the throttle valve,depression over the fuel nozzle,pressure over the fuel nozzle
+16,232,Adjustment of the idle speed stop screw alters,C,the closed position of the mixture control,the idle mixture strength,the closed position of the butterfly valve
+16,233,The accelerator pump discharges fuel into the,B,pressure balance duct,venturi,float chamber
+16,234,"The automatic accelerator pump is operated by a spring and air pressure, the air pressure is taken from:",A,downstream of the throttle valve,the venturi throat.,the mixture control valve
+16,235,Where is the fuel priming charge delivered to:,,into the cylinder adjacent to the spark plug,into the induction manifold,into the carburetor venturi
+16,236,"In a carburetor, if the difference in static air pressure between the fuel discharge nozzle and the float chamber is reduced (ie. The static pressure become closer in value)",B,"due to the increased float chamber pressure, the fuel flow will tend to increase",the mixture will tend to weaken due to the reduction in fuel flow,the power loss associated with altitude will be reduced
+16,237,"In the regulator unit of a PIC, when the engine is running",A,chamber A impact pressure is greater than chamber B venturi pressure,chamber C metered fuel pressure is greater than chamber D regulated fuel pressure,chamber D regulated fuel pressure is greater than chamber E fuel pump pressure
+16,238,In the Bendix injector the airflow section senses:,C,impact air and throttle air pressure,venturi air and throttle air pressure,impact air and venturi pressure
+16,239,Detonation causes high cylinder head temperature because the fuel mixture,A,burns too fast,is too rich,burns too slow
+16,240,"In an engine fitted with a carburetor, the presence of an engine driven fuel pump:",B,dispenses with the need for a carburetor float chamber,ensures a positive flow of fuel to the float chamber,dispenses with the need for a fuel primer
+16,241,"When running up an engine before take-off, the carburetor heat control should be set to:",B,off,on,the mid-way position
+16,242,In a PIC where is the injector nozzle fitted?,C,In the venturi,In the impact tube,Downstream of the throttle valve
+16,243,What part of an aircraft in flight will begin to accumulate ice before any other?,B,Wing leading edge,Carburettor,Propeller spinner or dome
+16,244,Carburettor icing will occur between,C,00 C to -180 C,00 F to -8 0F,00 C to -80C
+16,245,The carburetor meters:,B,air only for the engine,fuel and air for the engine,fuel only for the engine
+16,246,Black smoke emitting from an exhaust pipe manifold is an indication of:,A,Over rich mixture.,Fouled spark plugs.,Worn piston rings.
+16,247,Two common terms are often used to describe fuel-air mixture are,B,poor and rich,lean and rich,high and low
+16,248,"To allow the air to enter and leave the float chambers as the fuel level rise and falls, all float chambers are facilitated with",A,vents,covers,valves
+16,249,"At idle, the air/fuel ratio is",A,richer than stoichiometric,the same as stoichiometric,weaker than stoichiometric
+16,250,The narrowest part of the venturi is called:,B,the choke,the throat,the neck
+16,251,Where does an accelerator pump deliver fuel?,B,To the top of the float chamber,To the air going to the venturi,To the edge of the throttle valve
+16,252,When air flows through a venturi there will be,B,an increase in temperature and pressure,a decrease in pressure and temperature,an increase in pressure an a decrease in temperature
+16,253,What component is used to ensure fuel delivery during periods of rapid acceleration?,B,Water injection pump,Acceleration pump,Standby carburettor
+16,254,Carburettor icing will cause:,A,a rich mixture,a weak mixture,no affect at all
+16,255,"At idle, where is the fuel delivered to?",C,The throat of the venturi,The top of the mixture control valve,Adjacent to the edge of the throttle valve
+16,256,"In the automatic mixture control, the aneroid capsule is vented to",C,the venturi,the diffuser,Atmosphere
+16,257,"In a piston engine, the purpose of an altitude mixture control is",A,to correct for variation in the fuel/air ratio due to decreased air density at altitude,to richer the mixture strength due to decreased air density at altitude,to weaken the mixture strength because of reduced exhaust back pressure at altitude
+16,258,"To provide for proper engine operation under various engine loads, speeds and air densities, most carburetors include at least the following systems",B,"main metering, power enrichment, idling and mixture control","mixture control, idling, main metering and acceleration","main metering, idling, mixture control, accelerating and power economizer"
+16,259,A typical mixture strength for climbing power is:,C,20: 1,8: 1,12 : 1
+16,260,"For take-off power, the mixture strength should be:",C,very weak,normal,very rich
+16,261,Vents are incorporated in fuel tanks to,B,prevent overfilling of the tanks,prevent a depression forming in the tank which would affect the fuel flow rate,purge the tanks of fuel vapor when empty
+16,262,A charge of 0.083 to 1 equals a fuel to air ratio of,C,12:1,6.1,0.083
+16,263,Air through the venturi:,A,decreases in pressure,remains constant,increases in pressure
+16,264,"What will happen to the air/fuel ratio of a float chamber carburetor without a mixture control, when the aircraft climbs to altitude?",B,It will go weak,It will go rich,It will remain unaltered
+16,265,If the mixture is weakened below the best power fuel/air ratio the engine power will:,B,"initially increase , but below take off power will decrease",decrease,increase
+16,266,"When fuel priming is used to assist engine starting, a quantity of fuel is supplied directly to",B,the inside of the combustion chamber in the region of the sparking plug points,the induction manifold,the carburetor butterfly valve
+16,267,In a Bendix Injector system fuel from the airflow section and regular system passes to:,A,the flow divider,the induction manifolds,the throttle valve
+16,268,"If an aircraft engine is equipped with a carburettor that is not compensated for altitude and temperature variations, the fuel/air mixture will become",C,richer as the altitude increases and leaner as the temperature increases,leaner as either the altitude or temperature increases,richer as either the altitude or temperature increases
+16,269,There is an air leak between the fuel priming line and the engine. This would:,C,cause a weak mixture at idling and low engine revolutions,cause a rich mixture at idling and low engine revolutions,prevent the engine starting or continuing to run
+16,270,A fuel/air mixture of .083 lb of fuel to 1 lb of air is a mixture ratio,,8.3: 1,6 : 1,12 : 1
+16,271,The pressure balance duct maintains the balance of pressure between:,A,the carburetor inlet and the float chamber,the engine compartment and the float chamber,the throttle and the float chamber
+16,272,"In a PIC fitted with an idle/enrichment valve, at idle the valve is held off its seat by",C,fuel pressure,air pressure,mechanical linkage
+16,273,"In the air bleed mixture control with the control valve fully open allowing atmospheric pressure into the float chamber, the mixture is",A,fully rich,economical weak,at cut off
+16,274,Fuel is drawn from the float chamber by:,B,pressure in the float chamber,depression in the throat area,pressure in the throttle area
+16,275,"In a PIC fitted with a fuel control unit, the power valve is opened by",A,fuel pressure above the rich cruise range,mechanical linkage from the throttle valve at take off,air pressure in the power range
+16,276,Air for the diffuser is ducted from:,A,the pressure balance duct,the throttle area,the engine compartment
+16,277,An accelerator pump provides extra fuel to:,B,ensure a good starting procedure,prevent a ‘flat spot' on rapid power increase,provide extra rich mixture for take-off
+16,278,The purpose of a choke tube in a carburetor:,B,is to prevent enrichment of the mixture due to high air velocity through the carburetor,is to create the depression necessary to cause fuel to flow through the carburetor jets,is to ensure complete atomization of the fuel before entering the induction system
+16,279,A fuel supply boost pump may be required to prevent boiling or vapor locks in the fuel due to the,A,decreased atmospheric pressure at altitude,very weak mixtures required at altitude,rich mixture used at high power
+16,280,An electrically driven auxiliary fuel pump,B,eliminates the need for a carburetor float chamber since it ensures a positive supply of fuel,ensures a positive flow of fuel to the engine particularly when a high fuel flow is demanded,eliminates the need for a tank venting system
+16,281,The use of carburettor air heater when it is not needed causes,A,a decrease in power,excessive increase in manifold pressure,a very lean mixture
+16,282,The airflow enrichment valve fitted to some PICs is located,A,in a fuel line parallel to the fuel line to the main jet,in the line connecting the automatic and manual mixture controls,in the fuel line between the accelerator pump and the discharge nozzle
+16,283,If a magneto becomes earthed,B,the switch will fail to stop the engine,the magneto will cut out,the engine will operate as normal
+16,284,The magneto of an engine fitted with a constant speed propeller should be checked,B,in full coarse pitch,in fully fine pitch,while propeller is constant speeding
+16,285,"When a magneto switch is set to OFF, how is the magneto made safe?",B,Earth one end of the circuit,Earth both ends of the circuit,Mageneto is already safe if its switch is set to OFF
+16,286,Sparks from a magneto in a confined structure cause what problem?,B,Open circuits in the HT coil,Flashover,Open Circuits in the LT coil
+16,287,Burned magneto points are caused by,B,A faulty distributor,A faulty capacitor,a fault in the ignition harness causing the spark to occur internally
+16,288,The engine is checked for dead cut at:,A,slow running,full throttle,cruising RPM
+16,289,With the Magneto Switch in the off position the magneto is:,C,Closed Circuit,Open Circuit,Earthed
+16,290,The engine is checked for a dead cut at slow running:,A,to check ignition system before tests at higher engine revolutions,to check operation of both plugs in the cylinder,to check ignition at high and low engine revolutions
+16,291,When might an engine use fine wire spark plugs rather than massive electrode plugs,C,When greater power is required,When engine weight is an issue,When plug fouling is an issue
+16,292,What is the purpose of the wire braid covering HT ignition leads?,B,To ensure no short citcuits occur,To prevent radio interference,To prevent damage to the leads
+16,293,The magnetos:,A,provide the high voltage at the spark plugs,provide power for the aircraft electrical system,provide power to charge the batteries
+16,294,As engine speed increases the position of the ignition spark is:,C,not altered,retarded,advanced
+16,295,An impulse starter is a device to assist in starting an engine which uses:,A,a coil spring to increase momentarily the speed of rotation of the magneto,a special starting battery which provides a sudden impulse of electricity to the plugs,an explosive inserted in a special tube
+16,296,What will happen if a magneto becomes disconnected from the switch?,B,The other magneto will carry full load,The switch fails to stop the engine,The engine will cut out
+16,297,The supply in a magneto is transformed from low to high tension by:,A,the rapid reversal of the field in the primary windings reacting with the secondary windings,the turning of the distributor arm causing a rapid decay,a magnetized rotor turning between magnetized pole pieces
+16,298,What is the purpose of the resistor built into the centre electrode of most spark plugs?,B,To reduce the voltage released by the spark,To minimse the current flow for each spark,To minimise wear of the electrode caused by the high voltage spark
+16,299,Ignition harnesses have rigid outer conduits:,A,To reduce radio interference and prevent damage,To prevent damage,To reduce radio interference
+16,300,Why is it important to ensure the correct 'reach' of spark plug is used?,B,To ensure sufficient power from the spark,to ensure the correct position of the spark,To ensure correct timing of the spark
+16,301,When using a timing light to test a magneto what does the light illuminating indicate,A,That the points are just opening,That the points are just closing,That the points have closed fully
+16,302,Prior to turning the propeller you must:,C,Ensure the plugs are earthed,Ensure the magnetos are armed,Ensure the mag switches are off
+16,303,A High Tension Booster Coil supplies a high tension:,C,current to supplement an inadequate current of the primary circuit at low speeds,current direct to the sparking plug,voltage direct to the rotor arm retarded electrode
+16,304,The starter light remains on after engine start. This indicates,C,no problem as this is normal,the starter motor is still engaged and the engine must be stopped and the cause investigated,there is still power being supplied to the starter motor
+16,305,Magnetos should be checked at slow running to ensure that:,A,the control of the ignition system is correct before an ignition check is carried out at higher power,The magneto drop is not excessive at both low and high rev/min,both sparking plugs are functioning correctly in individual cylinders
+16,306,The purpose of a condenser as fitted in a magneto is to:,A,assist in the rapid break down of the primary current and prevent arcing at the contact breaker points,reduce the high tension voltage of the secondary circuit,delay the rapid break down of the primary current and prevent arcing at the points
+16,307,The spark-plug is usually fitted into:,B,the crankcase,the cylinder head,the cylinder wall
+16,308,A magneto impulse coupling provides:,B,a retarded spark for idling and an advanced spark for higher rev/min,a stronger retarded spark for starting,a means of adjusting the magneto internal timing
+16,309,Which statement is correct regarding a four-stroke cycle aircraft engine?,B,The intake valve opens on the intake stroke,The intake valve closes on the compression stroke,The exhaust valve opens on the exhaust stroke
+16,310,"On a liquid cooling system, how is heat dissipated?",C,by cooling air around the cylinder fins,by opening cowling flaps,by cooling air through a radiator
+16,311,"In an air cooled aero-engine, cooling air is directed around the cylinders",B,by controllable cowl gills,by means of suitably shaped cylinder baffles,by metered jets
+16,312,Exhaust back pressure,A,decreases as an aircraft descends and thereby improves power output,increases as an aircraft climbs and thereby reduces power output,decreases as an aircraft climbs and thereby improves power output
+16,313,On which stroke or strokes are both valves on a four-stroke cycle reciprocating engine cylinder open ?,A,Exhaust and intake,Intake,Exhaust
+16,314,Engine temperature control:,C,keeps the engine hot,keeps the engine cool,keeps the engine temperature within safety limits
+16,315,What is the best indication of worn valve guides ?,A,High oil consumption,Low oil pressure,Low compression
+16,316,"In a non- supercharged engine, with the throttle fully open, the pressure in the induction manifold is:",C,higher than atmospheric,the same as atmospheric,slightly lower than atmospheric
+16,317,What fluid is mixed with water used in engine liquid cooling systems?,B,Methanol,Ethylene glycol,Distilled water
+16,318,"At full throttle to ensure cooling, mixture is automatically",A,enriched,pre-heated,weakened
+16,319,A typical induction system on a normally aspirated engine consists of four components named as,C,"fuel delivery system, air filter, induction manifold and exhaust manifold","air intake, air filter, fuel delivery system and hoses","air intake, air filter, fuel delivery system and induct manifold"
+16,320,The piston cooling fins are cooled by,C,airflow,fuel,oil
+16,321,The cylinder deflector:,C,controls the temperature of the engine,deflects air away from the cylinder,deflects air onto the cylinder
+16,322,"In a piston engine, the manifold pressure",A,increases as the throttle opens,decreases as the throttle opens,is unaffected by throttle position
+16,323,Excessive valve clearances will cause the duration of valve opening to,A,decrease for both intake and exhaust valves,decrease for intake valves and increase for exhaust valves,increase for both intake and exhaust valves.
+16,324,When a valve is lapped to its seat the line of contact should be at the,C,bottom of the face,top of the face,centre of the face
+16,325,As the throttle of a normally aspirated engine is opened the pressure in the induction system:,A,increases,decreases,remains the same
+16,326,"Using the following information, determine how many degrees the crankshaft will rotate with both the intake and exhaust valves seated. Intake opens 15o B.T.D.C.
+Exhaust opens 70o B.B.D.C.
+Intake closes 45o A.B.D.C
+Exhaust closes 10o A.T.D.C.
+",B,610o,245o,290o
+16,327,Engine cooling is usually:,C,it does not matter,controllable,not controllable
+16,328,A supercharger is driven by,B,an electric motor,the engine,the exhaust gas
+16,329,Full throttle height is determined by:,C,ambient temperature,altitude,manifold pressure and RPM
+16,330,A supercharger is used to increase power during the:,B,landing.,climb,descent.
+16,331,The Automatic Boost Control fitted with a Turbocharger will,A,increase the efficiency of the Turbocharger,prevent detonation by closing the throttle during take-off at sea level,prevent detonation by slowing the supercharger down at sea level
+16,332,Manifold pressure is:,B,"the pressure in the induction system above or below the standard msl pressure, whereas boost pressure is the absolute pressure in the induction system","the absolute pressure in the induction system, whereas boost pressure is the pressure in the induction system above or below standard msl pressure",another name for boost pressure and both are the absolute pressure in the induction system
+16,333,A supercharger is usually capable of delivering what induction pressure to the cylinders?,C,half atmospheric pressure,three times atmospheric pressure,twice atmospheric pressure
+16,334,A normally aspirated engine is one which:,B,has four cylinders,is not supercharged,is air cooled
+16,335,"In the event of an engine shut-down in flight, re-starting of a turbo-charged engine in comparison with one at normal aspiration,",A,is the same,is more difficult,is easier
+16,336,The waste gate is operated by:,A,the automatic boost control,exhaust gas temperature,the pressure controller
+16,337,"When compared with a normally aspirated engine, the response of a turbocharged engine to rapid throttle opening:",B,is better,is worse,is the same
+16,338,"The exhaust back pressure, with a turbocharger installed:",A,is increased,remains the same,is decreased
+16,339,The waste gate of a turbo charger is fitted:,A,in the exhaust manifold,in the inlet manifold,at the carburettor
+16,340,The position of the throttle for take-off is determined by:,A,the over-boost warning light,the cylinder head temperature,the engine detonating
+16,341,Automatic boost control:,A,maintains an automatic preset boost pressure,prevents excess boost pressure and detonation,gives correct mixture strength for boost pressure
+16,342,"In a supercharger, the mixture:",A,enters through the eye of the impeller and leaves at the periphery,enters through the turbine and leaves at the compressor,enters through the periphery of the impeller and leaves at the eye.
+16,343,If the boost pressure is too low this would result in:,C,a drop in the engine revolutions per minute,the engine vibrating,the engine not developing its full power
+16,344,Utilisation of a supercharger will cause:,B,the CHT to decrease due to an increase in fuel flow,the engine to run hotter due to the higher power output,the CHT to increase and oil pressure to decrease
+16,345,A supercharger is fitted in order to:,A,increase the power output of the engine,improve the efficiency of the engine,overcome the decrease in density at altitude
+16,346,Rated altitude is:,B,the height at which boost pressure ceases to beeffective with specific engine revolutions per minute,the maximum height at which rated boost can bemaintained at specific engine revolutions per minute,the comparison of boost at sea level and a given altitude
+16,347,With a supercharged engine at constant rev/min the initial power increase with altitude is due to:,B,the decrease in density of the atmosphere,the pressure required to exhaust the used gas is not so great as at sea level,the supercharger passing a mixture of less weight to the engine
+16,348,A normally aspirated engine is a:,C,poppet valve engine,four stroke engine,unsupercharged engine
+16,349,The automatic boost control operates:,B,the mixture control,the waste gate,the throttle butterfly
+16,350,Engine turbochargers,C,return part of the exhaust gas in the induction air,use a waste gate valve located in the induction air system,are powered by the energy in the engine exhaust gases
+16,351,The rotational speed of the compressor in a turbo-charger is controlled by:,C,the pilot,the throttle butterfly,the waste gate
+16,352,Over-boosting an engine fitted with a turbocharger is prevented by installing:,A,a waste gate controller,a manifold pressure gauge,an automatic boost control
+16,353,The turbine wheel of the turbocharger:,B,drives the compressor through gearing,is driven from the same shaft as the compressor,is provided with a clutch to drive the compressor
+16,354,A turbocharger designed to maintain sea-level pressure at altitude is termed:,B,a ground boosted turbo charger,an altitude turbo-charger,a turbo super-charger
+16,355,"When the power lever is opened at sea level, the throttle butterfly of an engine with an internal supercharger would be:",A,partially open,fully closed,fully open
+16,356,The function of the diffuser in the supercharger is to:,C,increase the velocity and decrease the pressure,decrease the velocity and decrease the pressure,decrease the velocity and increase the pressure
+16,357,An internal supercharger is one which:,A,compresses mixture,compresses exhaust gas,compresses air
+16,358,Boost pressure is indicated on:,C,a cylinder head temperature gauge,a RPM and manifold gauge,a manifold pressure gauge
+16,359,What is the purpose of the intercooler in a supercharger:,C,to prevent overheating of the induction manifold,to increase the volume of the charge,to prevent risk of detonation
+16,360,Boost  pressure is:,A,the manifold pressure in pounds per square inch above atmospheric pressure,the absolute pressure in the induction manifold measured in millibars,the absolute pressure in inches of mercury
+16,361,"The power developed by a supercharged engine at sea level, compared to that developed by an identical, but normally aspirated engine:",A,is greater,is the same,is worse
+16,362,What is Full Throttle Height?,C,the cruising height for any boost,the maximum height at which a given boost can be maintained,the height at which the engine is at rated boost
+16,363,The volatility of a fuel is its ability to:,B,changes from solid to liquid state,change readily from liquid to vapour state,change readily from vapour to liquid state
+16,364,The type of fuel used in an engine with a turbocharger installed is:,C,AVTAG,AVTUR,AVGAS
+16,365,Water present in a fuel system,C,will quickly evaporate,will remain on the surface of the fuel,will settle in the lowest part of the system
+16,366,"When the true weight of A particular supply of lubricating oil is not available, the weight may be assumed to be:",B,10 pounds per Imperial gallon,8.1 pounds per Imperial gallon,9 pounds per Imperial gallon
+16,367,"If a fuel volatility is low, there will be:",A,will give inequality of distribution in the induction system,equal distribution of fuel in the induction system,will have no effect on distribution
+16,368,The “startability” of a fuel is:,B,its ability to drain away after starting,its ability of the fuel to give easy starting,the ability of the fuel not to dilute the oil system
+16,369,The burning process of a fuel in a cylinder is:,B,slow action,by chain reaction,instantaneous
+16,370,"If an aircraft uses 87 octane grade, this indicates that:",B,there is 87% heptane and 13% isooctane.,there is 87% isooctane and 13% heptane.,there is 87% isooctane and 13% tetraethyl lead.
+16,371,The purpose of the oil in a lubrication system is to:,A,Clean cool reduce friction and seal,Clean cool reduce friction and warm the engine prior to start,Clean cool and reduce friction
+16,372,The maximum permitted sulphur content in aviation fuel is kept at,A,0.001%,0.010%,0.025%
+16,373,The calorific value of a fuel is measured in:,C,centigrade heat units,calories,British Thermal Units
+16,374,The anti-knock value of a fuel is the degree of resistance to:,B,dissociation,detonation,pre-ignition
+16,375,Tetraethyl led is added to gasoline:,C,of grades below 100 octane,of all grades,of grades above 100 octane.
+16,376,The usual method of producing aviation fuel is called,B,separating,fractionating,breaking up
+16,377,A wet sump engine is one where:,B,the oil is contained in a separate oil tank,all the oil is contained in the engine,a small quantity of oil is left in the engine replenished from a separate tank
+16,378,Where is the oil control ring fitted?,A,Below the compression rings,Above the compression rings,In between the compression rings
+16,379,An incorrectly fitted oil control ring will,C,have no effect on engine performance,lead to an increase in oil consumption,reduce cylinder wall lubrication
+16,380,An oil pressure filter is fitted:,C,between the engine and the oil tank,between the oil tank and the oil pressure pump,between the oil pressure pump and the engine
+16,381,A wet sump oil system,B,uses an oil tank fitted to the lower part of the crankcase,is sealed internally with jointing compound,uses a separate oil tank
+16,382,The most probable cause of small fluctuations in oil pressure would be:,B,the pressure relief valve sticking,lack of oil,the scavenge pump working at greater rate than pressure pump
+16,383,A small ‘hot-pot’ is sometimes installed in oil tanks to:,A,assist in more rapid warming,act as an added supply of oil,lengthen the warm-up period
+16,384,Airspace is provided in an oil tank to allow for:,C,filter by-pass,inverted operation,frothing and expansion
+16,385,The scavenge pump in an engine has:,B,a smaller capacity than the pressure pump,a greater capacity than the pressure pump,the same capacity as the pressure pump
+16,386,An oil pressure relief valve is fitted to:,B,filter the oil,maintain constant pressure under varying degrees,maintain constant temperature
+16,387,The oil temperature gauge records the temperature of the oil:,C,at the oil cooler,returning from the sump to the oil cooler,being delivered to the engine
+16,388,If there is a rapidly rising oil temperature the most probable cause,C,the wrong grade of oil in the system,that the air shutters are open,‘coring’ of the oil cooler
+16,389,"A pressure relief valve, if fitted to an oil cooler will protect the oil",B,opening when the oil pressure is too low,opening when the oil is viscous in cold starting conditions,opening when the oil temperature is too high
+16,390,The most probable cause of wide fluctuations in oil pressure would be:,B,the scavenge pump working at greater rate than pressure pump,the pressure relief valve sticking,lack of oil
+16,391,"During run-up, engine oil temperature is slow in reaching its normal operating temp; this could be caused by:",A,the thermostatic valve being inoperative,low viscosity of the oil,the oil by-passing the cooler on return to tank
+16,392,Oil returning to the oil tank is filtered by:,A,the oil scavenge filter,the oil pressure filter,the oil tank filter
+16,393,Oil is pumped through a gear type oil pump,A,by being carried between the teeth of each gear round the outside of the meshing gears,by centrifugal force,by being forced through the meshing teeth of the gears
+16,394,"On starting an engine from cold, the actual oil pressure within the engine will rise",A,to a figure greater than the normal operating pressure and will fall as the engine warms up,to the normal operating pressure and remain stable until the engine warms up,to a figure lower than the normal operating pressure and will rise as the engine warms up
+16,395,Engine oil pressure indication is taken from:,C,the outlet side of the scavenge pump,the inlet side of the pressure pump,the outlet side of the pressure pump
+16,396,A purpose of the filter in the scavenge oil system of a piston engine:,C,is to prevent contamination of the oil contained in the oil tank by the products of combustion,is to filter the oil before it enters the cooler so preventing coring in the matrix,is to protect the scavenge pump against damage by foreign matter accumulated by the oil during its passage through the engine
+16,397,"If ‘coring’ of the oil cooler exists, it is corrected by:",B,opening the air shutters,closing the air shutters,climbing
+16,398,The purpose of a CSU oil pump is to,C,provide internal lubrication of the CSU,provide unfeathering oil pressure only,boost the engine oil pressure to an acceptable level for propeller operation
+16,399,"Blue smoke in the exhaust, without a drop in engine revolution indicates",B,rich mixture,oil burning in the cylinders,weak mixture
+16,400,When the temperature of the oil is low:,C,the oil passes through the engine without difficulty,temperature has no effect on the passage of oil through the engine,it is difficult for the oil to pass through the engine
+16,401,The purpose of the pressure relief valve in an oil system is:,A,to maintain oil pressure within an acceptable upper limit,to protect the oil pressure gauge,to ensure good scavenging
+16,402,A DC ratiometer is commonly used in conjunction with,A,a resistance thermometer,a Fuel Flowmeter,a manifold pressure gauge
+16,403,Two types of thermocouple used on aero engines are:,A,surface contact and immersion,shielded and surface contact,immersion and deep probe
+16,404,The CHT thermocouple system gauge is a,C,DC Ratiometer type,AC Ratiometer type,moving coil millivoltmeter type
+16,405,Where are the hot and cold junctions in a thermocouple type cylinder head temperature indicating system located?,A,"the hot junction is at the cylinder, the cold junction at the instrument",both are located in the cylinder,"the cold junction at the instrument, the hot junction at the instrument to stop it freezing in cold conditions"
+16,406,Which of the following is a primary engine instrument?,B,Boost pressure gauge,Engine tachometer,Cylinder head temperature gauge
+16,407,A manifold pressure gauge:,B,measures differential pressure between the intake and exhaust manifolds,measures absolute pressure in the intake manifold,measures differential pressure between atmospheric and manifold pressure
+16,408,Extension leads for Copper-Constantan thermocouples are contained in What colour coded sheaths (International IEC 584-3)?,C,Red and blue sheaths,Blue and white sheaths,Brown and white sheaths
+16,409,Cylinder head temperature thermocouple is fitted to the cylinder head,C,through an insert into the cylinder,by metallic clips across the top of the piston(between the plug orifices),by a cylinder head bolt
+16,410,Which is the most common type of electric motor in a tachometer?,C,"direct current , Shunt wound motor","Direct Current , series wound motor",Synchronous motor
+16,411,Exhaust gas temperature thermocouples are,B,surface type,Immersion Type,High Pressure immersion type
+16,412,What unit in a tachometer system sends information to the indicator?,C,A two phase ac generator,A synchronous motor,A three phase AC Generator
+16,413,An elecrical resistance thermometer sensor is usually made from:,C,Nickel or stainless steel,Stainless steel,Platinum or nickel
+16,414,What is the purpose of a dead weight tester?,B,To calibrate electrical pressure gauges,To calibrate mechanical pressure gauges,To calibrate trim balance weights
+16,415,The Cylinder Head Thermocouple is a,B,high pressure Immersion Type,surface type,immersion type
+16,416,Exhaust gas temperature thermocouples are located,C,on the surface of the exhaust tubes,"circumferentially around the exhaust, in the gas stream",in the exhaust stream
+16,417,Thermocouple leads,B,can be connected to either terminal at the hot junction,are fitted as a fixed length pair,may be repaired using in line splicing
+16,418,What is the purpose of a synchroscope system on multi engined aircraft?,A,To reduce vibration and noise,To synchronise engine speed thus reducing pilot workload,To ensure maximum power at take off
+16,419,The boost gauge contains a sensing element which is,A,two bellows in opposition,a single capsule,a synchro torque receiver
+16,420,Boost pressure gauges have two standard tests:,A,Zero Error test and leak test,Null test and full range test,Full Range and leak test
+16,421,The leads of a Copper-Constantin surface type thermocouple are colour coded,A,Red and Blue,Yellow and Green,Red and Green
+16,422,What pressure will be indicated on a manifold pressure gauge if there is a complete disconnect to the instrument?,A,Prevailing atmospheric pressure (absolute),29 In Hg,Zero
+16,423,A fuel flowmeter usually indicates:,B,is fitted into the tank from the side,gallons used per hour,pounds used per minute
+16,424,A manifold pressure gauge usually measures pressure in,A,Inches of Mercury,Pounds per square inch,Millibars
+16,425,A Firewall is usually made from,C,Titanium,Aluminium,Stainless Steel
+16,426,A Quick Engine Change Assembly is,C,a basic engine without components,a basic engine with lifting mounts fitted,a basic engine with components fitted
+16,427,Flexible engine mounts should be inspected for,A,looseness and oil contamination,oil contamination,security of attachment
+16,428,A common form of flexible engine mount is called,A,a Lord Mount,a Queen Mount,a King Mount
+16,429,Engine mounting insulators are located,B,on the aircraft structure,on the engine framework,on both the engine framework and the aircraft structure
+16,430,The powerplant installation framework is usually made of,B,Welded Sheet Steel,Tubular Steel,Tubular Aluminium
+16,431,In the event of a prop striking the ground and causing the engine to stop,B,remove the propeller and carry out a run out check of the prop shaft,replace the engine,"inspect the propeller for damage repair/replace if neccessary, Carry out full power ground runs"
+16,432,A major difference between bowden cables and Teleflex cables,A,the Teleflex cable is push/pull,the Bowden cable is push/pull,the Teleflex cable is pull only
+16,433,When removing a QECA electrical disconnects are found,A,at the firewall,on the lower side of the cowlings,at the major components
+16,434,Full power checks are carried out by reference to the,A,RPM Gauge,Boost pressure gauge,Manifold pressure gauge
+16,435,How is proper end-gap clearance on new piston rings assured during the major overhaul of an engine?,A,By placing the rings in the cylinder and by measuring the end-gap with a feeler gauge,By using rings specified by the engine manufacturer,By using a go and no-go gauge
+16,436,"In connection with the starting of an aero engine, the expression 'Hydraulicing' refers to:",B,possible damage to bearings due to hydraulic locks in the oil system because of cold oil,possible damage due to an excessive amount of liquids in certain cylinders,"an excessive build up of oil pressure in the oil pump due to cold oil, and consequent overloading of the starter motor"
+16,437,"During the use of hot air, on the ground for ice prevention or removal, the engine speed will",C,increase due to an increase in density of the intake air,remain the same,decrease due to a decrease in density of the intake air
+16,438,Periods between overhaul are normally calculated in,C,months.,landings.,hours.
+16,439,Why do engines with very low usage have reduced time intervals between overhaul?,A,The engine will not reach operating temperature enough to disperse internal contaminants,External corrosion is greater with low usage,Internal Corrosion is greater with low usage
+16,440,Inspection of engine for extension of overhaul periods can be carried out by,B,an engineer with a minimum qualification of two yearly intervals for a condition assessment.,an engineer licenced in the appropriate category of the engine being inspected.,any licensed aircraft engineer.
+16,441,Valve stems are checked for wear,B,straight edge profile and feeler gauges,with a micrometer in at least 3 locations,a go-no go ring gauge
+16,442,The normal warming up period for an aeroengine in warm climates is,B,four minutes,two minutes,six minutes
+16,443,"When warming up a piston engine, you should use a",B,"rich mixture, coarse pitch","rich mixture, fine pitch","weak mixture, fine propeller pitch"
+16,444,"After granting an extension to an overhaul period, aircraft engines used for aerial crop spraying operations must be inspected every",B,100 hours or 6 months,50 hours or one year,100 hours or one year
+16,445,The fuel flow to a piston engine will vary with,B,rev/min and throttle position only,"rev/min, throttle position and mixture",rev/min and mixture selection only
+16,446,"When checking compression with the differential pressure tester, the test cannot be made with the piston at bottom dead centre because",B,you may damage the gauge,at any bottom dead centre position at least one valve will be open,the cylinder volume is at its maximum thus giving an incorrect reading
+16,447,Brown or black patches on a piston skirt can indicate,B,overheating of cylinder walls,worn piston rings or piston ring gaps in line,worn valve seatings
+16,448,"Under normal conditions, the oil pressure gauge should be indicating",A,30 seconds after start,immediately on start up,60 seconds after start
+16,449,Dismantling of an engine above the line of the crankcase is known as a,C,Bottom Overhaul,Major Overhaul,Top Overhaul
+16,450,"In relation to ice removal, use of hot air from an unfiltered source should be",B,restricted to the minimum use,not restricted,restricted below -10 degrees c
+16,451,Engine oil contents should be checked,B,whilst the engine is running,some time after engine shut down,immediately after engine shut down
+16,452,Chip detectors normally take the form of,A,magnetic plugs in the oil return lines,windows in the base of oil tanks,spring loaded plungers in the oil delivery line
+16,453,Which area of the engine requires special attention when preparing for storage?,A,Exhaust Ports,Crank case,magnetos
+16,454,Where are details of the storage date and re-inspection date made?,B,Aircraft log Book,Engine Log Book,On a notice attached to the storage container
+16,455,After inhibiting an engine,B,turn over the engine to ensure complete coating of surfaces,ensure that a notice is placed on the engine saying do not turn crankshaft,store as soon as possible
+16,456,To remove moisture from the storage container,C,the container is ventilated for 24 Hours before use,dehumidifiers are used,Silica Gel sachets are used

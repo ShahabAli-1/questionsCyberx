@@ -1,0 +1,1182 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+12,140,The Coriolis effect on a helicopter means.,C,the blade that flaps down will speed up.,the axis of rotation is not perpendicular to the plane of rotation.,the blade which flaps up will accelerate.
+12,141,The ability of the blade to move up and down is.,B,feathering.,flapping.,dragging.
+12,142,An artificial feel system is necessary in a powered flying control system to.,C,prevent overloading of the power control units.,increasing the sensitivity of the control system.,provide the pilot with simulated stick forces.
+12,143,"In the event of hydraulic failure in a power control system, a requirement of the manual reversion is that it must be",B,"possible, but not recommended.",automatic and instantaneous.,operated by the standby hydraulic system.
+12,144,The purpose of control cable regulators is to.,B,compensate for high temperature only.,maintain preset cable tensions during flight.,compensate for low temperature only.
+12,145,Range of movements of power operated flying control surfaces are limited by.,C,travel of the jack body.,travel of the jack ram.,mechanical stops in the control system.
+12,146,The purpose of the Servo Valve in a power operated control is.,A,to direct hydraulic fluid to the jack in response to the pilots control in cockpit.,to revert the system to manual operation.,to provide pressure to operate the control.
+12,147,The tip path plane is tilted.,C,90 ° after in the direction that the cyclic stick is moved by.,90 ° in advance of the direction the cyclic stick is moved by.,in the same direction as the cyclic stick is moved.
+12,148,A tail rotor control is rigged so that it can move from positive pitch through neutral to negative pitch. This is to.,C,enable full control in powered flight.,enable full control in the hover.,enable full control in autorotation.
+12,149,The collective lever controls.,A,the vertical movement of the helicopter.,the horizontal movement of the helicopter.,controls the helicopter movement about the vertical axis.
+12,150,The main rotor head hydraulic damper beam has been over tensioned. This would cause.,C,too much stability and over sensitive controls.,too much stability and less sensitive controls.,instability and over sensitive controls.
+12,151,Powered flying control actuators.,A,transmit pilot input to the control surfaces.,provide feedback to the pilot.,are operated by the autopilot only.
+12,152,"During translational flight, a tandem rotor helicopter is controlled by.",C,the rear rotor only is tilted.,the forward rotor only is tilted.,both the forward rotor and the rear rotors independently.
+12,153,"In a power assisted flight control system, the feel required is normally supplied by.",C,Q' feel.,stretching springs.,air loads on the control surfaces.
+12,154,Irreversibility of a fully powered control system is provided by.,B,the jack ram being attached to structure.,nulling of the servo valve.,air loads on the blades.
+12,155,Powered flight control systems are used on large helicopters.,B,because the pilot has too many tasks to perform.,due to the increase in speed and size of aircraft.,because at low level air density is high.
+12,156,"Under heavy stick loads, the button on the cyclic stick would be used to.",A,reposition force trim.,disengage force trim.,engage force trim.
+12,157,How do the rotors turn on a co-axial rotor system?.,A,They counter-rotate on a common shaft.,Both rotate in the same direction on a common shaft.,They counter-rotate on separate shafts.
+12,158,"In autorotation, what is the initial effect on the rotor when the cyclic control lever is pulled back?.",C,The rotor will slow down.,The rotor speed will be unaffected.,The rotor will initially speed up.
+12,159,What is the difference between transient and static droop?.,C,Over-swing.,Centrifugal latches.,Under-swing.
+12,160,When lifting the collective lever during an autorotative descent the rotor RPM will.,B,remain the same.,reduce.,increase.
+12,161,Moving the collective lever results in the pitch on the rotor blades.,C,changing the same amount in different directions.,remaining the same.,changing the same amount in the same direction.
+12,162,Rotor heads incorporate elastomeric bearings because.,B,they reduce rotational loads.,they are easier to maintain.,they reduce oscillatory loads.
+12,163,"In forward flight, pitch on the retreating blade is.",C,decreased.,the same.,increased.
+12,164,"During the transition from the hover to forward flight, the helicopter requires.",B,less power.,more power.,no change in power.
+12,165,Dissymmetry of lift in a helicopter main rotor is counteracted by.,B,cyclic feathering.,permitting the rotor blade to flap.,biasing the stick to port.
+12,166,Pulleys in a flight control system are made from.,C,stainless steel.,brass.,Tufnol or aluminium alloy.
+12,167,The mixing unit connects.,B,the engine fuel and air.,the cyclic and collective controls.,the pitot and static systems.
+12,168,How does a semi-rigid rotor overcome dissymmetry of lift?.,A,A teetering head.,Drag hinges.,Flapping hinges.
+12,169,The tail rotor is subject to.,C,negative torque.,both positive and negative torque.,positive torque.
+12,170,A tension regulator in the flight control cable system of a large all metal helicopter is used primarily to.,A,retain a set tension.,increase cable tension in cold weather.,decrease cable tension in cold weather.
+12,171,Manual trim with the autopilot disengaged is normally achieved by.,A,pressing the trim release button and moving the cyclic stick.,dedicated trim switches on the autopilot control panel,moving the 'coolie hat'
+12,172,Moving the 'coolie hat' with the autopilot engaged.,A,allows autopilot commands to move the aircraft slowly in pitch and roll.,disengages the autopilot and allows the pilot to manually control the aircraft.,allows autopilot commands to move the aircraft quickly in pitch and roll.
+12,173,When in the hover the pilot applies a force on the pedals and the.,C,autopilot disengages.,autopilot stores original heading on the heading..,autopilot integrator and returns aircraft to original heading when motion stops.
+12,174,"Where an auxiliary servo unit is used to apply autopilot commands to the controls, feedback is provided by.",A,LVDT.,control synchros.,mechanical feedback through linkages.
+12,175,The engagement of an helipilot.,C,can be engaged with just either the roll or the pitch channel.,must have at least the roll channel engaged.,requires all channels to be engaged at the same time.
+12,176,A dual helipilot develops a single channel runaway. The twin actuator position indicator will display.,C,one indicator central the other on full scale deflection.,"both indicators at full scale deflection, in the same direction.",both indicators at full scale deflection at opposite ends.
+12,177,The attitude of a helicopter about the normal axis is controlled by the variation of.,C,tail rotor cyclic pitch.,collective pitch.,tail rotor collective pitch.
+12,178,Each individual blade of a semi-rigid rotor system is able to independently.,C,"flap, feather and drag.",flap only.,flap and feather.
+12,179,If the c of g of a helicopter is aft of its permitted range it will.,A,prevent the pilot from attaining maximum forward speed.,have no noticeable effect.,prevent the pilot from attaining maximum rearward speed.
+12,180,A series actuator will cause movement of the.,C,pilots control and the control run.,pilots control only.,control run only.
+12,181,A series actuator in a helicopter autopilot system has.,A,10% authority.,50% authority.,full authority.
+12,182,If a pilot is slow to put down collective after engine failure.,C,RPM stays the same.,RPM increases.,RPM decreases.
+12,183,A tracking check is to ensure that.,A,all blades make the same tip path.,all actuators are at neutral.,the coning angle is correct.
+12,184,Tracking on a helicopter means.,A,that all the main rotor blades travel in the same tip path plane.,that the tail rotor keeps the aircraft on the correct track during forward flight.,that the blades are subjected to leading edge hecks with a straight edge.
+12,185,Range of movements of power operated helicopter controls are limited by.,B,travel of the jack body.,mechanical stops in the control system.,travel of the jack ram.
+12,186,"When carrying out blade tracking, using the flag method.",A,the collective pitch lever would be fully down.,the collective pitch lever would be mid-way between the down stop and the up stop.,the cyclic stick would be fully forward.
+12,187,What is the process called on a semi-rigid rotor head where the blade C of G is put into the correct position?.,A,Aligning.,Tracking.,Flapping.
+12,188,Vibration in a rotor head is reduced by.,C,a swash plate.,a scissor link.,a Bifilar Pendulum Absorber vibration assembly.
+12,189,Medium vibration of 4 to 6 times per revolution is experienced on a helicopter. The primary control method is.,A,design of engine and gearbox supports.,inspect loose fixtures and fittings.,inspect main rotor head and main drive shaft.
+12,190,What causes lateral vibration?.,C,Tail drive shaft misalignment.,Loose load/vibration absorber.,Main rotor head.
+12,191,A soft hydraulic damper causes.,A,1/rev lateral vibration.,1/rev lateral and vertical vibration.,1/rev vertical vibration.
+12,192,With vibrations from a tail rotor and aggravated by movements of the rotor peddles the fault is.,A,in the drive system.,play in the feathering control links.,play in the control rods and cables.
+12,193,The purpose of the scissor links on a swash plate are.,C,to drive the driven part of the swash plate and hold the fixed part.,hold both parts of the swash plate together.,transmit drive from the gearbox to the driven part of the swash plate.
+12,194,The clutch on a piston helicopter is positioned.,B,between the engine and the engine reduction gearbox.,between the engine reduction gearbox and the main rotor gearbox.,between the main rotor gearbox and the rotor head.
+12,195,A rotor brake is located.,B,between the engine and the free power turbine.,between the main rotor gearbox and the rotor head.,between the free power turbine and the main rotor gearbox.
+12,196,The intermediate gearbox is.,C,an epicyclic gearbox.,a bevel gearbox.,a reduction gearbox.
+12,197,To check for correct meshing on a helical gear you would use.,B,a dial test indicator.,Prussian blue.,feeler gauges.
+12,198,The HUMS receives signals from.,C,transponders.,transformers.,transducers.
+12,199,The oil system used in helicopter gear boxes is.,A,"pumped oil via replaceable, non-adjustable specific jets.",splash.,"pumped oil via non replaceable, adjustable specific jets."
+12,200,On a gear box quill drive with a master shim.,A,shim must stay with gear box.,shim is replaced with quill drive.,"size, thickness + location of shim is given on gearbox."
+12,201,When doing a bonding check the maximum resistance between component and earth is.,C,0.005 ohms.,1/50 ohms.,50 milliohms.
+12,202,What kind of seal is used on firewall bulkheads?.,A,Fire-proof grommets.,None is required.,Soft rubber.
+12,203,How is damage to the nose cone of an helicopter prevented during a lightning strike?.,C,Earthing Strap.,Special paint.,Bonding Strip.
+12,204,The two stages in a good adhesive bond are.,B,wetting and gripping.,wetting and Setting.,spreading and setting.
+12,205,Tension is the stress of.,A,elongating or stretch.,crush or compression.,twisting.
+12,206,A Fuselage Station is a., C,lateral point on helicopter wing.,lateral point on helicopter fuse.,longitudinal point on the helicopter fuselage.
+12,207,"Prior to aluminium alloy bonding, we use.",B,solvent etch.,acid etch.,alkaline etch.
+12,208,The purpose of a primer is to.,B,provide shiny surface for the topcoat.,help bonding of the topcoat.,provide flexible surface for the top coat.
+12,209,Acrylic windows must be able to flex in-situ because they have.,A,larger coefficient of expansion than surrounding structure.,smaller coefficient of expansion than surrounding structure.,slight shrinkage due to age.
+12,210,A cargo bay must have signs stating.,C,maximum dimensions.,no hazardous cargo.,maximum loadings.
+12,211,Composite materials are bonded by.,A,special paint.,copper wire.,aluminium wire.
+12,212,Zone D Cargo compartment windows.,B,are made from fire retardant Perspex.,must be blanked off.,must have blinds pulled down.
+12,213,A fire zone in which a crew member could enter to fight a fire is.,C,class B.,class E.,class A.
+12,214,ATA Zone 100 is.,A,lower fuselage.,upper fuselage.,the rotor.
+12,215,"In semi-monocoque construction, compression loads are taken by.",A,stringers.,frames.,bulkheads.
+12,216,The bonding lead to a remote aircraft component must be.,C,22 AWG.,0.25 in wide and 22 AWG.,0.5 in wide.
+12,217,Most large transport helicopter skins are.,B,70 75.,20 24.,50 56.
+12,218,What force is an I-Beam subjected to?.,A,Bending.,Tension.,Shear.
+12,219,A radome is protected from static electricity build-up by.,C,bonding strips.,special conductive grease.,conductive paint.
+12,220,"Which of the following statements is correct, in relation to PLI washers used in critical bolted joints?.",C,PLI washers can be affected by thread or nut friction or by lubrication.,"PLI washers can be used more than once, providing they are used in critical bolted joints.",PLI washers can only be used with self locking nuts and the washers should be used once.
+12,221,Precise points are located on an helicopter by a system of.,B,"frame stations, vertical lines and lateral lines.","frame stations, water lines and buttock lines.","longitudinal, vertical and lateral lines."
+12,222,Windscreen delamination is.,B,bubbling of the glass due to overheat.,separation of the glass from the vinyl interlayer.,windscreen peeling away from the airframe.
+12,223,What is the ideal storage temperature for windscreen panels?.,B,30 °C to 50 °C.,50 °F to 70 °F.,50 °C to 70 °C.
+12,224,What is the maximum temperature of warm water which is used to clean dirty aircraft acrylic panels?.,A,104 °F.,125 °F.,40 °F.
+12,225,What opposes buckling in a semi-monocoque structure?.,B,Frames.,Stringers.,Bulkheads.
+12,226,Which of the following is an example of a failsafe structure?.,C,Spar.,Longeron.,Stringer.
+12,227,Damage tolerant design.,C,is applied only to secondary structure.,allows for damage to structure by distributing loads to other structure.,allows for certain damage to the structure to go un-repaired between scheduled maintenance.
+12,228,In the ATA 100 zonal system the passenger entry door will have a designation of.,A,800.,400.,600.
+12,229,"In a monocoque structure, which component carries the majority of the loads?.",C,Longerons.,Stringers.,Skin.
+12,230,Which anti-corrosive treatment is found on alloy steels?.,B,Zinc plating.,Cadmium plating.,Nickel plating.
+12,231,What material can be chromated as a protection against corrosion?.,A,Magnesium alloys.,Ferrous alloys.,Aluminium alloys.
+12,232,"When carrying out a symmetry check on a large aircraft, what method of measurement is normally used?.",B,Lateral alignment method.,Steel tape and spring balance.,Longitudinal alignment method.
+12,233,How are passenger seats secured to the floor?.,B,By the front legs while the back attachment provides anti rattle.,By the back legs while the front attachment provides anti rattle.,By both front and back legs.
+12,234,A material commonly used for bulkhead sealing is.,A,soft rubber.,PTFE.,aluminium.
+12,235,Shear stress is described as.,B,pulling forces.,slip away under the action of forces.,compressing forces.
+12,236,The ground cable must be.,B,single strand 18 AWG.,single strand copper wire 0.5 in. cross sectional area.,copper stranded 0.5 in. cross sectional area.
+12,237,Paint remover substances.,B,should only be used once.,are damaging to some aircraft parts.,are not damaging to any aircraft parts.
+12,238,How is the radome protected from lightning strike?.,A,Diverter strips.,Special paint.,Special grease on the hinges.
+12,239,To remove a rivet.,B ,"chisel off the rivet head, and remove the shank with a metal punch.","drill the head with a drill bit the same size as the rivet shank, chisel off the rivet head, and remove the shank with a metal punch.","drill the head with a drill bit slightly smaller than the rivet shank, chisel off the rivet head, and remove the shank with a metal punch."
+12,240,"When acrylic and sheet metal is joined together, allowance should be made for.",C,expansion of the metal due to heat.,galvanic corrosion of the metal.,expansion of the acrylic due to heat.
+12,241,"If you short the two prongs with the single prong of a bonding tester together, what would the gauge read?.",C,Centre scale.,Full scale deflection.,Zero.
+12,242,Battery trays are.,C,metal for earthing purposes.,absorbent to soak up electrolyte.,metal with PVC coating and anti corrosive paint.
+12,243,The primary purpose of sealant in use in pressurised aircraft is.,A,to seal the cabin.,to prevent corrosion.,to provide external streamlining.
+12,244,Which of the following is Perspex resistant to?.,A,Kerosene.,MEK.,Acetone.
+12,245,"When installing a 'Hi-lock' bolt, it is necessary to.",B,lubricate the collar.,simply fit the bolt as they are prelubricated.,lubricate the shank and threads.
+12,246,The web of an 'I' beam takes mainly which type of load?.,B,Tension.,Shear.,Bending.
+12,247,"A condition after which a permanent deformation of a material is caused, is known as.",A,strain.,bending.,shear.
+12,248,Sealant or levelling compound is installed during structure repair.,A,according to AMM and SRM chapter 51.,according to SB instructions.,according to separate manufacturer's documentations such as BAC.
+12,249,The purpose of the vinyl interlayer in window construction is.,A,to improve on brittle behaviour.,to increase static strength.,to enable inclusion of heater film.
+12,250,Semi-monocoque construction.,A,offers good damage resistance.,utilizes the safe-life design concept.,is used only for the fuselage.
+12,251,Most radio aerials are.,B,insulated from the fuselage.,bonded.,not bonded.
+12,252,"A bonded waffle doubler, as well as acting as a skin strengthener, also acts as a.C20",C,jury strut.,shear tie.,tear stopper.
+12,253,What are the faying surfaces of a repair?.,A,Material under repair.,Edges of repair metal.,Middle of repair.
+12,254,Why is a joggle joint used?.,C,So countersunk rivets do not need to be used.,Added strength.,Smooth contour of surface.
+12,255,Secondary bonding is usually provided with.,B,stranded copper 0.25 inch.,18 AWG.,single strand 0.25 inch.
+12,256,The term 'empennage' incorporates.,A,"tail rotor, vertical stabilizer and tail rotor gearbox.","landing gear, wheels, brakes and tyres.","rotor blades, rotor head and main gearbox."
+12,257,Dissimilar metal fusion bonding is best for.,C,"high strength, high toughness.","low strength, high toughness.","high strength, high ductility."
+12,258,The ideal conditions for paint spraying an aircraft are.,A,15 °C to 25 °C and humidity below 75%.,20 °C to 30 °C and humidity below 70%.,15 °C to 25 °C and humidity above 60%.
+12,259,The helicopter's normal axis is.,C,"through the centre of lift, perpendicular to air flow.","through the centre of gravity, between the main and tail rotor.","through the centre of gravity, perpendicular to longitudinal and lateral axis."
+12,260,Water Lines (WLs) are measured points on a.,B,wing line.,vertical line.,horizontal line.
+12,261,What are the types of true bonded joints?.,C,Mechanical and cemented.,Cemented and specific.,Mechanical and specific.
+12,262,The various parts of the helicopter airframe are maintained at the same potential by.,A,bonding.,earthing.,static wicks.
+12,263,Why is a joggle joint used?.,A,To provide a flush fit.,To add strength.,To provide a smooth contour to surface.
+12,264,On passenger helicopter of two or more zones.,A,there should be at least one exit per zone.,the seat backs fold forward at emergency exits.,the emergency exits are to be clearly signed.
+12,265,The cross sectional area of a secondary conductor must be not less than.,A,18 SWG for a single wire.,22 SWG * 0.5.,22 SWG * 0.25.
+12,266,"When both sides of a structural repair are not easily reached, which type of fastener would you use?.",A,Blind rivet.,Hi lock bolt.,Pop rivet.
+12,267,What governs the ultimate fatigue life of an helicopter?.,A,Flying Hours.,Pressure Cycles.,Landings.
+12,268,Class D cargo bay windows require.,B,the blind down for flight.,fire proof coatings.,double acrylic panels.
+12,269,Cargo bay panels are normally constructed from.,A,Fibreglass and resin.,monolithic Nomex.,Kevlar.
+12,270,With regard to extraneous spilt fluids.,A,they may be harmful to the aircraft structure.,"they can be ignored, they provide extra protection.",they should only be cleaned up if they are on the external surface of the aircraft.
+12,271,The main forces on an helicopter structure are.,C,"tension, compression, twisting and shear.","tension, compression, torsion and strain.","tension, compression, torsion and shear."
+12,272,The life of the helicopter structure is counted by.,A,flying hours.,pressurization cycle.,landings.
+12,273,What are buttock lines?.,B,Horizontal measurement lines.,Measurements from the centre line.,Vertical measurement lines.
+12,274,"Helicopter fibreglass panels are protected against lighting strikes, partially by.",C,non-conductive paint.,bonding.,conductive paint.
+12,275,Directional axis of a helicopter.,A,passes through the c of g of the helicopter.,passes through the centre of lift at right angles to relative air flow (RAF).,half way between the main and tail rotor.
+12,276,A member taking a compression load is called a.,C,beam.,cable.,strut.
+12,277,The main longitudinal members in a fuselage are called.,B,spars.,longerons.,frames.
+12,278,Skin panels may be strengthened by.,B,struts.,stringers.,cleats.
+12,279,What is the normal form of construction of a spar?.,A,Two booms separated by a web.,One boom mounted under a web.,Two webs separated by a boom
+12,280,A partition within the helicopter's structure is called a.,B,cleat.,bulkhead.,frame.
+12,281,A crack stopper is fitted.,A,"before a crack starts, to slow its rate of propagation.","before a crack starts, to prevent its initiation.","after a crack starts, to slow its rate of propagation."
+12,282,Which of the following should be accomplished before jacking an helicopter?.,B,Remove all optional equipment.,Install critical stress panels or plates.,Determine the fuel tanks are empty.
+12,283,Stringers are used in which of the following types of helicopter fuselage construction?.,A,Semi-monocoque.,Monocoque.,Truss type.
+12,284,"Synthetic resins are made from nylon, vinyl and.",C,asphalt.,cellulose.,acrylics.
+12,285,What load is a tie rod designed to accept?.,C,Torsion.,Bending.,Tensile.
+12,286,"When inspecting stowage doors, special attention should be given to the.",C,light micro-switches.,trim.,catches.
+12,287,"Seat track cutouts provide for various seat spacings, usually in.",A,one inch increments.,one foot increments.,half inch increments.
+12,288,Wall mounted flight attendant seats are fixed to.,B,tracks.,stanchions.,rails.
+12,289,"If a colour is used to identify primary structure, it will be.",A,red.,yellow.,green.
+12,290,Which of the following is primary structure?.,B,Stringer.,Skin.,Frame.
+12,291,Windshields are heated to.,C,maintain strength and toughness only.,prevent misting and icing only.,"demist, ant-ice and maintain strength and toughness."
+12,292,The internal doors of an aircraft.,A,never carry pressure loads.,only carry pressure loads when the aircraft is at cruise altitude.,carry pressure loads.
+12,293,A pressure door warning light illuminates only when the door is.,B,locked.,not locked.,not fully opened.
+12,294,If an electrically operated cargo door lifting actuator fails. It may be operated.,C,be electrical ground power.,by alternate actuators.,manually by winding.
+12,295,One of the advantages of the semi-monocoque construction is that it.,B,is easier to manufacture.,shares the loads.,takes all the loads in the skin.
+12,296,Fuselage station numbers are measured from the front of the helicopter in.,A,inches.,feet.,feet and inches.
+12,297,"In a fully monocoque fuselage, all the loads are carried by the.",C,frames.,longerons.,skin.
+12,298,Structure with built-in redundancy is called.,C,safe life.,double safe.,failsafe.
+12,299,"After installation of an acrylic window panel, protective paper and adhesive remaining on the panel may be removed by use of soap and water and.",B,MEK.,Methylated spirits.,Cellulose thinners.
+12,300,"If heat is applied to the vinyl interlayer of an aircraft windscreen, its ability to withstand impact will.",A,increase.,decrease.,not change.
+12,301,Stress.,A,is the load per unit area acting on a material.,is the property of a material to resist fracture.,is the deformation of a material caused by applied load.
+12,302,"When fitting a transparent plastic panel (acrylic) to a metal frame, provision must be made for the relative movement of the panel and the frame for the reason of.",B,the lower coefficient of expansion of the transparent panel when compared with the frame.,the higher coefficient of expansion of the transparent panel when compared with the frame.,the known slight shrinkage of the panel due to ageing.
+12,303,Perspex is resistant to.,C,Acetone.,C.T.C.,Paraffin.
+12,304,"A piece of structure which must be replaced at a specified number of cycles, flying hours or years, regardless of its physical condition is what type of item?.",A,Safe-life.,Fail-safe.,Condition monitored.
+12,305,"If you are unable to identify a structure 'classification' as either Primary or Secondary,what action should you adopt?.",C,Grade it as secondary.,Paint it red and stamp it as tertiary.,Upgrade it to primary.
+12,306,Intercostals are.,B,vertical struts joining the upper and lower wings of a biplane.,longitudinal fuselage members attached at each end to adjacent frames.,compression ribs in cantilever wings.
+12,307,Safe-life is.,B,the maximum number of flying hours that should elapse before a major structural failure occurs.,the minimum number of flying hours that should elapse before a major structural failure occurs.,the sharing of loads between adjacent members.
+12,308,"On an inspection, you are aware of vinyl bubbling. What action is required?.",C,Replace the defective window.,No action is required with this defect.,Only replace the window if the bubbling affects vision.
+12,309,Bending stresses are a combination of.,C,torsional and compression stresses.,tension and shear stresses.,tension and compression stresses.
+12,310,Joints that are designed to stop the propagation of cracks are known as.,C,crack limiting joints.,secondary joints.,failsafe joints.
+12,311,A plug type window is fitted.,B,from either side.,from the inside.,from the outside.
+12,312,The Airworthiness Notice that refers to structural surveys is.,A,Notice 89.,Notice 79.,Notice 65.
+12,313,Drain valves are normally closed by.,C,rubber strips.,spring pressure.,cabin air pressure.
+12,314,Structural survey inspections are normally called up by the.,B,operator.,manufacturer.,maintenance engineer.
+12,315,A cargo compartment in which there is a separate approved smoke or fire detector system to give warning and means to shut off the ventilating airflow to the compartment is a.,A,Class 'E' compartment.,Class 'C' compartment.,Class 'B' compartment.
+12,316,"If an helicopter has alkaline batteries, the battery compartment drain pipes will be.",B,aluminium alloy.,stainless steel.,plastic.
+12,317,An overweight landing is one in which the aircraft has.,C,an excessive fuel load on take-off.,a missed placed centre of gravity on landing.,too much kinetic energy on landing.
+12,318,Symmetry checks should be carried out.,B,in the hangar with the aircraft on its wheels.,in the hanger with the aircraft on jacks.,on the ramp with the aircraft on its wheels.
+12,319,Where is Zone 323?.,A,Tip of vertical stabiliser.,Between front and rear spar.,Between rear spar and trailing edge.
+12,320,The purpose of a wash primer and primer is to.,C,provide more aerodynamic finish for top-coat.,provide a flexible surface for top-coat.,help bonding for top-coat.
+12,321,"To prevent a system being affected by high current flows after a lightning strike to a composite aircraft, electricity is discharged through.",C,a sprayed coat of conductive paint.,a sprayed coat of non-conductive paint.,electrically connected primary conductors.
+12,322,A structural member intended to resist compression is a.,B,tie.,strut.,web.
+12,323,"An helicopter structure, having multiple load paths, is known as a.",A,fail-safe design.,monocoque design.,safe-life design.
+12,324,Dents are generally not permitted in a tubular member.,B,if they are located in the middle third of the length of the member.,if they are located in the end thirds of the length of the member.,if the major axis of the dent is parallel to the tube axis irrespective of the location.
+12,325,"When an item is cocooned, the visual indicator will indicate.",B,toxic gases.,humidity.,temperature.
+12,326,Helicopter frames are constructed of.,B,U' section.,'Z' section.,I' section.
+12,327,Wrinkling of the skin on the upper surface of the fuselage indicates.,B,hogging.,sagging.,shedding.
+12,328,If a redundant structure fails it becomes.,A,failsafe.,safe-life.,fatigued.
+12,329,A redundant structure is.,C,on-condition structure.,a safe-life structure.,a failsafe structure.
+12,330,Wrinkling of the skin on the upper surface of the tail boom indicates.,A,sagging.,shedding.,hogging.
+12,331,The maximum permissible bow in a steel tube is.,B,1 in 400.,1 in 600.,1 in 200.
+12,332,The measurement of the fuselage perpendicular to horizontal plane measured in inches from bottom of the fuselage is.,B,butt line.,water line.,fuselage station.
+12,333,Passenger cabin seat rails form part of the.,C,stringers.,frames.,longerons.
+12,334,Buckling in a semi-monocoque structure is prevented by.,B,bulkheads.,stringers.,longerons.
+12,335,Which loads do longerons resist?.,A,"Bending, compression and tensile.",Torsional only.,"Bending, compression, tensile and torsion."
+12,336,What are the four stresses to be considered when building an aircraft?.,A,"Compression, Torsion, Tension, Shear.","Compression, Tension, Torsion, Stress.","Compression, Torsion, Stress, Strain."
+12,337,A structure that has a high designed reserve strength would be classified as.,C,secondary.,tertiary.,primary.
+12,338,An example of primary stress is.,B,bending.,tension.,shear.
+12,339,What is the water line?.,C,The zero datum from which all lateral locations are measured.,A line below which redux bonding can not be used.,The datum from which vertical locations refer.
+12,340,Lateral stations have station zero at the.,A,centre line.,nose.,left wing tip.
+12,341,Airworthiness requirements for large aircraft are found in.,A,CS 25.,ANO 25.,JAR 25.
+12,342,An Anthropomorphic Test Dummy (ATD) is strapped into a large aircraft forward facing seat. It is put through a series of crash tests.This is to.,C,to measure the amount of force applied to the abdomen of the ATD to ensure it is not above 236 kg.,test the aircraft structure and seating mount points for structural integrity.,"to determine whether or not the ATD\'s head comes into contact with any structure or seat, and if so to measure the force applied to the head in line with a specific Head Injury Criterion (HIC)."
+12,343,The fin helps to give.,C,directional stability about the longitudinal axis.,longitudinal stability about the normal axis.,directional stability about the normal axis.
+12,344,The four main structural items making up a horizontal stabiliser are.,A,"spar, rib, stringers, skin panels.","spar, rib, bulkheads, skin panels.","spar, rib, longerons, skin panels."
+12,345,A Lord mount is.,A,an engine mount.,an attachment for the undercarriage.,an attachment for the rotor blade.
+12,346,After fitting an engine.,B,You would need to carry out a tracking check.,you would need to carry out a shaft alignment check.,you would need to carry out a Tyndale-Biscoe check.
+12,347,The purpose of the pylon supporting the tail rotor is to.,A,overcome the tendency for the helicopter to roll.,overcome the tendency for the helicopter to drift.,assist the tail rotor in forward flight.
+12,348,What are the vertical surfaces at the ends of some horizontal stabilisers for?.,B,To prevent excessive pitch down of the fuselage during forward flight.,To act as a vertical stabilizer during forward flight.,To unload the tail rotor whilst hovering.
+12,349,A Fenestron tail rotor.,B,has four blades.,is a shrouded rotor.,is a variable speed rotor.
+12,350,The purpose of a B.I.M. indicator is to.,C,give a flight deck warning should the battery electrolyte become low.,give an audible warning when the winch cable is at its extremity.,give a visual indication if a blade spar cracks.
+12,351,"Where each main rotor blade can flap, drag and feather independently of other blades, the rotor system is termed.",C,Semi-rigid.,Universal.,Full articulated.
+12,352,What is the minimum cabin air mass flow?.,C,10 lbs per minute per person.,1 lbs per minute per person.,0.5 lbs per minute per person.
+12,353,The function of an air mass flow control valve is to.,B,control the airflow out of the cabin.,maintain a reasonably constant air mass flow into the cabin at all altitudes.,ensure that system differential pressure is not exceeded.
+12,354,"In a Bleed Air air-conditioning system, the warm air supply is provided by.",A,the compressor of the gas turbine engine.,the engine exhaust heat.,the gas turbine exhaust.
+12,355,How much air is required for the Flight Deck?.,B,10 lbs/minute.,10 cubic feet/minute.,Whatever the captain sets.
+12,356,A refrigerant is used in which of the following?.,A,Vapour cycle.,Pneumatic pump.,Air cycle machine.
+12,357,A water separator is located.,C,downstream of heat exchanger.,upstream of the turbine.,downstream of turbine.
+12,358,The velocity of air from the cabin ventilation system should not exceed.,B,20 feet per second.,120 feet per second.,40 feet per second.
+12,359,"On an aircraft employing a heater system on the air conditioning system, after an overheat, how is the heater reset?",C,After it cools the pilot resets.,After cooling below 300 °C it auto resets.,On ground only by engineer.
+12,360,"In typical vapour cycle system, the sub-cooler.",C,cools the vapour further to prevent slugging.,delivers extra cooling effect when the aircraft is on ground.,is a heat exchanger to superheat the vapour.
+12,361,"In an air conditioning system, heat is added to air by.",B,restricting duct outlets.,restricting compressor outlet.,restricting compressor inlet.
+12,362,Air conditioning systems.,C,increase the temperature of air.,increase and decrease the temperature of air.,decrease the temperature of air.
+12,363,An air cycle machine turbine.,A,drives compressor to increase temperature.,drives compressor to pressurise aircraft.,drives compressor to decrease temperature.
+12,364,Air exiting the compressor side of an ACM.,C,no change in temperature or pressure as it is a centrifugal compressor.,will have decreased pressure and temperature.,will have increased pressure and temperature.
+12,365,Where is the water trap located in a bootstrap compressor?.,C,At the inlet of the compressor.,At the outlet of the compressor.,At the inlet of the turbine.
+12,366,Where is the silencer located in a 'blower' air conditioning system?.,B,At the inlet of the blower.,At the outlet of the blower.,At the inlet to the cabin.
+12,367,When does a 'blower' air conditioning system produce the most air?.,B,At high altitudes.,It is not affected by altitude.,At low altitudes.
+12,368,"In an air conditioning system, before distribution, the air goes through the.",C,flow control valve.,TCV and mixer valve.,TCV.
+12,369,"In a cabin air recirculation system, recirculated air and fresh air are supplied in the proportions.",B,"50% of fresh air, 50% of recirculated air.","60% of fresh air, 40% of recirculated air.","40% of fresh air, 60% of recirculated air."
+12,370,An air-to-air heat exchanger is provided to.,A,reduce the air supply temperature.,provide an emergency ram air supply.,increase the air supply temperature.
+12,371,Temperature control of cabin air is achieved by.,B,controlling the water vapour in the supply.,regulating the amount of air by-passing the cooling system.,varying the ambient airflow to the heat exchanger.
+12,372,A cold air unit produces a drop in temperature by.,C,reducing pressure.,driving the units compressor.,reducing pressure and driving the units compressor.
+12,373,Heating for pressure cabins is obtained from.,A,air supply heated by the pressurising process.,driving the units compressor.,only by adding heat electrically to the air supplies.
+12,374,When a combustion heater overheats.,A,it is automatically shut down and cannot be restarted during flight.,the pilot receives an audible warning.,it is automatically shut down and can be restarted after a short period.
+12,375,A cold air unit allows for cabin temperatures to be.,A,a little more than ambient air temperature.,lower than ambient air temperature despite compression heating.,"same as ambient temperature, despite compression heating."
+12,376,A cold air unit produces a drop in temperature by.,B,air supply to the cabin.,expanding hot air across a turbine which is driving a compressor.,directing compressed air into a heat exchanger.
+12,377,"When a 'muff' or air ducting is built around the engine exhaust system and air is directed around inside the muffler, this is an.",A,exhaust heater.,combustion heater.,thermal heater.
+12,378,"In a turbo fan cold air system, the heat exchanger cooling air is.",B,air bled directly from engine or through blower.,ram air from ambient conditions.,bled from cabin air supply duct.
+12,379,Conditioned air is.,A,temperature and pressure adjusted.,moisture removed.,oxygen added.
+12,380,The ventilation air in the aircraft cabin must have a minimum humidity of.,B,20 percent.,30 percent.,60 percent.
+12,381,Exhaust heat exchangers.,C,requires a fan to supply air to the cabin.,uses engine compressor air for use in the cabin.,uses ram air only to supply air to the cabin.
+12,382,In a Boot-Strap Air Conditioning supply system the source of compressed air is from.,B,ram air at the wing leading edge.,gas turbine compressor bleed air.,gas turbine intake ram air.
+12,383,The temperature within the cabin of the aircraft is normally maintained at.,A,18ºC to 24ºC.,12ºC to 18ºC.,20ºC to 24ºC.
+12,384,In a 'bootstrap' cooling system the supply of air is first.,A,ompressed then passed through a heat exchanger and across an expansion turbine.,"passed across an expansion turbine, then compressed and passed through a heat exchanger.","passes across an expansion turbine, then directly to the heat exchanger."
+12,385,The humidity within a passenger cabin should.,B,not be less than 60%.,be between 30% and 70%.,not be greater than 40%.
+12,386,One of the principles of cooling employed in an air cycle system is.,C,by surface heat exchange in the C.A.U.,by compression of ambient air across a turbine,conversion of heat energy to mechanical energy in the C.A.U.
+12,387,Before filling a vapour cycle cooling system.,C,flush the system with a solvent.,preheat the system to 100 °F.,apply suction to remove air and moisture.
+12,388,The rate of flow of air from the punkha louvers should not be less than.,A,25 ft/min.,300 ft/min.,200 ft/min.
+12,389,"In the case of a vapour cycle cooling, system heat is removed from the charge air by.",B,reducing the pressure of a vapour.,changing a liquid into a vapour.,changing a vapour into a liquid.
+12,390,"Subsequent to passing through the primary heat exchanger, the supply air in a turbo-fan cold air system flows to the.",B,inter cooler or secondary heat exchanger.,fan,turbine.
+12,391,The heat exchanger in a turbo-fan system is cooled by.,B,engine bleed air or blower air.,ambient ram air.,air bled from the main cabin supply duct.
+12,392,The effective temperature of a cabin is given by.,A,temperature and humidity.,temperature only.,"temperature, humidity, thermal inertia and heat load."
+12,393,When dissipating heat in a vapour cycle system.,A,vapour converts to a liquid.,the liquid sublimates.,liquid converts to a vapour.
+12,394,International markings for air conditioning pipelines are.,C,triangles.,rectangles.,dots.
+12,395,A cabin humidifier is operated.,A,at high altitudes.,at low altitudes.,on the ground.
+12,396,"In an air conditioning system, heat is added to the air by.",C,restricting duct outlets.,restricting compressor inlet.,restricting compressor outlet.
+12,397,A turbo fan CAU used for air cycle cooling will.,,increase the pressure but decrease the temperature.,not affect the charge air pressure.,decrease pressure and temperature of the charge air.
+12,398,Which of these barometric instruments uses a restrictor to compute its output?.,A,VSI.,Machmeter.,ASI.
+12,399,"In a Central Air Data Computer (CADC) system, Mach information is derived from.",B,pitot and static pressures.,indicated airspeed and altitude.,indicated air speed and total air temperature.
+12,400,"In a Central Air Data Computer (ADC), the rate of climb of an aircraft is produced in the.",C,Indicated Airspeed Module.,Mach Module.,Altitude Module.
+12,401,"In a Central Air Data Computer, altitude is produced from.",C,pitot air pressure.,pitot air pressure and total air temperature.,static air pressure.
+12,402,"In a Central Air Data Computer (ADC), Indicated Air Speed (IAS) is produced from.",C,pitot pressure only.,static pressure only.,pitot and static air pressure.
+12,403,"In a Central Air Data Computer (CADC) system, True Air Speed (TAS) is derived from the Mach information and.",A,Total Air Temperature.,Static Air Pressure.,Pitot Air Pressure.
+12,404,Track altitude in a radio altimeter system begins at.,B,1000 ft radio alt.,2500 ft radio alt.,10000 ft radio alt.
+12,405,What is the maximum radio altimeter track altitude?.,A,"2,500 ft.","10,000 ft.",500 ft.
+12,406,An ECAM system is tested under the following conditions.,A,Aircraft on the ground with parking brake set/on.,Aircraft in the air with both engines running.,Aircraft on the ground with one engine running.
+12,407,"Which instrument are most likely to damage if you have a rapid drop in pressure, when carrying out a pitot-static leak check?.",B,vertical speed indicator.,Altimeter.,Air speed indicator.
+12,408,The runway heading is.,C,QDR.,QDM.,QFU.
+12,409,Apparent drift of a vertical gyro is a function of.,B,sin of latitude.,cos of latitude.,tan of latitude.
+12,410,Radio marker information is displayed on.,A,ADI.,EICAS.,HIS.
+12,411,Where is the spin-up/rundown brake on a gyro instrument?.,B,Outer gimbal.,Inner gimbal.,Rotating vane.
+12,412,On replacing a pre-indexed flux valve you would.,A,fit the serviceable pre indexed flux valve into the same position as the unserviceable pre-indexed flux valve was removed from.,align the aircraft onto its A coefficient so that no error is induced.,carry out a check swing after fitment.
+12,413,"In Airways flying, what is the barometric scale of the altimeter set to?.",A,1013.25.,QFE.,QNH.
+12,414,Vibration monitoring signals are sent.,C,via a half-wave rectifier to the gauge.,direct to the gauge.,via a signal conditioner to the gauge.
+12,415,The vacuum system gauge reads 5 inches of mercury. This is from.,A,ambient and minus.,zero and positive.,zero and minus.
+12,416,A direct reading Bourdon gauge has a restriction in the inlet.This is to.,B,prevent FOD ingestion.,dampen sudden pressure changes.,allow for calibration.
+12,417,The hot junction of thermocouple is.,C,in the instrument.,in the combustion chamber.,aft of combustion chamber.
+12,418,"When a rad. alt. reaches 2,500 ft. what happens to the display?.",A,Rad. alt. goes out of view.,Error warning in view.,Rad. alt. flag in view.
+12,419,Pitot tubes are heated.,C,by compressed bleed air.,by kinetic heating.,electrically.
+12,420,The suction gauge reads 5 inches of mercury. This is.,B,above ambient pressure.,below ambient pressure.,above zero pressure.
+12,421,What are the primary colours for use in CRT displays?.,B,"Yellow, cyan, magenta.","Red, blue, green.","Red, blue, yellow."
+12,422,"When performing maintenance operations on an helicopter equipped with RVSM system, and a quick release disconnect connection is disturbed.",C,a full test of the system should be carried out only if the aircraft manufacturer recommends to do so.,the allowances for the system should be halved.,a full test of the system should be carried out.
+12,423,"For a helicopter certificated after 1997 and with RVSM, the maximum tolerance for the system would be.",C,+/-500 feet for the system overall.,+/-300 feet plus +/-50 feet for instrument errors.,+/-200 feet plus +/-50 feet for instrument error.
+12,424,The HSI provides information on.,C,"VOR, ILS, plan, attitude.","VOR, ILS, map, radar, attitude.","VOR, plan, map, ILS, radar."
+12,425,The sensing element of the flux valve.,B,aligns itself to the new heading as the aircraft turns.,remains in the same position attached to the aircraft structure.,aligns itself to the new heading of the aircraft after it has stabilised.
+12,426,"In a compass swing: North error -2 degrees, South error - 2 degrees. The coefficient C is.",A,0 degrees.,+2 degrees.,-2 degrees.
+12,427,"When aligning an helicopter for a compass swing, the maximum allowable error is.",C,3 degrees.,1 degrees.,5 degrees.
+12,428,The pitot head is fitted on the helicopter. The alignment of pitot head is carried out with.,C,spirit level.,an inclinometer.,micrometer.
+12,429,What kind of gyro is a rate gyro?.,C,Displacement.,Space.,Tied down.
+12,430,A radio altimeter system can be self tested.,A,both on the ground only and in the air.,in the air only.,on the ground only.
+12,431,The apparent wander for directional gyros is.,B,maximum at the pole.,compensated by applying a constant torque.,dependant on longitude.
+12,432,The Directional Gyro is checked every 15 minutes for.,C,toppling.,erection.,drift.
+12,433,Random drift of a gyro is caused by.,A,gyro friction and unbalance.,error in roll when aircraft is turning.,aircraft turning with an error in roll.
+12,434,Standby Compass adjusting magnets (Flinders Bars) exert the most amount of influence.,C,when parallel to each other.,when 45 degrees apart.,when 90 degrees apart.
+12,435,"With engine static and engine blanks fitted, EPR gauge reads just above 1.",C,Transmitter is unserviceable.,This is normal.,Gauge requires re-calibration.
+12,436,Coefficient A is adjusted.,B,at 270 degrees.,on any heading.,at 360 degrees.
+12,437,With an aircraft which has more than one compass system.,B,both are adjusted on each heading.,"master adjusted, slave adjusted, each having a corrected compass card.","master and slave adjusted, correction card for master only."
+12,438,A DC electrical cable must be positioned how far away from a compass?.,B,So as to give no more than 2 degrees deflection of compass.,24 inches.,20 inches.
+12,439,Which pitot probe provides information to the captains instruments?.,C,Lower.,Both.,Upper.
+12,440,"On the CWP, what does amber indicate?.",C,Present status.,Warning.,Cautionary info.
+12,441,Which instrument shows Decision Height?.,A,ADI.,HIS.,ECAM.
+12,442,Where does the HSI receive GND speed information from?.,A,INS.,Pitot static probes.,EICAS.
+12,443,"When power is switched off, the gimbal brake.",C,stops outer gimbal.,restricts outer gimbal.,restricts inner gimbal.
+12,444,On an EADI the command bars show the.,C,required flight path compared to planned flight path.,required flight path compared with horizon.,required flight path compared with aircraft position.
+12,445,The airdata computer inputs to.,A,"altimeter, FMC, secondary radar.","mach meter, standby altimeter, ASI.","cabin rate sensors, mach-meters, ASI, altimeter."
+12,446,What deviation is indicated by 2 dots in a VOR system?.,B,2.5 °.,10 °.,6 °.
+12,447,How may the basic principle of the radio altimeter be described?.,B,As a series of radio pulses to the ground their frequency depending on the expansion or contraction of an evacuated capsule and the deflection of an E and I bar transducer.,As a measure of the time between a RF pulse transmission and the reception of its echo from the ground directly below the aircraft.,As a comparison of radio altitude against a barometric altitude referenced to ISA sea level (1013.25mb).
+12,448,"In a compass system, what senses the horizontal component of the earths magnetic field and where is it normally fitted?.",A,Flux detectors fitted in the wing tips.,Directional gyro mounted on the roll axis of the aircraft.,A precession device mounted on the yaw axis of the aircraft.
+12,449,An RMI has inputs from VOR and.,C,a remote compass input.,no other sources.,an azimuth gyro.
+12,450,"In a modern HSI, the displays are.",A,course and direction.,course and attitude.,direction and attitude.
+12,451,At what height does the rising runway appear?.,A,200 ft.,300 ft.,500 ft.
+12,452,An H on the EHSI indicates.,A,DME hold.,ILS approach.,VOR hold.
+12,453,"Compared to air driven gyros, the electric gyro runs.",B,slower.,faster.,same speed.
+12,454,A pneumatic indicator takes its indications from.,B,compressor inlet.,reservoir.,compressor outlet.
+12,455,What is apparent drift due to?.,B,Errors when aircraft banking.,Earths rotation.,Gyro pivot friction.
+12,456,An aircraft airspeed indicator has,B,pitot to the capsule.,pitot to the capsule and static to the out side of the capsule.,static to the capsule and pitot to the out side of the capsule.
+12,457,Above 2500 ft. the radio. altitude.,A,pointer is hidden behind a mask with off flag out of view.,continues to indicate but with a warning flag.,pointer goes to zero to show system is being monitored.
+12,458,When changing a pitot static instrument with quick release couplings.,B,a leak check is not required.,a leak check is only required if stated by manufacturer.,a leak check is always required.
+12,459,The flux detector element.,C,changes heading with the heading of the aircraft.,changes it position after the aircraft heading is changed.,gives heading with respect to magnetic north.
+12,460,"If rate feedback in a flight director goes open circuit, position indication will.",A,oscillate.,go hard over.,be sluggish.
+12,461,The needle of a resolver is connected to.,B,two coils and a permanent magnet.,two coils only.,two coils and an electromagnet.
+12,462,If the compass fluid has bubbles at low altitude.,A,this is due to insufficient de-aeration.,this is due to excessive high cabin altitude flying.,this has no influence on compass readings.
+12,463,A remote compass compensator unit is replaced. Whichof the following is correct?.,B,The swing can be performed at a later date.,A compass swing must be performed.,No swing is required if the new heading is within 5 degrees of the old.
+12,464,A compass has a residual deviation of +1 degree. To steer a true heading of 180 degrees the pilot must steer.,C,180 degrees.,181 degrees.,179 degrees.
+12,465,What effect on the rate of precession will a change of gyro rotor speed have?.,B,No effect.,"Increase the rotor speed, decrease the rate of precession.","Decrease the rotor speed, decrease the rate of precession."
+12,466,A gyroscopic body has its rigidity increased by.,A,increasing the rotor speed.,decreasing the mass of the rotor.,decreasing the rotor speed.
+12,467,"If a constant torque is applied to a gyroscope, the rate of precession.",A,increases with a lower rotor speed.,increases with a higher rotor speed.,is unaffected by changes in rotor speed.
+12,468,Random drift of a gyro is caused by.,B,rotation of the earth.,unbalance and bearing friction in the gyro.,aircraft turning with an error in roll.
+12,469,A pendulous vane type erection system fitted to a gyro horizon works on the principle of.,A,increased reaction of the air from a fully open port.,increased reaction of the air from a bisected port.,decreased reaction of the air from a fully open port.
+12,470,"During the normal straight and level flight, the gyro of an electrical artificial horizon is kept erect in pitch by a.",B,mercury switch in the fore and aft axis controlling a torque motor fitted between the inner and outer gimbal rings.,torque motor fitted between the outer gimbal ring and the case controlled by a mercury switch in the fore and aft axis.,torque motor fitted between the outer gimbal ring and the case controlled by a mercury switch in the athwartships axis.
+12,471,The normal erection supply to the mercury switches of the artificial horizon is disconnected.,B,when the fast erection button is pressed.,during turns.,for the first 40 seconds after initially switching 'ON'.
+12,472,The pitch/bank erection system is used in an electrical gyro horizon to.,A,to prevent the pitch switch giving a false indication due to centrifugal effects during a turn.,give full erection control to the roll switch during a turn.,give full erection control to the pitch switch during a turn.
+12,473,The fast erection push on an electrical gyro horizon must not be used for a set period after switching on because.,C,the normal erection switch contact will burn out.,overheating of the gyro rotor windings will occur.,excessive hunting will take place.
+12,474,Apparent drift of a directional gyro is due to.,B,bearing friction.,the effect of the earth's rotation.,unbalance of the gimbals.
+12,475,The erection system on a directional gyroscope has.,A,a switch on the inner gimbal controlling a motor on the outer gimbal.,a switch on the inner gimbal controlling a motor on the inner gimbal.,a switch on the outer gimbal controlling a motor on the inner gimbal.
+12,476,"In a rate gyro used to detect movements about a vertical axis, the amount the gimbal ring moves would be increased if the.",A,rotor speed decreases.,spring tension was increased.,angle through which the gyro moves in azimuth increases.
+12,477,The Turn and Slip indicator employs.,A,a rate gyro.,a vertical gyro.,an azimuth gyro.
+12,478,"In a Turn and Slip indicator, the effect of increasing the rotor speed would be.",C,it would have no effect.,it would over read.,it would under read.
+12,479,How is the information on a directional gyro outer gimbal taken off?.,C,By a switch on the inner gimbal.,By a switch on the outer gimbal.,By a flux take-off device.
+12,480,Why is a directional gyro inner gimbal restricted to +/-85º?.,C,To ensure outer gimbal erection system works correctly.,To prevent outer gimbal rotating.,To prevent gyro going into gimbal lock.
+12,481,The speed of the rotor in a Turn and Slip indicator is approximately.,B,"2,400 rpm.","4,200 rpm.","22,500 rpm."
+12,482,"In a directional gyro, the inner/outer gimbal is corrected to.",B,15 sine longitude.,15 sine latitude.,15 cosine latitude.
+12,483,The electrolyte switches used in gyro systems rely upon.,A,change in resistance to operate.,change in voltage applied to operate.,change in inductance to operate.
+12,484,Precession of a gyro depends on.,C,moment of inertia of the rotor only.,angular velocity of the rotor only.,both answers (a) and (b).
+12,485,Angular momentum of a gyro rotor depends on.,B,angular velocity of the rotor.,moment of inertia and angular velocity of the rotor.,moment of inertia of the rotor.
+12,486,"Air driven gyros, compared to electric gyros, generally rotate.",A,slower.,the same speed.,faster.
+12,487,Gyro rigidity is proportional to.,B,mass and speed.,"mass, speed and radius of mass from spin axis.","mass, and radius of mass from spin axis."
+12,488,"mass, speed and radius of mass from spin axis.",C,proportional to the square of the applied force.,inversely proportional to the applied force.,directly proportional to applied force.
+12,489,The speed of a vacuum driven gyro horizon rotor is approximately.,B,"22,000 rpm.","15,000 rpm.","4,200 rpm."
+12,490,A V.S.I. is connected to.,A,static pressure.,pitot pressure.,vacuum.
+12,491,With a V.S.I. pointer at position 1 on the upper half of the scale it indicates.,C,"1,000 ft/minute rate of descent.",100 ft/minute rate of climb.,"1,000 ft/minute rate of climb."
+12,492,"After disconnecting the supply to an electrically operated gyro instrument it is recommended that, to allow the gyro rotor to stop, before moving the instrument.",C,three minutes should elapse.,seven minutes should elapse.,fifteen minutes should elapse.
+12,493,The Port and Starboard static vents on an helicopter are inter-connected to.,A,cancel errors caused in the static system when the aircraft yaws.,minimize errors caused by leaks in the system.,reduce compressibility error.
+12,494,Which of the following would cause a displacement gyro to topple?.,A,Running gyro at low speed.,Running gyro at high speed.,Inverting the gyro.
+12,495,"In level flight, a V.S.I. will indicate.",C,vertically down.,vertically up.,horizontal to left.
+12,496,"On descent, the pressure in a V.S.I. capsule.",C,is the same as case pressure.,lags the case pressure.,leads the case pressure.
+12,497,"A small constant leak in the case of V.S.I. fitted in a pressurized aircraft would, during level flight, cause the instrument to indicate.",B,a rate of descent.,zero.,a rate of climb.
+12,498,"When a force is applied to a horizontal gyro, the precession of the rotor will continue until.",B,plane of rotation is in line with the precessional force.,plane of rotation is in line with the plane of the applied force.,as long as the force is applied.
+12,499,An artificial horizon has.,B,the inner gimbal pivoted longitudinally.,the inner gimbal pivoted laterally.,the inner gimbal pivoted vertically.
+12,500,A pressure of one atmosphere is equal to.,C,1 inch Hg.,100 millibar.,14.7 PSI.
+12,501,In the directional gyro.,B,the outer gimbal is pivoted longitudinally.,the outer gimbal is pivoted vertically.,the outer gimbal is pivoted laterally.
+12,502,The millibar is a unit of.,C,atmospheric temperature.,pressure altitude.,barometric pressure.
+12,503,In the Turn and Slip indicator.,C,the spin axis is longitudinal.,the spin axis is vertical.,the spin axis is lateral.
+12,504,"In an altimeter, the",B,inside of the capsule is connected to static pressure.,capsule is evacuated and sealed.,capsule and case are connected via a calibrated choke.
+12,505,The units on the calibrated scale of a V.S.I. are expressed in.,B,miles per hour (mph).,hundreds of feet per minute.,knots (kts).
+12,506,A standby air supply for gyro operation could be obtained from.,A,a venturi.,a tapping from the induction manifold.,a pitot head.
+12,507,At the lowest point of each vent line you would normally find a.,B,float valve.,self draining non-return valve.,NACA duct.
+12,508,A rate two turn is.,C,180 degrees per minute.,90 degrees per minute.,360 degrees per minute.
+12,509,The rate of turn information from a turn coordinator (compared to a Turn and Slip) is.,B,less accurate.,more accurate.,more instantaneous.
+12,510,Temperature correction in a sensitive altimeter mechanism is provided by a.,C,U-spring acting on the capsule.,balance weight.,bi-metal U-spring acting on the capsule.
+12,511,The capsule in a vertical speed indicator will be expanded when the aircraft is.,C,in level flight.,climbing.,descending.
+12,512,"After replacing an instrument of the pitot-static group, it is necessary to.",B,blow through the lines with a clean low pressure air supply.,carry out a leak test on the appropriate system(s).,calibrate the instrument concerned.
+12,513,"If the pitot and static pipe lines were cross connected at the instrument panel connection, application of pressure to the pitot head would cause the.",B,"altimeter reading to increase, vertical speed indicator to indicate descent.","altimeter reading to decrease, vertical speed indicator to indicate descent.","altimeter reading to decrease, vertical speed indicator to indicate climb."
+12,514,A constant force applied to the inner gimbal of a vertical gyro would cause.,A,a continual precession in roll.,a pitch error and gyro topple.,a roll error and gyro topple.
+12,515,A rate of turn indicator dial marked '2 minutes' refers to a.,C,rate 3 turn.,rate 2 turn.,rate 1 turn.
+12,516,A pitot or static leak check is carried out.,C,only when an instrument is changed.,only when a leak is suspected.,whenever the pitot or static systems are disturbed.
+12,517,The temperature of boiling water at standard pressure on the Fahrenheit and Centigrade scale is.,B,100 deg. and 32 deg. Respectively.,212 deg. and 100 deg. Respectively.,180 deg. and 100 deg. Respectively.
+12,518,A temperature of 59 °F is equivalent to.,A,the angle between True North and the longitudinal axis of the aircraft.,the angle between True North and the desired track.,the angle between True North and the actual track.
+12,519,Wind angle is the direction of the wind measured.,B,in degrees from the aircraft's heading.,in degrees from True North.,in degrees from the desired track.
+12,520,Limit stops are fitted in an artificial horizon to.,A,prevent gimbal lock.,reduce gimbal nutation.,limit the outer gimbal movement.
+12,521,The electrical output from a remote gyro to an attitude director indicator is.,B,by a differential synchro.,by a control synchro.,by a torque synchro.
+12,522,Agonic lines link places of.,C,different variation.,equal variation.,zero variation.
+12,523,Position error is caused by.,B,instrument location in the instrument panel.,pitot head position.,mechanical imperfections in an instrument.
+12,524,To convert degrees Centigrade to degrees Kelvin.,B,use the formula (deg C * 9/5) + 32.,add 273 degrees.,NOTHING.
+12,525,Damping on a RATE GYRO can be either.,C,"viscous, eddy current or variable spring.","eddy current, variable spring or moving iron.","viscous, eddy current or air dash pot."
+12,526,The electrical output from a remote gyro to an attitude director indicator is.,C,by a torque synchro.,by a differential synchro.,by a control synchro.
+12,527,Electrical driven gyros are.,A,rotated faster than air driven gyros.,rotated at the same speed as air driven gyros.,rotated slower than air driven gyros.
+12,528,"In a ratiometer temperature indicating circuit, there is a break in the circuit to the bulb. This will give.",B,no scale deflection.,full scale deflection.,mid scale deflection.
+12,529,"With the gyro at normal running speed, a torque applied to the inner gimbal ring of a vertical gyro will cause the.",B,inner ring to move.,outer ring to move.,outer and inner ring to move.
+12,530,"When an helicopter is descending, the pressure in the altimeter case.",A,will cause the aneroid capsule to contract.,will not affect the aneroid capsule.,will cause the aneroid capsule to expand.
+12,531,The supply of Desynn indicating system.,B,is alternating current at 400 c/s.,is direct current.,is alternating current at 50 c/s.
+12,532,A sensitive altimeter reading 100 ft. when the millibar scale is set to the atmospheric pressure at airfield level (QFE).,C,indicates that the airfield is 100 ft. above sea level.,indicates that the aircraft is in a region of high pressure and the reading must be corrected to I.S.A. standards.,indicates that the instrument is unserviceable.
+12,533,After using a pitot-static test set the pressure in the aircraft static system should be released to the atmosphere by.,C,removing the static connector from its static vent after waiting for a period of three minutes.,removing the static connector from its static vent.,venting the static system via an internal bleed in the test set.
+12,534,An altimeter is operated.,A,by the static system.,by the pitot system.,by the vacuum system.
+12,535,What is the purpose of the bimetallic strip in the altimeter?.,C,Compensates for change in density.,Compensates for non-linear tension in the hairspring.,Corrects for capsule elasticity.
+12,536,Which axis does the directional gyro spin on?.,B,Both vertical and horizontal.,Horizontal.,Vertical.
+12,537,The capsule in an altimeter responds to.,C,gauge pressure.,differential pressure.,absolute pressure.
+12,538,The aeroplane monitor on the artificial horizon is fitted to the.,C,inner gimbal.,rotor.,instrument case.
+12,539,True airspeed in an Air Data Computer is a function of.,C,airspeed and altitude.,airspeed and temperature.,mach number and temperature.
+12,540,The advantage of an instantaneous V.S.I. over a conventional one is.,C,it does not require pitot/static pressure.,it does not require warming up.,it has an accelerometer which prevents the lag of a conventional one.
+12,541,"For a particular I.A.S. as the density decreases with altitude, the T.A.S.",A,increases.,decreases.,remains the same.
+12,542,The type of gyro used in a gyro compass is a.,A,directional gyro.,vertical gyro.,rate gyro.
+12,543,A desiccant used in the storage of instruments.,A,is silica-gel.,is anti-freeze oil.,is sodium-bicarbonate.
+12,544,What effect on the rate of precession will a change of gyro rotor speed have?.,A,"Increase the rotor speed, decrease the rate of precession.",No effect.,"Decrease the rotor speed, decrease the rate of precession."
+12,545,Bourdon Tubes have.,C,toroidal cross section.,circular cross section.,oval cross section.
+12,546,In a Bourdon tube.,A,one end is sealed and the other end open to the pressure source.,both ends sealed.,one end is sealed and the other end open to atmosphere.
+12,547,Pressure gauge calibrators (Dead Weight Testers) use the.,B,Boyle's Law.,Brahm's press principle.,Charle's Law.
+12,548,The fluid suitable for use in a Dead Weight Tester is.,A,castor-oil.,kerosene.,anti-freeze oil.
+12,549,The distance readout on an HSI is.,C,dialled in by the pilot.,from the aircraft ATC system.,from the aircraft DME system
+12,550,"A gyroscope having one plane of freedom at right angles to the plane of rotation, and its gimbal restrained either electrically or by a spring, is known as.",A,a rate gyro.,an earth gyro.,a tied gyro.
+12,551,Pressure may be expressed in.,C,weight or mass.,force per unit volume.,force per unit area.
+12,552,What is the purpose of the hair spring in a Bourdon tube pressure gauge?.,C,To act a controlling force.,To return the pointer to zero.,To reduce 'backlash'.
+12,553,The ADIs attitude information is normally obtained from the aircraft's.,B ,attitude rate gyros.,vertical gyros.,directional gyros.
+12,554,One dot VOR deviation represents.,A,5 °.,2 miles.,1 1/4 °.
+12,555,An instrument used for measuring negative pressures.,C,has the Bourdon tube reversed within the case.,has anti-clockwise pointer movement if Bourdon tube operated.,cannot be of the Bourdon tube type.
+12,556,An absolute pressure gauge measures.,A,the applied pressure referred to a perfect vacuum.,pressures extremely accurately.,the applied pressure referred to atmospheric pressure.
+12,557,Gauge pressure as indicated on a direct reading Bourdon Tube pressure gauge is equal to.,A,absolute pressure minus atmospheric pressure.,absolute pressure plus atmospheric pressure.,atmospheric pressure minus absolute pressure.
+12,558,The to/from indicator on an HSI informs the pilot of which direction he is tracking relative to.,C,an ADF station.,an ILS station.,a VOR station.
+12,559,"A pressure gauge, such as a hydraulic brake pressure gauge, indicates 1,000 p.s.i. In terms of absolute pressure, this represents.",C,"1,000 p.s.i.",985.3 p.s.i.,"1,014.7 p.s.i."
+12,560,To fill a Dead Weight Tester.,C,screw in hand wheel and fill reservoir.,remove platform and fill cylinder.,screw out hand wheel and fill reservoir.
+12,561,"With an helicopter on the ground and QNH set on the millibar scale of the altimeter, the altimeter will read.",A,the airfield height.,zero.,off scale.
+12,562,When checking a sensitive altimeter on a pre-flight inspection.,A,the ambient air pressure is set on the millibar scale.,the standard sea level barometric pressure is always set on the millibar scale.,the ambient air pressure corrected for temperature is set on the millibar scale.
+12,563,The HSI compass card is positioned by the.,C,aircraft ADF system.,heading select knob.,compass system.
+12,564,The applied pressure to an A.S.I. varies with the.,B,cube root of the speed.,square of the speed.,square root of the speed.
+12,565,The supply to an A.S.I.,A,are pitot and static pressure.,is pitot pressure only.,is static pressure only.
+12,566,The capsule for an A.S.I. will be expanding when the aircraft is.,A,accelerating.,decelerating.,climbing.
+12,567,The deflection of the ADI command bars when flying a localiser approach is proportional to.,A,the difference between the amplitudes on the two modulations.,the difference in amplitude of the two r.f. carriers.,the sum of the amplitude of the two modulations.
+12,568,"If an helicopter is flying straight and level in still air, airspeed will be.",C,less than the ground speed.,greater than the ground speed.,equal to the ground speed.
+12,569,"If an helicopter flying in still air at 400 knots, encounters a head wind of 50 knots, its ground speed is.",B,450 knots.,350 knots.,400 knots.
+12,570,"To provide a linear scale on an A.S.I., a.",B,bi-metal corrector is employed.,ranging bar and screws are fitted.,10 to 1 gearing is used.
+12,571,The moving element of a ratiometer has.,B,three coils.,two coils.,one coil.
+12,572,"When carrying out a pressure leak test on an altimeter, you are checking for leaks in the.",B,capsule stack.,instrument case.,pressure chamber.
+12,573,"If an altimeter millibar scale was set to 1 0 1 3.2 5 and the barometric pressure at that time was 1020, the altimeter should read.",B,zero feet.,below zero feet (negative altitude).,positive altitude.
+12,574,"An helicopter flying towards a VOR station shows indications of 120 ° and 'TO'. After passing over thestation, on the same course, the indications will be.",C,300 ° and FROM.,300 ° and TO.,120 ° and FROM.
+12,575,The command bars in a flight director system indicate.,A,the required path with respect to actual path.,true horizon.,the actual path with respect to required path.
+12,576,When changing a windscreen panel which has a standby magnetic compass located in the vicinity.,A,precautions must be taken to ensure that the attachment bolts are of the specified type.,The attachment bolts should be tightened in an anti-clockwise direction around the window.,precautions should be taken that the bonding tag is attached to the correct attachment bolt.
+12,577,On a conventional RMI the angle between the compass datum and the radio pointer arrow is.,A,the relative bearing.,the complimentary bearing.,he magnetic bearing.
+12,578,A compass is made aperiodic by.,C,tying it to the case.,locking.,using fluid.
+12,579,Isogonal lines link places of.,B,different variation.,equal variation.,zero variation.
+12,580,In an artificial horizon Pendulosity Error is caused by.,A,bottom heaviness of inner gimbals.,bottom lightness of inner gimbals.,displacement of erection control device.
+12,581,"If True Airspeed is 470 knots, what is the Equivalent Air speed?.",A,278 knots.,550 knots.,662 knots.
+12,582,"If the Airspeed Indicator reading is 300 Knots, what is the Calibrated Airspeed?.",A,304 knots.,296 knots.,293 knots.
+12,583,"In an Artificial Horizon, Erection Error is caused by.",A,displacement of erection control device.,bottom lightness of inner gimbals.,bottom heaviness of inner gimbals.
+12,584,A Vertical Speed indicator Metering Unit Consist of.,C,a capillary.,an orifice,both a) & b).
+12,585,Flux Valve senses angle of horizontal component with respect to the aircraft's.,A,longitudinal axis.,both lateral and longitudinal axis,lateral axis.
+12,586,The manual VOR input is for.,A,the course deviation bar.,the ADI.,the radio magnetic indicator.
+12,587,"After correction of the north-south heading reading on a compass swing, the resultant correction is known as.",A,residual deviation.,magnetic heading.,correct heading.
+12,588,Apparent drift on directional gyro is corrected by.,A,an adjustment nut on inner ring.,series of balance holes drilled in gyro rotor.,mercury switch on outer ring.
+12,589,"If a micro adjuster is replaced in a compass system, you would.",A,carry out a new compass swing.,set it to zero datum.,set it up the same as the one removed.
+12,590,"In a compass swing: North error -2 degrees, South error +2 degrees. The coefficient C is.",A,-2 degrees.,+2 degrees.,0 degrees.
+12,591,Purpose of Altitude Alerting is to warn the pilot of.,A,approach to or deviation from selected altitude.,altitude information.,selection of altitude.
+12,592,"Helicopters certified before 1997 with RVSM, maximum tolerance for the system is.",A,"+/-300ft system, +/-50ft for instrument error.","+/-200ft system, +/-50ft for instrument error.",+/-500ft system tolerance.
+12,593,An HSI provides what information?.,A,"VOR, plan, ILS, map, radar.","VOR, map, attitude, ILS.","VOR, ILS, plan, attitude."
+12,594,Compressibility error in a pitot head is caused by.,C,misalignment of pitot head.,blockage in the pitot tube.,compression of air in the tube at high speed.
+12,595,The earth's magnetic field is.,C,horizontal across the earth.,vertical across the earth.,"vertical at the poles, horizontal at the magnetic equator."
+12,596,There is an air bubble in the compass.,C,"It is required, to compensate for expansion of the fluid.",The fluid is not aerated properly.,It is due to high altitude.
+12,597,A flux detector output is a.,A,A.C. voltage at twice the frequency of the excitation voltage.,A.C. voltage at the same frequency as the excitation voltage.,rectified D.C. voltage.
+12,598,Autopilot servo brake is energised.,B,to actuate on.,to actuate off.,at the same time as the clutch.
+12,599,Which category are hand mikes considered essential?.,B,Heavy passenger aircraft.,Light aircraft.,Aerial work aircraft.
+12,600,Emergency frequency is.,A,121.5 Hz.,123.5 Hz.,125.5 Hz.
+12,601,121.5 MHz is what frequency?.,C,ILS.,VOR.,VHF.
+12,602,112.1 MHz is what frequency?.,B,VHF.,VOR.,ILS.
+12,603,"On a fibreglass aerial, what paint should be used?.",A,Not cellulose.,Cellulose only.,Polyurethane.
+12,604,When painting a neoprene coated radio antenna.,B,use any paint.,do not use cellulose paint.,use cellulose paint.
+12,605,How many axis does the helicopter autopilot control?.,A,Three.,Four.,Two.
+12,606,ILS marker beacon lights are.,B,"blue, white, green.","blue, amber, white.","green, blue, amber."
+12,607,111.1 MHz is.,B,a VOR frequency.,an ILS frequency.,a HF frequency.
+12,608,An autopilot PFCU servo brake is.,C,energised on.,energised at the same time as the clutch.,energised off.
+12,609,The aviation distress frequency is.,A,121.5 MHz.,122.5 MHz.,121.5 kHZ.
+12,610,A radar altimeter in track mode is effective to.,A,2500 ft.,2000 ft.,100 ft.
+12,611,112.1 MHz is.,A,a VOR frequency.,an ILS frequency.,an ADF frequency.
+12,612,What does a Decca Navigation system operate on?.,C,Very High Frequency.,High Frequency.,Low Frequency
+12,613,Which of the following has an hyperbolic curve?.,B,VOR.,Loran C.,DME.
+12,614,A GPS satellite will come into view.,A,15 ° above the horizon with respect to the viewer.,10 ° above the horizon with respect to the viewer.,20 ° above the horizon with respect to the viewer.
+12,615,Restrictions to the use of hand held microphones apply to.,A,transport category aircraft only.,private aircraft.,aerial work and transport category aircraft.
+12,616,The purpose of the clutch in an autothrottle servo is.,B,to limit the range of control movement.,to allow the pilot to override.,to protect the servo motor in the event of inadvertent runaway.
+12,617,Track mode of an RA is operational.,A,"from 0 to 2,500 feet.","above 10,000 feet.",from 1.0 to 100 feet.
+12,618,How many aerials are there in a TCAS system?.,C,1,3,2
+12,619,Wavelength of band radar is.,C,5 cm.,10 m.,3 cm.
+12,620,Precipitation static is caused by.,B,lightning strikes.,skin to air particle collisions.,HF radiation.
+12,621,HF aerials have weak points designed at.,B,the front end.,the back end.,oth ends.
+12,622,What is the reply frequency of an aircraft transponder?.,A,1090 MHz.,1000 MHz.,1030 MHz.
+12,623,CAT 2 RVR limit is.,B,"10,000 ft.",1200 ft.,1000 ft.
+12,624,A 'hyperbolic' system is.,A,LORAN C.,VOR.,ILS.
+12,625,When is 'autothrottle' disengaged?.,C,On landing.,After thrust reverser has deployed beyond 90% so that TO/GA can be selected in case of emergency.,On selection of thrust reverse.
+12,626,"In regard to the helicopter transponder, what is the pulse frequency?.",B,Amount of times interrogating signal is sent per second.,Amount of times reply signal is sent per second.,Number of pulses per signal.
+12,627,CAT 2 RVR limit is.,B,800 meters.,400 meters.,200 meters.
+12,628,How many programs can a FMC store?.,B,Two. Both active.,Two. One active and one standby.,One current
+12,629,EPR and speed for autothrottle is activated at.,A,take off.,cruise.,approach.
+12,630,How does an IRS calculate velocity?.,C,Double integration of accelerometers.,Differentiation of laser gyro.,Integration of accelerometers.
+12,631,"In an autopilot, what controls pitch mode?",B,Localizer.,Glideslope.,VOR.
+12,632,Glideslope controls autopilot in.,C,yaw.,roll.,pitch.
+12,633,Static dischargers help eliminate radio interference by dissipating static electricity into the atmosphere at.,C,all voltage levels.,high voltage levels.,low current levels.
+12,634,What is B-RNAV?.,C,Ability to store 6 waypoints.,Indicates true airspeed.,Indicates bearing and airspeed until next active waypoint.
+12,635,An Automatic Flight Control System receives inputs from the following ground based transmitters.,A,"VOR, ILS.","RA, ADF, ILS.","DME, ILS, ADF."
+12,636,What is the wavelength of C band radar?.,A,7 cm.,3 cm.,17 meters.
+12,637,What is primary radar?.,A,Radar that sends out pulse and receives reflected pulse.,Radar that gives height and position.,Land based.
+12,638,What is ILS marker beacon frequency?.,C,50 MHz.,100 MHz.,75 MHz.
+12,639,TCAS is selected.,C,not available in cruise.,automatically.,"by a switch, by pilot on selector panel."
+12,640,The manual VOR input is for.,C,RMI.,glideslope.,course deviation bar.
+12,641,What is the colour of the middle marker beacon?.,C,Blue.,White.,Amber.
+12,642,A GPS system is formed from.,B,"satellites, processing unit, display unit.","space, control, user.","receiver, processing unit, interactive console."
+12,643,Laser gyros are.,A,aligned to the aircraft structure.,aligned to the true north.,aligned to the magnetic north.
+12,644,Laser gyros.,C,have movable parts.,have rotational parts.,do not have rotational parts.
+12,645,A radio coupled approach is.,A,"localiser first, followed by glideslope.","glideslope first, followed by localiser.",in any order.
+12,646,The rate of GLIDE SLOPE warning in GPWS.,A,changes with radio altitude.,does not change.,changes with barometric altitude.
+12,647,What frequency are VOR and ILS?.,C,UHF.,HF.,VHF.
+12,648,A radio frequency of 16 MHz would be used for.,C,marker beacons.,weather radar.,HF communications.
+12,649,ILS and VOR operate in which range.,C,HF.,UHF.,VHF.
+12,650,FMC secondary flight-plan is selected.,B,on the ground by the pilot.,in the air by the pilot.,by calendar date monthly.
+12,651,GPWS operating in mode 1 and 2 when close to ground will give.,A,red caption and aural 'whoop whoop pull up'.,"red caption and aural 'pull up, undercarriage, flaps, throttle'",amber warning.
+12,652,The components of an ILS are.,B,a localizer and a glide slope.,"a localizer, a glide slope and the marker beacons.",a localizer and the marker beacons.
+12,653,"In ILS, the glideslope provides.",B,lateral steering.,vertical steering.,distance checks.
+12,654,"If the 90 Hz tone modulation in a localizer receiver predominates, the deviation indicator will show.",B,fly left.,fly right.,the flag.
+12,655,A radio coupled autopilot in pitch uses.,B,ADF.,glideslope.,VOR.
+12,656,An inertial navigation unit uses pin programming for.,C,magnetic orientation.,aircraft type.,location.
+12,657,How can it be verified if FMC update is correct?.,C,Dataplate on the FMC.,BITE.,FMC via CDU.
+12,658,GPWS will show a fault if the following fails.,A,Radio altimeter.,Air speed indicator.,Pressure altimeter.
+12,659,INS has mercury switches on.,B,inner gimbal.,all gimbals.,outer gimbal.
+12,660,"If the runway picture in the EADI moves down during an ILS approach, the aircraft must fly.",A,down.,nowhere - this is normal on an ILS approach.,up.
+12,661,What modulation is used for the beams of a localiser in an ILS?,C,"90 Hz below the glide path, 150 Hz above the glide path.","150 Hz left of runway centerline, 90 Hz right of runway centreline.","150 Hz right of runway centerline, 90 Hz left of runway centreline."
+12,662,In what frequency range does the automatic direction finding (ADF) system operate?.,B,1025 - 1150 KHz.,190 - 1759 KHz.,108.00 - 117.95 MHz.
+12,663,How does an helicopter distinguish its own Distance Measuring Equipment reply from those for other aircraft?.,A,By changing at random the time delay between the pulse pairs of the interrogation signal.,By modulation of an audio tone.,By using an alternate frequency.
+12,664,From where is bearing information received for display on the digital-distance radio-magnetic indicator (DDRMI)?.,C,From VOR only.,From ADF only.,From VOR and ADF systems.
+12,665,Which frequency is used to achieve line of sight radio communication?.,C,VHF.,HF.,VHF and UHF.
+12,666,Why is an aerial tuning unit used in a high frequency (HF) communication system?.,B,To select the transmission/reception frequency in the HF band.,To electrically lengthen or shorten the aerial for optimum matching of impedance.,To extend or retract the aerial and so vary its physical length.
+12,667,What would be the purpose of an input from an inertial reference system being connected to a weather radar?.,A,To provide stabilisation for the radar antenna.,To place the weather radar target in azimuth and distance for the display.,To ensure that there is no radar transmission with aircraft on ground.
+12,668,Which systems provide envelope modulation information for a Ground Proximity Warning System (GPWS).,A,Flaps/undercarriage.,Autothrottle.,Rudder/ailerons.
+12,669,The Time Reference Scanning Beam (TRSB) corresponds to ILS localiser and glidepath. How does it operate?,C,It operates in conjunction with DME at lower frequencies than ILS.,It operates in the same manner as ILS but utilises higher frequencies.,Azimuth and elevation transmitters produce a narrow beam which is rapidly scanned TO and FRO or UP and DOWN.
+12,670,The FMS navigation database is updated.,B,after a B or C check has been completed.,every 28 days.,daily.
+12,671,In an IRS system you would expect to find.,A,ring laser gyros.,an azimuth gyro system.,three strap down accelerometers.
+12,672,In an INS system the accelerometer is a mass.,C,a mass suspended in free air.,a remotely mounted mass on the airframe.,suspended between two springs in a tube.
+12,673,In a modern helicopter the ACARS system is used primarily for.,A,communications between the aircraft and base.,as part of the passenger telephone system.,reporting defects on the aircraft automatically.
+12,674,What are the main areas of the autopilot?.,B,"Error, correction, follow up, demand.","Error, correction, follow up, command.","Error, correction , demand, resolved."
+12,675,VHF frequency is.,C,108 - 118 MHz.,108 - 112 MHz.,108 - 136 MHz.
+12,676,The call system for the captain will have the audio signal of a.,A,hi tone chime.,two tone chime.,horn.
+12,677,Channel 3 on a CVR records.,B,first officer.,flightdeck.,captain.
+12,678,DME works on the frequency of.,A,UHF.,HF.,VHF.
+12,679,A radial is referenced., C,on a compass.,to a VOR.,from a beacon
+12,680,ADF works by using.,A,both loop and sense aerial.,loop aerial.,sense aerial.
+12,681,How is the next database on the FMC activated?.,C,"Manually, on the ground.",Automatically by due date.,Manually in the air.
+12,682,"What GPWS mode gives a 'Whoop Whoop, Pull-up' command?.",B,Mode 3.,Mode 2.,Mode 6.
+12,683,A transponder that is compatible for use with a TCAS system would be.,B,Mode A.,Mode S.,Mode C.
+12,684,GPS.,A,uses 24 satellites equally spaced around 6 orbits.,uses 21 satellites equally spaced around 7 orbits.,uses 18 satellites equally spaced around 6 orbits.
+12,685,Random precession of the inner gimbal ring is detected by placing mercury switches.,A,on inner gimbal ring.,on both gimbal rings.,on outer gimbal ring.
+12,686,The IRS laser gyro is a.,B,displaced gyro.,rate gyro.,displacement gyro.
+12,687,What manoeuvre does TCAS 2 advise the pilot to make?.,B,Traffic Alert.,Resolution Advisory.,either Resolution Advisory or Traffic Alert.
+12,688,What are the shapes of traffic shown on a TCAS display?.,A,"White diamonds, red squares and amber circles.","White circles, red diamonds and amber squares.","White squares, red diamonds and amber circles."
+12,689,The laser ring gyro.,C,does not have gimbal.,has a stabilized platform.,does not have gimbal and rotating parts.
+12,690,3 autopilot computers are considered.,A,Fail Operable.,Fail resistant.,Fail Passive.
+12,691,Decca navigation uses.,C,HF.,VHF.,LF.
+12,692,There are two FMS installed on the helicopter. If oneFMS fails during flight.,B,the whole FMS system is unserviceable until the pilot switches over to standby.,the failed FMS has a blank screen.,"it has no effect, because the second FMS was in the stand-by mode, now it is active."
+12,693,The ILS marker beacon operates at a frequency of.,C,50 MHz.,100 MHz.,75 MHz.
+12,694,The manual input for the VOR course corrector is related to.,A,the C D I offset bar.,the RMI.,the ILS system.
+12,695,A flat plate antenna is a.,A,a series of slots and wave guides.,a Doppler antenna.,parabolic antenna.
+12,696,"To obtain an accurate GPS fix, the GPS receiver must be in line of sight of.",C,3 satellites.,6 satellites.,4 satellites.
+12,697,Which of the following systems is inhibited when a test is performed of the rad. alt. system?.,B,TCAS.,GPWS.,altitude alert.
+12,698,The GPS satellite system consists of.,C,24 satellites and 1 standby satellites.,20 satellites and 5 standby satellite.,21 satellites and 3 standby satellites.
+12,699,A Mode C transponder gives the following info.,B,Interrogation.,Altitude.,Altitude and interrogation.
+12,700,When will the decision height aural warning sound?.,C,Before decision height.,After decision height.,At decision height.
+12,701,FMCS Pin Programming is allowed.,A,to compensate for FMC position on the aircraft.,for the database of aircraft landing altitudes.,under CAA Rules.
+12,702,"Before the helicopter is moved from the loading pier, the pilot must.",B,set the altitude to be fed into the INS.,insert the latitude and longitude of the pier into the INS.,insert the latitude and longitude of the first waypoint into the INS.
+12,703,A 'strap-down' inertial navigation system has.,C,accelerometers fixed to the airframe and gyros on a stable platform.,accelerometers on a stable platform and gyros fixed to the airframe.,accelerometers and gyros fixed to the airframe.
+12,704,A force re-balance accelerometer in an IN system has the acceleration force balanced by a.,C,constant force.,non-linear force.,linear force.
+12,705,An accelerometer in an IN system must be able to detect accelerations down to.,C,10 power -3 g.,10 power -2 g.,10 power -6 g.
+12,706,A laser gyro output is.,C,directly proportional to frequency addition.,inversely proportional to angular turning rate.,directly proportional to angular turning rate.
+12,707,"In an IN system, Coriolis effect is the result of.",B,platform misalignment.,the effect of the earth's rotation on a stable platform.,gyro wander.
+12,708,The Inertial Navigation System computes distance from acceleration by.,C,a single integration.,a differential followed by an integration.,two successive integrations.
+12,709,Coriolis effect is corrected for by.,C,re-aligning the stable platform.,torquing the gyros.,adding a correction term to the accelerometer outputs.
+12,710,"In an IN system, the output of the accelerometer is linear because of a.",C,linear spring.,pendulous suspension.,force balance system.
+12,711,The three accelerometers on a stable platform are mounted.,A,orthogonally.,120 degrees apart.,parallel to each other.
+12,712,"In an IN system, the purpose of the stable platform is to.",B,provide attitude reference.,prevent unwanted acceleration affecting the accelerometers.,stop the gyros from toppling.
+12,713,The type of gyro generally used in an IN system is a.,A,rate integrating gyro.,displacement gyro.,rate gyro.
+12,714,Earth rate is approximately.,A,15 degres per hour.,5 degres per hour.,84 degres per hour.
+12,715,"In a gimbal system, the stable platform is the.",A,azimuth gimbal.,roll gimbal.,pitch gimbal.
+12,716,To prevent gimbal lock on the stable platform it is normal to use.,C,a pitch gimbal.,three gimbals.,four gimbals.
+12,717,When the inertial platform is torqued to perform like a Schuler pendulum.,B,the platform rotates with respect to the aircraft.,the platform oscillates with respect to the local vertical.,the platform remains fixed with respect to the local vertical.
+12,718,A Schuler pendulum has a period of oscillation of.,A,84.4 minutes.,8.4 minutes.,84.4 seconds.
+12,719,An IN system requires data from the.,B,satellites.,air data computer.,Doppler system.
+12,720,"When in manual mode, the C.D.U. alert lamp of the IN system will flash.",C,when an error is detected.,thirty seconds before a track change is required.,two minutes before the next waypoint.
+12,721,TK (cross track) is the.,A,perpendicular distance from the desired track.,actual track across the earth's surface.,angle in degrees that helicopter track is left or right of desired track.
+12,722,The output of an INS can be fed to.,C,altimeters.,vertical speed indicators.,attitude indicators.
+12,723,The three accelerometers on a strapdown platform are mounted.,B,parallel to each other.,90º to each other.,120º apart.
+12,724,A basic I.N.S. platform has.,A,2 accelerometers and 3 gyros.,3 axis accelerometer.,3 accelerometers and 2 gyros (pitch and roll).
+12,725,Using I.N.S. an aircraft flies.,C,course directed by ground station.,rhumb line.,great circle arc.
+12,726,What must be entered in to the I.N.S. before the helicopter moves?.,C,Waypoints.,E.T.A.,Present position.
+12,727,Selection of the INS Mode Selector Unit (MSU) to ATT REF is made.,A,when navigation information is lost.,when attitude information is lost.,to feed information to the Captain and 1st Officers ADI displays.
+12,728,"For the INS, the Battery Unit provides.",B,"standby power when airborne, switched by weight-off switches in the undercarriage.",both when airborne and on the ground.,"standby power only when on the ground, to maintain the alignment phase."
+12,729,Control Display Unit (CDU) selection of TKE displays.,C,distance perpendicular from the selected track.,difference in degrees from True North in a clockwise direction from the desired track.,difference in degrees that the aircraft track is to the right or left of the desired track.
+12,730,The Earth Rate Compensation is computed from.,A,the earth's rotational rate (15 °/hour) times the sine of the latitude.,the earth's rotational rate (15 °/hour) times the sine of the longitude.,the earth's rotational rate (15 °/hour) times the cosine of the latitude.
+12,731,INS wind speed is calculated from.,C,the vectorial addition of IAS and TAS.,the vectorial addition of IAS and GS.,the vectorial addition of TAS and GS.
+12,732,Centripetal error compensation is achieved by.,C,the platform is torqued to align the N/S accelerometer along its insensitive axis.,allowing the platform to oscillate at a fixed rate.,an additional signal is added to the N/S accelerometer to cancel the centripetal error.
+12,733,Transport Rate compensation is achieved by.,A,the platform being torqued by a computed torquing signal.,allowing the platform to oscillate at a fixed rate.,an additional signal added to the N/S accelerometer output depending on heading.
+12,734,If the battery fails on the ground (INS System).,A,a red warning light appears on the MSU and a horn sounds.,an amber light appears on the MSU and a horn sounds.,a red light appears on the CDU and a horn sounds.
+12,735,An IRS alignment.,B,takes 10 minutes and the previous flight shut down present position is used for the alignment.,takes 10 minutes and present position can be entered any time during the alignment.,takes 10 minutes and present position must be entered before alignment.
+12,736,For an IRS system to pass the 'Alignment System Performance Test' the.,B,entered present latitude and longitude must agree with the latitude and longitude at the last power down.,latitude entered must be within given limits of the latitude computed by IRU.,the No. 1 and No.2 must both have the same latitude and longitude present position entered.
+12,737,A laser gyro dither mechanism ensures that.,A,optical 'backscatter' does not cause the contra-rotating beams to lock together.,the contra-rotating beams are synchronised together.,that the two contra-rotating beams each operate at different frequencies.
+12,738,The localiser deviation signal for the flight director comes from the.,B,VHF comm system.,VHF nav system.,flight director computer.
+12,739,The heading error signal used in the heading select mode.,B,is the difference between the desired course and the actual course.,is the difference between the desired heading and the actual heading.,comes direct from the compass system.
+12,740,VOR left-right deviation signals come from the.,C,VLF nav system.,DME system.,VHF nav set.
+12,741,"Above the glideslope, the ILS glideslope signal modulation is.",B,90 KHZ.,90 Hz.,150 Hz.
+12,742,"The localiser modulation signal to the left of the localiser centre line, as seen from the localiser transmitter, is.",A,150 Hz.,90 KHz.,90 Hz.
+12,743,"The correct sense demand generated for a selected heading 180 °, when the helicopter heading is 150 ° is.",C,straight ahead.,turn left.,turn right.
+12,744,When an helicopter is flying along the extended centre line of the runway it is in the.,C,90 Hz modulation sector.,150 Hz modulation sector.,equi-signal sector.
+12,745,The localiser system offers approach guidance to the runway in terms of.,C,the vertical plane.,distance to touch down.,the horizontal plane.
+12,746,The glideslope transmitter is located.,B,at the end opposite to the approach end of the runway.,adjacent to the touch-down point of the runway.,at the approach end of the runway.
+12,747,The glideslope and localiser frequencies.,B,have to be selected separately.,are paired and one frequency selector suffices for both.,are fixed and common to all runways therefore frequency selection is not necessary.
+12,748,The glideslope system offers approach guidance to runways in terms of.,A,the vertical plane.,the horizontal plane.,distance to touchdown.
+12,749,The glideslope equipment operates in the.,C,VHF band.,HF band.,UHF band.
+12,750,The localiser equipment operates in the.,C,HF band.,UHF band.,VHF band.
+12,751,The aircraft equipment determines the bearing of a ground station by comparing,C,the amplitude of two 30 Hz modulations.,the phase of one 30 Hz modulation with that of a 9960 Hz modulation.,the phase of two 30 Hz modulations.
+12,752,The number of different radials provided by a ground station is.,C,"180 per quadrant, i.e. 720 ° in 360 °.",360 °.,infinite.
+12,753,Which of the following frequencies is allocated to VOR?.,B,127.2 MHz.,114.3 MHz.,103.9 MHz.
+12,754,Aerial masts may be damaged by.,A,Skydrol hydraulic fluids.,water.,killfrost anti-icing fluid.
+12,755,Most radio aerial masts are.,B,not bonded.,bonded.,insulated from the fuselage.
+12,756,When an helicopter is heading due north (magnetic) towards a VOR station the reference and variable signals will be.,C,270 ° out of phase.,in phase.,180 ° out of phase.
+12,757,The middle marker modulation is keyed with.,C,dots.,dashes.,alternate dots and dashes.
+12,758,The modulation of the outer marker is.,A,400 Hz.,1300 Hz.,3000 Hz.
+12,759,The approximate distance of the middle marker from the runway threshold is.,C,7 miles.,3 miles.,3500 ft.
+12,760,Marker information is usually provided to the pilot.,B,aurally.,both visually and aurally.,visually.
+12,761,An over station sensor (OSS) detects.,A,the rapid rate of the VOR signal over the cone of confusion.,radio deviation signals proportional to distance from a VOR transmitter.,radio deviation signals proportional to distance from a localiser transmitter.
+12,762,Incompatible Flight Director modes are.,C,VOR and glidepath.,VRU and compass.,altitude hold and ILS.
+12,763,The VOR system comprises.,B,reference phase signal.,variable and reference phase signals.,variable phase signal.
+12,764,The most sensitive system between ILS and VOR is.,A,ILS.,VOR.,they both have the same sensitivity.
+12,765,"If an helicopter is flying on a heading of 000 away from a VOR station, the TO/FROM indicator would show.",A,from.,to.,no indication.
+12,766,How does the flight director computer differentiate between VOR and ILS frequencies?.,B,Trigger pulse from ground station.,Frequency discriminator in receiver.,Discriminator on control panel.
+12,767,The glideslope transmitter operates on.,C,the VHF band.,frequencies of 108 to 118 MHZ.,the UHF band.
+12,768,"During ATC transponder operation, side lobe suppression acts to.",B,supply altitude readout.,mute the DME operation during transmit phase.,mute coms transmission during transponder operation.
+12,769,During operation of a twin HF radio system transceiver.,B,#1 HF system can transmit but not receive.,#1 HF system operation is inhibited during #2 operation.,both systems can be operated simultaneously.
+12,770,L band DME transmits on a frequency of.,A,1090 MHz.,2210 MHz.,4133 MHz.
+12,771,Function of ADF & VOR and DME in navigation system with reference to aircraft and beacon is.,A,the first provides bearing line from aircraft to beacon and latter provides distance between aircraft and beacon.,None of above.,the first provides distance between aircraft and beacon and latter provides bearing line from aircraft to beacon.
+12,772,Which two frequencies are paired?.,A,Glideslope and localizer.,DME and Glideslope.,Localizer and DME.
+12,773,Localizer beam width is the angle where the two edges of beam are apart at the runway threshold by.,B,7 ft.,700 ft.,70 ft.
+12,774,What happens if frequency decreases without altering the physical length of aerial?.,C,The aerial becomes inductively reactive.,The aerial becomes inductively capacitive.,The aerial becomes capacitively reactive.
+12,775,What happens if frequency increases without altering the physical length of aerial?.,B,The aerial becomes inductively capacitive.,The aerial becomes inductively reactive.,The aerial becomes capacitively reactive.
+12,776,"Aerials provide optimum output at one particular frequency, when its load is purely.",A,resistive.,inductive.,capacitive.
+12,777,The torque pre-set in an autopilot system is.,C,to stop the motor overheating.,to give control surface feel.,to allow it to be overridden at a certain force.
+12,778,Most aerials are.,C,not bonded.,made from non-conductive material.,bonded.
+12,779,The Middle Marker beacon is what colour?.,A,Amber.,Blue.,White.
+12,780,Laser gyros have.,B,rotating parts.,no rotating parts.,moving parts.
+12,781,Laser gyros are aligned to.,B,magnetic north.,aircraft structure.,true north.
+12,782,Triplex autopilot is.,C,fail soft.,fail passive.,fail operational.
+12,783,Flight management control system (FMCS) utilises.,A,"ILS, DME, ADC.","ILS, VOR, ADF.","VOR, ADF, DME."
+12,784,ACARS is., B,a navigation system.,a way of reporting defects to maintenance base in flight.,a satellite communication system.
+12,785,Where is an ATC transponder mode 'A' selected ON?.,B,The altimeter.,The ATC control panel.,The airspeed indicator.
+12,786,How many data bases are required in an FMS system?.,C,1.,3 (one is used for redundancy).,2.
+12,787,What channel of the autopilot does the glideslope control?.,C,Yaw.,Roll.,Pitch.
+12,788,What is secondary radar?.,A,Signal returned from a transponder.,Reflected radar bounce from an aircraft.,A backup radar on an airfield.
+12,789,What is Mode 1 & 2 of GPWS used for?.,B,"Excessive terrain closure rate, altitude loss after take-off.","Excessive descent rate, unsafe terrain clearance.","Excessive descent rate, excessive terrain closure rate."
+12,790,For radio communication over a distance of over 250 miles we use.,A,HF.,VLF.,VHF.
+12,791,"Autopilot, when on approach to landing, how many axis are used?",B,4.,3.,2.
+12,792,A lead-acid battery is considered to be fully charged when the.,A,SG and voltage remain constant for specified period.,SG reaches 1.180.,cells begin to gas freely.
+12,793,The preferred method of battery charging a Ni-Cad battery is constant.,A,current.,power.,voltage.
+12,794,"When a current transformer is disconnected, what should be done?.",A,Terminals shorted.,Left open circuit.,Resistor placed across terminals.
+12,795,What does the differential sensing coil sense?.,B,Power.,Current.,Volts.
+12,796,Where does the GCU gets its power?.,B,RAT.,PMG.,Battery
+12,797,Galley loads are wired in.,C,series.,either series or parallel depending on the design.,parallel so load shedding will lower current consumption.
+12,798,A fuse-type current limiter., C,can be used as a radio suppressor.,opens a circuit after a time/current condition has been exceeded.,limits current flow to a load.
+12,799,"When a load is shed from a busbar, the.",C,busbar voltage decreases.,busbar voltage increases.,current consumption from the bar decreases.
+12,800,"In unparalleled AC generation systems, the phase rotation of one generator in relation to the others.",C,must be synchronised prior to paralleling.,must be BCA.,is unimportant.
+12,801,"In a multi-generator system, the generator which takes more than its reactive power share is protected by.",A,over-voltage and under-voltage protection circuits.,over-excitation and under-excitation protection circuits.,over-current and under-current protection circuits.
+12,802,Sharing of electrical loads by paralleled DC generators is controlled by.,C,automatic load shedding.,equalising circuits which control the speed of the generators.,equalising circuits which control the field excitation of the generators.
+12,803,Excessive commutator sparking can be caused by.,C,brushes positioned on MNA.,rotating field diode failure.,weak spring tension.
+12,804,Before checking the SG of a battery recently removed from an aircraft.,C,carry out a capacity test.,allow to stabilise for one hour.,take the temperature of the electrolyte.
+12,805,"On an AC external power plug, the interlock circuit is controlled by pins.",B,AB.,EF.,CD.
+12,806,Over-voltage protection circuits are activated.,B,before the over voltage limit is exceeded.,dependent on the magnitude of the overvoltage.,after a fixed time delay.
+12,807,A diode connected across a coil will.,C,suppress arching when relay is opening and closing.,prevent the coil being fitted the wrong way.,prevent back EMF and allow faster switching.
+12,808,Which fault does not always trip the GCR?.,B,Under-frequency and under-volts.,Over-frequency and under-frequency.,Over-frequency and over-volts.
+12,809,Differential protection in a generating system.,B,uses the volts coil to trip the GCR.,detects current difference between source and load.,detects voltage difference between source and load.
+12,810,Open phase sensing on a current transformer.,B,is detected using any phase.,is detected on generator neutral circuit.,is detected using all phases.
+12,811,"If the battery is switched off in flight, the.",A,battery is disconnected from bus.,generator voltage falls to zero.,captain's instruments will be powered from the standby bus.
+12,812,To flash a generator field the.,C,generator is on line and producing a voltage less than the flashing voltage.,generator rotates but is not on line.,generator must be stationary.
+12,813,Voltage is controlled by.,C,the swashplate.,the constant speed drive.,the voltage regulator.
+12,814,The ground interlock pins are numbered.,B,C and N.,E and F.,A and B.
+12,815,Distilled water should be added to a ni-cad battery.,C,at any time.,when fully charged.,only in the battery workshop.
+12,816,Overflowing electrolyte in a ni-cad battery indicates.,C,low electrolyte temperature.,not enough charging current.,excessive charging current.
+12,817,"During a normal engine shutdown, generator tripping is initiated by.",A,undervoltage.,underfrequency.,overcurrent.
+12,818,What would you use to neutralise nicad battery spillage?.,C,Bicarbonate of soda.,Distilled water.,Boric acid.
+12,819,"Before operating generators in parallel, their voltages should be matched to prevent.",C,large circulating currents developing.,voltage spikes of sufficient magnitude to trigger GCU overvoltage circuits.,overloading the generator drive and shearing of splines.
+12,820,Consumer loads are connected to a busbar.,C,in series so when loads are shed current is reduced.,in series so when loads are shed voltage is reduced.,in parallel so when loads are shed current is reduced.
+12,821,A current transformer connected on the neutral star point of a generator is for.,B,negative sequence protection.,differential current protection.,overload protection.
+12,822,Differential protection as applied to AC generation systems compares.,A,generator current to busbar current.,generator voltage to busbar voltage.,ambient pressure to cabin pressure.
+12,823,"In an AC generation system, the frequency and phase rotation.",C,must be out of phase prior to paralleling.,is of no consequence after paralleling.,must be synchronised prior to paralleling.
+12,824,Diodes are placed across a contactor to.,C,ensure smooth contactor operation.,prevent contact bounce.,speed up operation by reducing back EMF.
+12,825,Placing the battery master switch to off during flight will.,C,shut down the APU.,disconnect all power to the main busbar.,isolate the battery from the main busbar.
+12,826,"Whilst operating paralleled AC constant frequency generators, it is important to maintain generator outputs at the same voltage.",A,to prevent a circulating current of considerable magnitude developing between two or more generators.,to prevent a circulating current developing between two or more TRUs.,to prevent CSD shock loading.
+12,827,A voltage regulator installed in series with a generator field.,A,uses a voltage coil in parallel with generator output.,uses a current coil in parallel with generator output.,uses a voltage coil in series with generator output.
+12,828,The output frequency of a hydraulically driven standby generator is controlled by.,C,an IDG.,a CSD.,an hydraulically actuated swash plate.
+12,829,Power to a GCU is supplied.,B,by the battery bus or rectified generator output.,initially by a 'field tickling' supply and then PMG output.,by the generator output only.
+12,830,Trip signals for a GCR are.,C,overfrequency and undervoltage.,underfrequency and overcurrent.,differential protection and undervoltage.
+12,831,Abnormal CSD operation is monitored on the flight deck by observing indications of.,A,high oil temperature / low oil pressure.,low oil quantity / low oil temperature.,High oil temperature / low oil quantity.
+12,832,Wires in hot temperature areas should be bound with.,B,Nomex.,Teflon.,PVC.
+12,833,A heat gun should be operated at.,B,100 °C above the specified.,the specified temperature.,100 °C below the specified.
+12,834,High voltages on a generator in a parallel system should be prevented because.,A,it will trip the GCR.,it will cause high circulating current in the bus / other generators.,it will damage the drive shaft.
+12,835,Over-voltage condition trips the generator. The time taken to trip the GCU depends on.,A,amplitude of voltage.,closing of fuel and hydraulic valves.,time delay circuit.
+12,836,A permanent magnet should have.,A,"high retentivity, low coercivity.","low retentivity, low coercivity.","low retentivity, high coercivity."
+12,837,What will happen if the aircraft battery becomes overheated?.,A,The battery charger will switch to trickle charge mode.,The hot battery bus will be disconnected from the battery.,The power supply to the battery charger will be interrupted.
+12,838,"When the temperature increases in a lead acid battery, the SG will.",A,decrease.,increase.,remain the same
+12,839,"On testing a generator it is found to require adjusting, where would you adjust it?.",B,In the cockpit on the flight engineers panel.,By means of a remote trimmer.,On the GCU.
+12,840,Control of hydraulically powered emergency electrical generator frequency is.,A,by angle of swash plate.,by IDG.,by CSU.
+12,841,When a ni-cad battery is fully charged.,C,the electrolyte level stays the same.,the electrolyte level is lower than normal.,the electrolyte level is higher level than normal.
+12,842,Electrical load on aircraft is controlled by.,B,a GCU.,a BPCU.,an IRS.
+12,843,A 4:1 step-up transformer receives 120 VAC in its primary and has 1600 Ohms resistance in its secondary. What is the current drawn from the source?.,A,1.2 A.,"0,125",0.3 A.
+12,844,"After engine start using a Ni-Cad battery, the pilot observes on the battery charger indicator, an initial high current draw followed by a rapid decrease in current.",C,the battery is faulty.,there is a problem with the charging circuit and he must shut-down the engines.,no cause for concern.
+12,845,Topping up a Ni-Cad battery in situ.,B,is permitted.,is not allowed.,is only allowed in the shop.
+12,846,"In a lead-acid battery after numerous checks, one cell has low reading.",C,It needs topping up.,It is defective.,It must be replaced.
+12,847,A short range passenger aircraft has complete electrical failure. What time duration would the battery be expected to power essential equipment?.,A,30 minutes.,60 minutes.,Forever.
+12,848,An external power plug has two short pins. These are used for.,C,ground handling bus.,a guide for correct alignment of the plug in the socket.,the interlock circuit.
+12,849,The purpose of a synchronising bus bar is.,C,to monitor total current load.,to enable two propeller systems to be synchronised.,to allow monitoring and trimming from the flight deck.
+12,850,To confirm the state of charge of a ni-cad battery.,C,"subject the battery to load, check voltage and check the SG of each cell.",subject the battery to load and check the voltage.,measure the discharge time.
+12,851,Circulating currents are associated with.,B,DC generators in parallel.,AC generators in parallel.,AC and DC generators in parallel.
+12,852,Generator brush bedding.,B,should only be done if 50% of the width and 80% of the length is already being done.,should not be done on the aircraft.,can be done on the aircraft.
+12,853,What is the amperage at point '' to the nearest amp?.,B,100 Amps.,101 Amps.,102 Amps.
+12,854,Pitot tubes are heated by.,A,AC or DC.,DC.,AC.
+12,855,Paralleling is used for.,B,AC electrical generators only.,AC and DC electrical generators.,DC electrical generators only
+12,856,Battery charging procedures can be found in ATA.,B,Chapter 24 Section 21.,Chapter 24 Section 31.,Chapter 31 Section 21.
+12,857,"In a carbon pile regulator, the resistive element is.",C,in parallel with the field and changes resistance with changing length.,in series with the field and changes resistance with changing length.,in series with the field and changes resistance with surface area contact.
+12,858,Maximum battery temperature on charging before protection circuit starts is.,C,71 degrees F.,144 degrees C.,144 degrees F.
+12,859,"If an aircraft has no battery charger, the battery is charged by.",C,constant current until a predetermined limit when it automatically switches to constant voltage.,constant current.,constant voltage.
+12,860,The output of a carbon pile regulator with no variation of loading is.,B,pulse width modulating.,stationary.,fluctuating.
+12,861,"In a transistor voltage regulator, the voltage output is controlled by.",A,zeners and transistors.,diodes and transformers.,transformers and transistors.
+12,862,A paralleled relay for a DC system is energised and connected by.,C,current coil.,voltage coil.,voltage and current coil.
+12,863,Increasing the real load primarily.,A,decreases frequency.,decreases output voltage.,increases output voltage and increases frequency.
+12,864,Inductive reactive load causes.,C,increase in torque only.,increase in torque and increase in heat dissipated.,no effect on torque but produces extra heat dissipated.
+12,865,The power factor of an AC generator identifies the proportion of.,C,reactive power from the generator that does work.,apparent power from the generator that does work.,real power from the generator that does work.
+12,866,Differential protection in an AC system protects against.,C,a reverse current flowing from the battery.,"line-line, line-line-line, line-earth faults.",short circuits.
+12,867,"In an undervolt condition in an AC generator system, the most likely consequence is.",A,activation of the time delay circuit.,energise the bus tie relay.,deactivation of the field regulatory TRs.
+12,868,"Assuming all systems are operating normally, as aircraft electrical load increases, generator output voltage will.",C,increases and amperage output increases.,decrease and amperage output increases.,remain constant and amperage output increases.
+12,869,"When installing multiple batteries on aircraft, they are connected in.",B,series.,either parallel or series and switched between as an option.,parallel.
+12,870,What is the small pin on the DC ground power connector?.,C,Positive to battery relay.,Ground or earth.,Positive to external power relay.
+12,871,How is RAT driven?.,A,Airstream.,Fan.,Compressor.
+12,872,How is an aircraft battery rated?.,B,Joules.,Ampere hours.,Watts.
+12,873,A reduction in field strength of a DC shunt motor driving a constant load will result in.,C,reduced torque and increased speed.,increased torque and reduced speed.,increased torque and speed.
+12,874,What are the 2 short prongs on an AC plug for?.,B,Using AC current to pull on interlock circuit.,To prevent arcing during plug connection / disconnection.,To help plug location/fit.
+12,875,A vibration contact voltage regulator consists of a shunt winding and a.,B,voltage regulating coil in series.,current regulation coil in series.,voltage regulating coil in parallel.
+12,876,What is the purpose of diode in a power GCR?.,A,To prevent back-flow of current in the EMF coil.,To speed up the operation.,To allow flow in the event of failure of the relay.
+12,877,Eddy currents are.,C,caused by heating effect of the coil.,caused by resistance of the coil.,circulating currents.
+12,878,The small pins in the power connector plug are.,B,neutral.,positive.,negative.
+12,879,"When an overvolt is present on an AC generator system, the tripping circuit.",A,trips after a time delay inversely proportional to overvolt amplitude.,trips after a time delay.,trips at a set level.
+12,880,"In an AC distribution system, the purpose of the synchronising bus-bar is to.",C,provide a means of monitoring the load.,supply essential services.,provide interconnection between the generator load busbars.
+12,881,Vibrating contact voltage regulator sensing coil is.,C,in series with the field windings.,across the generator output.,in parallel with the field windings.
+12,882,A current transformer connected across the neutral of a 3 phase generator is for.,A,differential protection.,load monitoring.,phase sequence monitoring.
+12,883,Zener diodes are for.,A,voltage regulation.,voltage stabilisation.,rectification.
+12,884,AC generator output indications are measured in.,C,KW.,KW & KVAR.,KVA & KW.
+12,885,Load shedding allows.,A,less current to the busbar.,more current to the busbar.,more voltage to the busbar.
+12,886,How may the output of a transistorised voltage regulator be described?.,C,Variable AC.,Slightly variable DC.,Pulse width modulated DC.
+12,887,"In the event of complete AC generator failure in an AC split bus-bar generation system, how is power maintained to the essential AC bus-bar?",B,By power fed from a hot battery bus-bar only.,By power fed from a battery supplied static inverter.,By power fed from static inverter only.
+12,888,Which components within a generator control unit connects the output of the field power supply to the generator exciter?.,C,Generator line contactor.,Generator power pilot relay.,Generator control relay.
+12,889,In what units are static inverters rated?.,B,kVAR.,kVA.,kW.
+12,890,"In a generator system, a stability winding is used.",B,in series with the field to prevent oscillations.,to prevent voltage overshoot.,to control output current.
+12,891,"On engine shutdown, what prevents GCR being tripped?.",A,Under-frequency.,Under-volt.,Under-current.
+12,892,How is real and reactive load sharing achieved in an AC parallel generator system?.,C,Real and reactive loads by control of the constant speed drives only. Output voltage is controlled by adjustment of generator fields.,"Real load by control of generator fields, Reactive loads by adjustment of the constant speed drives.","Real load by control of the constant speed drives, reactive load by adjustment of generator fields."
+12,893,"Other than when there is a fault in an aircraft battery or its charging system, when is the charger switched off automatically?.",C,When there is a failure of one alternator in a split-bus bar system.,When the alternators are fully loaded.,When the battery is used for excessively high discharge currents such as in starting
+12,894,he trimmer resister in a carbon pile volts regulator is.,B,in series with the generator field.,in series with the generator volts coil.,in parallel with the generator volts coil.
+12,895,"When a field relay trips the generator off-line, it can be reset.",A,on the ground only.,after the fault has been cleared.,by cycling the generator switch.
+12,896,In a paralleled AC generator system both A phases must be in synchronisation and.,B,phase rotation does not matter.,CBA must equal CBA.,CBA must equal ABC.
+12,897,When loads are shed from a busbar automatically.,A,bus bar current decreases.,bus bar voltage rises.,bus bar current rises.
+12,898,What controls output from the generator?.,C,BPCU.,ELCU.,GCU.
+12,899,Specific Gravity in a lead acid battery should give an indication of.,B,electrolyte level.,charge.,electrolyte temperature.
+12,900,"During normal engine shut-down, the generator.",C,control relay is tripped only.,breaker and control relay are both tripped.,breaker is tripped only.
+12,901,The generator warning light will come on when.,B,voltage is above battery voltage.,voltage is below battery voltage.,voltage is too high.
+12,902,When replacing a current transformer.,B ,voltage/current selection must be made prior to fitting.,it can only be fitted one way round.,it can be fitted any way round.
+12,903,The economy coil on a relay.,A,reduces current required to hold closed.,reduces current required to close.,makes it cheaper to make.
+12,904,What is the function of the generator control relay?.,B,Connect the generator to the busbar.,Bring the generator on-line.,Control output voltage.
+12,905,The current consumed by a DC starter motor will.,A,decrease as the engine speed increases.,increase as the engine speed increases.,remain constant.
+12,906,A neutralising agent for sulphuric acid is.,B,borax powder.,sodium bicarbonate.,citric acid.
+12,907,In a split bus power distribution system.,C,generators are paralleled on connection to the tie bus.,power is split between 115 V AC and 28 V DC.,each generator supplies its own bus and distribution system in normal operation.
+12,908,Flashing a generator field.,B,decreases resistance.,restores magnetism.,increases resistance.
+12,909,"When checking SG of electrolyte of lead acid battery, what should be taken into account?.",A,Electrolyte temperature.,Battery charge.,Ambient temperature.
+12,910,How do you check condition of Ni-Cad battery in situ?.,B,By voltmeter connected to the battery terminal.,"By voltmeter in the cockpit, when battery is on load.",By voltmeter in the cockpit when battery is off load.
+12,911,The reactive load circuit in a multi-engined AC generator system.,A,modifies generator field excitation current.,modifies generator field excitation voltage.,modifies generator drive speed.
+12,912,A vibrating type voltage regulator uses a volts coil.,B,in series with the generator output.,in parallel with the generator output.,in series with the current coil.
+12,913,The purpose of the economy contacts in a relay is to.,B,prevent contact pitting and burning.,reduce the current required to hold the contacts closed.,close the auxiliary contacts before the main contacts.
+12,914,A vibrating contact voltage regulator has.,A,a resister in parallel with the points.,a resistor in series with the points.,a volts coil in parallel with the points.
+12,915,Brush bedding-in on a starter generator can be carried out.,A,only off the aircraft.,"when 80 percent of the brush area has been previously bedded in, on the bench.",during flight.
+12,916,What would be the cause of a low electrolyte level in a nicad battery?.,C,Evaporation.,Undercharging current.,Over charging current.
+12,917,"If electrolyte from a lead-acid battery is spilled in the battery compartment, which procedure should be followed?.",A,Apply sodium bicarbonate solution to the affected are followed by a water rinse.,Apply boric acid solution to the affected area followed by a water rinse.,Rinse the affected area thoroughly with clean water
+12,918,Which statement regarding the hydrometer reading of a lead-acid storage battery electrolyte is true?.,B,A specific gravity correction should be subtracted from the hydrometer reading if the electrolyte temperature is above 20 °C.,The hydrometer reading does not require a temperature correction if the electrolyte temperature is 60 °F.,The hydrometer reading will give a true indication of the capacity of the battery regardless of olyte temperature.
+12,919,An increase in the speed of a DC generator will cause the voltage to rise with the following resultant action in the voltage regulator:-.,B,The volts coil to exert more pull thus increasing the current in the generator field.,The volts coil to increase its magnetic field thus decreasing the field excitation.,The volts coil to exert less pull thus increasing the resistance of the carbon pile.
+12,920,The equalizing coils on voltage regulators will.,C,ave current passing through them only when the generators are not paralleled be connected to.,each other when the generators are paralleled.,have current passing through them from the higher loaded generator to the lower.
+12,921,A fully charged lead-acid battery will not freeze until extremely low temperatures are reached because.,B,increased internal resistance generates sufficient heat to prevent freezing.,most of the acid is in the solution.,"the acid is in the plates, thereby increasing the specific gravity of the solution."
+12,922,What determines the amount of current which will flow through a battery while it is being charged by a constant voltage source?.,B,The ampere-hour capacity of the battery.,The state-of-charge of the battery.,The total plate area of the battery.
+12,923,The method used to rapidly charge a nickel-cadmium battery utilizes.,B,constant current and varying voltage.,constant voltage and varying current.,constant current and constant voltage.
+12,924,The presence of small amounts of potassium carbonate deposits on the top of nickel-cadmium battery cells that have been in service for time is an indication of.,B,normal operation.,excessive gassing.,excessive plate sulphation.
+12,925,The servicing and charging of nickel-cadmium and lead-acid batteries together in the same service area is likely to result in.,C,increased explosion and/or fire hazard.,normal battery service life.,contamination of both types of batteries.
+12,926,"If the current drawn from No.1 generator of a twin generator DC system is less than that drawn from No.2 generator, the current in the No.2 generator equalizing coil will flow.",B,"in the same direction as the current flow in the voltage coil, increasing the output of No.2 generator.","in the same direction as the current flow in the voltage coil, reducing the output of No.2 generator.","in the opposite direction to the current flow in the voltage coil, reducing the output of No.2 generator."
+12,927,"On a C.S. driven generator, operation of the Disconnect Solenoid will disconnect the generator drive and.",C,it can only be reset when all loads are switched off.,it will automatically reset itself when the fault is rectified.,resetting can only be carried out on the ground.
+12,928,"In a constant frequency AC system, real load sharing is achieved by regulating the.",B,generator speed.,generator drive torque.,voltage regulator.
+12,929,A constant speed drive unit has a warning light indication.,C,for low speed.,for when it is disconnected from the generator.,for low oil pressure.
+12,930,The electrolyte of a nickel-cadmium battery is the lowest when the battery is.,C,being charged.,under load condition.,in a discharged condition.
+12,931,Nickel-cadmium batteries which are stored for a long period of time will show a low.,C,fluid level because the fluid evaporates through vents.,fluid level was not periodically replenished.,electrolyte becomes absorbed in the plates.
+12,932,The purpose of an inverter is to convert.,B,AC to DC.,DC to AC.,AC to a higher frequency AC.
+12,933,How can the state-of-charge of a nickel-cadmium battery be determined?.,B,By measuring the specific gravity of the electrolyte.,By measuring discharge.,By the level of the electrolyte.
+12,934,What may result if water is added to a nickel-cadmium battery when it is not fully charged?.,C,No adverse results since water may be added anytime.,The cell temperature will run too low for proper output.,Excessive spewing will occur during the charging cycle.
+12,935,"In nickel-cadmium batteries, a rise in cell temperature.",C,increases cell voltage.,causes an increase in internal resistance.,causes a decrease in internal resistance.
+12,936,"When a charging current is applied to a nickel-cadmium battery, the cells emit gas only.",C,when the electrolyte level is low.,if they are defective.,toward the end of the charging cycle.
+12,937,The equalising coil in the carbon pile regulator.,A,modifies the effect of the voltage sensing coil.,becomes inoperative when the undervolt relay energises.,is connected in series with the carbon pile.
+12,938,"In a constant frequency AC system, reactive load sharing is achieved by regulating the.",B,generator speed.,voltage regulator.,generator drive torque.
+12,939,Under-frequency in an AC supply would cause.,A,overheating of inductive devices.,overspeeding of AC motors.,overvoltage of capacitive devices.
+12,940,The electrolyte in a lead-acid battery contains.,A,sulphuric acid.,hydrochloric acid.,nitric acid.
+12,941,"In the procedure to be followed after spillage of battery acid, neutralizing may be carried out.",C,by applying a coating of petroleum jelly.,by washing with distilled water.,with a dilute solution of sodium bicarbonate.
+12,942,Frequency (Hz) is the number of cycles per.,B,minute.,second.,revolution.
+12,943,The three voltages of a three phase generator are.,B,180 degrees apart.,120 degrees apart.,90 degrees apart.
+12,944,To restore the level of electrolyte which hasbeen lost due to normal gassing during battery charging.,B,sulphuric acid must be added.,distilled water must be added.,electrolyte of the same specific gravity as that contained in the battery must be added.
+12,945,A 12 volt lead-acid battery.,A,has 6 cells.,has 24 cells.,has 12 cells.
+12,946,The active component of an A.C. circuit is 4 amps and the reactive is 3 amps. Ammeterreading will be.,C,7 amps.,3.4 amps.,5 amps.
+12,947,In a delta connected generator.,C,phase volts equals 1.73 line volts.,line volts equals 1.73 phase volts.,line volts equals phase volts
+12,948,The only practical method of maintaining a constant voltage output from an aircraft generator under varying conditions of speed and load is to vary the.,B,number of conductors in the armature.,strength of the magnetic field.,speed at which the armature rotates.
+12,949,"As the generator load is increased (within its rated capacity), the voltage will.",B,remain constant and the amperage output will increase.,decrease and the amperage output will increase.,remain constant and the amperage output will decrease.
+12,950,When checking the specific gravity of the electrolyte in a battery.,B,one cell only need be checked as the remainder will read the same.,each cell should be checked as the readings may differ.,only the end cells need be checked as they contain the terminals.
+12,951,A lead-acid battery is considered to be fully charged when the.,B,S.G. reaches 1.180.,S.G. and voltage remain constant for specified period.,cells begin to gas freely.
+12,952,Which aircraft circuit would be most likely to use frequency wild 200 V AC?.,B,Standby compass.,Windscreen heating.,Hydraulic pump.
+12,953,To prevent corrosion at the terminals of a lead-acid battery,A,petroleum jelly may be applied to the connections.,the connectors may be painted.,copper connectors are used.
+12,954,Before taking S.G. readings of a lead-acid battery recently removed from an aircraft.,B,a period of 1 hour should have elapsed to allow the S.G. to stabilize.,the electrolyte temperature must be noted.,the battery must be charged at the 10 hour rate for one hour.
+12,955,The output of a DC generator is controlled by varying the.,B,armature current.,field current.,engine speed.
+12,956,A generator rated at 30 kVA power factor 0.8 has a maximum continuous power output of.,C,37.5 Kw.,30 kW.,24 kW.
+12,957,The specific gravity of the electrolyte in a lead-acid battery.,A,changes with the state of charge and is therefore a measure of the state of charge.,remains substantially constant regardless of the state of charge and is not therefore a guide to the state of charge.,remains constant with changes in the state of charge but is a useful guide to the amount of acid contained in the electrolyte.
+12,958,A battery which is assumed to be 100% efficient and to have a capacity of 60 ampere-hours at the 10 hour rate will deliver.,B,60 amps for 10 hours.,6 amps for 10 hours.,60 amps for 10 hours or 6 amps for 10 hours depending upon the rate of demand.
+12,959,Two 12 V 25 ampere batteries connected in series will produce.,A,24 V with 25 ampere hour capacity.,12 V with 25 ampere hour capacity.,12 V with 50 ampere hour capacity.
+12,960,As an installed battery becomes fully charged by the aircraft generator.,C,the battery contactor isolates the battery from the generator.,the generator voltage decreases to supply the steadily decreasing current.,the battery voltage nears its nominal level so the charging current decreases.
+12,961,"On a DC shunt generator without a voltage regulator, if the load increases the generator output voltage will.",C,increase.,remain constant.,decrease.
+12,962,"For battery charging, the electrical supply connected to the battery must be.",A,DC.,AC at 50 c.p.s.,AC at 400 c.p.s.
+12,963,When using A.C. power on the bus bar you require 28 V D.C. for battery charging.,C,a D.C. transformer and rectifier would be required.,an A.C. inverter would be required.,an A.C. transformer and rectifier would be required.
+12,964,Two similar 12 V batteries connected in parallel will produce.,B,24 V e.m.f. with twice the capacity of each battery.,12 V e.m.f. with twice the capacity of each battery.,24 V e.m.f. with the same capacity as each battery.
+12,965,"If a nicad battery overheats, it is an indication of.",B,the generator voltage regulator setting is too low.,thermal runaway.,the generator is not connected to the bus bar.
+12,966,When checking a nicad battery in situ for serviceability.,A,a load is applied to the battery and the voltmeter reading noted.,the electrical circuits must be isolated before installing shorting strips.,a hydrometer must be used.
+12,967,The output from an AC generator is taken from.,C,slip rings.,slip rings via commutator.,connections on the stator.
+12,968,Load sharing on a DC generation system is achieved by.,A,circulating currents affecting the carbon pile for voltage trimming.,tachogenerators varying the generators outputs as the engine speed varies.,the load differences causing torque signals to vary the engine speed.
+12,969,"If a nickel cadmium aircraft battery is not required for immediate service, it should be stored.",A,in the fully discharged condition.,in the fully charged condition.,in a totally dry condition.
+12,970,The correct way to determine the state of charge of a nickel-cadmium battery is.,B,by checking the specific gravity of each cell.,by a complete discharge and a measured recharge.,by checking the voltage of each cell under load.
+12,971,A DC generator will be connected to the busbar after the RCCO contacts close due to.,C,a differential voltage of 0.5 V battery voltage higher than generator.,increasing battery voltage.,increasing generator voltage.
+12,972,Spillage of a lead acid electrolyte is detected by.,A,indicating paper that turns red.,indicating paper that turns blue.,litmus paper that turns black.
+12,973,To restore electrolyte after spillage.,A,add a mixture of acid and water of the same s.g. as that in the battery.,add distilled water only.,add acid only.
+12,974,"When a DC generator fails, the pilot will receive C149the following indications.",C,Rising voltage and current discharge with a red PFWL.,An audio bell and red PFWL.,Zero current on the ammeter and a red PFWL.
+12,975,The purpose of an inverter is to convert.,C,AC to DC.,AC to a higher frequency AC.,DC to AC.
+12,976,With a vibrating-contact type voltage regulator the adjustment of generator voltage is carried out by.,B,alteration of the field resistance.,alteration of contact spring tension.,adjustment of voltage coil resistance.
+12,977,Battery SG is measured using a.,C,hypsometer.,hygrometer.,hydrometer.
+12,978,A battery for use on aircraft must have a capacity of.,C,50%.,90%.,80%.
+12,979,"When connecting aircraft batteries, the last lead to connect is the.",C,positive.,positive earth.,negative.
+12,980,The frequency of an AC generator is dependant on the.,A,number of pairs of poles and the speed of the rotor.,number of conductors and the field strength.,field strength and the speed of the generator.
+12,981,"To adjust the voltage output of an AC generator, whilst maintaining constant frequency, it is necessary to.",B,alter the driving speed.,alter the field current.,alter the reactance of the stator winding circuit.
+12,982,In a paralleled AC generation system load sharing is for.,B,reactive load only.,real and reactive load.,real load only.
+12,983,Single phase components in a 3 phase system may be connected between.,B,phases A and B only.,any phase and earth or between any two phases.,the phase and earth only.
+12,984,A frequency wild supply would be suitable for.,C,instruments and navigation systems.,3-phase torque motors.,deicing loads.
+12,985,"Three 12 V, 40Ah accumulators in series would give.",B,36 V 120Ah.,36 V 40Ah.,12 V 120Ah.
+12,986,"Three 12 V, 40Ah accumulators in parallel would give.",C,36 V 120Ah.,12 V 40Ah.,12 V 120Ah.
+12,987,An inverter can be an AC generator driven by.,C,an AC motor.,either an AC or DC motor.,a DC motor.
+12,988,When mixing electrolyte for lead acid batteries.,B,add water to acid.,add acid to water.,the method of mixing is unimportant.
+12,989,"The RPM of a 6 pole, 400 Hz alternator is.",A,8000.,4000.,6000.
+12,990,The ratio between apparent power and true power is the.,A,power factor.,power rating.,efficiency.
+12,991,Apparent power is measured in.,A,Volt Amps.,Kilovolts.,Watts.
+12,992,"A Ni-Cad battery consists of 19, 1.2 volt cells.What will be the nominal battery output?.",C,24 V.,20 V.,22 V.
+12,993,The preferred method of battery charging a Ni-Cad battery is constant.,B,speed.,current.,voltage.
+12,994,"When operating two AC generators unparalleled, the phase of each.",B,must be in opposition to one another.,is unimportant.,must be synchronized.
+12,995,When the GPU is connected to the aircraft.,A,it is not paralleled with the aircraft generator.,it is paralleled with the aircraft generator.,it supplies essential services.
+12,996,A lead-acid battery with 12 cells connected in series (no-load voltage = 2.1 volts per cell) furnishes 10 amperes to a load of 2 ohms resistance. The internal resistance of the battery in this instance is.,C,2.52 ohms.,5.0 ohms.,0.52 ohms.
+12,997,The rating of an aircraft alternator is 40 KVA at PF 0.8 lagging.,A,The maximum load permitted is 32KW.,The maximum load under all conditions is 40KVA.,The maximum load under all conditions is 40KW.
+12,998,A P.M.G (Permanent Magnet Generator) is a small built in generator which.,A,provides initial excitation.,only rotates during starting.,only rotates after starting.
+12,999,To parallel an alternator with another alternator the alternators must have the same.,C,"frequency, RPM and phase relationship.","frequency, RPM and speed.","frequency, voltage and phase relationship."
+12,1000,Speed of an alternator may be controlled by.,C,varying the field current.,keeping engine rpm constant.,C S D U (constant speed drive unit).
+12,1001,Frequency wild' alternators supply.,B,capacitive circuits.,resistive circuits.,inductive circuits.
+12,1002,The real load of an alternator is directly related to.,B,output shaft rpm.,output shaft torque.,output voltage.
+12,1003,"How is initial voltage build-up ensured in a brushless generating system, before full output is available from the voltage regulator?.",A,Permanent magnets are mounted between the exciter field poles.,A switch must be operated by the crew to provide excitation form the dc busbar to bring generator on ine.,Excitation form the DC busbars is automatically provided during the start sequence.
+12,1004,Insulation resistance of electrical machines is.,B,normally lower when the machine is hot.,normally higher when the machine is hot.,not affected by change of temperature of machine.
+12,1005,The purpose of a thermistor in a brushless AC generator is to.,B,compensate for temperature changes in the main AC stator windings.,keep the exciter field resistance nearly constant at varying temperatures.,keep the resistance of the rectifiers nearly constant at varying temperatures.
+12,1006,The term 'random paralleling' means the incoming alternator's output voltage frequency and phase relationship is.,C,the same.,the outputs are constant.,not the same.
+12,1007,One lamp is connected across corresponding phases of two alternators. They will besynchronised when.,B,the lamp is maximum brightness.,the lamp is extinguished.,the lamp is either at maximum brightness or is extinguished.
+12,1008,Automatic synchronising means that the incoming alternator's voltage and frequency.,A,an be checked at the system's electrical panel by selecting the relevant alternator.,cannot be checked.,can be synchronised using the two lamps provided at the system's panel.
+12,1009,The danger of random paralleling is the possibility of.,C,disconnection of the other alternators.,ground power disconnection.,crash engagement.
+12,1010,What is monitored in a constant speed drive?.,A,Hi oil temperature and low oil press.,Low oil temperature and low oil press.,Low oil press and CSD speed.
+12,1011,An external ground power supply can be used for.,B,only the ground handling busbar services.,all normal services required by flight and ground crew.,only the emergency busbar services.
+12,1012,The APU generator can normally be.,B,connected in parallel with the ground power supply.,used during flight as a back up supply if the main aircraft supply fails.,connected in parallel with the aircraft's main generators.
+12,1013,The impedance on a run of co-axial cable is.,B,inversely proportional to the length of cable.,not affected by length of cable.,proportional to the length of cable.
+12,1014,Galley loads are supplied from the.,B,ground service bus.,main bus bar.,battery bus bar.
+12,1015,A ni-cad battery is stored in the.,A,fully discharged condition.,dry condition.,fully charged condition.
+12,1016,Transformer rectifier unit (TRUs) change.,B,three phase AC to direct current.,single phase to direct current.,direct current to AC.
+12,1017,A frequency wild AC generator is used for.,B,instruments.,deicing loads.,fluorescent lights.
+12,1018,What should you do if the electrolyte is found to be low in one cell of a lead acid battery?.,B,"Cell is defective, replace the battery.",Top-up the individual cell with distilled water.,Replace the defective cell.
+12,1019,What is the purpose of the diode on a contactor?.,A,Prevent spikes.,Prevent bounce.,To prevent current going the wrong way.
+12,1020,Cargo and baggage compartments in which a fire is completely confined come under.,B,Class C.,Class D.,Class B.
+12,1021,Aircraft emergency escape slides are usually pressurised with.,C,oxygen.,helium.,CO2.
+12,1022,Vertical projected separation between seat rows must be.,B,4 inches.,3 inches.,5 inches.
+12,1023,Life jackets are inflated with cylinders of.,A,CO2.,air.,Nitrogen.
+12,1024,The minimum passenger aisle width for an aircraft with a seating capacity of 20 or more is.,A,15.,dependant upon aircraft type.,24.
+12,1025,When testing emergency slide bottles.,C,any pin could be checked by connecting directly to ground.,one pin must be grounded to the cartridge body at one time.,all three pins must be shorted together and grounded to the cartridge body.
+12,1026,Where would you find information regarding galley equipment?.,A,AWN 99.,BCARs.,ANO.
+12,1027,How often are life jackets inspected?.,A,In accordance with the manufacturers specification.,In accordance with the AMM.,Every 12 months.
+12,1028,Toilets must have a smoke detection.,B,aural and visual warning in the main cabin.,light in the cockpit.,connected to a pump to pump the smoke out.
+12,1029,Where would you find information on life-raft deployment?.,C,JARs.,Cabin safety on-board card.,Cabin operations manual.
+12,1030,How do you clean seat belts?.,C,With MEK.,With white spirit.,With warm water with low alkalinity soap.
+12,1031,"After a successful ditching, the liferafts deployment will.",A,be rapid and obvious with easily and readily displayed instructions adjacent to the liferafts.,be briefed by the cabin crew.,have detailed instructions in a booklet in a seat pocket.
+12,1032,Type and Quantity of emergency equipment to be carried is specified in which document?.,B,CAAIPs Leaflet 5-7.,Schedule 4 of the ANO.,Airworthiness Notice 79.
+12,1033,Where the aircraft passenger seating capacity exceeds 149 but less than 200 then:.,C,1 megaphone is required.,3 megaphones are required.,2 megaphones are required.
+12,1034,Megaphones must be stowed so they can withstand an inertia force of.,B,15g.,9g.,12g.
+12,1035,The cylinder in a life jacket is inflated using.,A,CO2.,nitrogen.,compressed air.
+12,1036,What is the minimum separation between a seat back cushion and another seat or fixed structure?.,C,28 inches.,24 inches.,26 inches.
+12,1037,Cargo nets are manufactured from.,B,hessian.,nylon.,polypropylene.
+12,1038,A galley trolley will be designed to.,C,does not matter as the trolleys move.,not exceed the floor limits more than 3 times in one hour.,not exceed the floor loading limits.
+12,1039,When loading a cargo aircraft.,C,the weight limits of the aircraft could be exceeded under careful monitored circumstances.,the CofG limits of the aircraft could be exceeded under careful monitored circumstances.,the manufacturer specifies the maximum floor loads.
+12,1040,Galley equipment which does not need electrical power is called.,B,controlled equipment.,uncontrolled equipment.,minimum equipment.
+12,1041,Galley trolleys must have placards indicating.,C,"location, position, flight number.","maximum weight, position, flight number.","Must be stowed for take-off, landing and turbulence."
+12,1042,PTV type entertainment equipment.,B,has no capacity for digital information processing and transmitting.,is installed with seat electronic unit and multiplexing techniques.,is not the part of maintenance schedule.
+12,1043,Hot fluids in an aircraft galley must have closed container lids at temperatures above.,C,65 °C.,55 °C.,45 °C.
+12,1044,With regard to forward/rearward passenger seat installation.,C,you can only fit seats facing forward.,you can fit seats facing forward or rearward.,you can only fit seats as stated in the Declaration of Design and Performance (DPP).
+12,1045,Attendant call is achieved by pressing a button on the passenger service unit (PSU). To reset the light.,A,the button is pushed again.,the button is pulled out.,a reset switch on the attendants panel is operated.
+12,1046,"On large aeroplanes, containerised cargo is held down by.",B,rope.,side cart guides and fore and aft latches.,netting.
+12,1047,A galley catering trolley with electrics is classed as.,B,an uncontrolled item.,a controlled item.,"neither, as it is removable."
+12,1048,The minimum vertical projected separation between seat rows is.,B,7 inches.,3 inches.,5 inches.
+12,1049,"On pulling the fire handle, the aural warning.",C,"goes off, the light goes off, hydraulics, bleed air and generator goes off.","stays on, the light extinguishes, the generator goes off line.","goes off, the light remains on, the generator goes off line."
+12,1050,Engine wing firebottles should be charged with nitrogen at 15 °C to.,B,1250 psi.,600 psi.,1500 psi.
+12,1051,A fire that can be put out by a crew member in a cargo bay is in a.,C,class A compensation.,class D compensation.,class B compensation.
+12,1052,"In a capacitive fire detection system, if.",B,"there is a break, the system will not work.","there is a break, the system will work but not test satisfactory.","there is a short to earth, the system will work but not test satisfactory."
+12,1053,A fire detection zone wiring can pass through another fire zone when.,A,the system and the extinguishing system are the same.,the system is different but the extinguishant is the same.,the system is the same but the extinguishant is different.
+12,1054,When a fire test on a Systron Donor fire detector system is carried out.,B,a signal passes through the unbroken centre conductor to produce the warning.,it checks the integrity of the contacts.,the signal passes through the centre and back through the outer to give warning.
+12,1055,When inspecting lavatory installations.,A,the ashtray should not be located close to the toilet paper holder.,No Smoking' sign should be fitted next to the ashtrays only.,the ashtray must be made of a thermoplastic material.
+12,1056,"Lavatories must have, in the disposal container.",B,Freon extinguisher with white ball markings indicating when discharged.,Freon extinguisher with black ball markings indicating when discharged.,water/glycol extinguisher with white ball markings indicating when discharged.
+12,1057,A fire detection loop must be capable of.,A,using master warning visual and aural signals.,detecting fire/overheat condition within 5 seconds and extinguishing such that after 30 seconds the condition is no longer present,using master warning visual signals only.
+12,1058,A Systron-Donner fire detection system uses.,A,helium gas.,oxygen gas.,nitrogen gas.
+12,1059,A toilet is fitted with thermal protection.,B,to protect against freezing at altitude.,to protect against the dangers of smoke and fire in the event of an overheat.,to protect against continuous flushing.
+12,1060,What external warning is there for an APU fire?.,B,Aural.,Both aural and a red light.,Red light.
+12,1061,Engine fire bottle pressure switches are operated by.,B,AC or DC.,DC.,AC.
+12,1062,Fire tests on aircraft internal furnishings must be carried out.,C,every two years.,every five years.,only when equipment items fail random tests.
+12,1063,A cockpit check on the engine firewire system is a.,B,calibration check.,continuity check.,function check.
+12,1064,When the fire handle is operated it.,B,cuts off fuel and hydraulics. Generator remains on line to provide electrical power.,"cuts off field current, hydraulics and fuel and operates fire extinguishers.",operates fire extinguisher only.
+12,1065,"What is the contamination monitor for, in a Systron Donner fire detection system?.",B,Volts drop.,Dirty contacts.,Integrity comparator.
+12,1066,Fireproofing of cabin material should be done.,B,every 2 years.,when a sample fails.,every 5 years.
+12,1067,What test is carried out to ensure serviceability of a squib?.,C,Bottles are fired.,Safety ohmmeter is used to check voltage.,A continuity check.
+12,1068,"In a gas firewire system, what causes the firewire caption to come on when heat is applied?.",B,Continuity.,Pressure.,Capacitance increase.
+12,1069,Toilet fire detection issues can be found in.,A,AWN 83.,CAAIPs.,AWN 80.
+12,1070,The outside casing of a firewire has.,A,same potential as ground.,28 VDC potential above ground.,115 VDC potential above ground.
+12,1071,A cargo compartment which will contain a fire itself and ventilate is a class.,B,A.,D.,C.
+12,1072,Smoke detectors consist of a.,B,lamp detecting 2% smoke.,photoelectric cell detecting 10% smoke.,photoelectric cell detecting 2% smoke.
+12,1073,"In a toilet smoke condition, what would be the indication?.",A,Either a light or an audible warning in the cabin.,Light in the cabin.,Audible warning in the cabin.
+12,1074,What do you check when carrying out an insulation check on a continuous firewire loop?.,C,"The firewire, sensor & controller.",The outside of the firewire to earth.,The firewire.
+12,1075,"When the fire-handle switch is pulled, a.",C,"red warning light stays on. Generator, hydraulics & fuel stays on.",red warning light goes off. Generator goes offline.,"red warning light stays on. Generator, hydraulics, & fuel is cut off."
+12,1076,What are the minimum number of fire bottles in a cabin with 201- 300 people?.,B,3 BCF.,4 Fire Extinguishers.,4 Methyl Bromide.
+12,1077,How often do hand-held extinguishers have to be weighed?.,C,Bi-annually.,Every 5 years.,Annually.
+12,1078,The weight of an extinguisher is stamped.,B,on bracket.,on head fitting.,on base of body.
+12,1079,How can fire extinguisher be identified as being used?.,B,Check the tell-tale wire.,Weighed.,Check the pressure.
+12,1080,Portable fire extinguishers are operated by.,B,turning upside down and squeeze button/trigger.,breaking the tell tale/tamper-proof seal then operated by the handle.,one single operation until fire extinguisher is empty.
+12,1081,How many fire extinguishers are required on an aircraft with 501 passengers?.,B,6.,7.,5.
+12,1082,How many fire extinguishers are required on an aircraft having 401 - 500 passengers?.,A,6.,8.,5.
+12,1083,CO2 fire extinguishers are used on.,A,all fires in fuselage.,engines only.,baggage holds only.
+12,1084,A fuel crossfeed valve is usually in.,A,the closed position.,the open position.,its last position.
+12,1085,Sliding couplings in fuel systems are used on.,C,low pressure systems.,high pressure systems.,air or vapour systems.
+12,1086,A fuel cross-feed valve is lubricated.,C,by internal cooling.,by air.,by the fuel.
+12,1087,Fuel cross feed valves are operated by the.,A,28 V DC bus.,115 V AC.,battery.
+12,1088,Fuel systems that are interconnected must have.,C,separate venting for each tank.,no airspace.,air spaces interconnected.
+12,1089,"As fuel level increases, system capacitance.",C,decreases.,no change.,increases.
+12,1090,When refuelling.,B,the fuel nozzle will automatically cut off the supply when the tank is full.,it is important not to fill the expansion space in the tank.,it is important to fill the expansion space in the tank.
+12,1091,When using Biopor microbial fuel growth treatment.,A,it is added to the fuel and burnt.,it is applied dry and left.,it is applied wet and flushed out.
+12,1092,Microbial growth is.,B,red dots.,brown black slime.,green sludge.
+12,1093,Bladder type fuel tanks are secured by.,C,bolts.,contact adhesive.,press type rivets.
+12,1094,A zero fuel test on a fuel quantity indicating system is carried out with.,C,tanks completely full.,tanks completely empty.,tanks empty apart from unusable fuel.
+12,1095,"After a tank bag has been replaced, a fuel flow test should be carried out at.",B,tank outlet.,engine inlet.,tank shut-off valve point.
+12,1096,"In biologically contaminated fuel, corrosion takes place.",A,below the fungal colonies.,the top of the tank.,the bottom 2 inches of the tank.
+12,1097,"If an aircraft has ability to transfer fuel in flight, provision must be made to.",A,shut off fuel before structural damage.,provide overflow facility to dump fuel.,stop engine from using tank during transfer.
+12,1098,In a fuel system with interconnected vents.,B,an expansion space is not required.,the expansion space must be 2% of the tank capacity.,the expansion space must be 10% of the tank capacity.
+12,1099,Fuel tanks interconnected must have.,B,vents to allow overfueling.,protection against overfill for tanks and fuel system.,tank where fuel is fed from both tanks to engine inlet.
+12,1100,When a FADEC system loses air data input it goes to.,A,soft reversion.,hard reversion.,mechanical reversion.
+12,1101,Pressure refuelling is carried out at.,B,20 PSI.,40 PSI.,15 PSI.
+12,1102,Cross feed valves permit fuel transfer from.,C,tank to tank.,left tank to right tank.,any tank to any engine.
+12,1103,What is fitted to the fuel jettison pipe to prevent vaporisation?,A,An anti-corona device.,A corona device.,A nozzle.
+12,1104,What happens to the capacitance in a fuel contents gauge as fuel is used?.,C,Depends on altitude.,Increases.,Decreases.
+12,1105,"When an aircraft is put into storage for medium / long periods, the fuel tanks should.",A,have some fuel left in to prevent sealant from deteriorating/drying out.,be full.,be empty.
+12,1106,Integral fuel booster pumps.,B,require ram air cooling.,lets the fuel do cooling.,require no cooling.
+12,1107,The purpose of a scavenge system within a fuel system is.,C,to ensure that all unused fuel is returned to the tanks efficiently,to ensure that all available fuel can be used.,to ensure that any water in the fuel is constantly dispersed thus reducing microbiological contamination.
+12,1108,"In a light fixed wing aircraft, the fuel warning light indicates.",C,pump failure.,the tank does not pressurise.,"ice blockage, filter popped or pump fail."
+12,1109,How is fuel supplied to a turbine engine?.,A,By a fuel boost pump.,By suction from the engine driven fuel pump.,By a gravity feed pump.
+12,1110,A fuel tank suction valve will open when,A,the booster pump fails.,both the engine driven and booster pump fail.,the engine driven pump fails.
+12,1111,To prevent water condensation in a fuel tank.,A,the tank should be filled as full as possible.,the tank should be filled with the minimum fuel possible.,the filler cap should be left open.
+12,1112,To protect the centre tank fuselage area from a vapour build up.,C,ram air is circulated around the tank.,a shroud vent and overboard drain is fitted.,cabin air is bled around the tank.
+12,1113,"When a fuel jettison valve is in transit, the magnetic indicator would show.",B,amber and in line.,amber and cross line.,green and in line.
+12,1114,"When considering the basic categories of fuel tank construction, which of the following is most prone to leaks?.",B,Rigid.,Integral.,Flexible.
+12,1115,"On removal of a fuel tank booster pump, fuel is observed running out of the boost pump canister, this could be caused by.",A,the pressure outlet check valve is not correctly seated.,fuel draining out of the pressure switch bleed.,fuel leaking past the inlet screens.
+12,1116,Crossfeed valves are normally fitted with.,A,two 28 V DC motors.,two three-phase AC motors.,two single phase AC motors.
+12,1117,A shroud vent and overload drain would normally be found on.,A,fuel tank vent pipes.,fuel jettison system.,the APU fuel feed.
+12,1118,To shut-off the LP fuel supply to the engine for the purpose of engine removal you would.,C,close the cross bleed valve.,close the HP fuel lock.,pull the fire handle.
+12,1119,A leak from a fuel tank which manifests as fuel dripping from the tank is classified as a.,C,stain.,seep.,run.
+12,1120,Calcium Chromate tablets can be fitted in integral tanks. Before installation the linen bag should be wetted with.,A,Water.,Methylated Spirit.,Kerosene.
+12,1121,A check valve is fitted to a fuel jettison system to.,B,prevent the centre from being defuelled.,prevent the dumping of the outer tanks.,automatically stop the fuel jettison operation after a period of time.
+12,1122,The advantages of integral fuel tanks are that they.,B,"are cheaper to manufacture, more durable and easier to maintain.",use the maximum volume for fuel and have the minimum amount of weight.,are easier to design and construct and use the maximum volume of fuel.
+12,1123,On Large transport aircraft fuel is delivered to each engine using.,B,a parallel system.,the same system for each engine.,a separate system for each engine.
+12,1124,A purpose of a 'cut-out' in a hydraulic system.,C,is to prevent creep in jack operated services which have several selected positions.,is to limit loss of fluid in the event of pipe fracture.,is to relieve the pump of load when the operation of services is complete and the accumulator charged with fluid.
+12,1125,Hydraulic pressure can be restored by.,A,compressing the air charge in an accumulator.,the use of a pressure/heat exchanger.,compressing the fluid in a reservoir.
+12,1126,What is the colour of the band on a hydraulic seal?.,B,Yellow.,Green.,White.
+12,1127,A maintainer valve in an hydraulic system will.,A,allow continued press to essential systems during times of reduced supply.,dampen pressure inputs.,maintain a high pressure to all systems.
+12,1128,Where is the temperature overheat switch located in a hydraulic pump?.,C,In the pressure line.,In the suction line.,In the case drain.
+12,1129,What happens if a component has an internal hydraulic leak?.,C,Fluid loss.,Increase in fluid pressure.,Increase in fluid temperature.
+12,1130,What happens to hydraulic fluid when it is overheated?.,A,Increase acidity.,Increase viscosity.,Increase alkalinity.
+12,1131,How is the hydraulic pump depressurising solenoid actuated?.,C,Energised both open and closed depending on cockpit selection.,Energised Open.,Energised Closed for fail-safe.
+12,1132,How do you prevent hydraulic fluid frothing?.,A,By pressurising.,Vent Reservoir to atmosphere.,Pass over a tray.
+12,1133,Accumulators as fitted to aircraft hydraulic systems.,B,are only ever used in an emergency.,store fluid under pressure.,provide additional fluid if leaks occur.
+12,1134,A Skydrol hydraulic fluid seal would be made of.,C,natural rubber.,synthetic rubber.,"butyl rubber, ethylene propylene or Teflon."
+12,1135,Synthetic hydraulic fluid subjected to overheating is high in.,A,acidity.,alkalinity.,viscosity.
+12,1136,A normal hydraulic system will.,A,show pressure and source of hydraulics.,show fluid temperature and quantity.,illuminate a light in the cockpit when the system is ready.
+12,1137,A constant volume hydraulic system uses what to relieve pressure in system when no services are being used?.,C,Pressure relief valve.,Return line back to pump.,ACOV.
+12,1138,The control of hydraulically powered emergency electrical generator frequency is by.,B,restriction valve.,angle of swashplate.,IDG.
+12,1139,Hydraulic systems normally operate at.,B,1800 PSI.,3000 PSI.,300 PSI.
+12,1140,When flushing hydraulic systems.,C,flush with methylated spirit.,flush with any hydraulic oil.,flush with same hydraulic oil.
+12,1141,When replenishing a hydraulic system.,C,use any hydraulic fluid.,use any hydraulic fluid made by the same manufacturer.,use the same/correct hydraulic fluid.
+12,1142,When replacing a flexible pipe.,C,do a bonding check.,tighten only hand tight.,use two spanners to stop pipe from twisting.
+12,1143,How do you remove air from hydraulic fluid?.,C,Vent to atmosphere.,Pass through a restriction.,Pass over a tray.
+12,1144,A pressure control relay in a hydraulic pump is.,C,energised to the run position.,used to prevent anything happening until there is hydraulic pressure.,de-energised to start the pump.
+12,1145,A constant delivery pump has its output varied with.,A,regulators.,gears.,servo pressure.
+12,1146,A variable angled pump starts at.,C,half way position.,minimum stroke.,maximum stroke.
+12,1147,A check flow valve in a hydraulic system prevents.,B,pump cavitation.,reverse flow.,overpressure.
+12,1148,A duplex seal consist of.,C,a square section rubber ring within a steel washer.,a hard rubber square section ring with a soft rubber square section inner ring.,a rubber 'T' section ring sandwiched between two Teflon rings.
+12,1149,When is an hydraulic de-pressurising valve energised?.,C,When selected on.,When there is sufficient hydraulic pressure available.,When selected off.
+12,1150,A fixed volume axial pump contains the following rotating parts.,C,"Drive Shaft, Swash Plate & Valve Block.",Swash Plate & Valve Block.,"Drive Shaft, Swash Plate & Cylinder Block."
+12,1151,An hydraulic closed system is one where.,A,pressure is maintained at the selector valves at all times.,there is no pressure at the selector valves when no functions are required.,most of the major components of the system are included in a self contained unit.
+12,1152,What constitutes a hydraulic power pack?.,B,Variable swashplate pump.,"Reservoir, pump, selector valve, filter.",Hydraulic oil accumulator.
+12,1153,If an accumulator loses air pressure there will be.,C,rapid depressurisation of system.,pump cavitation.,rapid fluctuations of instruments.
+12,1154,A marker number on a pipe indicates.,B,the thickness of the wall on the pipe.,the specification of the pipe throughout the pipe run.,the type of fluid used to pressure test the pipe.
+12,1155,One reason for fitting an accumulator in an hydraulic system is to.,B,minimize the possibility of pump cavitation.,absorb pressure surges.,relieve excess pressure.
+12,1156,A thermal relief valve is fitted to an hydraulic system to.,C,prevent a leak back of pressure.,prevent excess temperature.,relieve excess pressure.
+12,1157,A component in a hydraulic system which ensures instantaneous action when a service is selected is.,A,accumulator.,engine driven pump.,selector.
+12,1158,A shuttle valve is used for.,C,preventing fluid loss from a leaking jack.,maintaining fluid press when the emergency system fails.,change over from main to auxiliary system in the case of failure.
+12,1159,Restrictor valves in an hydraulic system are used to.,B,restrict the rate of pressure build up.,control the rate of system operation.,limit the maximum pressure.
+12,1160,The purpose of a mechanical sequence valve is to ensure the operation of.,A,landing gear and doors.,safety switches.,brake anti-skid units.
+12,1161,The purpose of a non-return valve is to.,A,direct fluid to the hydraulic actuator.,restrict the movement of components.,isolate one component from another.
+12,1162,The end fittings on a NRV are normally different to.,C,facilitate bleeding of the system.,allow a full flow from the valve.,prevent incorrect installation.
+12,1163,"A hydraulic accumulator is charged with initial air pressure of 1000 PSI. When the hydraulic system pressure of 3000 PSI is reached, the air pressure is.",B,4000 PSI.,3000 PSI.,1000 PSI.
+12,1164,Automatic cut-out valve hammering is caused by.,A,low accumulator pressure.,moisture in the fluid.,relief valve set too high.
+12,1165,Hand pumps are normally single cylinder double acting because of the.,A,two NRVS fitted.,relief valve.,piston ram displacement.
+12,1166,"During a leak test of an hydraulic system, system pressure.",C,is not important.,must be minimum working.,must be at maximum.
+12,1167,Constant delivery hydraulic pumps.,B,require an automatic cut-out valve in the system.,require an automatic cut-out valve and accumulator in the system.,are self idling.
+12,1168,Mechanical sequence valves are operated by.,A,a striker pin.,the pilot.,the operation of a NRV.
+12,1169,Pressure relay valves are fitted.,A,before a pressure gauge.,before a pressure sequence valve.,before a pressure relief valve.
+12,1170,Before checking the initial pressure in the hydraulic accumulator.,B,the reservoir must be checked for correct level.,the fluid pressure must be released.,all air must be bled from the system.
+12,1171,Hydraulic reservoirs are pressurized to.,C,provide a reserve of stored energy.,maintain a constant fluid level.,minimize the possibility of pump cavitation.
+12,1172,"In aircraft hydraulic systems, it is permissible to use.",A,only the specified fluid.,any fluid of the same specific gravity.,any hydraulic fluid available.
+12,1173,The essential components of a hydraulic system of the constant delivery type are an.,A,accumulator and automatic cut-out valve.,accumulator and shuttle valve.,accumulator and relay valve.
+12,1174,An automatic cut-out valve will.,B,limit pump wear.,prevent the hydraulic lock forming.,raise fluid boiling point.
+12,1175,A maintaining valve is fitted to a hydraulic system.,C,to maintain a back pressure to the accumulator.,relieve excessive pressure to return.,to ensure a supply of fluid to essential services in the event of system failure.
+12,1176,A thermal relief valve.,B,senses fluid temperature change.,senses fluid pressure.,provides cooling for the fluid.
+12,1177,Hydraulic systems are normally flushed with.,B,methylated spirits.,the same type of fluid as used in the system.,any clean hydraulic fluid.
+12,1178,Phosphate Ester hydraulic fluid requires which kind of seals?.,A,Butyl Rubber.,Synthetic Rubber.,Natural Rubber.
+12,1179,A RAT hydraulic pump is for.,C,landing gear and auto-brake systems.,nose wheel steering.,flying controls if hydraulic power lost.
+12,1180,Hydraulic hand-pump fluid supply is taken from.,C,a tap into a convenient return line.,a stack pipe higher than the normal level.,the bottom of the reservoir.
+12,1181,Hand pumps in hydraulic systems are normally.,C,single acting.,low pressure.,double acting.
+12,1182,To enable an hydraulic system to operate two components requiring different pressures.,A,a pressure reducing valve is used.,a pressure regulating valve is used.,a pressure relief valve is used.
+12,1183,The force exerted by a hydraulic cylinder is equal to.,B,area * volume.,area * pressure.,pressure * stroke.
+12,1184,A tandem PFCU.,C,has two control surfaces under its control.,has the rams parallel.,has the actuator rams co-axial.
+12,1185,"The reason why slack must be left in a flexible hose during installation, is a flexible hose under pressure.",C,expands in length and diameter.,contracts in length and diameter.,contracts in length and expands in diameter.
+12,1186,An automatic cut-out valve is necessary in a hydraulic system with.,A,a fixed volume pump.,pressures above 3000 PSI.,a variable volume pump.
+12,1187,How is a serrated rod ice detector bench tested?.,A,Screwdriver torque test.,By a motor load test.,Motor test and go / no-go gap measurement.
+12,1188,Windshield heating provides.,B,thermal expansion for a tighter fit.,impact resistance enhancement.,increases strength to resist cabin pressure.
+12,1189,At what pressure and temperature is anti ice fluid applied?.,C,7 °F at 100 PSI.,70 °C at 100 PSI.,70 °F at 10 PSI.
+12,1190,The advantage of leading edge fluid de-icing is.,B,less of a fire hazard.,aerodynamic shape is not disturbed.,more efficient.
+12,1191,"On large transport aircraft, the windshield wiper system is.",C,one system for both sides but with the same power source.,independent on each side but with the same power source.,independent on each side with different power sources.
+12,1192,Prior to securing a leading edge de-icing boot you must.,A,remove all paint.,paint the surface.,shave rivet to prevent further abrasion.
+12,1193,"On a 'hot rod' type of ice detector, it is switched on.",B,all the time.,when selected by the crew.,when in the air.
+12,1194,Ice formation on wings is due to.,C,suspended ice crystals melting on contact with the wing and instantly re-freezing.,ice crystals forming layers on contact with the wing.,supercooled water changing state on contact with the wing.
+12,1195,"When a vibrating rod ice detector has de-iced, the warning lamp on the flight deck.",C,goes out immediately.,goes out after one more cycle.,goes out after a set period of time.
+12,1196,De-misting of passenger windows is provided by.,C,sealed window.,an electrical heating element.,air from the cabin.
+12,1197,A deicer boot is completely bonded to the leading edge to.,B,provide smoother airflow over leading edge.,prevent electrical static build up.,provide more efficient deicer cycles.
+12,1198,"In a cockpit window heater system, the autotransformer.",C,supplies DC power for heating.,supplies AC Power for heating.,steps up output for severe weather conditions.
+12,1199,Windshield rain repellent is applied.,A,when rain is on windows and spread by wipers.,before rain and spread on window surface by wipers.,when in heavy rain so vision is unobscured.
+12,1200,Pneumatic rain removal systems.,A,use engine bleed air at high velocity to remove water droplets from windscreen.,are not permitted on large transport aircraft.,use a pneumatic motor to drive windscreen wipers.
+12,1201,Windscreen wiper torque tests are carried out at.,C,blade attachment end.,centre point of the blade.,the shaft end.
+12,1202,Windscreen autotransformers.,B,step down voltage.,step up voltage.,are used to supply extra current under difficult conditions.
+12,1203,"An ice deposit formed when liquid water flows over the airframe before freezing, and which is dense, tough and sticks closely to the surface is called",A,glaze Ice.,rime Ice.,hoar Frost.
+12,1204,When testing pitot head heaters.,B,they can only be checked by noting the temperature rise of the probe.,they must only be switched on for the minimum time required to check serviceability.,they should be switched on for five minutes to allow to stabilise before taking ammeter readings.
+12,1205,Windscreen heating is supplied from.,A,"frequency wild generator, direct to the windscreen.","DC generator, via a transformer.","frequency wild generator, via a rectifier."
+12,1206,A wing thermal anti-ice annunciator is illuminated permanently in flight deck without selection being made. The most probable cause would be.,A,a short circuit.,an open circuit.,normal.
+12,1207,Air for anti-icing of the wings is obtained from.,B,air conditioning ducting.,engine compressors.,a combustion heater.
+12,1208,The usual material for pipelines in a fluid deice system.,C,stainless steel.,Monel.,nylon.
+12,1209,"When operating a windscreen wiper on the ground, make sure to.",B,use slow wiper only.,use water as lubricant when operating.,place soft cloth between blade and window.
+12,1210,What is run-back ice?.,A,Glaze ice.,Rime ice.,Glime ice.
+12,1211,Spongy brakes are usually a result of.,B,internal leakage.,air in the system.,external leakage.
+12,1212,Over inflated tyres may cause damage to the.,B,wheel hub.,wheel flange.,brake drum.
+12,1213,A brake debooster valve is provided for.,B,increasing the pressure and applying the brakes rapidly.,applying brake pressure slowly and releasing the brakes quickly.,decreasing the pressure and slowly releasing the brakes.
+12,1214,Tubeless tyres are stored.,B,at 15 to 20 P.S.I.,vertically.,horizontally maximum of four high with smallest diameter tyre on top.
+12,1215,A badly corroded and pitted brake disk will.,B,produce a loss of fluid.,"wear brake pads too quickly, and should be replaced.","be serviceable, and provide better grip."
+12,1216,How much oxygen is in a tyre (as a maximum)?.,B,5% by pressure.,5% by volume.,15% by volume.
+12,1217,A tyre specification 32 * 10.75-14. What does the 10.75 refer to?.,B,Overall diameter.,Section Width.,Bead diameter.
+12,1218,"When servicing an oleo, fluid comes out of the air valve when the leg is depressurised?.",B,Separator plate stuck open.,The leg is serviceable - the separator has bottomed.,Leaking air/oil seals.
+12,1219,The type of fluid in an oleo strut will depend upon.,B,the type of seal material.,heat generated in operation of the system.,type of fluid most readily available.
+12,1220,A restrictor valve.,B,speed up the flow in one direction.,may be used to slow down undercarriage extension.,restrict the extent of travel of the undercarriage.
+12,1221,The function of the oil in a shock absorber is to.,B,absorb the landing shock.,damp the rebound.,ensure the separator does not bottom.
+12,1222,The purpose of the flutter plate in a shock absorber is to.,A,permit free flow of oil during compression and restriction of oil during extension.,restrict the compression of the air.,separate the oil from the air.
+12,1223,Made up wheels should be stored.,B,horizontal no more than 4 high.,vertical at 20/30 PSI charge.,vertical at working pressure.
+12,1224,"When checking for alignment of a MLG, check.",C,"symmetry, twist, tracking.","symmetry, splay, tracking.","symmetry, tracking, camber."
+12,1225,These markings are found on a tyre 32 * 10.45 R 14. What does the number 32 mean?.,B,Inner diameter.,Outer diameter.,width.
+12,1226,A green/grey dot marking on aircraft tyre casing represents.,B,military reference.,breather points.,the light part of the tyre.
+12,1227,"In detachable flange type wheels, the flange is secured by.",B,a retainer plate.,a lock ring.,bolts.
+12,1228,Fuse plugs in aircraft tyres are.,A,for overpressure protection.,to deflate the tyre before removal.,for over temperature protection.
+12,1229,A breaker strip in an aircraft tyre is.,C,to provide a wear indication.,to indicate the position for tyre levers.,to provide strength.
+12,1230,"If fluid leaks along with air whilst oleo charging, this is.",C,caused by a leaky seal.,normal.,due to excessive charging pressure.
+12,1231,A red dot / triangle mark on aircraft tyres means.,C,military reference.,breather points.,the light part of the tyre.
+12,1232,"When fitting a tyre, the red dot should be positioned.",B,opposite the charging valve.,adjacent to the charging valve.,on the other side of the wheel opposite to the charging valve.
+12,1233,Composite brake units.,C,have less weight than normal brake units but fade away at high temperatures.,weigh the same as normal brake units and fade away at high temperatures.,have less weight than normal brake units and have increased efficiency at high temperatures
+12,1234,A restrictor valve can be used.,B,to increase the speed of undercarriage retraction.,to reduce the speed of the undercarriage extension.,to increase the speed of the undercarriage extension.
+12,1235,"When an undercarriage is lowered, it tends to creep back up. The fault could be.",B,a stuck relief valve.,a leaky selector valve.,the emergency system.
+12,1236,Vents holes are found on.,A,tubed and tubeless tyres.,tubed tyres.,tubeless tyres.
+12,1237,At what temperature does a yellow fuse plug melt at?.,A,200 °C.,250 °C.,150 °C.
+12,1238,The cam plate in a nose undercarriage is.,A,to align for nose wheel on nose undercarriage retraction.,part of the shimmy damper.,for alignment of the nose wheel steering on nose undercarriage extension.
+12,1239,What is tyre creep related to?.,B,Vertical movement of the tyre.,Tyre moving around the wheel.,Horizontal movement of the tyre.
+12,1240,Aquaplaning' can be reduced by.,C,lowering slats.,increased flaring.,an anti-skid device.
+12,1241,Why is a hydraulic damper fitted to a nose wheel steering system?.,C,To centralise the nose leg assembly during an up selection.,To centralise the nose wheel during an up selection.,To reduce vibration and shimmy.
+12,1242,What decides the type of oil used in an undercarriage leg?.,A,The types of seals the leg uses.,The material of the leg.,"Neither, any oil can be used."
+12,1243,"If an undercarriage oleo has insufficient deflection, the likely cause is.",C,oil level too high.,loss of pressure/leakage.,air pressure too high.
+12,1244,Some helicopters are fitted with floats. These are.,B,"manufactured with one float inside another float, so that if the outer leaks it will not cause instability.",partitioned so that any one compartment that leaks will not cause instability.,monocoque structure.
+12,1245,A fusible plug fitted to an aircraft wheel prevents.,C,"brakes seizure, if brake stators and rotors weld together under excessive temperatures.",over inflation of tyres during servicing.,tyre bursts due to high temperatures created by excessive braking.
+12,1246,The breaker strip of a tyre is fitted.,B,between the apex strip and the casing piles.,between the tread rubber and the casing piles.,between the bead and the casing piles.
+12,1247,Nose wheel steering in a modern helicopter is by.,A,rudder pedals.,the control column.,a separate pilot operated control.
+12,1248,The fusible plugs installed in some aircraft wheel will.,B,facilitate servicing of the wheel assembly.,melt at a specified elevated temperature.,eliminate the need to check air pressure.
+12,1249,Excessive wear in the shoulder area of an aircraft tyre is an indication of.,A,under-inflation.,excessive toe-in.,over-inflation.
+12,1250,Ribbed tyres with marker tie bars may be worn to.,C,1 mm from the rib base.,the base of the tie bar.,the top of the tie bar.
+12,1251,Brake deboosters.,B,assist the operation of the anti-skid unit.,reduce the hydraulic pressure entering the brakes.,increase the hydraulic pressure entering the brakes.
+12,1252,A modulator is fitted in conjunction with.,A,anti-skid units.,non-return valve.,brake control valves.
+12,1253,Tubed tyres are stored.,A,"horizontally, up to 4 in total with the smallest at the top.","horizontally, up to 4 in total staggering them to prevent distortion of beads.","horizontally, up to 4 in total in a rack with supporting tubes so each tyre is supported at 2 points."
+12,1254,"On a main landing gear, what is positive camber?.",B,Front of wheels closer to fuselage.,Bottom of wheels closer to fuselage.,Top of wheels closer to fuselage.
+12,1255,How is skid gear attached to a helicopter?.,A,Attached to a spring assembly.,Bolted on.,Welded on.
+12,1256,Tyre creep could be caused by.,C,overpressure.,excessive wear.,under pressure.
+12,1257,When inflating a tyre and you notice ice in the valve stem.,B,heat the valve stem gently with a blow torch.,wait for ice to melt before carrying on with inflation.,carry on inflating as ice in the valve stem is no problem.
+12,1258,Un-mounted tubeless tyres must be stored.,C,horizontally.,in the manufactures boxes.,vertically.
+12,1259,"With a single oleo leg with a stub axle used, the torque links will.",B,allow the wheel to shimmy.,keep the wheel in track.,assist the wheel to castor.
+12,1260,"When fitting a tyre to a hub, the red spot on the tyre should be in line with.",A,the valve assembly.,opposite side to the valve assembly.,maker's serial number.
+12,1261,A red or yellow line on an inner tube would indicate.,B,light spot.,heavy spot.,balance indicator.
+12,1262,"On a multi-brake unit with automatic adjusters, brake wear is checked by.",B,measuring the protrusion of the indicator pins with the brakes released.,application of the brakes and checking indicator pin protrusion.,using a go-no go gauge to measure the gap between the cylinder and the thrust plate.
+12,1263,With helicopter lights - which of the following is true?.,A,"Starboard light green, port light red, tail light white.","Starboard light red, port light green, tail light Red.","Starboard light red, port light green, tail light White."
+12,1264,"Emergency floor lighting system is inoperative, then.",A,the aircraft is allowed to fly empty to a main base.,the aircraft is allowed to fly in daylight conditions only.,the aircraft is not allowed to fly until repaired.
+12,1265,A fluorescent tube contains.,C,iodine coatings and rare gases.,"orange coatings, rare gases and mercury vapour.","phosphor coatings, rare gases and mercury vapour."
+12,1266,A white steady light is required.,C,"of at least 3 candelas, at the rear of the helicopter 110 degrees either side of dead astern.","of at least 3 lumens, at the rear of the helicopter 110 degrees either side of dead astern.","of at least 3 candelas, at the rear of the helicopter 70 degrees either side of dead astern."
+12,1267,How many floor path lights can you fly with unserviceable?.,C,20%.,15%.,25%.
+12,1268,What is the arc of a landing light is?.,B,20 °.,11 °.,15 °.
+12,1269,The visible angle of a white tail navigation light is.,A,140 °.,110 °.,11 °.
+12,1270,Left and right navigation lights must be visible through which angle?.,A,110 °.,125 °.,180 °.
+12,1271,Cockpit dome lighting is provided by the.,C,ground services bus.,battery bus.,battery bus and ground services bus.
+12,1272,Upper and lower strobe lights are coloured.,A,red.,green.,white.
+12,1273,Cargo bay lights on a modern aircraft are supplied by.,B,the battery bus.,AC handling bus.,DC handling bus.
+12,1274,What will happen if the Master Dim and test switch is switched to the on position?.,C,All lights will illuminate.,Dome lights will illuminate.,Rectangular indicator lights will illuminate.
+12,1275,Escape route lighting must not have more than.,A,20% obscured.,10% obscured.,15% obscured.
+12,1276,How many emergency lights are allowed to be inoperative?.,A,25%.,10%.,None.
+12,1277,Cabin fluorescent lighting circuits are supplied with.,C,28 V DC.,28 V AC.,115 V AC.
+12,1278,How are passenger reading lights normally tested?.,A,Each one is switched on individually at passenger panel.,By using a READ LIGHT TEST switch at any passenger panel.,By using a READ LIGHT TEST switch on the cabin attendant panel.
+12,1279,In what position should the selector switch be for a standby and emergency lighting system during flight?.,C,ON.,OFF.,Armed.
+12,1280,The emergency lighting system must be designed so that after any single transverse vertical separation of the fuselage during crash landing the maximum amount of emergency lighting that fails is.,B,10%.,25%.,15%.
+12,1281,A rotating beacon must have a minimum light rating of.,A,20 candelas.,100 candelas.,50 candelas.
+12,1282,Service lights include.,C,"refuelling lights, engine scanning lights, logo lights.","avionics bay lights, engine scanning lights, baggage compartment lights.","baggage compartment lights, avionics bay lights, refuelling lights."
+12,1283,"If the 'blow-back' device on a landing lamp operates, how is it reset?.",A,Select full 'RETRACT'.,The linkage must be repositioned and latched when the aircraft is on the ground.,It cannot. The unit must be replaced because of the high stress loads experienced.
+12,1284,"Before touching or disconnecting a strobe light head, a time period must elapse to avoid electrical shock or burning. That time period is at least.",A,2 minutes.,1 minute.,5 minutes.
+12,1285,"The rear light of an aircraft must be white and, in addition, must show through an inclusive angle of.",B,110 degrees and be 40 candelas minimum.,140 degrees and be 3 candelas minimum.,110 degrees and be 5 candelas minimum.
+12,1286,Self-illuminating signs.,A,are instantly seen in dark areas by persons who are not dark adapted.,"require a period of daylight, or intense artificial light to operate.",are self powered and contain phosphor and helium gas.
+12,1287,"When an annunciator light is selected to 'DIM', the resistor is in.",C,parallel with the light and the transistor is not conducting.,series with the light and the transistor is not conducting.,series with the light and the transistor is conducting.
+12,1288,Storm lights are usually fluorescent lights that are switched on.,B,and the glare-shield lights are automatically dimmed.,to reduce the effect of lightning on the pilot's sight.,because lightning has less effect on fluorescent lamp units.
+12,1289,Captain and First Officer's 'Dome' lights can be dimmed.,C,individually - they are wired in parallel.,First Officer's only in emergency mode.,together - they are wired in series.
+12,1290,"In the CWS system, the caution light is coloured.",A,amber.,red.,green.
+12,1291,"On a CWS, which has the highest priority?.",A,Fire warning.,Hydraulic pump failure.,Duct overheat.
+12,1292,What inert gas is used in a typical strobe light?.,C,Freon.,Halon.,Xenon.
+12,1293,Floor proximity lighting is a mandatory requirement and each light should be spaced.,B,at 70 inch intervals.,at 40 inch intervals.,at 60 inch intervals.
+12,1294,Tritium Gas is used in a.,C,strobe light.,landing Light.,self illuminating lights.
+12,1295,A strobe light is a light unit that takes form of glass tube filled with which gas and its light colour is what?.,A,Xenon Gas and blue-white.,Neon gas and blue.,Helium gas and white.
+12,1296,The helicopter has a partial failure of its emergency lighting system.,C,ground the aircraft.,ferry flight to main base for rectification.,continue with reduced passenger load.
+12,1297,Navigation lights are supplied by the following circuit.,A,Single circuit.,Individual circuits,Dual circuit.
+12,1298,Automatic no smoking sign will illuminate.,B,when landing gear doors are not closed.,"below 10,000ft and descending.",when landing gear is up.
+12,1299,"When the moisture separator is purged in a pneumatic system, it dumps.",A,just the moisture trap.,the system between compressor and regulator valve.,the whole system.
+12,1300,The pneumatic system pump is a.,C,centrifugal type.,rotor vane type.,piston type.
+12,1301,"In a pneumatic system, the maintainer valve will be fitted in supply lines to.",B,essential equipment.,non-essential equipment.,all equipment.
+12,1302,High pressure pneumatic source is a.,C,centrifugal Compressor.,butterfly pump.,reciprocating pump.
+12,1303,High pressure pneumatic pump is a.,A,reciprocating pump.,butterfly pump.,spur gear.
+12,1304,If the pneumatic water drain trap is left open for a long time it will drain.,A,between the compressor and the PRV.,just the moisture trap.,all the system.
+12,1305,"On a high pressure pneumatic system, if the drain plug for oil and water is left open for long periods of time, the system would.",B,lose all pressure.,lose pressure from the compressor side only.,lose pneumatic pressure partially.
+12,1306,Two compressors driven by separate engines use.,C,Interconnected to share loads.,PRVs.,NRVs to prevent compressors driving each other.
+12,1307,What is important about the air entering a dry air pump?.,A,It must be filtered.,It must be pressure controlled.,It must be temperature controlled.
+12,1308,What type of compressor is used on a pneumatic system?.,A,Positive displacement type.,Rotary vane type.,Spur gear type.
+12,1309,Primary Radar is.,B,interrogation of aircraft's transponder.,reflected signal from aircraft's own radar.,for ground use only.
+12,1310,A battery in situ on an aircraft.,B,between the compressor and the PRV.,may charge at an excessive rate if initial battery voltage is low.,charges at a fairly constant rate because generator voltage remains constant.
+12,1311,"To parallel an alternating current generator with one or more other generators, phase A must be.",C,90 degrees out-of-phase and ABC.,in-phase with other generators and ABC.,in-phase with other generators and CBA only.
+12,1312,"On an unparalleled twin generator alternating current system, the phase of the second generator to be brought on line.",A,must be in-phase prior to paralleling.,is important if the first generator fails.,is unimportant.
+12,1313,When an autopilot is Fail Passive.,C,the aircraft reverts to fail operational autopilot.,the autoland can continue.,the pilot must resume control and land the aircraft.
+12,1314,"On the direct current short shunt generator circuit shown, output voltage at the load is 200 V. What is the voltage across the shunt winding?.",C,206 V.,212 V.,200 V.
+12,1315,"On a direct current circuit, current limiters.",A,prevent excessive current to the load circuit.,prevent excessive current to the field circuit.,allow excessive current to the load circuit.
+12,1316,"On a direct current twin generator system, the paralleling relay contacts close when the oncoming generators voltage is.",B,the same as bus voltage.,above bus voltage.,below bus voltage.
+12,1317,"On an aircraft's navigation displays, distance measuring equipment gives.",A,slant range to beacon.,ground range to beacon.,height and range to beacon.
+12,1318,"On a modern aircraft flight instrumentdisplay system, Radio deviation is shown on.",C,EADI.,EHSI.,EHSI & EADI.
+12,1319,"On a flight management system, the database is updated every.",B,2 Months.,1 Month.,3 Months.
+12,1320,The decision height light will illuminate when.,C,the aircraft's indicated altitude is above decision height.,the decision height is selected.,the aircraft's indicated altitude is below decision height.

@@ -1,0 +1,502 @@
+﻿Module,QuestionNo,Question,Correct Answer,Option A,Option B,Option C
+13,1,Flaps at landing position,C,decrease take off and landing speed,decrease take off speed,decrease landing speed
+13,2,Lowering of the flaps,A,increases drag and lift,increases drag,increases lift
+13,3,Pushing the left rudder pedal,A,yaws the aircraft left and possibly the right wing will rise,yaws the aircraft left and possibly the left wing will rise,yaws the aircraft left but has no effect on the wing
+13,4,What preventative maintenance can be carried out in case of HIRF?,C,Check of aircraft structure,Bonding and insulation tests,Shielding of all sensitive equipment
+13,5,What do ruddervators do?,A,Control pitch and yaw,Control pitch and roll,Control yaw and roll
+13,6,On a helicopter what is dragging?,B,Movement of each blade vertically about their lateral hinges,Movement of each blade horizontally about their vertical hinge,Contact of the blade tips on the ground
+13,7,What controls pitch and roll on a delta wing aircraft?,C,Elevators,Ailerons,Elevons
+13,8,"If you add an aerial, to strengthen the airframe you add",A,an internal doubler,external doubler,an intercostals
+13,9,What does a trim tab do?,A,Eases control loading for pilot,Allows the C of G to be outside the normal limit,Provides finer control movements by the pilot
+13,10,How does a balance tab move?,C,In the same direction proportional to the control surface it is attached to,In the same direction a small amount,In the opposite direction proportional to the control surface it is attached to
+13,11,Galley and cabin lighting operate on,C,DC bus,AC bus,GND services
+13,12,Buffer amp on transmitter is between,B,modulator and power amp,local oscillator and modulator,local oscillator and demodulator
+13,13,Aircraft is North of VOR beacon on a course of 090 RMI pointer points to,C,0,90,180
+13,14,What frequency increases radar relative range,B,Long,Short,Radar relative range cannot be increased by frequency change
+13,15,If radar pulse is reduced there is,C,increased relative range,reduced relative range,no effect
+13,16,Adding 6 foot of cable to TX RX aerials on rad alt would give you,A,3 ft error,6ft error,12 foot error
+13,17,Maximum power on a wave guide is governed by the,B,widest width,narrowest width,number of joints and bends
+13,18,Which side of the pilot is the collective?,A,Left,Right,In-between legs
+13,19,What effect does the ground have on a helicopter?,A,Increases lift,No effect,Increases thrust
+13,20,What design factors govern RPM of a helicopter rotor?,A,Weight of blade,Engine and gearbox,Fineness ratio
+13,21,Relative velocity of rotor,A,increases at fwd travelling blade,increases at retreating blade,is equal for all blades
+13,22,When OAT increases what happens to an helicopter operating ceiling?,B,Increase,Decrease,No effect
+13,23,How many satellites required for GNS?,B,8,4,6 90o apart
+13,24,"If on a lead-acid battery, several cell checks of SG read consistently low. Battery needs",C,topping up with distilled water,replacing,recharging
+13,25,What happens when battery master is switched off in flight?,A,Battery disconnected from charge circuit,No effect,Electrical systems shut down
+13,26,A full operational autopilot system will ensure that,C,the automatic pilot will automatically disengage whenever any failure is detected,the automatic pilot will automatically cause the aircraft to overshoot if any failure is detected,the aircraft will continue its automatic landing in the event of a single failure
+13,27,What is the 'Q' code for runway heading?,B,QDH,QDM,QDR
+13,28,"during an automatic landing, the aircraft descent rate is sensed by",B,pitch rate gyros,radio altimeters,vertical accelerometers
+13,29,"the aircraft decrabbing signal, used during autoland, originates from",C,roll errors,localiser deviation errors,heading errors
+13,30,"An automatic throttle, engaged in the EPR mode, will control",C,the aircraft altitude to maintain constant engine input pressure,the engine throttles to maintain a constant acceleration rate,the engine throttles to maintain a constant engine power setting
+13,31,Overshoot or go-around mode can be initiated,B,only when autopilot is engaged,after glideslope capture,at any time
+13,32,The wheel height at which the approach path has been visually assessed as satisfactory to continue the approach to a landing is known as the,A,decision height,intercept height,alert height
+13,33,The International Civil Aviation Organisation weather category 3A is,C,operation down to and along the surface of the runway without external reference,operation down to sixty meters and RVR of 800 meters,operation down to and along the surface of the runway with RVR of 200 meters
+13,34,Runway visual range in (RVR) is obtained by,C,information obtained the local Meteorological Office,three sets of instruments at the side of the runway,one set of instruments the threshold of the runway
+13,35,A category 3B aircraft using fail operational automatic landing equipment which fail operational control and roll out guidance will have,B,a decision height of about 50 feet,no decision height,a decision height depending upon the RVR
+13,36,The purpose of a yaw damper is to,C,assist the aerodynamic response,produce a co-ordinated turn,block the Dutch roll frequency
+13,37,"in a triplex system, the detection of a failure of one simplex system will disconnect",B,all channels,the failed system and carry on with an autoland,the failed system and continue with a manual approach
+13,38,Stand off errors on localiser approach are washed out by,C,differentiating deviation signal,integrating deviation signal,integrating course error
+13,39,With autothrottle selected in the SPEED MODE compatible autopilot modes are,B,VOR ARM and HDG HOLD,IAS HOLD and ALT ARM,V/S and ALT ARM
+13,40,Which modes are incompatible,B,VOR + ALTITUDE HOLD,G/S + ALTITUDE HOLD,HDG + V/S HOLD
+13,41,To carry out an autopilot check first,B,switch off all power,ensure all control surfaces are unobstructed,switch on NAV receivers
+13,42,FAIL PASSIVE means,B,"system self monitors, failure does not affect system","system self monitors, failure does affect system","system is duplicated, failure allows aircraft to continue autoland"
+13,43,On the approach the autopilot loses the LOC signal; the aircraft would,C,fly a circle,increase its drift angle,fly parallel to the beam
+13,44,The Airworthiness requirements for the autopilot / autoland system are laid down in,A,JAR AWO,CAIPs,BCARs
+13,45,VOR capture can be determined by,B,a predetermined level of the course error signal away from the selected radial,is computed from the vectorial summation of the course error and radio deviation signals,a predetermined level of the VOR deviation signal away from the selected radial
+13,46,Versine is generated by,B,torque receiver synchros,synchros resolvers,control synchro transformers
+13,47,Automatic trim is used to,A,maintain level flight,prevents standing loads on the elevator,allow full authority to be regained by the aileron
+13,48,An over station sensor (OSS) is triggered by,B,measured radio deviation,rate of change of radio deviation,rate of change of course
+13,49,Synchronisation circuits in autopilots ensure,B,that the trim indicators will read zero prior to engagement,that the autopilot control circuits are at zero demand conditions engagement,that the aircraft will always be returned to straight and level flight when the autopilot is engaged
+13,50,In the FMS vertical navigation (V NAV) climb mode the throttles are used for,A,maintaining a computed EPR,controlling to a maximum thrust,correction minor speed deviations
+13,51,The GA mode is usually initiated by,B,pressing a button on the control wheel,pressing a button on thrust levers,making a selection on the mode control panel
+13,52,On selection of the Turbulence Mode,C,the gain is doubled to reduce oscillation,the gain remains the same but signals are phase advanced,the gain is reduced to prevent stresses to the airframe
+13,53,To know the valid data base on the FMS,B,perform a BITE check,call up the relevant page on the CDU,call up the relevant current status
+13,54,Co-ordinated autopilot turns are achieved by,A,yaw rate gyro signals,aileron to rudder crossfeed,aileron to elevator crossfeed
+13,55,A yaw damper system operates on,C,all yaw frequencies,only mid range frequencies,low range frequencies
+13,56,What is the impedance of VOR or HF aerial cables?,C,75 ohms and 25 ohms,25 ohms,50 ohms
+13,57,In a vibrator type voltage regulator,A,the resistor is in series with the field,parallel with the field,in series with the voltage coil
+13,58,Where does it state what emergency equipment and what levels of emergency equipment should be carried on an aircraft,A,BCAR section A4-8 or A8-4,JAR OPS,Maintenance Manual
+13,59,If a section of the emergency floor proximity lights are inoperative,C,the aircraft cannot fly i.e. grounded until the defect is fixed,the aircraft can fly but the section with the problem is not used/ shut off,the aircraft is allowed to fly back to base where the defect can be fixed
+13,60,The tail nav light. What angle of divergence should it have?,C,180 degrees,120 degrees,140 degrees
+13,61,"When changing the brushes on a DC generator the brushes must be bedded first, this can be done",A,with the generator fitted to the aircraft,the generator taken off the aircraft and bedding done on the bench,at the manufacturers only
+13,62,What must be taken into account when measuring the SG or relative density of a lead acid battery?,A,The temperature,The ambient pressure,The ambient humidity
+13,63,The polythene coating on a HF antenna wire is provided,A,to prevent precipitation static build up,to prevent the wire from corroding,to prevent the wire from chafing
+13,64,Weather radar domes are protected from lightning strikes by,B,the use of special conductive paint,bonding strips,special conducting or non-conducting grease
+13,65,An elevator tab moves down,A,to counteract for the aircraft flying nose heavy,to make the nose go down,to counteract for the aircraft flying tail heavy
+13,66,The electrolyte in a nicad battery can be checked by checking,A,one cell at a time until all cells are completed,only the end cell as all the others will be the same,any single cell as all the others will be the same
+13,67,"in a fly by wire system, pitch and roll control positions are known by using",B,LVDTs for roll control surfaces and RVDTs for pitch control surfaces,LVDTs for roll and pitch control surfaces,RVDTs for roll and pitch control surfaces
+13,68,"in a CMC aircraft, flight deck indications and warnings are managed and provided by",C,the central warning computer (CWC),the electronic interface units (EIU),RVDTs for roll and pitch control surfaces
+13,69,What type of memory do CMCs have?,B,Volatile,Non-volatile,Hard
+13,70,What is the purpose of the tail cone in helicopters?,B,To provide a balance for CofG,To hold the stabilizers and tail rotor,To provide vibration damping to the tail rotor
+13,71,An aircraft in climb maintains the same IAS. What is it's true airspeed?,A,Higher than its IAS,Lower than its IAS,The same as its IAS
+13,72,The stall margin is controlled by,A,EPR limits,speed bug cursor,angle of attack and flap position
+13,73,When can the FMS be engaged with the autothrottle,C,only with the Flight Director selected,With either the Flight Director or the Digital Control System (DFCS) engaged,only after take off
+13,74,A full authority Digital Engine Control System (FADEC) consists of,B,electronic engine control unit only,electronic engine control unit and all its sensors,electronic engine control unit and throttle position transmitter
+13,75,A FADEC system does not have the following system?,C,An automatic starting capability,Control of thrust reverser operation,Automatic control of engine fire extinguishers
+13,76,Which is the correct sequence for an autoland?,B,"Glideslope capture, altitude hold and flare","Localiser capture, glideslope capture, attitude hold and flare","Localiser capture, glideslope capture, flare and attitude hold"
+13,77,The wheel height at which the approach path has been visually assessed as satisfactory to continue the approach to a landing is know as the,A,decision height,intercept height,alert height
+13,78,The ICAO weather category 3A is,C,operation down to and along the surface of the runway without external reference,operation down to 60 m and 800 m,operation down to and along the surface of the runway with RVR of 200m
+13,79,A category 11 facility performance ILS has an intercept height of,B,15 m,60 m,0 m
+13,80,The facility performance ILS intersect height is the point,A,where the aeroplane receives the first glide path signal,the localiser and glide path signals cross each other,where the aeroplanes first receives both the localiser and glide path signals
+13,81,The average risk of autoland should not contribute a rate of fatal accidents per landing greater than,B,1 x 10-6,1 x 10-7,1 x 10-8
+13,82,Before an aeroplane is able to make an automatic landing the,C,ground radio aids must be at least CAT II,ground radio aids must be at CAT III,ILS system must be working
+13,83,The overshoot or go around mode is initiated,C,automatically,by a selector on the throttle control panel,by pushing the throttles forward to maximum
+13,84,The aeroplanes autopilot is programmed to leave the glide slope at,C,300 ft,the decrab phase,start of flare phase
+13,85,Overshoot or go-around mode can be initiated,A,only when the autopilot is engaged,at any time after autoland has been engaged,at any time
+13,86,The following modes may be retained when overshoot has been initiated after the selection of autoland,C,ILS localiser an IAS,IAS and glide slope,IAS and steering or heading
+13,87,"If go-around has been initiated after autoland has been selected, the aeroplane will",C,increase speed,rotate nose up,increase speed and rotate nose up
+13,88,If during autoland the LOC signal is lost at 400 ft in final approach,C,system degrade to CAT II,autoland is continued,go-around is initiated
+13,89,The order of autoland approach is,A,"LOC, GS, ATT HOLD, FLARE","GS, LOC, ATT HOLD, FLARE","LOC, GS, FLARE, ATT HOLD"
+13,90,Purpose of an autoland decrabbing manoeuvre is to,C,assist with localiser tracking,assist with glide slope tracking,point the aircraft down the runway at touch down
+13,91,The effective gain of the glide path receiver,C,is increased as the aircraft descends,remains constant as the aircraft descends,is decreased as the aircraft descends
+13,92,"During an automatic landing , the aircraft descent rate is sensed by",B,pitch rate gyros,radio altimeters,vertical accelerometers
+13,93,An autopilot with two separate power supplies is,B,fail passive,fail operational,fail redundant
+13,94,"on touchdown, auto pilot",A,remains engaged ready for G/A,drives the throttles forward,disconnects after a short time
+13,95,When will the decision height aural warning sound,B,at D.H.,before D.H.,after D.H.
+13,96,Automatic steering of the aircraft after touch down is affected by,B,the area navigation system,the runway localiser,the airfield marker beacon
+13,97,The flare manoeuvre may be controlled by signals from,A,radio altimeter,the glide slope receiver,the localiser receiver
+13,98,"A triplex system looses one channel, the system is now,",B,fail passive,fail operational,fail redundant
+13,99,A fail passive system in the event of failure will,B,produce a significant out of trim condition,produce no significant out of trim condition,ensure the aircraft can still land automatically
+13,100,"A triplex system loses one channel, the system becomes a",B,simplex system,duplex system,dual-dual system
+13,101,The two parameters used for category classification are,C,radio height/runway visual range,localiser and glideslope,decision height and runway visual range
+13,102,What is the controlling factor in the automatic flare mode?,B,Decision height,Radio altimeter,Glideslope signal
+13,103,CAT-3b allows,B,approach land and runway guidance with zero DH and RVR,approach land and RVR in the order of 50 meters,approach land and runway guidance with taxing visibility in the order of 50 meters
+13,104,The definition of fail operational is the ability of a system to,B,disconnect and leave the aircraft in trim,continue to control after any first fault,disconnect but leave the aircraft out of trim
+13,105,What is added to the flare computation at touchdown?,A,Nose down bias,Nose up bias,No signal
+13,106,What controls are used in response to the PVD displays?,C,Ailerons,Throttles,Nosewheel steering or rudder pedals
+13,107,The ground run monitor (GRM) presents,B,distance to go,ground speed and distance to go,take off speed and distance to go
+13,108,"for a vertical Gyro which is moved in pitch, which gimble would be moved to correct the pitch movement?",B,Lateral,Longitudinal,Normal
+13,109,Versine is used in which channel?,A,Pitch,Roll,Yaw
+13,110,"With airspeed hold engaged whilst flying with Flight Director engaged, a down command means your speed has",B,increased,decreased,is the same
+13,111,A Master Warning is issued when,A,overspeed and low cabin altitude occurs,cargo smoke and a low oil quantity occurs,engine fire and generator trip occurs
+13,112,The total static resistance along the length of an aircraft is,A,50 milliohms,1 ohms,"1M - 100,000 ohms"
+13,113,In the ATA zoning where is section 100 in on an aircraft,B,in the undercarriage bay including the doors,at the lower section of the cabin up to the pressure bulkhead,at the rear of the fuselage behind the bulkhead
+13,114,Sparking in a generator would be caused by,A,low spring tension,bedding of brushes,brushes on the Magnetic Neutral Axis
+13,115,Which is the most important part of preventative maintenance on HIRF installations?,A,Visual inspections,Insulation testing,CMC fault indications
+13,116,What should be done to a transformer secondary connections which are open circuit?,C,Short the terminals together,Put a set resistance across the terminals,Leave the terminals open circuit
+13,117,If a fault is detected during an autoland approach the system will totally disconnect if it is a,C,Triplex system,Duplex system,Simplex system
+13,118,"A Glass Reinforced Plastic surface on an aircraft, to reduce the risk of high potential differences would be",A,painted in a conductive paint,painted in a non-conductive paint,bonded to the primary structure
+13,119,The VHF aerial resistance and transmission line resistance is,A,50 ohms,20 ohms,20 and 50 ohms respectively
+13,120,TAS uses which inputs,C,Pitot and Static,"Pitot and Static, Mach and Temperature",Mach and Temp
+13,121,"Other than spoilers, where are speed brakes located?",C,On the wing,Under the Fuselage,Either side of the Fuselage
+13,122,"With a trailing edge flap being lowered, due to rising gusts what will happen to the angle of attack?",A,Tend to increase,Tend to decrease,Stay the same
+13,123,The Ground Proximity Warning Computer in mode 4 would use which inputs to issue a warning?,B,A low range altimeter and rate of change of low range altimeter,A low range altimeter and configuration of aircraft,A low range altimeter and GPS
+13,124,Alert Height is when,B,a decision of whether to land is made,an alert of the altitude of the aircraft is made,an alert of the ground proximity is made
+13,125,When downgrading an Autoland system what needs to be done?,B,Placards in the cockpit,An entry in the log book and cockpit placarding,Crew retraining
+13,126,TCAS transmits and receives on a frequency of,A,1030 MHz and 1090mhz respectively,1090mhz and 1030mhz respectively,1090 MHz
+13,127,When an aircraft is aligned for a compass swing check to be carried out it will be aligned with an error of plus or minus,B,1 degree,3 degree,5 degree
+13,128,The quadrantal error in ADF is maximum at a heading of,B,000,45,90
+13,129,Circulating currents is caused by an unbalanced,B,DC generators,AC generators,AC & DC generators
+13,130,A device used do dump lift from an aircraft is the,A,spoiler,leading edge flaps,trailing edge flaps
+13,131,Runway turn of lights have a beam width of,C,10 degree,110 degree,50 degree
+13,132,Stall warning will be given at speeds,A,that are higher than stall speed,that are lower than stall speed,at the actual stall speed
+13,133,when a helicopter lands how does the pilot signal to the ground staff that it is safe to approach the aircraft?,B,Turning on and off the NAV lights,Turning off the anti-collision lights,Flashing the landing light
+13,134,An aircraft will capture the auto land system at,A,1500 ft,2500 ft,3500 ft
+13,135,FADEC system gets its power supply from,B,channel A and B from the same windings of a dedicated Generator,channel A and B from separate windings of a dedicated Generator,emergency Batt bus
+13,136,Loss of an electrolyte in a battery is due to,A,excessive charging current,insufficient charging current,excessive charging voltage
+13,137,An autopilot interlock circuit is to,C,prevent the system engagement if a fault exists,disconnect the system if a fault appears,both a & b
+13,138,A rain fall of 5mm/hr is indicated in the WXR by a,B,green colour,amber,red colour
+13,139,The international emergency frequency used in VHF Comms is,B,131.55,121.5,118.00
+13,140,The electrical A/H has a movement of,C,85 degree in pitch and roll,360 in roll and 110 in pitch,360 in roll and 85 in pitch
+13,141,When working on a hydraulic operated flight control it is sensible to,A,remove/disconnect hydraulic power,remove/disconnect electrical power,pull the appropriate CB
+13,142,Emergency electronic equipment requirement will be found in,C,CAAIPs,Maintenance Manual,JAR OPS
+13,143,When an aircraft is at a height of 9500ft and the QNH is 500 ft what is the distance that VHF Com cover?,B,100 nm,120 nm,140 nm
+13,144,"When the VOR ref and Vari phase are in phase quadrature, the aircraft is at the",B,180 degree radial,090 degree radial,275 degree radial
+13,145,A unit with two springs and a mass pick off is,A,an accelerometer,a gyroscope,a tachogenerator
+13,146,The units of vibration are measured in,C,phons,decibels,relative amplitude
+13,147,Magnetic variation is the difference in angle between,A,true north and magnetic north,magnetic heading and aircraft heading,the compass north and magnetic north
+13,148,GPWS mode 1 is excessive,C,terrain closure,rate of ascent,rate of descent
+13,149,The applied pressure to an ASI varies with the,A,square of the speed,square root of the speed,cube root of the speed
+13,150,Temperature compensation is required on an altimeter because of,A,capsule elasticity,capsule shape,non linear pressure/height relationship
+13,151,The loss of the vertical gyro signal to the flight director system would cause,B,aircraft to underbank,aircraft to overbank,aircraft to remain in level flight
+13,152,The doppler VOR beacon reference signal,A,amplitude modulates the carrier frequency,amplitude modulates the sub carrier frequency,frequency modulates the sub carrier frequency
+13,153,During flare mode autothrottle will,A,retard throttles to idle,disconnect autothrottle,select reverse thrust
+13,154,As the rotor head is tilted to travel forward what happens to the reward travelling blades pitch angle?,A,Increases,Decreases,No change
+13,155,What is the power supply to cabin flow tubes?,C,115v ac,200v ac,High voltage stepped up
+13,156,When all three leads of a bonding tester are connected together the output reading is,A,zero,full scale deflection,centre scale
+13,157,in a capacitive fuel gauging system an increase in fuel level would,B,increase capacitive reactance,increase capacitance,decrease capacitance
+13,158,A vertical structural member forming part or full walls are,A,bulkheads,longerons,frame
+13,159,Low electrolyte in a nicad battery is caused by,A,excessive electrical loading,high charge current,low charge current
+13,160,To ensure the compass is serviceable before installation you would carry out,B,damping and periodicity checks,damping and pivot friction check,damping and alignment checks
+13,161,Suppressor line is required for,C,ATC and DME only,TCAs only,all L band equipments including TCAS
+13,162,"A manual trim wheel, when fully moved in the direction of tail",B,the authority of elevators not effected,the up movement authority is effected,the down movement authority is effected
+13,163,"If on an ILS approach, LOC signal is lost",B,aircraft continues to descent with an accumulating drift,aircraft descends in a parallel path to runway,aircraft moves in a circle
+13,164,IDG output voltage,B,does not require voltage regulation as RPM is constant.,voltage is regulated by GCU,voltage is regulated by IDG
+13,165,The over-station sensor is activated by,B,radio deviation signal,rate of radio deviation signal,deviation and course error
+13,166,When moving the control column,A,sensors located under the control column produces a signal,sensor located along the control run produces a signal,sensor in the AFCS computer produces a signal
+13,167,In the reversed camber horizontal stabilizer as shown,C,the elevator causes tail down movement i.e. increases tail plane down force,there is an increases tail plane up-force,there is an increased tailplane down-force
+13,168,Equivalent airspeed is,C,indicated airspeed corrected for IE and PE,rectified airspeed corrected for compressibility,calibrated airspeed corrected for compressibility
+13,169,"in an Autoland, autothrottle is disengaged",A,after reverse thrust is applied,after affixed period of the time after landing,manually after landing
+13,170,What is the maximum limit of the artificial horizon?,A,85 degrees in pitch and 360 degrees in roll,360 degrees in pitch and roll,85 degrees pitch and 110 degrees in roll
+13,171,Acceleration error produces,B,a false indication of left bank,a false indication of right bank,a false indication of climb
+13,172,Zone 500 indicates as per ATA 100,B,Door,Left wing,Right wing
+13,173,Shock stall,B,is a flap down stall,occurs at high speeds,occurs at low speeds
+13,174,Drooping of helicopter blades is compensated by,C,flapping,dragging,centrifugal force
+13,175,During a turn,C,left rudder to be used,right rudder to be used,rudder to be maintained in centre position
+13,176,Align light flashes during alignment,A,A fault has occurred and system needs to be turned off,It is attracting operators attention,It is indicating progress of alignment
+13,177,During decent with power on in a helicopter,B,"lift, drag and thrust are acting on the helicopter","lift, drag, thrust and weight are acting on the helicopter","lift, weight and thrust are acting on the helicopter"
+13,178,"to transmit position feedback for actuators of roll and pitch control surfaces, in a fly by wire system",A,LVDT is used hence ensuring interchangeability,LVDT and RVDT are used for pitch and roll,Synchros are used
+13,179,The compensator in a fuel tank measures,B,specific gravity of fuel,K value of fuel,fuel quantity
+13,180,What is the error signal used for in a fixed angle approach in LOC coupling?entrifugal force,B,Heading and Deviation,Course error and Deviation,"Heading ,Course error and Deviation"
+13,181,"in modern aircraft, power distribution of Generators are controlled by",A,BPCU,PCDU (power control distribution unit),SPCU
+13,182,As you approach supersonic,A,total drag is increased,lift is reduced,thrust is reduced
+13,183,Range resolution is obtained by,B,High PRF,Shorter pulse width,Shorter beam width
+13,184,"in weather radar, short range targets are missed by",A,Larger pulse width,Larger beam width,Larger frequency
+13,185,When the trailing edge flap is,C,The CP moves forward and the pitching moment changes to nose up,The CP moves forward but the CG does not change,CP move rearward
+13,186,During take off if an input to auto throttle is fails,B,Auto throttle disengages,Throttle hold is annunciated,Fail light illuminates
+13,187,Flight director command bars indicate,A,Direction in which aircraft is to be manoeuvred,Direction in which aircraft is flying,Direction in which the beacon is
+13,188,Mode S has,B,12 address bits,24 address bits,36 address bits
+13,189,In a radio altimeter system if you decide to increase the TX cable and RX cable each by 3 inch the total correction factor is,C,In phase,Opposite phase,Phase quadrature
+13,190,In a radio altimeter system if you decide to increase the TX cable and RX cable each by 3 inch the total correction factor is,C,3 inch,6 inch,9 inch
+13,191,If you momentarily short the two spikes of bonding tester,B,tester reads zero,tester reads full scale,tester would be zero centred
+13,192,"for bonding, the two ends of a rubber pipe are joined by",B,a thick metallic bonding strip,a corrugated bonding jumper,a wire attached by terminal legs at both ends
+13,193,What is the minimum resistance between all isolated electrostatic conducting parts which may be subjected to appreciable charge and main earth system,C,0.5 ohm,1 ohm,"0.5 Megohm or 100,000 ohm/sq.ft. surface area which ever is less"
+13,194,Mach trim in some aircraft assists,A,longitudinal stability,lateral stability,vertical stability
+13,195,In case the airplane is wired for dual installation of the Central Maintenance Computers and only one computer is to be installed,A,it must be installed on LH side,it must be installed on RH side,it may be installed either on LH or RH side
+13,196,"If the static line is disconnected in the cabin, the Mach meter reading would be",B,higher mach number,lower mach number,not effected
+13,197,"in a dual FMC installation, if one FMC is defective",C,one CDU blanks,both CDU blanks,not be affected as automatic transfer takes place
+13,198,"While carrying out a leak check of the altimeter, if the static is leaking, the VSI would",B,indicate climb,indicate decent,not be affected
+13,199,What is the authority of series actuator on an helicopters autopilot?,A,"0,1","0,5",1
+13,200,"in helicopter autopilots, while operating the actuator, the movement of the cockpit control is prevented by",B,synchros attached to the control,a compressed spring attached to the cockpit control,a lock on the cockpit control
+13,201,Helicopter blades are,C,highly cambered,reverse cambered,Symmetrical
+13,202,The cyclic stick in an helicopter is,C,to the left,to the right,in the centre
+13,203,An autopilot computer,A,is more sensitive to ILS than to VOR,is more sensitive to VOR than to ILS,is the same sensitivity for VOR and ILS
+13,204,What type of flap is this?,A,Split flap,Fowler flap,Plain flap
+13,205,Purpose of the bellcrank is to,B,transmit motion,reverse direction and transmit motion,adjust friction
+13,206,Index error is,C,coefficient B,Coefficient P,misalignment of compass lubber line
+13,207,Helicopter derives its lift from,A,the blade of the helicopter creates a low pressure above it,rotor acts as a airscrew,air is pushed downward
+13,208,A two bladed helicopter rotor on a central gimbal is called,B,rigid rotor,semi rigid rotor,fully articulated rotor
+13,209,If the 'Q' feel in a powered control system fails,C,the failed system stops and it remains in this position,the pilot feels air loads higher than normal,the pilot feels air loads lower than normal
+13,210,"When the bank angle limit is applied to the autopilot , it means",B,the max aileron angle that can be commanded,the max roll angle that can be demanded by the autopilot,maximum rudder deflection
+13,211,Servo tabs,B,enable the pilot to bring the control surface back to neutral,move in such a way as to help move the control surface,provide artificial feel
+13,212,Spring Tabs,B,enable the pilot to bring the control surface back to neutral,move in such a way as to help move the control surface,provide artificial feel
+13,213,Omega ground stations,A,transmit pulses of CW,carrier modulated by three audio tones,series of CW
+13,214,"When secondary stops are utilized in control surfaces, they come in contact",B,before the primary stops,after the primary stops,at the same time as the primary stops
+13,215,EICAS indicates,A,engine performance and aircraft system malfunctions,engine performance only,engine performance and aircraft status
+13,216,Helicopter cyclic stick is turned to the right,A,rotating aerofoil tilts to the right,pitch operating arms lengthen in one direction and shorten in another,rotating aerofoil tilts to the right
+13,217,Magnetic heading errors will be,A,positive if easterly,negative if easterly,negative if northerly
+13,218,What will happen with a flux valve in a turn?,B,It moves once the aircraft is established on a new heading,It move as the aircraft moves,It stays fixed on magnetic north
+13,219,When will a mode C interrogation be ignored?,A,When the P2 pulse is higher amplitude to P1,When the P2 pulse is antiphase to P1,If P2 is before P1
+13,220,A helicopter autopilot uses,A,radio altitude for height hold and barometric altitude for altitude hold,barometric altitude for height hold and radio altitude for altitude hold,barometric altitude for both height and altitude hold
+13,221,On an ILS approach what will cause the aircraft to fly onto the beam?,C,Radio deviation,Glideslope deviation,Course deviation
+13,222,Which of the following modes does a autopilot go through in correct sequence?,B,"Flare, attitude, rollout","Attitude, flare, rollout","Rollout, attitude, flare"
+13,223,"If a helicopter rotor disc is rotating anticlockwise, viewed from above where would a pitch input be fed into the disc to move the helicopter backwards, 90 degrees to what?",B,In front of the lateral axis,Right of the longitudinal axis,Left of the longitudinal axis
+13,224,A spring balance control system you,A,can move the control surface on the ground,can move the control surface only by moving the tab,cannot move the control surface on the ground
+13,225,Why is a wire HF antenna covered in polythene?,B,To prevent corrosion,To prevent precipitation static,To provide lightning protection
+13,226,If a VOR RMI indicates 000 degrees and the course selected is 000 degrees what will the TO/FROM indicator indicate?,C,TO,FROM,Neither
+13,227,What does the Radar contour button do?,A,Alter the beam shape,Alter the transmitter power,Alter the video amplifier
+13,228,"on a helicopter, what is vortex ring state?",C,Tip vortex interference at high forward speed,Ground vortex interference when hovering close to the ground,Tip vortex build-up during hover
+13,229,What controls are used in response to PVD display?,A,Nose wheel steering or rudder pedals,Control wheel,PVD control unit
+13,230,DME transponder transmits on receipt,C,of any interrogation,of pilot input command request,of a pair of pulses separated by 12 microseconds
+13,231,The best design of a MRB is where the C of P,A,does not move,moves freely along the length of the blade,is insignificant
+13,232,The RAD alt electrical length for an helicopter is,C,16ft,12ft,28ft
+13,233,Mode S transponders transmits a binary code of,C,12bits,64bits,24bits
+13,234,The rotor cone is formed by,B,blade alignment,centrifugal force and lift,centrifugal force only
+13,235,Tracking is carried out to_____________the MRB tip path,C,balance,restore,align
+13,236,Artificial feel is gained by using a,B,hydraulic damper,spring bias unit,'feel' generator
+13,237,The ground run monitor presents information,A,of distance to go and ground speed,duration of ground run,angle of crosstrack on ground
+13,238,A mode C transponder,B,can be used for TCAS,cannot be used for TCAS,can be used for TCAS on ILS approach only
+13,239,The audio select panel allows the crew to,A,"transmit on one channel, listen on one","transmit on one channel, listen on multiple others","receive on one channel, transmit on multiple others"
+13,240,The crew select DH on,C,the altimeter,the DH annunciator panel,the rad alt display
+13,241,"When substituting the radio altimeter antenna cables, you should consider",B,power requirements,the speed of propagation of rad alt signal,the diameter of cables
+13,242,GPS has,A,"24 satellites, 6 orbits of 4","24 satellites, 4 orbits of 6","27 satellites, 3 orbits of 9"
+13,243,Audio select panel voice switch,B,allows voice ident of DME,"cuts ""beeps"" from DME signal",disables DME voice ident
+13,244,GPS frequency is,B,1575 GHz,1575 MHz,1525 MHz
+13,245,Radio switches are normally,A,"sprung on R/T, latched on I/C","latched on R/T, sprung on I/C","latched on R/T, latched on I/C"
+13,246,"on GPWS, with aircraft below 1700ft",A,systems is disabled,no traffic will be shown,all traffic produces aural alert
+13,247,Mode S pulses. Which are used?,B,"F1,F2,F4,F5","s1,p1,p3,p4","s1,s2,p1,p2"
+13,248,"in a superhet receiver, the advantage of an RF amplifier is",B,it amplifies output stages,it improves signal to noise ratio,it couples noise factors
+13,249,Fluorescent tubes for the cabin lighting are powered from,C,115 volts from ac bus,200 volts from ac bus,high voltage produced by transformer ballast units
+13,250,The advancing blade of a helicopter is the one moving,C,one moving in direction of relative air flow,highest blade,one moving forward into relative airflow
+13,251,"in air speed hold mode, a down displacement of the flight director pitch command bar signifies",B,speed increase,speed decrease,height decrease
+13,252,Back beam is captured,A,by manually selecting the back beam mode,this automatically trips the L NAV mode,by manually selecting the L NAV mode
+13,253,With an insulation tester,C,the long lead is attached to the aircraft air frame and short lead to item,the short lead to the aircraft airframe and long lead to the item,it does not matter which lead goes where
+13,254,DME reply pulses are 63MHZ,C,higher,lower,higher or lower
+13,255,What is VHF comm range at 9000 feet?,B,110 nm,120 nm,130 nm
+13,256,Medium vibration of 4 to 6 times per revolution is experienced on a helicopter. The primary control method is,B,inspect loose fixtures and fittings,design of engine and gearbox supports,inspect main rotor head and main drive shaft
+13,257,Krueger flaps make up part of the,C,wing upper surface leading edge,wing lower surface trailing edge,wing lower surface leading edge
+13,258,Electronic stab trim switches are found on the,A,control column,flight control panel,behind thrust levers
+13,259,Emergency electronic equipment for the cabin is referred to in,B,BCARs,JAR OPS subpart M,maintenance manual
+13,260,Carbon microphones require,A,DC supply,AC supply,no supply
+13,261,A CVR is found to be unserviceable,C,flight can continue with serviceable FDR provided they are not combined,flights must not continue after four days,flights must not continue after 72 hours
+13,262,The maximum azimuth coverage by a MLS facility is,B,+/- 35 degrees,+/-40 degrees,+/-60 degrees
+13,263,Fibre glass parts are protected from lightning strikes and dangerous voltages by,C,non conductive paint,conductive paint,earth primary conductors
+13,264,The pseudo-random code used by all civilian GPS users is,C,the y code,the p code,the c/a code
+13,265,On localiser approach the radio deviation signal is lost,B,the aircraft flies in a circle,aircraft flies off centre line on pre-set heading,aircraft flies heading with increasing drift angle
+13,266,Q' feel for the stabiliser requires,C,pitot only,static only,pitot and static
+13,267,"When the aircraft nose yaws to the left, the yaw damper will apply corrective rudder to",A,the right,the left,the left with some aileron assistance
+13,268,A yaw damper will apply rudder proportional to,C,amount of aircraft disturbance,attitude of aircraft,rate of yaw
+13,269,"In a turn, wing spoilers may be deployed",C,"to act as an airbrake, interacting with the ailerons",in unison with both the up going and down going ailerons,to assist the up going aileron
+13,270,Glideslope deviation signals are,A,DC polarity sensitive,AC phase sensitive,DC positive going only
+13,271,A triplex system loses one channel,A,pilot can continue with autoland,pilot can use auto approach,pilot must make a full manual approach and land
+13,272,A series actuator in a helicopter autopilot system has,C,full authority,50% authority,10% authority
+13,273,Stall warning will be given,A,before stall,after stall,at stall
+13,274,"With on-board maintenance (OBM) systems, the purpose of central maintenance function (CMF) is to",A,log relevant maintenance data,transmits to the CMC,provides details of defect action
+13,275,How are spoilers normally operated?,A,Hydraulic actuator,Air pistons,Electrical motors
+13,276,The purpose of a force trim release system in an helicopter is to permit the,A,pilot to move the cyclic stick to obtain desired new attitude without having to maintain the opposing forces of the artificial feel system forces,pilot to move the collective to obtain a power change,appropriate cyclic actuator to be over powered
+13,277,A differential relay in a twin generator system will cause,C,only one generator can supply a bus bar at a time,one generator always comes on line before the other,the generator voltages are nearly equal before they are paralleled
+13,278,Distilled or demineralised water would be added to an alkaline battery,C,in the aircraft,when the battery is fully charged,in the charging room only
+13,279,When removing the load from a current transformer,A,short the terminals,place a resistor across each terminal,leave the terminals open
+13,280,Wing steady light must be visible through,B,70 degrees,110 degrees,180 degrees
+13,281,On AC ground power the interlock system is operated by pins,C,a and b,c and d,e and f
+13,282,When paralleling two AC generators,A,"it is important that they are in phase, and should be brought on in sequence ABC","it is important that they are in phase, and can be brought on in either ABC or CBA",they do not need to be in phase
+13,283,The neutral shift sensor ensures that,A,"after an auto trim, the elevator is moved to align with the stabiliser","after a mach trim, the stabiliser is moved to align with the elevator","after an auto trim, the stabiliser is moved to align with the elevator"
+13,284,Aileron to rudder crossfeed is applied in autopilot systems to,C,assist the aircraft back to datum after disturbance in yaw,prevents slip and skid in yaw,prevents aircraft yawing in the opposite direction to the turn
+13,285,Stand off errors on localiser approach are washed out by,C,differentiating deviation signals,integrating deviation signals,integrating course error signals
+13,286,An open circuit in the temperature bulb as used in the DC ratiometer would cause,C,the pointer to read zero,the pointer to read mid scale,the pointer to read full scale
+13,287,The instantaneous VSI is designed to,A,overcome the inherent lag by utilising an accelerometer,use an accelerometer to give a rate of climb/descent,improve the VSI output during acceleration greater than 1g
+13,288,"with a constant torque applied to a gyroscope, the rate of precession will",B,increase with a higher rotor speed,decrease with a higher rotor speed,decrease with a lower rotor speed
+13,289,A gyroscope with a vertical spin axis has the roll torque motor located about the gyroscope's,B,lateral axis,longitudinal axis,vertical axis
+13,290,The glideslope equipment operates in the,B,HF band,UHF band,VHF band
+13,291,The loss of the vertical gyro signal to a flight director system would cause,C,aircraft to underbank,aircraft to overbank,aircraft to remain in level flight
+13,292,In a flight director system the radio signal outputs from the navigation receiver are,A,DC,AC,pulsed DC
+13,293,EICAS provides the following,B,engine parameters,engine parameters and system warnings,engine warnings and engine parameters
+13,294,The stabiliser is set to high setting when,A,the flaps are moving down,the flap are moving up,the flap are moving up or down
+13,295,An auto land system displays Land 2 another failure will make the system,C,operational,passive,simplex
+13,296,DSR TK (desired track) means,A,the bearing to capture the track,a great circle path on surface of earth connecting two way points,distance left or right from desired track
+13,297,In helicopter Alt Hold uses a signal from,A,the barometric alt capsule,a rad alt output,a rad alt or capsule output depend on height
+13,298,In a doppler VOR the 30Hz reference signal is,B,FM Modulated,AM Modulated,modulated with a 9960Hz
+13,299,On aircraft an auto land during auto flare the auto throttle will,A,retard the throttle,reverse thrust,control throttle for a IAS
+13,300,If an FM signal modulated by an audio signal the frequency of the audio would relate to the,C,amplitude,frequency,rate of frequency change
+13,301,The normal axis on a helicopter is,A,straight down the rotor head,at 90o to the C of G,"at 90o to the rotor head_x000D_
+13	NULL	302	On a HF radio set the clarifier control is used											x			A	to adjust the reinserted carrier due to instability in the RX	make the audio signal clearer	an Americanisum for volume_x000D_
+13	NULL	303	A GPS aerial is polarised											x			C	vertically	horizontally	right hand circular_x000D_
+13	NULL	304	Mach trim threshold are set by the											x			C	pilot	engineer using aircraft maintenance manual	manufacture_x000D_
+13	NULL	305	An O ring in a wave guide is used to											x			C	correct the VSWR	stop arcing between the wave guide	stop moisture entering the wave guide_x000D_
+13	NULL	306	An RMI requires the following inputs:											x			A	Heading and radio deviation	Course and radio deviation	Radio deviation only_x000D_
+13	NULL	307	The versine signal is used in the											x			A	pitch channel only	roll channel only	pitch and roll channel_x000D_
+13	NULL	308	After a change in collective pitch the Rotor rpm will rise and fall. This is called											x			A	transient droop	static droop	under swing_x000D_
+13	NULL	309	Loran C Uses											x			C	16 KHz	20 Mhz	100 Khz_x000D_
+13	NULL	310	The amount of travel of a series actuator is											x			A	50% of control movement	10% of control movement	full control movement_x000D_
+13	NULL	311	After a change in pitch of a rotor blade the blade will be at maximum flap at											x			A	90o	180o	0o_x000D_
+13	NULL	312	Emergency Electronic equipment is approved by											x				Aircraft Maintenance Manual	JAR (OPS) M	BCAR A4-8_x000D_
+13	NULL	313	The rotor disc is											x			A	the distance between tip to tip	the rotor head hub	the ground cushion_x000D_
+13	NULL	314	A DME is in auto stand by when											x			B	the ATC transponder is transmitting	the DME receives 200 - 300 pulses a second	the TCAS is transmitting_x000D_
+13	NULL	315	The aircraft is due north of a VOR station on a heading of 90oWhat is a RMI display?											x			C	90o	0o	180o_x000D_
+13	NULL	316	The flight director is on a localizer when the radio deviation signal is lost the aircraft would											x			B	continue on flying on the localizer	fly parallel to the localizer	drift of from the localizer on the same heading_x000D_
+13	NULL	317	Cat-2 autoland DH limits are											x			A	below 200 feet but not less than 100 ft	below 500 feet but not less than 400 ft.	below 300 feet and not less than 200 ft._x000D_
+13	NULL	318	Cat-1 autoland DH limits are											x			B	not less than 100 ft.	not less than 200 ft.	below 200 ft but not less than 100 ft._x000D_
+13	NULL	319	When GA is initiated?											x			C	Auto throttle disengages at 2000 ft/min rate and wings will level	Auto throttle remains engaged allowing pilot to control the throttles	Auto throttle remains engaged giving correct G/A thrust_x000D_
+13	NULL	320	The controlling signal in pitch channel in the Flare mode are											x			A	integrated pitch and radio altitude.	G/S deviation and radio altitude.	integrated pitch and G/S deviation_x000D_
+13	NULL	321	During autoland failure of one channel is detected											x			B	all channels will disconnect in triplex system.	all channels will disconnect in dulpex system.	all channels will disconnect in dual-dual system_x000D_
+13	NULL	322	In triplex autoland system failure of one channel will											x			B	disconnect all channels	disconnect the failure channel and continue autoland approach	disconnect the failure channel and continue with a manual approach_x000D_
+13	NULL	323	During the flair mode the A/T throttle will											x			A	retard throttle to idle.	disconnect autothrottle	select reverse thrust._x000D_
+13	NULL	324	Roll out mode occurs											x			A	after flare	before flare	at alert height_x000D_
+13	NULL	325	Basic monitoring is function of											x			B	voting	signal comparison	signal summing_x000D_
+13	NULL	326	In series rudder system											x			B	the pilot cannot input to the system	the pilot can input to the system	yaw damping is only possible signal input_x000D_
+13	NULL	327	in parallel rudder system,											x			B	the pilot can input on rudder pedals	The rudder pedals move in response to rudder movement	The rudder pedals are disconnected_x000D_
+13	NULL	328	The aileron/rudder signal is demodulated in the rudder channel amplifier. This means it is											x			C	AC	DC	DC output whose polarity is related to the phase of AC input_x000D_
+13	NULL	329	An increase in mach number will cause the											x			A	Cof P to move rearwards giving less downwash on the tail plane	Cof P to move rearwards giving more downwash on the tail plane	Cof P to move forwards giving less downwash on the tail plane_x000D_
+13	NULL	330	If one FMS fails in a duel system											x			C	system operation will not be affected	FMS CDU on fail side goes blank	FMS display transfers automatically from serviceable computer_x000D_
+13	NULL	331	To carry out FMS database update on FMS											x			A	use database loader	insert new EPROM	insert new data on CDU_x000D_
+13	NULL	332	To know the valid database on FMS											x			B	perform bite check	call up relevant page on CDU	call up relevant current status_x000D_
+13	NULL	333	Magnetic heading errors will be											x			A	positive if easterly	negative if easterly	negative if northerly_x000D_
+13	NULL	334	What will happen with a flux valve in a turn?											x			B	It will move once the aircraft is established on a new heading	Move as the aircraft moves	Stay fixed on magnetic north_x000D_
+13	NULL	335	A helicopter autopilot uses											x			A	radio altitude for height hold and barometric altitude for altitude hold	barometric altitude for height hold and radio altitude for altitude hold	barometric altitude for both height and altitude hold_x000D_
+13	NULL	336	On an ILS approach what will cause the aircraft to fly onto the beam?											x			C	Height Deviation	Radio deviation	Course deviation_x000D_
+13	NULL	337	What of the following modes does a autopilot go through in correct sequence?											x			B	Flare, attitude, rollout	Attitude, flare, rollout	Rollout, attitude, flare_x000D_
+13	NULL	338	When can other autopilot modes can be select once Go-Around has been selected?											x			B	When aircraft has reached 5000ft	When reached a desired altitude	Disengage and reengage the AFCS system_x000D_
+13	NULL	339	If a helicopter rotor disc is rotating anticlockwise, view from above where would a pitch input be fed into the disc to move the helicopter backwards, 90 degrees to what?											x			B	In front of the lateral axis	Right of the longitudinal axis	Left of the longitudinal axis_x000D_
+13	NULL	340	Forces on a helicopter in a power-on descent are											x			A	lift, drag thrust, weight	lift, drag, thrust	weight, drag, lift_x000D_
+13	NULL	341	What is the primary purpose of a helicopter tail arm?											x			A	Provide a structure for mounting the stabiliser and anti torque rotor	Acts to help balance the centre of gravity of the helicopter	Provide directional control_x000D_
+13	NULL	342	How long is the time between the start of the P1 pulse and the P3 pulse ignoring the P2 pulse length?											x			A	21 micro seconds	8 micro seconds	17 micro seconds_x000D_
+13	NULL	343	What does the Radar contour button do?											x			A	Alter the beam shape	Alter the transmitter power	Alter the video amplifier_x000D_
+13	NULL	344	A radar response takes 329 micro seconds. How far away is the target?											x			B	12 miles	25 miles	40 miles_x000D_
+13	NULL	345	The VHF aerial resistance and transmission line resistance is											x			A	50 ohms	20 ohms	20 ohms and 50 ohms respectively_x000D_
+13	NULL	346	Alert Height is when											x			B	a decision of whether to land is made	an alert of the altitude of the aircraft is made	an alert of the position of the aircraft is made_x000D_
+13	NULL	347	Versine is used in which channel?											x			A	Pitch	Roll	Yaw_x000D_
+13	NULL	348	A Master Warning is issued when											x			A	overspeed & low cabin altitude occurs	cargo smoke & low oil quantity occurs	engine fire & generator trip occurs_x000D_
+13	NULL	349	Which is the most important part of preventative maintenance on HIRF installations?											x			A	Visual inspections	Insulation testing	CMC fault indications_x000D_
+13	NULL	350	When does the pressure in the standard atmosphere halve?											x			C	12,000ft	5,000ft	18,000ft_x000D_
+13	NULL	351	If an aircraft is entering a turn to the left, what input would the aileron to rudder crossfeed be?											x			A	Left Rudder	Right Rudder	No Rudder_x000D_
+13	NULL	352	If a control surface that is fitted with a balance tab is moved, what will happen to the tab?											x			C	It is moved manually in the opposite direction to the surface	It is moved automatically in the same direction as the surface	It is moved automatically in the opposite direction as the surface_x000D_
+13	NULL	353	At which two points on a gas turbine engine is EPR measured?											x			A	Compressor inlet and jet pipe	Combustion chamber and jet pipe	Jet pipe and combustion chamber_x000D_
+13	NULL	354	If a stall is approaching, what indication does the pilot get?											x			A	Stick Shaker	Stick Nudger	EICAS warning_x000D_
+13	NULL	355	On a coupled approach what happens to the aircraft if it looses the localiser signal?											x			A	It will fly straight down the original course but will drift	It will fly in circles	It will fly on the heading the aircraft was on_x000D_
+13	NULL	356	If an autopilot is fed with radio deviation											x			B	it will stand off the centre line by a fixed amount	it will fly in circles	it will fly on the heading the aircraft was on_x000D_
+13	NULL	357	In what type of Doppler System do altitude holes appear?											x			A	FM	Pulse	FM and Pulse_x000D_
+13	NULL	358	If an aircraft moves in yaw what axis is it moving about?											x			A	Normal	Longitudinal	Lateral_x000D_
+13	NULL	359	The neutral shift system augments control of the											x			B	stabiliser	elevator	spoilers_x000D_
+13	NULL	360	On a full time Fly-by-wire system a nose up command causes											x			A	the two elevator surfaces on each side of the stabiliser to move up	all the elevators on each wing to move up	the two Ailerons on each wing to move up_x000D_
+13	NULL	361	What are ground spoilers used for?											x			A	To dump lift	To assist the aircraft coming to a stop	To slow the aircraft_x000D_
+13	NULL	362	If the aircraft is to be rolled to the right where does the pilot feed in this command?											x			A	Control Wheel	Control Column	Rudder Pedals_x000D_
+13	NULL	363	What is the typical aircraft hydraulic system pressure?											x			A	3000 psi	1000 psi	300 psi_x000D_
+13	NULL	364	If a bonding lead is found to be broken and a spare is unavailable you must											x			A	replace with a self manufactured cable of the same type but larger	defer the defect until correct spares are available	splice the broken lead_x000D_
+13	NULL	365	What is the bonding value between secondary structure?											x			B	0.5	1 ohm	Between 1Megohm and 500,000_x000D_
+13	NULL	366	What is the diagonal part of the landing gear called?											x			A	Drag Strut	Drag Wire	Shock Absorber_x000D_
+13	NULL	367	What is the advancing blade on a helicopter doing?											x			A	Increasing in lift	Going to the highest point	Increasing in drag_x000D_
+13	NULL	368	In a series actuator fitted to a helicopter how much authority does it have?											x			A	10% approximately	1	0,5_x000D_
+13	NULL	369	What is the output of a localiser NAV receiver?											x			B	Polarity sensitive AC	Polarity sensitive DC	Either_x000D_
+13	NULL	370	What does an INS calculate on power up?											x			B	Last Known Longitude	Last Known Latitude	Last Known Longitude & Latitude_x000D_
+13	NULL	371	If a series actuator is fitted in the cyclic control circuit of a helicopter what effect will an autopilot input have?											x			B	The cyclic lever will move in proportion to the autopilot input	The cyclic lever will not move	The flight director bars only will move_x000D_
+13	NULL	372	On an aircraft fitted with a CMC how do you get to the system pages?											x			A	Through the ground test function	Through the Existing faults function	Through the Present Leg faults function_x000D_
+13	NULL	373	What is the purpose of the autopilot trim indication?											x			A	The voltage activity in the servo amp	Trim tab position	Control surface position_x000D_
+13	NULL	374	What is the entry angle of an MLS installation +/-?											x			B	62	42	20_x000D_
+13	NULL	375	When using a bonding tester you											x			A	use the 6ft lead for testing different points	use the 60ft lead for testing different points	use either leads for the testing_x000D_
+13	NULL	376	What is the swash plate on a helicopter used for?											x			A	Control of the pitch of the rotor blades	Control of the speed of the rotor blades	Control of the flap of the rotor blades_x000D_
+13	NULL	377	What does a piezo electric type vibration sensor detect?											x			C	Disturbances	Velocity	Pressure changes_x000D_
+13	NULL	378	What should be carried out prior to working on or near control surfaces?											x			A	Ensure Hydraulics are selected off	Pull & tag circuit breakers	Wear ear protection_x000D_
+13	NULL	379	Instantaneous Vertical Speed Indicator has instant values of Vertical Speed by											x			A	blocking off static and by using an accelerometer	using a plunger to correct any lagging of the indicator	blocking off pitot pressure and by using an accelerometer_x000D_
+13	NULL	380	What is the glide slope frequency range?											x			C	108 - 112 Mhz	108 - 112 Ghz	329 - 335 Mhz_x000D_
+13	NULL	381	What would indicate the state of charge of a lead acid battery?											x			B	Fluctuations in the level of the electrolyte	Fluctuations in the SG of the electrolyte	Fluctuations in the terminal voltage_x000D_
+13	NULL	382	What is the aural warning of an aircraft overspeed?											x			B	Bell sound	Clacking sound	Horn sound_x000D_
+13	NULL	383	What is a slot used for?											x			A	To reinforce the boundary layer	Increased angle of attack during approach	Increase the speed of the airflow_x000D_
+13	NULL	384	A Boost Gauge reads											x			B	above or below ambient atmospheric pressure	absolute pressure	above or below ISA atmospheric pressure_x000D_
+13	NULL	385	Angle of Attack is the angle between cord line and											x			A	relative air flow	tip path plane	horizontal axis_x000D_
+13	NULL	386	What is the Speed of an ARINC 429 system											x			C	2.3 - 23 Mhz	2 - 6 GHz	100 KHz_x000D_
+13	NULL	387	A high lift device is used for											x			A	take off and landing	take off only	landing only_x000D_
+13	NULL	388	What is jitter used for in a DME transmission?											x			A	To make an installation recognise it's own transmission	To make sure only strong signals are replied to in a dense area	To make an aircraft recognise a DME in a quiet area_x000D_
+13	NULL	389	The difference between transient droop and static droop is											x			A	underswing	overswing	a hole in one_x000D_
+13	NULL	390	With a helicopter with a twin blade same gimbal it is											x			A	semi rigid	rigid	fully articulating_x000D_
+13	NULL	391	What is lapse rate?											x			B	Pressure changes with altitude	Temperature changes with altitude	Density changes with altitude_x000D_
+13	NULL	392	In a boost gauge system the sensing element contains											x			B	1 capsule	2 capsules	3 capsules_x000D_
+13	NULL	393	If an aircraft moves in roll it is moving about the											x			C	normal axis	lateral axis	longitudinal axis_x000D_
+13	NULL	394	LOC signal modulation is											x			B	0,5	0,2	0,1_x000D_
+13	NULL	395	If increasing altitude at constant IAS, TAS will											x			B	decrease	increase	remain the same_x000D_
+13	NULL	396	How does a delta wing aircraft move about the pitch and roll axis?											x			B	Elevator s	Elevons	Ailerons_x000D_
+13	NULL	397	If a roll was commenced, what command would the versine generator give?											x			A	Up Elevator	Left rudder	Down elevator_x000D_
+13	NULL	398	What effect does lowering the flaps for takeoff have?											x			B	Increases lift & reduces drag	Increases lift and drag	Increase lift only_x000D_
+13	NULL	399	What effect does lowering flaps for takeoff have?											x			A	Reduces takeoff and landing speeds	Reduces takeoff speeds only	Reduces landing speeds only_x000D_
+13	NULL	400	What does a vibration type sensor measure?											x			B	Maximum deflection	Frequency of deflections	Direction of flexing_x000D_
+13	NULL	401	The result of the equation (Dev E - Dev W)/2 is known as											x			A	Coefficient B	Coefficient A	Coefficient C_x000D_
+13	NULL	402	ADF operates within which frequencies?											x			A	200 KHz - 1000 KHz	118 MHz - 132 MHz	32 KHz - 64 KHz_x000D_
+13	NULL	403	Cat IIIB landing, up to what phase is LOC signal used?											x			B	Roll out	Flare	Touchdown_x000D_
+13	NULL	404	FMC mode that can be selected through the CDU is											x			C	DME Freq	LNAV	CRZ_x000D_
+13	NULL	405	Which would you use to test an aircraft transponder altitude reporting system?											x			A	Read the altitude directly from ATC-600 panel	Transfer the code displayed by the ATC-600 into binary	Check the altitude code with the correct alt/code table_x000D_
+13	NULL	406	If the localiser signal is only applied to the A/P roll channel											x			C	aircraft flies parallel to the runway centre line	aircraft flies along the runway centre line	aircraft flies in circles_x000D_
+13	NULL	407	WX radar display the time base is											x			A	saw tooth wave form	trapezoidal wave form	rectangular wave form_x000D_
+13	NULL	408	A helicopter needs to re-trim											x			A	indication is shown on the API	indication is shown on the command bars of the EHSI	indication is shown on the command bars of the EHSI_x000D_
+13	NULL	409	Anti cross-talk network for unwanted signals uses											x			A	attenuation first then amplification	amplification first then attenuation	no attenuation but amplification_x000D_
+13	NULL	410	at take off, if the flaps are lowered there is a											x			A	large increase in lift and drag	small increase in lift and drag	large increase in lift and small increase in drag_x000D_
+13	NULL	411	With no.1 h.f. system transmitting the interlock circuit											x			C	allows no.2 h.f. to receive only	allows no.2 h.f. to transmit and receive	does not allow no.2 to transmit or receive_x000D_
+13	NULL	412	Aircraft is north of VOR beacon, course is set to 90 degrees, RMI indicates											x			B	90	180	0_x000D_
+13	NULL	413	in an auto trim horizontal stabiliser, 'low' speed mode is when											x			A	flaps are retracted	landing gear up and locked	flaps extended_x000D_
+13	NULL	414	An aircraft receives a response from a DME station, 1236 microseconds after transmitting the interrogation. What is the slant range to the station?											x			A	96 nautical miles	100 nautical miles	104 nautical miles_x000D_
+13	NULL	415	If the VOR track error is 2 dots, how many degrees off track is the aircraft?											x			A	10	5	2.5_x000D_
+13	NULL	416	What frequency range does ACARS operate in?											x			B	2-30 MHz	118-136 MHz	4-5 GHz_x000D_
+13	NULL	417	An FM signal would have it's sideband signals											x			C	above the carrier signal	below the carrier signal	No sidebands present_x000D_
+13	NULL	418	A Doppler VOR station's transmissions											x			A	can be received and processed with a conventional VOR receiver	can not be received and processed with a conventional VOR receiver	can be received but not processed with a conventional VOR receiver_x000D_
+13	NULL	419	Wing can spoilers be used?											x			C	To assist the respective down going aileron in a turn	As ground spoilers on landing	To assist the elevators_x000D_
+13	NULL	420	Dutch Roll affects											x			C	pitch and roll simultaneously	pitch and yaw simultaneously	yaw and roll simultaneously_x000D_
+13	NULL	421	When more than one D.R. compass is fitted on an aircraft or where a D.R. compass serves as a standby to a remote reading compass											x			B	only the master compass readings and adjustments carried out and remaining compasses are adjusted with master compass	all readings and adjustments for each compass should be made simultaneously on each heading	all readings and adjustments for each compass should be made at any one heading only_x000D_
+13	NULL	422	Compass error remaining after all the corrections, which is used for entry on the deviation card should not exceed											x			B	2 degrees	3 degrees	5 degrees_x000D_
+13	NULL	423	Compass error remaining after all corrections are made is called											x			B	apparent error	residual error	index error_x000D_
+13	NULL	424	Instruments used on an aircraft are in some instances fitted with cover glasses whose surfaces are bloomed to reduce											x			B	Parallax error	Surface reflection	Static to avoid dust attraction_x000D_
+13	NULL	425	Versine signal is governed by											x			B	roll	pitch	yaw_x000D_
+13	NULL	426	Stick shaker activates at a speed which is above the stalling speed by											x			B	0,04	0,07	10.321%_x000D_
+13	NULL	427	A D.R. compass fitted on an aircraft. The safe distance for electrical cables carrying electrical current is											x			B	20 inches	24 inches	28 inches_x000D_
+13	NULL	428	Oscillation and hunting of flight control surface are prevented by											x			A	Tachogenerator	Feedback from control surface	Feedback from servo motor_x000D_
+13	NULL	429	Radar beamwidth improves											x			C	range resolution	range accuracy	bearing resolution_x000D_
+13	NULL	430	A transformer has a power input of 115V AC. What is the output voltage?											x			C	115V	345V	460V_x000D_
+13	NULL	431	on a VSI fitted on an aircraft, for climb and descent indication											x			A	a set screw is provided for zero adjustment	it does not have any adjustment	a set screw is provided for climb/descent increments_x000D_
+13	NULL	432	When more than one D.R.Compass is fitted on an aircraft or where a D.R.compass serves as a standby to a remote reading compass											x			B	Only the master compass reading and adjustment carried out and remaining compasses are adjusted with master compass.	All reading and adjustments fo reach compass should be made simultaneously on each heading.	All reading and adjustment for each compass should be made at any one heading only._x000D_
+13	NULL	433	Compass error remaining after all the corrections, which is used for entry on the deviation card should not exceed											x			B	2 Degree	3 Degree	5 Degree_x000D_
+13	NULL	434	Compass error remaining after all corrections are made is called											x			B	apparent error	residual error	index error_x000D_
+13	NULL	435	Instruments used on an aircraft are in some instances fitted with cover glasses whose surfaces are bloomed to reduce											x			B	parallax error.	surface reflection.	static to avoid dust attraction._x000D_
+13	NULL	436	Versine signal is governed by											x			B	roll	pitch	yaw_x000D_
+13	NULL	437	Increasing the real load primarily											x			C	decreases frequency	decreases output voltage	increases output voltage and increases frequency_x000D_
+13	NULL	438	Inductive reactive load causes											x			C	no effect on torque but produces extra heat dissipated	increase in torque and increase in heat dissipated	increase in torque only_x000D_
+13	NULL	439	The power factor of an AC generator identifies the proportion of											x			C	apparent power from the generator that does work	reactive power from the generator that does work	real power from the generator that does work_x000D_
+13	NULL	440	The control of hydraulically powered emergency electrical generator frequency is by											x			A	angle of swash plate	IDG	restriction valve_x000D_
+13	NULL	441	Differential protection in an AC system protects against											x			C	A reverse current flowing from the battery	short circuits	line-line, line-line-line, line-earth faults_x000D_
+13	NULL	442	When resetting the CSD on the ground, the engine should be											x			A	stationary	rotating at idle	rotating at Nsync_x000D_
+13	NULL	443	One of the main purposes of a CSD is to											x			A	enable generators to be paralleled	prevent engine overload	maintain constant load on the generator_x000D_
+13	NULL	444	in a undervolt condition in an AC generator system, the most likely consequence is											x			A	activation of the time delay circuit	de-activation of the field regulatory TRs	energise the bus tie relay_x000D_
+13	NULL	445	If voltage and frequency of the generator drop to zero in flight, it would be an indication that the											x			A	CSD drives shaft had sheared	phase sequence detection circuit has operated	bus tie interlock is inoperative_x000D_
+13	NULL	446	Assuming all systems are operating normally, as aircraft electrical load increases, generator output voltage will											x			C	decrease and amperage output increases	increases and amperage output increases	remain constant and amperage output increases_x000D_
+13	NULL	447	Battery trays are											x			B	metal for earthing purposes	metal with PVC coating and anti corrosive paint	absorbent to soak up electrolyte_x000D_
+13	NULL	448	When installing multiple batteries on aircraft they are connected in											x			C	parallel	series	either parallel or series and switched between as an option_x000D_
+13	NULL	449	What is the small pin on the DC ground power connector?											x			C	Ground or earth	Positive to battery relay	Positive to external power relay_x000D_
+13	NULL	450	Maximum battery temperature on charging before protection circuit starts is											x			B	71 degrees F	144 Degrees F	144 Degrees C_x000D_
+13	NULL	451	If an aircraft has no battery charger the battery is charged by											x			A	constant voltage	constant current	constant current until a predetermined limit when it automatically switches to constant voltage_x000D_
+13	NULL	452	Battery charging procedures can be found in ATA											x			B	Chapter 24 Section 21	Chapter 24 Section 31	Chapter 31 Section 21_x000D_
+13	NULL	453	In a carbon pile regulator the resistive element is											x			B	in series with the field and changes resistance with changing length	in series with the field and changes resistance with surface area contact	in parallel with the field and changes resistance with changing length_x000D_
+13	NULL	454	The output of a carbon pile regulator with no variation of loading is											x			A	stationary	fluctuating	pulse width modulating_x000D_
+13	NULL	455	In a transistor voltage regulator the voltage output is controlled by											x			C	transformers and transistors	diodes and transformers	zeners and transistors_x000D_
+14	NULL	1	From where is manifold pressure taken on a supercharged engine?											x			C	Between the carburetor and the supercharger	Between the supercharger and the throttle	Between the carburetor and the induction ports_x000D_
+14	NULL	2	On a gas turbine engine, what is the fan driven by?											x			B	HP turbine	LP turbine	IP turbine_x000D_
+14	NULL	3	What is an engine stage?											x			A	One rotor plus one stator	One IGV and one rotor	One compressor rotor and one nozzle guide vane_x000D_
+14	NULL	4	The air data input to the FADEC fails. The result will be											x			C	a lack of flight data	uncorrected data from hard wired analogue sensors is utilized	the FADEC reverts to the failsafe mode_x000D_
+14	NULL	5	Torque measurement is taken from the											x			B	free turbine shaft	reduction gearbox	prop shaft_x000D_
+14	NULL	6	A FADEC system consists of											x			A	HMU, sensors and an EEC	HMU, ADC and sensors	EEC, ADC and sensors_x000D_
+14	NULL	7	What power supply is required for a thermocouple system to work?											x			C	Direct current	Alternating current	Neither of the above_x000D_
+14	NULL	8	In a 24 thermocouple system, one thermocouple goes open circuit. What error is detected at the indicator?											x			A	None	No indication	Gauge freezes at last known reading_x000D_
+14	NULL	9	In a thermocouple temperature sensing system, what is the purpose of the compensating resistor?											x			B	To standardise the reading for different engine types	To correct for varying ambient temperatures at the cold junction	To correct for varying ambient temperatures at the hot junction_x000D_
+14	NULL	10	In a dive, with the throttles fixed, the EPR will											x			C	increase	decrease	not change_x000D_
+14	NULL	11	How is the N1 and N2 measured on a triple spool engine?											x			A	Pulse type speed probes	Tachometer connected to the external gearbox	Tachometer connected to the internal gearbox_x000D_
+14	NULL	12	A twin spool engine has											x			C	one turbine on one shaft	two turbines on one shaft	two turbines on two shafts_x000D_
+14	NULL	13	A free turbine aircraft engine is most likely to be used on a											x			C	high bypass engine	a direct coupled engine	a helicopter engine_x000D_
+14	NULL	14	Propeller speed is measured from											x			A	a slip ring pulse probe	a tachometer on the LP turbine shaft	a pulse probe at the engine side of the reduction gear_x000D_
+14	NULL	15	Propeller torque is analogous to											x			B	engine RPM	shaft horsepower	propeller RPM_x000D_
+14	NULL	16	How is power indicated on a fixed pitch propeller?											x			A	RPM gauge	Torque gauge	Horsepower gauge_x000D_
+14	NULL	17	What are the units of manifold pressure on a normally aspirated engine?											x			C	PSI	Inches of water	Inches of mercury_x000D_
+14	NULL	18	In a FADEC what is the result of Channel A failing to receive information from a sensor?											x			B	Channel B will assume control	Channel A will take the information from channel B	Channel A will take the information from the backup sensor_x000D_
+14	NULL	19	A synchro pressure measuring system requires											x			A	alternating current	direct current	either ac or dc_x000D_
+14	NULL	20	A synchro pressure measuring system works on the principle of changes in pressure related to changes in											x			C	frequency	voltage	flux_x000D_
+14	NULL	21	Pure jet engines use											x			A	stagnation thermocouples	rapid response	variable resistance thermocouples_x000D_
+14	NULL	22	Modern oil pressure servo transmitters sense											x			A	differential pressure	absolute pressure	HP oil pressure_x000D_
+14	NULL	23	EGT thermocouples are usually made of											x			C	nickel and platinum	chromel and platinum	chromel and alumel_x000D_
+14	NULL	24	Thrust is generated in a turboprop system by											x			C	moving a small mass of air quickly	moving a large mass of air quickly	moving a large mass of air slowly_x000D_
+14	NULL	25	Power is adjusted in a variable pitch turboprop aircraft by											x			B	increasing RPM	increasing fuel flow	increasing pitch_x000D_
+14	NULL	26	Thrust in a high bypass engine is measured by measuring											x			C	N3 RPM	fuel flow	neither of the above, thrust is not indicated in flight_x000D_
+14	NULL	27	EPR is a ratio of											x			B	P1 to P4	P1 to P fan	P1 to P6_x000D_
+14	NULL	28	The majority of power in a free turbine engine is used to											x			B	drive the gas generator	drive the free turbine	expel gases through the exhaust_x000D_
+14	NULL	29	The total power in a turboprop engine is the											x			B	SHP	ESHP	BHP_x000D_
+14	NULL	30	To measure oil temperature, which of the following would most likely be used?											x			A	Resistance temperature measurement	Thermocouple measurement	Optical pyrometer_x000D_
+14	NULL	31	Pure jet engines use											x			A	stagnation thermocouples	rapid response	variable resistance thermocouples_x000D_
+14	NULL	32	Modern oil pressure servo transmitters sense											x			A	differential pressure	absolute pressure	HP oil pressure_x000D_
+14	NULL	33	E.G.T. thermocouples are usually made of											x			C	nickel and platinum	chromel and platinum	chromel and alumel_x000D_
+14	NULL	34	Thrust is generated in a turboprop system by											x			C	moving a small mass of air quickly	moving a large mass of air quickly	moving a large mass of air slowly_x000D_
+14	NULL	35	Power is adjusted in a variable pitch turboprop aircraft by											x			B	increasing RPM	increasing fuel flow	increasing pitch_x000D_
+14	NULL	36	Thrust in a high bypass engine is measured by measuring											x			C	N3 RPM	fuel flow	neither of the above, thrust is not indicated in flight_x000D_
+14	NULL	37	EPR is a ratio of											x			B	P1 to P4	P1 to P(fan)	P1 to P6_x000D_
+14	NULL	38	The majority of power in a free turbine engine is used to											x			B	drive the gas generator	drive the free turbine	expel gases through the exhaust_x000D_
+14	NULL	39	The total power in a turboprop engine is the											x			B	SHP	ESHP	BHP_x000D_
+14	NULL	40	To measure oil temperature, which of the following would most likely be used?											x			A	Resistance temperature measurement	Thermocouple measurement	Optical pyrometer_x000D_
+14	NULL	41	The principle of operation of a DC ratio meter is											x			C	one coil moving in a uniform magnetic field	two coils moving in a uniform magnetic field	two coils moving in a non-uniform magnetic field_x000D_
+14	NULL	42	A thermocouple indicator is basically a											x			A	mill voltmeter	milliohmeter	milliameter_x000D_
+14	NULL	43	If a FADEC loses its ADC input, in the short term it will											x			A	go into soft redundancy	go into hard redundancy	go to limit protection mode_x000D_
+14	NULL	44	With an aircraft with a fixed pitch propeller, what indication has the pilot got of the output power?											x			C	fuel flow	oil pressure	engine speed indicator_x000D_
+14	NULL	45	The primary purpose of an EEC is											x			C	to change analogue inputs into digital format to provide glass cockpit information and reduce flight crew workload	to change analogue inputs into digital format to reduce flight crew workload and provide maintenance information	to save fuel. reduce crew workload and reduce maintenance costs_x000D_
+14	NULL	46	If a tacho generator indicated in reverse, the probable cause is				"
